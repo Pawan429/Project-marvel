@@ -1,0 +1,2161 @@
+,secs_stamp,text,max_sentiment,anger,anticipation,disgust,fear,joy,sadness,surprise,trust
+0,6,"Okay, hold on, don't shoot.",anger,1,0,0,1,0,0,0,0
+1,10,- You see where you're going? - Mm-hmm.,Neutral,0,0,0,0,0,0,0,0
+2,12,Okay.,Neutral,0,0,0,0,0,0,0,0
+3,13,"Now, let's worry about how you get there.",anticipation,0,1,0,1,0,1,0,0
+4,16,Gotta move your foot here.,Neutral,0,0,0,0,0,0,0,0
+5,17,Point your toe this way.,Neutral,0,0,0,0,0,0,0,0
+6,19,Your hips here.,Neutral,0,0,0,0,0,0,0,0
+7,21,Okay?,Neutral,0,0,0,0,0,0,0,0
+8,23,- Can you see? - Yeah.,Neutral,0,0,0,0,0,0,0,0
+9,25,- Are you sure? - Mm-hmm.,Neutral,0,0,0,0,0,0,0,0
+10,26,How about now? Can you see now?,Neutral,0,0,0,0,0,0,0,0
+11,27,- No. - How about now?,Neutral,0,0,0,0,0,0,0,0
+12,31,All right.,Neutral,0,0,0,0,0,0,0,0
+13,32,Ready? Three fingers.,anticipation,0,1,0,0,0,0,0,0
+14,35,Nice!,Neutral,0,0,0,0,0,0,0,0
+15,38,"Nice throw, kiddo.",Neutral,0,0,0,0,0,0,0,0
+16,40,Here you go.,Neutral,0,0,0,0,0,0,0,0
+17,41,"Hey, you guys want mayo? Or mustard?",Neutral,0,0,0,0,0,0,0,0
+18,43,Or both?,Neutral,0,0,0,0,0,0,0,0
+19,45,Who puts mayo on a hot dog?,anger,1,0,0,0,0,0,0,0
+20,47,Probably your brothers.,Neutral,0,0,0,0,0,0,0,0
+21,48,"Two mustard, please! Thanks, Mama.",Neutral,0,0,0,0,0,0,0,0
+22,51,Got it!,Neutral,0,0,0,0,0,0,0,0
+23,52,"Nate, mayo or mustard?",Neutral,0,0,0,0,0,0,0,0
+24,54,How about ketchup?,Neutral,0,0,0,0,0,0,0,0
+25,56,"Or ketchup. I got ketchup, too.",Neutral,0,0,0,0,0,0,0,0
+26,58,Mind your elbow.,anger,1,0,0,0,0,0,0,0
+27,62,"Good job, hawk-eye.",anticipation,0,1,0,0,1,0,1,1
+28,63,Go get your arrow.,Neutral,0,0,0,0,0,0,0,0
+29,68,"Hey, guys!",Neutral,0,0,0,0,0,0,0,0
+30,69,Enough practice. Soup's on!,Neutral,0,0,0,0,0,0,0,0
+31,72,All right.,Neutral,0,0,0,0,0,0,0,0
+32,73,We're coming. We're hungry.,anticipation,0,1,0,0,0,0,0,0
+33,75,"Lila, let's go.",Neutral,0,0,0,0,0,0,0,0
+34,80,Lila?,Neutral,0,0,0,0,0,0,0,0
+35,84,Honey?,Neutral,0,0,0,0,0,0,0,0
+36,89,"Hey, babe?",Neutral,0,0,0,0,0,0,0,0
+37,100,Babe?,Neutral,0,0,0,0,0,0,0,0
+38,103,Babe?,Neutral,0,0,0,0,0,0,0,0
+39,106,Boys!,Neutral,0,0,0,0,0,0,0,0
+40,109,Boys!,Neutral,0,0,0,0,0,0,0,0
+41,112,Laura!,Neutral,0,0,0,0,0,0,0,0
+42,157,You don't need to do that.,Neutral,0,0,0,0,0,0,0,0
+43,159,Because you're just holding the position.,Neutral,0,0,0,0,0,0,0,0
+44,163,"Oh, yeah.",Neutral,0,0,0,0,0,0,0,0
+45,164,That was close.,Neutral,0,0,0,0,0,0,0,0
+46,167,That's a goal. We are now one apiece.,Neutral,0,0,0,0,0,0,0,0
+47,169,I would like to try again.,Neutral,0,0,0,0,0,0,0,0
+48,173,We're tied up. Feel the tension?,anger,1,0,0,0,0,0,0,0
+49,175,It's fun.,anticipation,0,1,0,0,1,0,0,0
+50,177,That was terrible. Now you have a chance to win.,anger,1,0,1,1,0,1,1,0
+51,180,And you've won.,Neutral,0,0,0,0,0,0,0,0
+52,182,Congratulations.,Neutral,0,0,0,0,0,0,0,0
+53,184,Fair game.,Neutral,0,0,0,0,0,0,0,0
+54,186,Good sport.,anticipation,0,1,0,0,1,0,1,1
+55,188,You have fun?,anticipation,0,1,0,0,1,0,0,0
+56,192,It was fun.,anticipation,0,1,0,0,1,0,0,0
+57,216,This thing on?,Neutral,0,0,0,0,0,0,0,0
+58,220,"Hey, Miss Potts. Pep.",Neutral,0,0,0,0,0,0,0,0
+59,224,If you find this recording...,Neutral,0,0,0,0,0,0,0,0
+60,226,don't post it on social media.,Neutral,0,0,0,0,0,0,0,0
+61,229,It's gonna be a real tearjerker.,trust,0,0,0,0,0,0,0,1
+62,231,I don't know if you're ever gonna see these.,Neutral,0,0,0,0,0,0,0,0
+63,234,I don't even know if you're still...,Neutral,0,0,0,0,0,0,0,0
+64,236,"Oh, God, I hope so.",anticipation,0,2,0,1,2,0,1,2
+65,239,Today's day 21.,Neutral,0,0,0,0,0,0,0,0
+66,242,"No, 22.",Neutral,0,0,0,0,0,0,0,0
+67,245,"You know, if it wasn't for the existential terror...",fear,0,0,0,1,0,0,0,0
+68,247,"of staring into the literal void of space, I'd say I'm feeling a little better today.",anticipation,0,1,0,0,1,0,0,1
+69,252,"Infection's run its course, thanks to the Blue Meanie back there.",sadness,0,0,0,0,0,1,0,0
+70,256,You'd love her.,joy,0,0,0,0,1,0,0,0
+71,257,Very practical.,Neutral,0,0,0,0,0,0,0,0
+72,259,Only a tiny bit sadistic.,Neutral,0,0,0,0,0,0,0,0
+73,266,"So, the fuel cells were cracked during battle...",anger,1,0,0,0,0,0,0,0
+74,268,and we figured out a way to reverse the ion charge...,Neutral,0,0,0,0,0,0,0,0
+75,271,and bought ourselves about 48 hours of flight time.,anticipation,0,1,0,0,0,0,0,0
+76,277,But it's now dead in the water.,Neutral,0,0,0,0,0,0,0,0
+77,279,Thousand light years from the nearest 7-Eleven.,Neutral,0,0,0,0,0,0,0,0
+78,284,Oxygen will run out tomorrow morning...,anticipation,0,1,0,0,0,0,0,0
+79,288,and that'll be it.,Neutral,0,0,0,0,0,0,0,0
+80,293,"Pep, I know I said no more surprises...",fear,0,0,0,1,1,0,1,0
+81,296,but I got to say I was really hoping to pull off one last one.,Neutral,0,0,0,0,0,0,0,0
+82,300,But it looks like...,Neutral,0,0,0,0,0,0,0,0
+83,302,"Well, you know what it looks like.",Neutral,0,0,0,0,0,0,0,0
+84,305,Don't feel bad about this.,anger,1,0,1,1,0,1,0,0
+85,307,"I mean, actually, if you grovel for a couple weeks...",Neutral,0,0,0,0,0,0,0,0
+86,311,and then move on with enormous guilt...,disgust,0,0,1,0,0,1,0,0
+87,319,I should probably lie down for a minute. Go rest my eyes.,anger,1,0,1,0,0,1,0,0
+88,326,Please know...,Neutral,0,0,0,0,0,0,0,0
+89,329,"when I drift off, it'll be like every night lately.",Neutral,0,0,0,0,0,0,0,0
+90,332,I'm fine. Totally fine.,Neutral,0,0,0,0,0,0,0,0
+91,336,I dream about you.,Neutral,0,0,0,0,0,0,0,0
+92,339,Because it's always you.,Neutral,0,0,0,0,0,0,0,0
+93,543,Couldn't stop him.,Neutral,0,0,0,0,0,0,0,0
+94,544,Neither could I.,Neutral,0,0,0,0,0,0,0,0
+95,546,Hang on.,Neutral,0,0,0,0,0,0,0,0
+96,549,I lost the kid.,anger,1,0,1,1,0,1,1,0
+97,553,"Tony, we lost.",anger,1,0,1,1,0,1,1,0
+98,557,Is...?,Neutral,0,0,0,0,0,0,0,0
+99,559,"- Oh, good. - Oh, my God!",anticipation,0,2,0,1,2,0,1,2
+100,562,"Oh, my God!",anticipation,0,1,0,1,1,0,0,1
+101,568,It's okay.,Neutral,0,0,0,0,0,0,0,0
+102,576,It's been 23 days since Thanos came to Earth.,Neutral,0,0,0,0,0,0,0,0
+103,581,World governments are in pieces.,Neutral,0,0,0,0,0,0,0,0
+104,584,The parts that are still working...,Neutral,0,0,0,0,0,0,0,0
+105,586,are trying to take a census and it looks like he did...,Neutral,0,0,0,0,0,0,0,0
+106,592,He did exactly what he said he was gonna do.,Neutral,0,0,0,0,0,0,0,0
+107,594,Thanos wiped out...,Neutral,0,0,0,0,0,0,0,0
+108,598,50% of all living creatures.,Neutral,0,0,0,0,0,0,0,0
+109,605,Where is he now? Where?,Neutral,0,0,0,0,0,0,0,0
+110,607,We don't know.,Neutral,0,0,0,0,0,0,0,0
+111,609,He just opened a portal and walked through.,Neutral,0,0,0,0,0,0,0,0
+112,615,What's wrong with him?,Neutral,0,0,0,0,0,0,0,0
+113,617,He's pissed.,Neutral,0,0,0,0,0,0,0,0
+114,619,He thinks he failed.,Neutral,0,0,0,0,0,0,0,0
+115,622,"Which, of course, he did...",Neutral,0,0,0,0,0,0,0,0
+116,623,"but there's a lot of that going around, ain't there?",Neutral,0,0,0,0,0,0,0,0
+117,625,"Honestly, until this exact second I thought you were a Build-A-Bear.",Neutral,0,0,0,0,0,0,0,0
+118,628,Maybe I am.,Neutral,0,0,0,0,0,0,0,0
+119,629,We've been hunting Thanos for three weeks now.,Neutral,0,0,0,0,0,0,0,0
+120,631,Deep space scans...,Neutral,0,0,0,0,0,0,0,0
+121,633,"and satellites, and we got nothing.",Neutral,0,0,0,0,0,0,0,0
+122,637,"Tony, you fought him.",anger,1,0,0,1,0,0,0,0
+123,638,Who told you that?,Neutral,0,0,0,0,0,0,0,0
+124,640,I didn't fight him.,anger,1,0,0,1,0,0,0,0
+125,641,"No, he wiped my face with a planet...",Neutral,0,0,0,0,0,0,0,0
+126,643,while the Bleecker Street magician gave away the store.,anticipation,0,1,0,0,0,0,1,0
+127,645,"That's what happened. There was no fight, 'cause he's not beatable.",anger,1,1,0,1,0,0,0,0
+128,648,"Did he give you any clues, any coordinates, anything?",anticipation,0,1,0,0,0,0,0,0
+129,654,I saw this coming a few years back.,Neutral,0,0,0,0,0,0,0,0
+130,655,I had a vision. I didn't wanna believe it.,anticipation,0,1,0,1,0,1,0,0
+131,657,Thought I was dreaming.,Neutral,0,0,0,0,0,0,0,0
+132,659,"Tony, I'm gonna need you to focus.",Neutral,0,0,0,0,0,0,0,0
+133,660,And I needed you.,Neutral,0,0,0,0,0,0,0,0
+134,662,"As in, past tense.",Neutral,0,0,0,0,0,0,0,0
+135,663,"That trumps what you need. It's too late, buddy.",anticipation,0,1,0,0,1,1,1,1
+136,667,Sorry.,Neutral,0,0,0,0,0,0,0,0
+137,669,You know what I need? I need a shave.,Neutral,0,0,0,0,0,0,0,0
+138,672,And I believe I remember telling all youse...,Neutral,0,0,0,0,0,0,0,0
+139,675,"Tony, Tony!",Neutral,0,0,0,0,0,0,0,0
+140,676,"Alive and otherwise, that what we needed was a suit of armor around the world.",trust,0,1,0,1,1,0,0,2
+141,681,Remember that? Whether it impacted our precious freedoms or not.,anticipation,0,1,0,0,1,0,1,0
+142,685,That's what we needed.,Neutral,0,0,0,0,0,0,0,0
+143,686,"Well, that didn't work out, did it?",Neutral,0,0,0,0,0,0,0,0
+144,688,I said we'd lose.,anger,1,0,1,1,0,1,1,0
+145,689,"You said, ""We'll do that together, too.""",Neutral,0,0,0,0,0,0,0,0
+146,692,"And guess what, Cap?",anticipation,0,1,0,0,0,0,1,1
+147,693,We lost.,anger,1,0,1,1,0,1,1,0
+148,695,And you weren't there.,Neutral,0,0,0,0,0,0,0,0
+149,698,"But that's what we do, right?",Neutral,0,0,0,0,0,0,0,0
+150,699,"Our best work after the fact? We're the ""Avengers.""",trust,0,0,0,0,0,0,0,1
+151,702,"We're the ""Avengers,"" not the ""Pre-vengers.""",Neutral,0,0,0,0,0,0,0,0
+152,704,- Okay. - Right?,Neutral,0,0,0,0,0,0,0,0
+153,705,"You made your point. Just sit down, okay?",Neutral,0,0,0,0,0,0,0,0
+154,707,"Okay. No, no, here's my point. You know what?",Neutral,0,0,0,0,0,0,0,0
+155,708,"- She's great by the way. - Tony, you're sick. Sit down.",disgust,0,0,1,0,0,1,0,0
+156,709,We need you. You're new blood.,Neutral,0,0,0,0,0,0,0,0
+157,711,"Bunch of tired old mules. I got nothing for you, Cap.",anticipation,0,1,0,0,0,0,0,1
+158,714,I got no coordinates...,Neutral,0,0,0,0,0,0,0,0
+159,715,"no clues, no strategies, no options.",anticipation,0,1,0,0,0,0,0,0
+160,718,Zero. Zip. Nada.,Neutral,0,0,0,0,0,0,0,0
+161,720,"No trust, liar.",disgust,0,0,1,0,0,0,0,1
+162,727,"Here, take this.",Neutral,0,0,0,0,0,0,0,0
+163,728,"You find him, you put that on...",Neutral,0,0,0,0,0,0,0,0
+164,731,you hide.,fear,0,0,0,1,0,0,0,0
+165,733,- Tony! - I'm fine.,Neutral,0,0,0,0,0,0,0,0
+166,735,Let me...,Neutral,0,0,0,0,0,0,0,0
+167,743,Bruce gave him a sedative.,Neutral,0,0,0,0,0,0,0,0
+168,745,He's gonna probably be out for the rest of the day.,Neutral,0,0,0,0,0,0,0,0
+169,748,You guys take care of him...,Neutral,0,0,0,0,0,0,0,0
+170,749,and I'll bring him a Xorrian elixir when I come back.,anger,1,0,1,1,0,1,0,0
+171,752,Where are you going?,Neutral,0,0,0,0,0,0,0,0
+172,753,To kill Thanos.,fear,0,0,0,1,0,1,0,0
+173,757,Hey.,Neutral,0,0,0,0,0,0,0,0
+174,759,"You know, we usually work as a team here...",trust,0,0,0,0,0,0,0,1
+175,761,"and, between you and I, morale's a little fragile.",fear,0,0,0,1,0,1,0,0
+176,763,"We realize up there is more your territory, but this is our fight, too.",anger,1,0,0,1,0,0,0,0
+177,767,You even know where he is?,Neutral,0,0,0,0,0,0,0,0
+178,768,I know people who might.,Neutral,0,0,0,0,0,0,0,0
+179,769,Don't bother.,Neutral,0,0,0,0,0,0,0,0
+180,772,I can tell you where Thanos is.,Neutral,0,0,0,0,0,0,0,0
+181,776,Thanos spent a long time trying to perfect me.,anticipation,0,3,0,0,1,0,0,1
+182,779,"And when he worked, he talked about his Great Plan.",anticipation,0,1,0,0,0,0,0,0
+183,784,"Even disassembled, I wanted to please him.",Neutral,0,0,0,0,0,0,0,0
+184,787,I'd ask...,Neutral,0,0,0,0,0,0,0,0
+185,789,where would we go once his plan was complete?,anticipation,0,1,0,0,0,0,0,0
+186,792,And his answer was always the same.,Neutral,0,0,0,0,0,0,0,0
+187,798,"""To the Garden.""",joy,0,0,0,0,1,0,0,0
+188,800,That's cute. Thanos has a retirement plan.,anticipation,0,2,0,1,1,1,0,1
+189,803,"So, where is he?",Neutral,0,0,0,0,0,0,0,0
+190,805,When Thanos snapped his fingers...,Neutral,0,0,0,0,0,0,0,0
+191,807,Earth became ground zero for a power surge of ridiculously cosmic proportions.,surprise,0,0,0,0,0,0,1,0
+192,811,No one's ever seen anything like it.,Neutral,0,0,0,0,0,0,0,0
+193,813,Until two days ago...,Neutral,0,0,0,0,0,0,0,0
+194,816,on this planet.,Neutral,0,0,0,0,0,0,0,0
+195,819,Thanos is there.,Neutral,0,0,0,0,0,0,0,0
+196,822,He used the stones again.,anger,1,0,0,0,0,0,0,0
+197,824,"Hey, hey, hey.",Neutral,0,0,0,0,0,0,0,0
+198,826,"We'd be going in shorthanded, you know?",Neutral,0,0,0,0,0,0,0,0
+199,828,"Look, he's still got the stones, so...",anger,1,0,0,0,0,0,0,0
+200,829,"So, let's get 'em.",Neutral,0,0,0,0,0,0,0,0
+201,831,Use them to bring everyone back.,Neutral,0,0,0,0,0,0,0,0
+202,833,Just like that?,Neutral,0,0,0,0,0,0,0,0
+203,834,Yeah. Just like that.,Neutral,0,0,0,0,0,0,0,0
+204,836,Even if there's a small chance that we can undo this...,surprise,0,0,0,0,0,0,1,0
+205,839,"I mean, we owe it to everyone who's not in this room to try.",Neutral,0,0,0,0,0,0,0,0
+206,842,"If we do this, how do we know it's gonna end any differently than it did before?",surprise,0,0,0,0,0,0,1,0
+207,846,Because before you didn't have me.,Neutral,0,0,0,0,0,0,0,0
+208,849,"Hey, new girl?",Neutral,0,0,0,0,0,0,0,0
+209,850,Everybody in this room is about that superhero life.,Neutral,0,0,0,0,0,0,0,0
+210,853,"And if you don't mind my asking, where the hell have you been all this time?",anger,1,1,1,1,0,1,0,0
+211,856,There are a lot of other planets in the universe.,Neutral,0,0,0,0,0,0,0,0
+212,858,"And unfortunately, they didn't have you guys.",Neutral,0,0,0,0,0,0,0,0
+213,881,I like this one.,Neutral,0,0,0,0,0,0,0,0
+214,887,Let's go get this son of a bitch.,anger,1,0,1,1,0,1,0,0
+215,912,Okay.,Neutral,0,0,0,0,0,0,0,0
+216,913,Who here hasn't been to space?,Neutral,0,0,0,0,0,0,0,0
+217,917,Why?,Neutral,0,0,0,0,0,0,0,0
+218,918,You better not throw up on my ship.,anticipation,0,1,0,0,0,0,0,0
+219,920,Approaching jump in three...,joy,0,0,0,0,1,0,0,0
+220,922,"two, one.",Neutral,0,0,0,0,0,0,0,0
+221,937,I'll head down for recon.,anger,1,0,1,1,0,1,0,0
+222,957,"This is gonna work, Steve.",Neutral,0,0,0,0,0,0,0,0
+223,959,I know it will.,Neutral,0,0,0,0,0,0,0,0
+224,964,'Cause I don't know what I'm gonna do if it doesn't.,Neutral,0,0,0,0,0,0,0,0
+225,967,No satellites. No ships. No armies.,anticipation,0,1,0,0,0,0,0,0
+226,971,No ground defenses of any kind.,joy,0,0,0,0,1,0,0,1
+227,974,It's just him.,Neutral,0,0,0,0,0,0,0,0
+228,977,And that's enough.,Neutral,0,0,0,0,0,0,0,0
+229,1068,"Oh, no.",Neutral,0,0,0,0,0,0,0,0
+230,1079,Where are they?,Neutral,0,0,0,0,0,0,0,0
+231,1080,Answer the question.,Neutral,0,0,0,0,0,0,0,0
+232,1084,The universe required correction.,Neutral,0,0,0,0,0,0,0,0
+233,1087,"After that, the stones served no purpose...",anger,1,0,0,0,0,0,0,1
+234,1091,beyond temptation.,Neutral,0,0,0,0,0,0,0,0
+235,1093,You murdered trillions!,anger,1,0,1,1,0,1,1,0
+236,1096,You should be grateful.,Neutral,0,0,0,0,0,0,0,0
+237,1101,Where are the stones?,anger,1,0,0,0,0,0,0,0
+238,1103,Gone.,Neutral,0,0,0,0,0,0,0,0
+239,1105,Reduced to atoms.,Neutral,0,0,0,0,0,0,0,0
+240,1107,You used them two days ago!,Neutral,0,0,0,0,0,0,0,0
+241,1108,I used the stones to destroy the stones.,anger,2,0,0,0,0,0,0,0
+242,1112,It nearly killed me.,fear,0,0,0,1,0,1,0,0
+243,1115,But the work is done.,Neutral,0,0,0,0,0,0,0,0
+244,1118,It always will be.,Neutral,0,0,0,0,0,0,0,0
+245,1122,I am inevitable.,Neutral,0,0,0,0,0,0,0,0
+246,1128,We have to tear this place apart. He has to be lying!,anger,1,0,1,0,0,1,0,0
+247,1130,My father is many things.,trust,0,0,0,0,0,0,0,1
+248,1132,A liar is not one of them.,disgust,0,0,1,0,0,0,0,0
+249,1138,"Thank you, daughter.",joy,0,0,0,0,1,0,0,0
+250,1142,Perhaps I treated you too harshly.,anger,1,1,1,1,1,1,1,1
+251,1151,What?,Neutral,0,0,0,0,0,0,0,0
+252,1153,What did you do?,Neutral,0,0,0,0,0,0,0,0
+253,1156,I went for the head.,Neutral,0,0,0,0,0,0,0,0
+254,1229,So...,Neutral,0,0,0,0,0,0,0,0
+255,1232,I went on a date the other day.,Neutral,0,0,0,0,0,0,0,0
+256,1235,It's the first time in five years.,anticipation,0,1,0,0,0,0,0,0
+257,1236,You know? I'm sitting there at dinner.,Neutral,0,0,0,0,0,0,0,0
+258,1240,I didn't even know what to talk about.,Neutral,0,0,0,0,0,0,0,0
+259,1243,What did you talk about?,Neutral,0,0,0,0,0,0,0,0
+260,1245,"Same old crap. You know, how things have changed.",disgust,0,0,1,1,0,0,0,0
+261,1249,"My job, his job.",Neutral,0,0,0,0,0,0,0,0
+262,1252,How much we miss the Mets.,Neutral,0,0,0,0,0,0,0,0
+263,1256,And then things got quiet...,sadness,0,0,0,0,0,1,0,0
+264,1260,then he cried as they were serving the salads.,sadness,0,0,0,0,0,1,0,1
+265,1263,What about you?,Neutral,0,0,0,0,0,0,0,0
+266,1266,I cried just before dessert.,sadness,0,0,0,0,0,1,0,0
+267,1273,"But I'm seeing him again tomorrow, so...",anticipation,0,1,0,0,0,0,0,0
+268,1276,That's great.,Neutral,0,0,0,0,0,0,0,0
+269,1277,You did the hardest part. You took the jump.,joy,0,0,0,0,1,0,0,0
+270,1279,You didn't know where you were gonna come down.,Neutral,0,0,0,0,0,0,0,0
+271,1282,And that's it. That's those little brave baby steps we got to take...,joy,0,0,0,0,1,0,0,0
+272,1286,"to try and become whole again, try and find purpose.",Neutral,0,0,0,0,0,0,0,0
+273,1292,"I went in the ice in '45, right after I met the love of my life.",joy,0,0,0,0,1,0,0,0
+274,1297,Woke up 70 years later.,Neutral,0,0,0,0,0,0,0,0
+275,1301,You got to move on.,Neutral,0,0,0,0,0,0,0,0
+276,1306,Gotta move on.,Neutral,0,0,0,0,0,0,0,0
+277,1313,The world is in our hands.,Neutral,0,0,0,0,0,0,0,0
+278,1315,"It's left to us, guys.",sadness,0,0,0,0,0,1,1,0
+279,1318,And we got to do something with it.,Neutral,0,0,0,0,0,0,0,0
+280,1320,Otherwise...,Neutral,0,0,0,0,0,0,0,0
+281,1323,Thanos should've killed all of us.,fear,0,0,0,1,0,1,0,0
+282,1387,What the hell?,anger,1,0,1,1,0,1,0,0
+283,1401,Hope?,anticipation,0,1,0,0,1,0,1,1
+284,1436,Kid!,Neutral,0,0,0,0,0,0,0,0
+285,1437,"Hey, kid!",Neutral,0,0,0,0,0,0,0,0
+286,1442,What the hell happened here?,anger,1,1,1,1,0,1,0,0
+287,1476,"Oh, my God!",anticipation,0,1,0,1,1,0,0,1
+288,1481,"Oh, please!",Neutral,0,0,0,0,0,0,0,0
+289,1482,"Please, please!",Neutral,0,0,0,0,0,0,0,0
+290,1484,"No, no, no. No.",Neutral,0,0,0,0,0,0,0,0
+291,1487,No.,Neutral,0,0,0,0,0,0,0,0
+292,1491,Excuse me. Sorry.,Neutral,0,0,0,0,0,0,0,0
+293,1492,"Cassie, no.",Neutral,0,0,0,0,0,0,0,0
+294,1494,"No, no, no.",Neutral,0,0,0,0,0,0,0,0
+295,1497,"No, no.",Neutral,0,0,0,0,0,0,0,0
+296,1499,"Please, please, please. No, Cassie.",Neutral,0,0,0,0,0,0,0,0
+297,1509,What?,Neutral,0,0,0,0,0,0,0,0
+298,1541,Cassie?,Neutral,0,0,0,0,0,0,0,0
+299,1543,Dad?,Neutral,0,0,0,0,0,0,0,0
+300,1571,You're so big!,Neutral,0,0,0,0,0,0,0,0
+301,1586,Yeah. We boarded that highly-suspect warship Danvers pinged.,anticipation,0,1,0,0,0,0,0,0
+302,1591,It was an infectious garbage scow.,disgust,0,0,2,1,0,1,0,0
+303,1593,"So, thanks for the hot tip.",anger,1,0,0,0,0,0,0,0
+304,1594,"Well, you were closer.",Neutral,0,0,0,0,0,0,0,0
+305,1596,Yeah. And now we smell like garbage.,disgust,1,0,2,0,0,0,0,0
+306,1597,You get a reading on those tremors?,anger,1,1,0,1,0,1,0,0
+307,1599,'Twas a mild subduction under the African plate.,Neutral,0,0,0,0,0,0,0,0
+308,1602,Do we have a visual? How are we handling it?,Neutral,0,0,0,0,0,0,0,0
+309,1604,Nat.,Neutral,0,0,0,0,0,0,0,0
+310,1605,It's an earthquake under the ocean.,anger,1,0,0,1,0,1,1,0
+311,1608,We handle it by not handling it.,Neutral,0,0,0,0,0,0,0,0
+312,1611,"Carol, are we seeing you here next month?",joy,0,0,0,0,1,0,0,1
+313,1614,- Not likely. - What? You gonna get another haircut?,Neutral,0,0,0,0,0,0,0,0
+314,1617,"Listen, fur face.",Neutral,0,0,0,0,0,0,0,0
+315,1618,I'm covering a lot of territory.,trust,0,0,0,0,0,0,0,1
+316,1620,The things that are happening on Earth are happening everywhere.,anticipation,0,2,0,0,0,0,0,0
+317,1624,On thousands of planets.,Neutral,0,0,0,0,0,0,0,0
+318,1626,"All right, all right. That's a good point. That's a good point.",anticipation,0,2,0,0,2,0,2,2
+319,1628,"So, you might not see me for a long time.",anticipation,0,2,0,0,0,0,0,0
+320,1631,All right. Well...,Neutral,0,0,0,0,0,0,0,0
+321,1634,This channel's always active.,Neutral,0,0,0,0,0,0,0,0
+322,1636,"So, if anything goes sideways...",Neutral,0,0,0,0,0,0,0,0
+323,1638,anyone's making trouble where they shouldn't...,Neutral,0,0,0,0,0,0,0,0
+324,1641,comes through me.,Neutral,0,0,0,0,0,0,0,0
+325,1643,Okay.,Neutral,0,0,0,0,0,0,0,0
+326,1644,All right.,Neutral,0,0,0,0,0,0,0,0
+327,1646,Good luck.,anticipation,0,2,0,0,2,0,2,1
+328,1656,Where are you?,Neutral,0,0,0,0,0,0,0,0
+329,1657,Mexico.,Neutral,0,0,0,0,0,0,0,0
+330,1658,The Federales found a room full of bodies.,Neutral,0,0,0,0,0,0,0,0
+331,1661,Looks like a bunch of cartel guys...,Neutral,0,0,0,0,0,0,0,0
+332,1663,never even had a chance to get their guns off.,anger,1,0,0,1,0,0,1,0
+333,1665,It's probably a rival gang.,anger,1,0,0,1,0,0,0,0
+334,1667,Except it isn't.,Neutral,0,0,0,0,0,0,0,0
+335,1668,It's definitely Barton.,Neutral,0,0,0,0,0,0,0,0
+336,1671,What he's done here...,Neutral,0,0,0,0,0,0,0,0
+337,1673,what he's been doing for the last few years...,Neutral,0,0,0,0,0,0,0,0
+338,1677,"I mean, the scene that he left...",sadness,0,0,0,0,0,1,1,0
+339,1679,"I got to tell you, there's a part of me that doesn't even wanna find him.",fear,0,0,0,1,0,1,0,0
+340,1689,Will you find out where he's going next?,Neutral,0,0,0,0,0,0,0,0
+341,1695,Nat?,Neutral,0,0,0,0,0,0,0,0
+342,1698,Please?,Neutral,0,0,0,0,0,0,0,0
+343,1701,Okay.,Neutral,0,0,0,0,0,0,0,0
+344,1711,"You know, I'd offer to cook you dinner...",Neutral,0,0,0,0,0,0,0,0
+345,1713,but you seem pretty miserable already.,anger,1,1,1,0,1,1,0,1
+346,1719,You here to do your laundry?,Neutral,0,0,0,0,0,0,0,0
+347,1721,And to see a friend.,joy,0,0,0,0,1,0,0,1
+348,1723,"Clearly, your friend is fine.",joy,0,0,0,0,1,0,0,1
+349,1729,"You know, I saw a pod of whales when I was coming over the bridge.",Neutral,0,0,0,0,0,0,0,0
+350,1731,- In the Hudson? - There's fewer ships...,anticipation,0,1,0,0,0,0,0,0
+351,1733,cleaner water.,Neutral,0,0,0,0,0,0,0,0
+352,1735,"You know, if you're about to tell me to look on the bright side...",Neutral,0,0,0,0,0,0,0,0
+353,1741,I'm about to hit you in the head with a peanut butter sandwich.,anger,1,0,0,0,0,0,0,0
+354,1747,Sorry.,Neutral,0,0,0,0,0,0,0,0
+355,1748,Force of habit.,anger,1,0,0,1,0,0,0,0
+356,1763,"You know, I keep telling everybody they should move on...",Neutral,0,0,0,0,0,0,0,0
+357,1767,and grow.,anticipation,0,1,0,0,1,0,0,1
+358,1770,Some do.,Neutral,0,0,0,0,0,0,0,0
+359,1774,But not us.,Neutral,0,0,0,0,0,0,0,0
+360,1777,"If I move on, who does this?",Neutral,0,0,0,0,0,0,0,0
+361,1779,Maybe it doesn't need to be done.,Neutral,0,0,0,0,0,0,0,0
+362,1785,I used to have nothing.,Neutral,0,0,0,0,0,0,0,0
+363,1789,And then I got this.,Neutral,0,0,0,0,0,0,0,0
+364,1793,This job.,Neutral,0,0,0,0,0,0,0,0
+365,1797,This family.,Neutral,0,0,0,0,0,0,0,0
+366,1805,And I was better because of it.,Neutral,0,0,0,0,0,0,0,0
+367,1813,And even though they're gone...,Neutral,0,0,0,0,0,0,0,0
+368,1820,I'm still trying to be better.,Neutral,0,0,0,0,0,0,0,0
+369,1826,I think we both need to get a life.,Neutral,0,0,0,0,0,0,0,0
+370,1830,You first.,Neutral,0,0,0,0,0,0,0,0
+371,1837,"Hi, hi! Is anyone home?",Neutral,0,0,0,0,0,0,0,0
+372,1840,This is Scott Lang.,Neutral,0,0,0,0,0,0,0,0
+373,1842,We met a few years ago at the airport...,anticipation,0,1,0,0,0,0,0,0
+374,1845,in Germany?,Neutral,0,0,0,0,0,0,0,0
+375,1847,I was the guy that got really big. I had a mask on.,Neutral,0,0,0,0,0,0,0,0
+376,1849,- You wouldn't recognize me. - Is this an old message?,Neutral,0,0,0,0,0,0,0,0
+377,1851,Ant-Man? I know you know that.,Neutral,0,0,0,0,0,0,0,0
+378,1854,- It's the front gate. - I really need to talk to you guys.,trust,0,0,0,0,0,0,0,1
+379,1863,Scott.,Neutral,0,0,0,0,0,0,0,0
+380,1865,Are you okay?,Neutral,0,0,0,0,0,0,0,0
+381,1866,Yeah.,Neutral,0,0,0,0,0,0,0,0
+382,1869,Have either of you guys ever studied quantum physics?,Neutral,0,0,0,0,0,0,0,0
+383,1872,Only to make conversation.,Neutral,0,0,0,0,0,0,0,0
+384,1874,"All right, so...",Neutral,0,0,0,0,0,0,0,0
+385,1876,"five years ago, right before...",Neutral,0,0,0,0,0,0,0,0
+386,1880,Thanos...,Neutral,0,0,0,0,0,0,0,0
+387,1881,I was in a place called the quantum realm.,Neutral,0,0,0,0,0,0,0,0
+388,1883,The quantum realm is like its own microscopic universe.,Neutral,0,0,0,0,0,0,0,0
+389,1886,"To get in there, you have to be incredibly small.",Neutral,0,0,0,0,0,0,0,0
+390,1888,Hope. She's my...,anticipation,0,1,0,0,1,0,1,1
+391,1892,She was my...,Neutral,0,0,0,0,0,0,0,0
+392,1895,She was supposed to pull me out.,Neutral,0,0,0,0,0,0,0,0
+393,1897,And then Thanos happened...,anticipation,0,1,0,0,0,0,0,0
+394,1898,and I got stuck in there.,Neutral,0,0,0,0,0,0,0,0
+395,1901,"I'm sorry, that must have been a very long five years.",anticipation,0,1,0,0,0,0,0,0
+396,1903,"Yeah, but that's just it.",Neutral,0,0,0,0,0,0,0,0
+397,1904,It wasn't.,Neutral,0,0,0,0,0,0,0,0
+398,1906,"For me, it was five hours.",Neutral,0,0,0,0,0,0,0,0
+399,1907,"See, the rules of the quantum realm aren't like they are up here.",fear,0,0,0,1,0,0,0,1
+400,1910,Everything is unpredictable.,surprise,0,0,0,0,0,0,1,0
+401,1911,Is that anybody's sandwich?,Neutral,0,0,0,0,0,0,0,0
+402,1913,I'm starving.,Neutral,0,0,0,0,0,0,0,0
+403,1914,Scott.,Neutral,0,0,0,0,0,0,0,0
+404,1915,What are you talking about?,Neutral,0,0,0,0,0,0,0,0
+405,1918,So...,Neutral,0,0,0,0,0,0,0,0
+406,1920,what I'm saying is...,Neutral,0,0,0,0,0,0,0,0
+407,1922,time works differently in the quantum realm.,anticipation,0,1,0,0,0,0,1,0
+408,1925,The only problem is right now we don't have a way to navigate it.,fear,0,0,0,1,0,1,0,0
+409,1929,But what if we did?,Neutral,0,0,0,0,0,0,0,0
+410,1930,I can't stop thinking about it. What if we could somehow control the chaos...,anger,1,0,0,1,0,1,0,0
+411,1934,and we could navigate it?,Neutral,0,0,0,0,0,0,0,0
+412,1935,What if there was a way...,Neutral,0,0,0,0,0,0,0,0
+413,1937,that we could enter the quantum realm at a certain point in time...,anticipation,0,1,0,0,0,0,0,0
+414,1940,but then exit the quantum realm at another point in time?,anticipation,0,1,0,0,0,0,0,0
+415,1942,Like...,Neutral,0,0,0,0,0,0,0,0
+416,1945,- Like before Thanos. - Wait.,anticipation,0,1,0,0,0,0,0,0
+417,1947,Are you talking about a time machine?,anticipation,0,1,0,0,0,0,0,1
+418,1949,"No. No, of course not. No, not a time machine.",anticipation,0,1,0,0,0,0,0,1
+419,1951,This is more like a...,Neutral,0,0,0,0,0,0,0,0
+420,1955,Yeah. Like a time machine.,anticipation,0,1,0,0,0,0,0,1
+421,1957,"I know, it's crazy. It's crazy.",anger,2,0,0,2,0,2,0,0
+422,1959,But I can't stop thinking about it. There's got to be...,Neutral,0,0,0,0,0,0,0,0
+423,1963,some way...,Neutral,0,0,0,0,0,0,0,0
+424,1964,- It's crazy. - Scott.,anger,1,0,0,1,0,1,0,0
+425,1966,I get emails from a raccoon...,Neutral,0,0,0,0,0,0,0,0
+426,1968,so nothing sounds crazy anymore.,anger,1,0,0,1,0,1,0,0
+427,1970,"So, who do we talk to about this?",Neutral,0,0,0,0,0,0,0,0
+428,1991,Chow time!,anticipation,0,1,0,0,0,0,0,0
+429,1994,Maguna.,Neutral,0,0,0,0,0,0,0,0
+430,2000,"Morgan H. Stark, you want some lunch?",trust,0,0,0,0,0,0,0,1
+431,2002,"- Define ""lunch"" or be disintegrated. - Okay.",disgust,0,0,1,1,0,0,0,0
+432,2006,"You should not be wearing that, okay?",trust,0,0,0,0,0,0,0,1
+433,2007,That is part of a special anniversary gift I'm making for Mom.,joy,0,1,0,0,2,0,1,0
+434,2014,There you go. You thinking about lunch?,Neutral,0,0,0,0,0,0,0,0
+435,2016,I can give you a handful of crickets on a bed of lettuce.,Neutral,0,0,0,0,0,0,0,0
+436,2018,- No. - That's what you want.,Neutral,0,0,0,0,0,0,0,0
+437,2020,How did you find this?,Neutral,0,0,0,0,0,0,0,0
+438,2023,- Garage. - Really?,Neutral,0,0,0,0,0,0,0,0
+439,2025,- Were you looking for it? - No.,Neutral,0,0,0,0,0,0,0,0
+440,2027,"I found it, though.",Neutral,0,0,0,0,0,0,0,0
+441,2030,"You like going in the garage, huh?",Neutral,0,0,0,0,0,0,0,0
+442,2031,So does Daddy.,Neutral,0,0,0,0,0,0,0,0
+443,2033,"It's fine, actually. Mom never wears anything I buy her.",trust,0,0,0,0,0,0,0,1
+444,2039,"So, I'm gonna...",Neutral,0,0,0,0,0,0,0,0
+445,2058,No. We know what it sounds like.,Neutral,0,0,0,0,0,0,0,0
+446,2060,"Tony, after everything you've seen, is anything really impossible?",sadness,0,0,0,0,0,1,0,0
+447,2062,Quantum fluctuation messes with the Planck Scale...,anger,1,0,1,1,0,0,0,0
+448,2065,which then triggers the Deutsch Proposition. Can we agree on that?,Neutral,0,0,0,0,0,0,0,0
+449,2068,Thank you.,Neutral,0,0,0,0,0,0,0,0
+450,2069,"In layman's terms, it means you're not coming home.",Neutral,0,0,0,0,0,0,0,0
+451,2072,- I did. - No.,Neutral,0,0,0,0,0,0,0,0
+452,2073,You accidentally survived.,surprise,0,0,0,0,0,0,1,0
+453,2075,It's a billion-to-one cosmic fluke.,surprise,0,0,0,0,0,0,1,0
+454,2077,And now you wanna pull a... What do you call it?,fear,0,0,0,1,0,1,0,0
+455,2082,A time heist?,anticipation,0,1,0,0,0,0,0,0
+456,2084,"Yeah, a time heist. Of course. Why didn't we think of this before?",anticipation,0,1,0,0,0,0,0,0
+457,2088,"Oh, because it's laughable. Because it's a pipe dream.",disgust,0,0,1,0,0,0,0,0
+458,2090,"The stones are in the past. We could go back, we could get them.",anger,1,0,0,0,0,0,0,0
+459,2094,We can snap our own fingers. We can bring everybody back.,Neutral,0,0,0,0,0,0,0,0
+460,2096,"Or screw it up worse than he already has, right?",fear,0,0,0,1,0,1,0,0
+461,2098,I don't believe we would.,Neutral,0,0,0,0,0,0,0,0
+462,2100,Gotta say it. I sometimes miss that giddy optimism.,anticipation,0,1,0,0,1,0,1,1
+463,2103,"However, high hopes won't help...",anticipation,0,1,0,0,0,0,0,0
+464,2105,"if there's no logical, tangible way for me to safely execute said time heist.",anticipation,0,1,0,0,0,0,0,0
+465,2111,I believe the most likely outcome will be our collective demise.,fear,0,0,0,1,0,1,0,0
+466,2114,Not if we strictly follow the rules of time travel.,anticipation,0,1,0,1,0,0,0,1
+467,2117,All right? It means no talking to our past selves...,Neutral,0,0,0,0,0,0,0,0
+468,2120,no betting on sporting events.,Neutral,0,0,0,0,0,0,0,0
+469,2121,"I'm gonna stop you right there, Scott.",Neutral,0,0,0,0,0,0,0,0
+470,2124,Are you seriously telling me that your plan to save the universe...,anticipation,0,1,0,0,1,0,0,1
+471,2128,is based on Back to the Future?,trust,0,0,0,0,0,0,0,1
+472,2130,- Is it? - No.,Neutral,0,0,0,0,0,0,0,0
+473,2132,Good. You had me worried there. 'Cause that would be horseshit.,anticipation,0,2,0,1,1,1,1,1
+474,2135,That's not how quantum physics works.,Neutral,0,0,0,0,0,0,0,0
+475,2137,Tony.,Neutral,0,0,0,0,0,0,0,0
+476,2140,We have to take a stand.,Neutral,0,0,0,0,0,0,0,0
+477,2142,"We did stand. And yet, here we are.",Neutral,0,0,0,0,0,0,0,0
+478,2147,I know you got a lot on the line.,Neutral,0,0,0,0,0,0,0,0
+479,2148,"You got a wife, a daughter.",joy,0,0,0,0,1,0,0,0
+480,2151,But I lost someone very important to me.,anger,1,0,1,1,0,1,1,1
+481,2154,A lotta people did.,Neutral,0,0,0,0,0,0,0,0
+482,2155,"And now, now we have a chance to bring her back...",surprise,0,0,0,0,0,0,1,0
+483,2159,"to bring everyone back, and you're telling me that you won't even...",anticipation,0,1,0,0,0,0,0,0
+484,2161,"That's right, Scott. I won't even.",anticipation,0,1,0,0,0,0,0,0
+485,2165,I can't.,Neutral,0,0,0,0,0,0,0,0
+486,2169,Mommy told me to come and save you.,joy,0,0,0,0,1,0,0,1
+487,2171,Good job. I'm saved.,joy,0,1,0,0,2,0,1,2
+488,2174,I wish you were coming here to ask me something else. Anything else.,Neutral,0,0,0,0,0,0,0,0
+489,2177,"I'm honestly happy to see you guys, I just...",anticipation,0,1,0,0,1,0,0,1
+490,2179,"- Oh, look, the table's set for six. - Tony.",Neutral,0,0,0,0,0,0,0,0
+491,2181,I get it.,Neutral,0,0,0,0,0,0,0,0
+492,2182,And I'm happy for you. I really am.,anticipation,0,1,0,0,1,0,0,1
+493,2186,But this is a second chance.,surprise,0,0,0,0,0,0,1,0
+494,2188,"I got my second chance right here, Cap.",anticipation,0,1,0,0,0,0,1,1
+495,2190,Can't roll the dice on it.,Neutral,0,0,0,0,0,0,0,0
+496,2194,"If you don't talk shop, you can stay for lunch.",Neutral,0,0,0,0,0,0,0,0
+497,2199,"Well, he's scared.",anger,1,0,1,1,0,1,0,0
+498,2201,He's not wrong.,Neutral,0,0,0,0,0,0,0,0
+499,2202,"Yeah, but, I mean, what are we gonna do?",Neutral,0,0,0,0,0,0,0,0
+500,2204,"We need him. What, are we gonna stop?",Neutral,0,0,0,0,0,0,0,0
+501,2207,"No, I wanna do it right.",fear,0,0,0,1,0,1,0,0
+502,2212,We're gonna need a really big brain.,Neutral,0,0,0,0,0,0,0,0
+503,2215,Bigger than his?,Neutral,0,0,0,0,0,0,0,0
+504,2216,"Come on, I feel like I'm the only one eating here. Try some of that.",Neutral,0,0,0,0,0,0,0,0
+505,2219,Have some eggs.,Neutral,0,0,0,0,0,0,0,0
+506,2221,I'm so confused.,Neutral,0,0,0,0,0,0,0,0
+507,2222,These are confusing times.,anticipation,0,1,0,0,0,0,0,0
+508,2224,"Right, no, no. That's not what I meant.",Neutral,0,0,0,0,0,0,0,0
+509,2226,"Nah, I get it. I'm kidding!",Neutral,0,0,0,0,0,0,0,0
+510,2229,"I know, it's crazy.",anger,1,0,0,1,0,1,0,0
+511,2231,I'm wearing shirts now.,trust,0,0,0,0,0,0,0,1
+512,2232,Yeah. What? How? Why?,Neutral,0,0,0,0,0,0,0,0
+513,2236,"Five years ago, we got our asses beat.",Neutral,0,0,0,0,0,0,0,0
+514,2239,Except it was worse for me...,fear,0,0,0,1,0,1,0,0
+515,2241,'cause I lost twice.,anger,1,0,1,1,0,1,1,0
+516,2242,"First, Hulk lost, then Banner lost...",disgust,2,0,3,2,0,2,2,0
+517,2245,"and then, we all lost.",anger,1,0,1,1,0,1,1,0
+518,2246,"No one blamed you, Bruce.",anger,1,0,1,0,0,0,0,0
+519,2247,I did.,Neutral,0,0,0,0,0,0,0,0
+520,2251,"For years, I've been treating the Hulk like he's some kind of disease...",disgust,2,1,3,2,2,2,1,2
+521,2253,something to get rid of.,Neutral,0,0,0,0,0,0,0,0
+522,2255,"But then, I start looking at him as the cure.",anticipation,0,1,0,0,0,0,0,0
+523,2259,Eighteen months in the gamma lab.,Neutral,0,0,0,0,0,0,0,0
+524,2261,I put the brains and the brawn together...,Neutral,0,0,0,0,0,0,0,0
+525,2264,"and now, look at me.",Neutral,0,0,0,0,0,0,0,0
+526,2266,Best of both worlds.,Neutral,0,0,0,0,0,0,0,0
+527,2268,"- Excuse me, Mr. Hulk? - Yes.",disgust,0,0,1,0,0,0,0,0
+528,2269,Can we get a photo?,Neutral,0,0,0,0,0,0,0,0
+529,2271,"100%, little person.",Neutral,0,0,0,0,0,0,0,0
+530,2273,"Come on, step on up. Do you mind?",Neutral,0,0,0,0,0,0,0,0
+531,2276,"- Oh, yeah, yeah. - Thanks.",Neutral,0,0,0,0,0,0,0,0
+532,2278,"Say ""green.""",joy,0,0,0,0,1,0,0,1
+533,2280,- Green. - Green.,joy,0,0,0,0,2,0,0,2
+534,2282,Did you get that?,Neutral,0,0,0,0,0,0,0,0
+535,2283,That's a good one.,anticipation,0,1,0,0,1,0,1,1
+536,2285,Did you want to grab one with me? I'm Ant-Man.,anger,1,0,0,0,0,0,0,0
+537,2291,They're Hulk fans. They don't know Ant-Man.,disgust,0,0,1,0,0,0,0,0
+538,2293,Nobody does.,Neutral,0,0,0,0,0,0,0,0
+539,2295,"- No, he wants you to take a picture with him. - I don't want a picture.",Neutral,0,0,0,0,0,0,0,0
+540,2296,Stranger danger.,fear,0,0,0,2,0,1,0,0
+541,2297,"Yeah, look, he's even saying no, he doesn't.",Neutral,0,0,0,0,0,0,0,0
+542,2299,"- I get it. I don't want it, either. - But come on. The kid...",Neutral,0,0,0,0,0,0,0,0
+543,2301,I don't want a picture with them.,Neutral,0,0,0,0,0,0,0,0
+544,2303,- He's gonna feel bad. - Sorry.,anger,1,0,1,1,0,1,0,0
+545,2304,They're happy to do it. They said they'll do it.,anticipation,0,1,0,0,1,0,0,1
+546,2305,- I don't want to do it. - We can do it.,Neutral,0,0,0,0,0,0,0,0
+547,2307,"- No, you feel bad. - Take the goddamn phone.",anger,1,0,1,1,0,1,0,0
+548,2309,Okay.,Neutral,0,0,0,0,0,0,0,0
+549,2311,"- Thank you, Mr. Hulk. - No, it was great, kids. Thank you very much.",disgust,0,0,1,0,0,0,0,0
+550,2314,Hulk out!,disgust,0,0,1,0,0,0,0,0
+551,2315,Bruce.,Neutral,0,0,0,0,0,0,0,0
+552,2317,Dab.,Neutral,0,0,0,0,0,0,0,0
+553,2318,- Bruce. - Listen to your mom.,Neutral,0,0,0,0,0,0,0,0
+554,2320,She knows better.,Neutral,0,0,0,0,0,0,0,0
+555,2321,About what we were saying.,Neutral,0,0,0,0,0,0,0,0
+556,2323,Right.,Neutral,0,0,0,0,0,0,0,0
+557,2326,The whole time travel do-over?,anticipation,0,1,0,0,0,0,0,0
+558,2330,"Guys, it's outside of my area of expertise.",trust,0,0,0,0,0,0,0,1
+559,2334,"Well, you pulled this off.",Neutral,0,0,0,0,0,0,0,0
+560,2337,"I remember a time when that seemed pretty impossible, too.",anticipation,0,2,0,0,1,1,0,1
+561,2374,I've got a mild inspiration. I'd like to see if it checks out.,anticipation,0,1,0,0,1,0,0,0
+562,2377,"So, I'd like to run one last sim before we pack it in for the night.",Neutral,0,0,0,0,0,0,0,0
+563,2381,"This time, in the shape of a Mobius strip, inverted, please.",anticipation,0,1,0,0,0,1,0,0
+564,2385,Processing.,Neutral,0,0,0,0,0,0,0,0
+565,2390,"Right, give me the eigenvalue of that particle...",Neutral,0,0,0,0,0,0,0,0
+566,2392,factoring in spectral decomp.,Neutral,0,0,0,0,0,0,0,0
+567,2395,- That'll take a second. - Just a moment.,Neutral,0,0,0,0,0,0,0,0
+568,2398,And don't worry if it doesn't pan out. I'm just kinda...,anticipation,0,1,0,1,0,1,0,0
+569,2402,Model rendered.,Neutral,0,0,0,0,0,0,0,0
+570,2415,Shit!,anger,1,0,1,0,0,0,0,0
+571,2417,Shit!,anger,1,0,1,0,0,0,0,0
+572,2422,"What are you doing up, little miss?",Neutral,0,0,0,0,0,0,0,0
+573,2424,- Shit. - Nope. We don't say that.,anger,1,0,1,0,0,0,0,0
+574,2426,Only Mommy says that word.,trust,0,0,0,0,0,0,0,1
+575,2427,She coined it. It belongs to her.,Neutral,0,0,0,0,0,0,0,0
+576,2429,Why are you up?,Neutral,0,0,0,0,0,0,0,0
+577,2430,'Cause I've got some important shit going on here!,anger,1,0,1,0,0,0,0,1
+578,2431,Why do you think?,Neutral,0,0,0,0,0,0,0,0
+579,2433,"No, I got something on my mind. I got something on my mind.",Neutral,0,0,0,0,0,0,0,0
+580,2436,Was it juice pops?,surprise,0,0,0,0,0,0,1,0
+581,2439,Sure was.,Neutral,0,0,0,0,0,0,0,0
+582,2442,That's extortion. That's a word.,trust,0,0,0,0,0,0,0,1
+583,2443,What kind you want?,joy,0,0,0,0,1,0,0,1
+584,2445,Great minds think alike.,Neutral,0,0,0,0,0,0,0,0
+585,2446,Juice pops exactly...,surprise,0,0,0,0,0,0,1,0
+586,2450,was on my mind.,Neutral,0,0,0,0,0,0,0,0
+587,2452,You done? Yeah?,Neutral,0,0,0,0,0,0,0,0
+588,2454,Now you are.,Neutral,0,0,0,0,0,0,0,0
+589,2456,Here. Wipe.,Neutral,0,0,0,0,0,0,0,0
+590,2460,Good. That face goes there.,anticipation,0,1,0,0,1,0,1,1
+591,2463,Tell me a story.,Neutral,0,0,0,0,0,0,0,0
+592,2464,A story.,Neutral,0,0,0,0,0,0,0,0
+593,2466,"Once upon a time, Maguna went to bed. The end.",anticipation,0,1,0,0,0,0,0,0
+594,2468,That is a horrible story.,anger,1,0,1,1,0,0,0,0
+595,2470,"Come on, that's your favorite story.",joy,0,0,0,0,1,0,0,1
+596,2472,Love you tons.,joy,0,0,0,0,1,0,0,0
+597,2476,"I love you 3,000.",joy,0,0,0,0,1,0,0,0
+598,2479,Wow.,Neutral,0,0,0,0,0,0,0,0
+599,2487,"3,000. That's crazy.",anger,1,0,0,1,0,1,0,0
+600,2491,Go to bed or I'll sell all your toys.,anger,1,0,1,1,0,1,0,0
+601,2494,Night night.,Neutral,0,0,0,0,0,0,0,0
+602,2496,Not that it's a competition...,anticipation,0,1,0,0,0,0,0,0
+603,2497,"but she loves me 3,000.",joy,0,0,0,0,1,0,0,0
+604,2499,"Does she, now?",Neutral,0,0,0,0,0,0,0,0
+605,2501,You were somewhere in the low 6 to 900 range.,Neutral,0,0,0,0,0,0,0,0
+606,2510,Whatcha reading?,Neutral,0,0,0,0,0,0,0,0
+607,2512,Just a book on composting.,disgust,0,0,1,0,0,0,0,0
+608,2513,What's new with composting?,disgust,0,0,1,0,0,0,0,0
+609,2517,- Interesting science... - I figured it out.,Neutral,0,0,0,0,0,0,0,0
+610,2520,By the way.,Neutral,0,0,0,0,0,0,0,0
+611,2522,"And, you know, just so we're talking about the same thing...",Neutral,0,0,0,0,0,0,0,0
+612,2526,Time travel.,anticipation,0,1,0,0,0,0,0,0
+613,2528,What?,Neutral,0,0,0,0,0,0,0,0
+614,2533,Wow.,Neutral,0,0,0,0,0,0,0,0
+615,2538,That's amazing...,surprise,0,0,0,0,0,0,1,0
+616,2540,and terrifying.,Neutral,0,0,0,0,0,0,0,0
+617,2542,That's right.,Neutral,0,0,0,0,0,0,0,0
+618,2550,We got really lucky.,joy,0,0,0,0,1,0,1,0
+619,2552,Yeah.,Neutral,0,0,0,0,0,0,0,0
+620,2553,I know.,Neutral,0,0,0,0,0,0,0,0
+621,2555,A lot of people didn't.,Neutral,0,0,0,0,0,0,0,0
+622,2556,Nope. And I can't help everybody.,Neutral,0,0,0,0,0,0,0,0
+623,2559,Sorta seems like you can.,Neutral,0,0,0,0,0,0,0,0
+624,2561,Not if I stop.,Neutral,0,0,0,0,0,0,0,0
+625,2564,I can put a pin in it right now and stop.,Neutral,0,0,0,0,0,0,0,0
+626,2567,Tony...,Neutral,0,0,0,0,0,0,0,0
+627,2569,trying to get you to stop...,Neutral,0,0,0,0,0,0,0,0
+628,2571,has been one of the few failures of my entire life.,Neutral,0,0,0,0,0,0,0,0
+629,2578,Something tells me...,Neutral,0,0,0,0,0,0,0,0
+630,2581,I should put it in a lockbox and drop it to the bottom of the lake...,sadness,0,0,0,0,0,1,0,0
+631,2585,and go to bed.,Neutral,0,0,0,0,0,0,0,0
+632,2592,But would you be able to rest?,Neutral,0,0,0,0,0,0,0,0
+633,2599,"Okay, here we go. Time travel test number one.",anticipation,0,1,0,0,0,0,0,0
+634,2602,"Scott, fire up...",fear,0,0,0,1,0,0,0,0
+635,2605,the van thing.,Neutral,0,0,0,0,0,0,0,0
+636,2609,Breakers are set.,Neutral,0,0,0,0,0,0,0,0
+637,2610,Emergency generators are on standby.,fear,0,0,0,1,0,1,1,0
+638,2612,"Good, because if we blow the grid, I don't want to lose Tiny here in the 1950s.",surprise,1,1,1,1,1,1,2,1
+639,2617,Excuse me?,Neutral,0,0,0,0,0,0,0,0
+640,2618,He's kidding.,Neutral,0,0,0,0,0,0,0,0
+641,2620,You can't say things like that.,Neutral,0,0,0,0,0,0,0,0
+642,2622,It was a bad joke.,anger,1,0,1,1,0,1,0,0
+643,2626,"You were kidding, right?",Neutral,0,0,0,0,0,0,0,0
+644,2627,I have no idea. We're talking about time travel here.,anticipation,0,1,0,0,0,0,0,0
+645,2630,"Either it's all a joke, or none of it is.",Neutral,0,0,0,0,0,0,0,0
+646,2633,We're good!,anticipation,0,1,0,0,1,0,1,1
+647,2635,Get your helmet on.,fear,0,0,0,1,0,0,0,0
+648,2637,"Scott, I'm gonna send you back a week...",Neutral,0,0,0,0,0,0,0,0
+649,2639,"let you walk around for an hour, then bring you back in 10 seconds.",Neutral,0,0,0,0,0,0,0,0
+650,2642,Make sense?,Neutral,0,0,0,0,0,0,0,0
+651,2644,Perfectly not confusing.,Neutral,0,0,0,0,0,0,0,0
+652,2645,"Good luck, Scott. You got this.",anticipation,0,2,0,0,2,0,2,1
+653,2649,"You're right. I do, Captain America.",Neutral,0,0,0,0,0,0,0,0
+654,2654,On a count of three...,trust,0,0,0,0,0,0,0,1
+655,2655,"Three, two, one.",Neutral,0,0,0,0,0,0,0,0
+656,2663,Guys?,Neutral,0,0,0,0,0,0,0,0
+657,2665,This doesn't feel right.,Neutral,0,0,0,0,0,0,0,0
+658,2667,What is this?,Neutral,0,0,0,0,0,0,0,0
+659,2668,- What's going on? - Who is that?,Neutral,0,0,0,0,0,0,0,0
+660,2669,- Hold on. - Is that Scott?,Neutral,0,0,0,0,0,0,0,0
+661,2670,"Yes, it's Scott.",Neutral,0,0,0,0,0,0,0,0
+662,2673,"- What's going on, Bruce? - Oh, my back!",Neutral,0,0,0,0,0,0,0,0
+663,2676,- What is this? - Hold on a second.,Neutral,0,0,0,0,0,0,0,0
+664,2677,"- Could I get a little space here? - Yeah, yeah, yeah.",Neutral,0,0,0,0,0,0,0,0
+665,2679,- Can you bring him back? - I'm working on it.,Neutral,0,0,0,0,0,0,0,0
+666,2687,It's a baby.,joy,0,0,0,0,1,0,0,0
+667,2689,- It's Scott. - As a baby.,joy,0,0,0,0,1,0,0,0
+668,2690,- He'll grow. - Bring Scott back.,anger,1,1,1,1,1,1,0,1
+669,2692,"When I say kill the power, kill the power.",fear,0,0,0,2,0,2,0,0
+670,2693,"Oh, my God.",anticipation,0,1,0,1,1,0,0,1
+671,2695,And... kill it!,fear,0,0,0,1,0,1,0,0
+672,2701,Somebody peed my pants.,Neutral,0,0,0,0,0,0,0,0
+673,2703,"Oh, thank God.",anticipation,0,1,0,1,1,0,0,1
+674,2704,But I don't know if it was baby me or old me.,joy,0,0,0,0,1,0,0,0
+675,2711,Or just me me.,Neutral,0,0,0,0,0,0,0,0
+676,2713,Time travel!,anticipation,0,1,0,0,0,0,0,0
+677,2718,What?,Neutral,0,0,0,0,0,0,0,0
+678,2721,I see this as an absolute win.,Neutral,0,0,0,0,0,0,0,0
+679,2769,Why the long face?,anticipation,0,1,0,0,0,0,0,0
+680,2770,"Let me guess, he turned into a baby.",joy,0,0,0,0,1,0,1,0
+681,2773,"Among other things, yeah. What are you doing here?",Neutral,0,0,0,0,0,0,0,0
+682,2775,It's the EPR Paradox.,Neutral,0,0,0,0,0,0,0,0
+683,2778,"Instead of pushing Lang through time, you might've wound up...",anticipation,0,1,0,0,0,0,0,0
+684,2780,pushing time through Lang.,anticipation,0,1,0,0,0,0,0,0
+685,2781,"It's tricky, dangerous. Somebody could have cautioned you against it.",fear,1,1,0,2,0,0,0,0
+686,2784,You did.,Neutral,0,0,0,0,0,0,0,0
+687,2785,"Oh, did I?",Neutral,0,0,0,0,0,0,0,0
+688,2787,"Well, thank God I'm here.",anticipation,0,1,0,1,1,0,0,1
+689,2789,"Regardless, I fixed it.",Neutral,0,0,0,0,0,0,0,0
+690,2792,A fully functioning time-space GPS.,trust,0,0,0,0,0,0,0,1
+691,2796,I just want peace.,anticipation,0,1,0,0,1,0,0,1
+692,2799,"Turns out resentment is corrosive, and I hate it.",anger,2,0,2,2,0,2,0,0
+693,2803,"Me, too.",Neutral,0,0,0,0,0,0,0,0
+694,2805,"We got a shot at getting these stones, but I got to tell you my priorities.",anger,2,0,0,1,0,0,0,0
+695,2809,"Bring back what we lost, I hope, yes.",surprise,1,1,1,1,1,1,2,1
+696,2812,"Keep what I found, I have to, at all costs.",Neutral,0,0,0,0,0,0,0,0
+697,2816,And maybe not die trying.,fear,0,0,0,1,0,1,0,0
+698,2818,Would be nice.,Neutral,0,0,0,0,0,0,0,0
+699,2822,Sounds like a deal.,anticipation,0,1,0,0,1,0,1,1
+700,2847,"Tony, I don't know.",Neutral,0,0,0,0,0,0,0,0
+701,2848,Why?,Neutral,0,0,0,0,0,0,0,0
+702,2850,He made it for you.,Neutral,0,0,0,0,0,0,0,0
+703,2851,"Plus, honestly, I have to get it out of the garage before Morgan takes it sledding.",Neutral,0,0,0,0,0,0,0,0
+704,2861,"Thank you, Tony.",Neutral,0,0,0,0,0,0,0,0
+705,2863,Will you keep that a little quiet?,sadness,0,0,0,0,0,1,0,0
+706,2865,Didn't bring one for the whole team.,trust,0,0,0,0,0,0,0,1
+707,2868,"We are getting the whole team, yeah?",trust,0,0,0,0,0,0,0,1
+708,2872,We're working on that right now.,Neutral,0,0,0,0,0,0,0,0
+709,2891,"Hey, Humie.",Neutral,0,0,0,0,0,0,0,0
+710,2893,Where's Big Green?,joy,0,0,0,0,1,0,0,1
+711,2895,"The kitchen, I think.",Neutral,0,0,0,0,0,0,0,0
+712,2898,That's awesome.,Neutral,0,0,0,0,0,0,0,0
+713,2901,"Rhodey, careful on re-entry.",Neutral,0,0,0,0,0,0,0,0
+714,2903,There's an idiot in the landing zone.,disgust,0,0,1,0,0,0,0,0
+715,2906,"Oh, God.",anticipation,0,1,0,1,1,0,0,1
+716,2908,"What's up, Regular-Sized Man?",Neutral,0,0,0,0,0,0,0,0
+717,2961,Kind of a step down from the golden palaces and the magic hammers and whatnot.,joy,0,0,0,0,1,0,0,1
+718,2965,"Hey, have a little compassion, pal.",fear,0,0,0,1,0,0,0,0
+719,2967,"First, they lost Asgard, then half their people.",anger,1,0,1,1,0,1,1,0
+720,2969,They're probably just happy to have a home.,anticipation,0,1,0,0,1,0,0,1
+721,2970,You shouldn't have come.,Neutral,0,0,0,0,0,0,0,0
+722,2974,Valkyrie!,Neutral,0,0,0,0,0,0,0,0
+723,2975,"Great to see you, angry girl!",anger,1,0,1,0,0,0,0,0
+724,2978,I think I liked you better either of the other ways.,Neutral,0,0,0,0,0,0,0,0
+725,2982,- This is Rocket. - How ya doing?,anger,1,0,0,0,0,0,0,0
+726,2986,He won't see you.,anticipation,0,1,0,0,0,0,0,0
+727,2987,"It's that bad, huh?",anger,1,0,1,1,0,1,0,0
+728,2988,"We only see him once a month when he comes in for ""supplies.""",Neutral,0,0,0,0,0,0,0,0
+729,2994,It's that bad.,anger,1,0,1,1,0,1,0,0
+730,2995,Yeah.,Neutral,0,0,0,0,0,0,0,0
+731,3009,What the...?,Neutral,0,0,0,0,0,0,0,0
+732,3013,Something died in here!,fear,0,0,0,1,0,1,0,0
+733,3016,Hello? Thor!,Neutral,0,0,0,0,0,0,0,0
+734,3019,Are you here about the cable?,surprise,0,0,0,0,0,0,1,0
+735,3021,The Cinemax went out two weeks ago...,Neutral,0,0,0,0,0,0,0,0
+736,3024,and the sports are all kinda fuzzy and whatnot.,Neutral,0,0,0,0,0,0,0,0
+737,3028,Thor?,Neutral,0,0,0,0,0,0,0,0
+738,3037,"Boys! Oh, my God!",anticipation,0,1,0,1,1,0,0,1
+739,3040,"Oh, my God, it's so good to see you!",anticipation,0,2,0,1,2,0,1,2
+740,3044,"Come here, cuddly little rascal.",anger,1,0,1,1,0,0,0,0
+741,3045,"Yeah, no, I'm good. I'm good.",anticipation,0,2,0,0,2,0,2,2
+742,3048,That's not necessary.,Neutral,0,0,0,0,0,0,0,0
+743,3050,"Hulk, you know my friends Miek and Korg, right?",disgust,0,0,1,0,0,0,0,0
+744,3052,"- Hey, boys! - Hey, guys.",Neutral,0,0,0,0,0,0,0,0
+745,3054,Long time no see.,anticipation,0,2,0,0,0,0,0,0
+746,3055,Beer's in the bucket. Feel free to log on to the Wi-Fi.,Neutral,0,0,0,0,0,0,0,0
+747,3058,"No password, obviously.",Neutral,0,0,0,0,0,0,0,0
+748,3060,"Thor, he's back.",Neutral,0,0,0,0,0,0,0,0
+749,3062,That kid on the TV just called me a dickhead again.,Neutral,0,0,0,0,0,0,0,0
+750,3065,Noobmaster.,Neutral,0,0,0,0,0,0,0,0
+751,3066,"Yeah, NoobMaster69 called me a dickhead.",Neutral,0,0,0,0,0,0,0,0
+752,3069,I am sick of this.,disgust,0,0,1,0,0,1,0,0
+753,3071,"Noobmaster, hey, it's Thor again. You know, the God of Thunder.",anticipation,0,1,0,1,1,0,0,1
+754,3074,"Listen, bud, if you don't log off this game immediately...",anticipation,0,1,0,0,0,0,0,0
+755,3077,"I am gonna fly over to your house, come down to that basement you're hiding in...",fear,0,0,0,1,0,0,0,0
+756,3080,"rip off your arms, and shove them up your butt!",anger,1,0,0,0,0,0,0,0
+757,3083,"Oh, that's right, yes! Go cry to your father, you little weasel.",sadness,0,0,0,0,0,1,0,1
+758,3087,"Thank you, Thor.",Neutral,0,0,0,0,0,0,0,0
+759,3088,"Let me know if he bothers you again, okay?",Neutral,0,0,0,0,0,0,0,0
+760,3089,Thank you very much. I will.,Neutral,0,0,0,0,0,0,0,0
+761,3091,"So, you guys want a drink? What are we drinking?",Neutral,0,0,0,0,0,0,0,0
+762,3093,"I've got beer, tequila, all sorts of things.",joy,0,0,0,0,1,0,0,0
+763,3098,Buddy.,anticipation,0,1,0,0,1,0,0,1
+764,3100,You all right?,Neutral,0,0,0,0,0,0,0,0
+765,3101,"Yes, I'm fine. Why?",Neutral,0,0,0,0,0,0,0,0
+766,3102,"Why, don't I look all right?",Neutral,0,0,0,0,0,0,0,0
+767,3104,You look like melted ice cream.,anticipation,0,1,0,0,1,0,1,0
+768,3107,"So, what's up? You just here for a hang, or what?",Neutral,0,0,0,0,0,0,0,0
+769,3110,We need your help.,Neutral,0,0,0,0,0,0,0,0
+770,3112,There might be a chance we could fix everything.,surprise,0,0,0,0,0,0,1,0
+771,3114,"What, like the cable?",surprise,0,0,0,0,0,0,1,0
+772,3116,'Cause that's been driving me bananas for weeks.,Neutral,0,0,0,0,0,0,0,0
+773,3118,Like Thanos.,Neutral,0,0,0,0,0,0,0,0
+774,3138,Don't say that name.,Neutral,0,0,0,0,0,0,0,0
+775,3142,"Yeah, we don't actually say that name in here.",Neutral,0,0,0,0,0,0,0,0
+776,3150,Please take your hand off me.,Neutral,0,0,0,0,0,0,0,0
+777,3155,"Now, I know that guy...",Neutral,0,0,0,0,0,0,0,0
+778,3159,might scare you.,anger,1,1,0,1,0,0,1,0
+779,3160,Why would I be...?,Neutral,0,0,0,0,0,0,0,0
+780,3162,Why would I be scared of that guy?,anger,1,0,1,1,0,1,0,0
+781,3165,"I'm the one who killed that guy, remember?",fear,0,0,0,1,0,1,0,0
+782,3168,Anyone else here kill that guy?,fear,0,0,0,1,0,1,0,0
+783,3174,Nope.,Neutral,0,0,0,0,0,0,0,0
+784,3175,Didn't think so.,Neutral,0,0,0,0,0,0,0,0
+785,3177,"Korg, why don't you tell everybody who chopped Thanos' big head off?",Neutral,0,0,0,0,0,0,0,0
+786,3182,Stormbreaker?,Neutral,0,0,0,0,0,0,0,0
+787,3183,Who was swinging Stormbreaker?,Neutral,0,0,0,0,0,0,0,0
+788,3189,"I get it. You're in a rough spot, okay?",Neutral,0,0,0,0,0,0,0,0
+789,3192,I've been there myself.,Neutral,0,0,0,0,0,0,0,0
+790,3193,And you want to know who helped me out of it?,Neutral,0,0,0,0,0,0,0,0
+791,3195,Was it Natasha?,Neutral,0,0,0,0,0,0,0,0
+792,3198,It was you.,Neutral,0,0,0,0,0,0,0,0
+793,3200,You helped me.,Neutral,0,0,0,0,0,0,0,0
+794,3203,"So, why don't you ask...",Neutral,0,0,0,0,0,0,0,0
+795,3206,the Asgardians down there...,Neutral,0,0,0,0,0,0,0,0
+796,3208,how much my help is worth?,Neutral,0,0,0,0,0,0,0,0
+797,3216,"The ones that are left, anyway.",sadness,0,0,0,0,0,1,1,0
+798,3218,I think we could bring them back.,Neutral,0,0,0,0,0,0,0,0
+799,3220,Stop.,Neutral,0,0,0,0,0,0,0,0
+800,3222,"Stop, okay?",Neutral,0,0,0,0,0,0,0,0
+801,3224,I know you think I'm down here wallowing in my own self-pity...,disgust,0,0,1,0,0,1,0,0
+802,3227,waiting to be rescued and saved...,anticipation,0,2,0,0,2,0,1,2
+803,3230,"but I'm fine, okay. We're fine, aren't we?",Neutral,0,0,0,0,0,0,0,0
+804,3232,"We're good here, mate.",trust,0,1,0,0,1,0,1,2
+805,3234,"So, whatever it is that you're offering, we're not into it.",Neutral,0,0,0,0,0,0,0,0
+806,3236,Don't care. Couldn't care less.,Neutral,0,0,0,0,0,0,0,0
+807,3238,Goodbye.,Neutral,0,0,0,0,0,0,0,0
+808,3242,"We need you, pal.",Neutral,0,0,0,0,0,0,0,0
+809,3253,There's beer on the ship.,anticipation,0,1,0,0,1,0,0,0
+810,3259,What kind?,joy,0,0,0,0,1,0,0,1
+811,3273,It's him! He's after Akihiko!,Neutral,0,0,0,0,0,0,0,0
+812,3303,Why are you doing this?,Neutral,0,0,0,0,0,0,0,0
+813,3306,We never did anything to you!,Neutral,0,0,0,0,0,0,0,0
+814,3309,You survived...,Neutral,0,0,0,0,0,0,0,0
+815,3310,Half the planet didn't.,Neutral,0,0,0,0,0,0,0,0
+816,3312,They got Thanos.,Neutral,0,0,0,0,0,0,0,0
+817,3314,You get me...,Neutral,0,0,0,0,0,0,0,0
+818,3321,You're done hurting people.,anger,1,0,0,1,0,1,0,0
+819,3324,WE hurt people?,anger,1,0,0,1,0,1,0,0
+820,3329,You're crazy!,anger,1,0,0,1,0,1,0,0
+821,3361,Wait! Help me!,anticipation,0,1,0,0,0,0,0,0
+822,3363,I'll give you anything!,anger,1,0,1,1,0,1,0,0
+823,3366,What do you want?,Neutral,0,0,0,0,0,0,0,0
+824,3367,What I want you can't give me.,Neutral,0,0,0,0,0,0,0,0
+825,3394,You shouldn't be here.,Neutral,0,0,0,0,0,0,0,0
+826,3398,Neither should you.,Neutral,0,0,0,0,0,0,0,0
+827,3406,I've got a job to do.,Neutral,0,0,0,0,0,0,0,0
+828,3409,Is that what you're calling this?,Neutral,0,0,0,0,0,0,0,0
+829,3411,Killing all these people isn't gonna bring your family back.,fear,0,0,0,1,0,1,0,0
+830,3420,We found something.,Neutral,0,0,0,0,0,0,0,0
+831,3423,"A chance, maybe.",surprise,0,0,0,0,0,0,1,0
+832,3428,Don't.,Neutral,0,0,0,0,0,0,0,0
+833,3430,Don't what?,Neutral,0,0,0,0,0,0,0,0
+834,3435,Don't give me hope.,anticipation,0,1,0,0,1,0,1,1
+835,3439,I'm sorry I couldn't give it to you sooner.,Neutral,0,0,0,0,0,0,0,0
+836,3463,You're drifting left.,sadness,0,0,0,0,0,1,1,0
+837,3465,"One side there, Lebowski.",Neutral,0,0,0,0,0,0,0,0
+838,3470,"Ratchet, how's it going?",Neutral,0,0,0,0,0,0,0,0
+839,3472,It's Rocket.,anger,1,0,0,0,0,0,0,0
+840,3473,"Take it easy. You're only a genius on Earth, pal.",Neutral,0,0,0,0,0,0,0,0
+841,3480,"Time travel suit, not bad.",anger,1,1,1,1,0,1,0,0
+842,3483,"Hey, hey, hey! Easy! Easy!",Neutral,0,0,0,0,0,0,0,0
+843,3485,I'm being very careful.,Neutral,0,0,0,0,0,0,0,0
+844,3486,"No, you're being very Hulky.",Neutral,0,0,0,0,0,0,0,0
+845,3488,I'm being careful.,Neutral,0,0,0,0,0,0,0,0
+846,3489,"These are Pym Particles, all right?",Neutral,0,0,0,0,0,0,0,0
+847,3490,"And ever since Hank Pym got snapped out of existence, this is it.",Neutral,0,0,0,0,0,0,0,0
+848,3493,This is what we have. We're not making any more.,Neutral,0,0,0,0,0,0,0,0
+849,3495,"- Scott, calm down. - Sorry.",Neutral,0,0,0,0,0,0,0,0
+850,3497,We've got enough for one round-trip each. That's it.,Neutral,0,0,0,0,0,0,0,0
+851,3500,No do-overs.,Neutral,0,0,0,0,0,0,0,0
+852,3502,Plus two test runs.,Neutral,0,0,0,0,0,0,0,0
+853,3508,One test run.,Neutral,0,0,0,0,0,0,0,0
+854,3510,All right. I'm not ready for this.,anticipation,0,1,0,0,0,0,0,0
+855,3512,I'm game.,Neutral,0,0,0,0,0,0,0,0
+856,3515,I'll do it.,anger,1,0,1,1,0,1,0,0
+857,3518,"Clint, now you're gonna feel a little discombobulated from the chronoshift.",Neutral,0,0,0,0,0,0,0,0
+858,3521,- Don't worry about that. - Wait a second. Let me ask you something.,anticipation,0,2,0,1,0,1,0,0
+859,3523,"If we can do this, you know...",Neutral,0,0,0,0,0,0,0,0
+860,3525,"go back in time, why don't we just find baby Thanos?",anticipation,0,1,0,0,1,0,0,0
+861,3527,"You know, and...",Neutral,0,0,0,0,0,0,0,0
+862,3532,"- First of all, that's horrible. - It's Thanos.",anger,1,0,1,1,0,0,0,0
+863,3534,"And secondly, time doesn't work that way.",anticipation,0,1,0,0,0,0,0,0
+864,3537,Changing the past doesn't change the future.,fear,0,0,0,2,0,0,0,0
+865,3539,"Look, we go back, we get the stones before Thanos gets them...",anger,1,0,0,0,0,0,0,0
+866,3542,Thanos doesn't have the stones. Problem solved.,anger,1,0,0,1,0,1,0,0
+867,3545,- Bingo. - That's not how it works.,Neutral,0,0,0,0,0,0,0,0
+868,3547,"- Well, that's what I heard. - Wait, but who? Who told you that?",anticipation,0,1,0,0,0,0,0,0
+869,3549,"Star Trek, Terminator, Timecop...",anticipation,0,1,0,0,1,0,0,1
+870,3551,- Time After Time. - Quantum Leap.,anticipation,0,2,0,0,0,0,0,0
+871,3553,"- Wrinkle in Time, Somewhere in Time. - Hot Tub Time Machine.",anticipation,1,3,0,0,0,0,0,1
+872,3555,Hot Tub Time Machine. Bill and Ted's Excellent Adventure.,anticipation,1,2,0,0,1,0,0,2
+873,3558,"Basically, any movie that deals with time travel.",anticipation,0,2,0,0,1,0,1,1
+874,3560,"Die Hard. No, that's not one.",fear,0,0,0,1,0,1,0,0
+875,3562,This is known.,Neutral,0,0,0,0,0,0,0,0
+876,3563,"I don't know why everyone believes that, but that isn't true.",Neutral,0,0,0,0,0,0,0,0
+877,3566,Think about it. If you travel to the past...,Neutral,0,0,0,0,0,0,0,0
+878,3568,that past becomes your future...,Neutral,0,0,0,0,0,0,0,0
+879,3570,and your former present becomes the past...,anticipation,0,1,0,0,1,0,1,1
+880,3573,which can't now be changed by your new future.,fear,0,0,0,1,0,0,0,0
+881,3576,Exactly.,Neutral,0,0,0,0,0,0,0,0
+882,3578,So Back to the Future is a bunch of bullshit?,Neutral,0,0,0,0,0,0,0,0
+883,3585,"All right, Clint.",Neutral,0,0,0,0,0,0,0,0
+884,3587,"We're going in three, two...",Neutral,0,0,0,0,0,0,0,0
+885,3590,one.,Neutral,0,0,0,0,0,0,0,0
+886,3664,Cooper?,Neutral,0,0,0,0,0,0,0,0
+887,3665,Where are my headphones?,Neutral,0,0,0,0,0,0,0,0
+888,3667,Lila?,Neutral,0,0,0,0,0,0,0,0
+889,3668,- I never had them. - Lila?,Neutral,0,0,0,0,0,0,0,0
+890,3671,"Yeah, you had them yesterday!",Neutral,0,0,0,0,0,0,0,0
+891,3673,Lila! Lila!,Neutral,0,0,0,0,0,0,0,0
+892,3680,"Yeah, Dad?",Neutral,0,0,0,0,0,0,0,0
+893,3685,Dad?,Neutral,0,0,0,0,0,0,0,0
+894,3688,Lila!,Neutral,0,0,0,0,0,0,0,0
+895,3696,"Hey. Hey, look at me.",Neutral,0,0,0,0,0,0,0,0
+896,3698,You okay?,Neutral,0,0,0,0,0,0,0,0
+897,3700,Yeah. Yeah.,Neutral,0,0,0,0,0,0,0,0
+898,3704,It worked.,Neutral,0,0,0,0,0,0,0,0
+899,3707,It worked.,Neutral,0,0,0,0,0,0,0,0
+900,3711,"Okay, so the how works.",Neutral,0,0,0,0,0,0,0,0
+901,3714,"Now, we got to figure out the when and the where.",Neutral,0,0,0,0,0,0,0,0
+902,3718,Almost everyone in this room has had an encounter...,Neutral,0,0,0,0,0,0,0,0
+903,3720,with at least one of the six Infinity Stones.,anger,1,1,0,0,1,0,0,1
+904,3722,"Or substitute the word ""encounter""...",trust,0,0,0,0,0,0,0,1
+905,3723,"for ""damn near been killed"" by one of the six Infinity Stones.",anger,2,1,1,1,1,1,0,1
+906,3726,"Well, I haven't...",Neutral,0,0,0,0,0,0,0,0
+907,3727,but I don't even know what the hell you're all talking about.,anger,1,0,1,1,0,1,0,0
+908,3730,"Regardless, we only have enough Pym Particles for one round-trip each.",Neutral,0,0,0,0,0,0,0,0
+909,3735,And these stones have been in a lot of different places throughout history.,anger,1,0,0,0,0,0,0,0
+910,3738,Our history.,Neutral,0,0,0,0,0,0,0,0
+911,3740,"So, not a lot of convenient spots to just drop in, yeah?",Neutral,0,0,0,0,0,0,0,0
+912,3743,Which means we have to pick our targets.,Neutral,0,0,0,0,0,0,0,0
+913,3745,Correct.,Neutral,0,0,0,0,0,0,0,0
+914,3748,"So, let's start with the Aether.",anticipation,0,1,0,0,0,0,0,0
+915,3749,"Thor, what do you know?",Neutral,0,0,0,0,0,0,0,0
+916,3756,Is he asleep?,Neutral,0,0,0,0,0,0,0,0
+917,3758,"No, no. I'm pretty sure he's dead.",anticipation,0,1,0,0,1,0,0,1
+918,3764,Where to start?,anticipation,0,1,0,0,0,0,0,0
+919,3767,"The Aether, firstly, is not a stone.",anger,1,0,0,0,0,0,0,0
+920,3770,Someone called it a stone before.,anger,1,0,0,0,0,0,0,0
+921,3773,It's more of an angry sludge sort of a thing...,disgust,1,0,2,0,0,0,0,0
+922,3777,so someone's gonna need to amend that and stop saying that.,Neutral,0,0,0,0,0,0,0,0
+923,3780,"Here's an interesting story, though, about the Aether.",Neutral,0,0,0,0,0,0,0,0
+924,3783,"My grandfather, many years ago...",trust,0,0,0,0,0,0,0,1
+925,3785,had to hide the stone from the Dark Elves.,anger,1,0,0,1,0,1,0,0
+926,3790,Scary beings.,Neutral,0,0,0,0,0,0,0,0
+927,3792,"So, Jane, actually...",Neutral,0,0,0,0,0,0,0,0
+928,3794,"Oh, there she is.",Neutral,0,0,0,0,0,0,0,0
+929,3796,"Yeah, so Jane was an old flame of mine.",Neutral,0,0,0,0,0,0,0,0
+930,3800,"You know, she stuck her hand inside a rock this one time...",anticipation,0,1,0,0,0,0,0,0
+931,3804,and then the Aether stuck itself inside her...,Neutral,0,0,0,0,0,0,0,0
+932,3807,"and she became very, very sick.",disgust,0,0,1,0,0,1,0,0
+933,3809,"And so I had to take her to Asgard, which is where I'm from...",Neutral,0,0,0,0,0,0,0,0
+934,3812,and we had to try and fix her.,Neutral,0,0,0,0,0,0,0,0
+935,3814,"We were dating at the time, you see...",anticipation,0,1,0,0,0,0,0,0
+936,3816,and I got to introduce her to my mother...,anticipation,0,1,0,0,1,1,0,1
+937,3821,who's dead and...,Neutral,0,0,0,0,0,0,0,0
+938,3824,"Oh, you know, Jane and I aren't even dating anymore, so...",Neutral,0,0,0,0,0,0,0,0
+939,3829,"Yes, these things happen, though. You know?",anticipation,0,1,0,0,0,0,0,0
+940,3830,Nothing lasts forever. The only thing that...,Neutral,0,0,0,0,0,0,0,0
+941,3832,- Why don't you come sit down? - I'm not done yet.,Neutral,0,0,0,0,0,0,0,0
+942,3834,The only thing that is permanent in life is impermanence.,Neutral,0,0,0,0,0,0,0,0
+943,3837,Awesome. Eggs? Breakfast?,Neutral,0,0,0,0,0,0,0,0
+944,3840,No. I'd like a Bloody Mary.,anger,1,0,1,1,0,1,0,0
+945,3842,Quill said he stole the Power Stone from Morag.,anger,2,0,0,1,0,1,0,0
+946,3845,"- Is that a person? - No, Morag's a planet.",Neutral,0,0,0,0,0,0,0,0
+947,3849,Quill was a person.,Neutral,0,0,0,0,0,0,0,0
+948,3851,Like a planet? Like in outer space?,Neutral,0,0,0,0,0,0,0,0
+949,3853,"Oh, look. It's like a little puppy, all happy and everything.",anticipation,0,2,0,0,1,0,0,2
+950,3858,"Do you wanna go to space? You wanna go to space, puppy?",fear,0,1,0,2,0,2,0,1
+951,3861,I'll take you to space.,anger,1,0,1,1,0,1,0,0
+952,3864,Thanos found the Soul Stone on Vormir.,anger,1,0,0,0,0,0,0,0
+953,3866,What is Vormir?,Neutral,0,0,0,0,0,0,0,0
+954,3868,A dominion of death...,fear,1,1,1,2,0,1,1,1
+955,3870,at the very center of celestial existence.,anticipation,0,1,0,0,1,0,0,1
+956,3873,It's where Thanos murdered my sister.,anger,1,0,1,1,0,1,1,0
+957,3884,Not it.,Neutral,0,0,0,0,0,0,0,0
+958,3887,- That Time Stone guy. - Doctor Strange.,anger,1,1,0,0,0,0,0,1
+959,3888,"Yeah, what kind of doctor was he?",trust,0,0,0,0,1,0,0,2
+960,3890,Ear-nose-throat meets rabbit-from-hat.,Neutral,0,0,0,0,0,0,0,0
+961,3893,"Nice place in the Village, though.",Neutral,0,0,0,0,0,0,0,0
+962,3894,"Yeah, on Sullivan Street?",Neutral,0,0,0,0,0,0,0,0
+963,3896,Bleecker Street.,Neutral,0,0,0,0,0,0,0,0
+964,3897,"Wait, he lived in New York?",anticipation,0,1,0,0,0,0,0,0
+965,3899,"- No, he lived in Toronto. - Yeah, on Bleecker and Sullivan.",Neutral,0,0,0,0,0,0,0,0
+966,3901,- Have you been listening to anything? - Guys.,Neutral,0,0,0,0,0,0,0,0
+967,3903,"If you pick the right year, there are three stones in New York.",anger,1,0,0,0,0,0,0,0
+968,3909,Shut the front door.,Neutral,0,0,0,0,0,0,0,0
+969,3913,All right. We have a plan.,anticipation,0,1,0,0,0,0,0,0
+970,3916,"Six stones, three teams, one shot.",anger,2,0,0,1,0,0,0,1
+971,3930,"Five years ago, we lost.",anger,1,0,1,1,0,1,1,0
+972,3933,All of us.,Neutral,0,0,0,0,0,0,0,0
+973,3936,We lost friends.,anger,1,0,1,1,0,1,1,0
+974,3938,We lost family.,anger,1,0,1,1,0,1,1,0
+975,3942,We lost a part of ourselves.,anger,1,0,1,1,0,1,1,0
+976,3945,"Today, we have a chance to take it all back.",surprise,0,0,0,0,0,0,1,0
+977,3949,You know your teams. You know your missions.,trust,0,0,0,0,0,0,0,1
+978,3953,Get the stones. Get them back.,anger,1,0,0,0,0,0,0,0
+979,3956,One round-trip each.,Neutral,0,0,0,0,0,0,0,0
+980,3957,No mistakes...,sadness,0,0,0,0,0,1,0,0
+981,3958,no do-overs.,Neutral,0,0,0,0,0,0,0,0
+982,3960,Most of us are going somewhere we know.,Neutral,0,0,0,0,0,0,0,0
+983,3962,That doesn't mean we should know what to expect.,anticipation,0,1,0,0,0,0,1,1
+984,3965,Be careful.,Neutral,0,0,0,0,0,0,0,0
+985,3967,Look out for each other.,Neutral,0,0,0,0,0,0,0,0
+986,3970,This is the fight of our lives...,anger,1,0,0,1,0,0,0,0
+987,3972,and we're gonna win.,Neutral,0,0,0,0,0,0,0,0
+988,3976,Whatever it takes.,Neutral,0,0,0,0,0,0,0,0
+989,3980,Good luck.,anticipation,0,2,0,0,2,0,2,1
+990,3982,He's pretty good at that.,anticipation,0,2,0,0,2,0,1,2
+991,3983,- Right? - All right.,Neutral,0,0,0,0,0,0,0,0
+992,3985,"You heard the man. Stroke those keys, Jolly Green.",fear,0,0,0,1,1,1,0,1
+993,3988,Trackers engaged.,Neutral,0,0,0,0,0,0,0,0
+994,3990,"You promise to bring that back in one piece, right?",joy,0,0,0,0,1,0,0,1
+995,3992,"Yeah, yeah, yeah.",Neutral,0,0,0,0,0,0,0,0
+996,3994,"Okay, I'll do my best.",anger,1,0,1,1,0,1,0,0
+997,3996,"As promises go, that was pretty lame.",joy,0,1,0,0,2,0,0,2
+998,4001,See ya in a minute.,Neutral,0,0,0,0,0,0,0,0
+999,4056,"All right, we all have our assignments.",Neutral,0,0,0,0,0,0,0,0
+1000,4058,"Two stones uptown, one stone down.",anger,2,0,0,0,0,0,0,0
+1001,4060,Stay low. Keep an eye on the clock.,anticipation,0,1,0,0,0,0,0,0
+1002,4077,Maybe smash a few things along the way.,anger,1,0,0,1,0,0,0,0
+1003,4080,"I think it's gratuitous, but whatever.",disgust,0,0,1,0,0,0,0,0
+1004,4110,I'd be careful going that way. We just had the floors waxed.,Neutral,0,0,0,0,0,0,0,0
+1005,4119,"Yeah, I'm looking for Doctor Strange.",trust,0,0,0,0,0,0,0,1
+1006,4122,You're about five years too early.,Neutral,0,0,0,0,0,0,0,0
+1007,4126,Stephen Strange is currently performing surgery about 20 blocks that way.,fear,0,0,0,1,0,1,0,0
+1008,4131,What do you want from him?,Neutral,0,0,0,0,0,0,0,0
+1009,4133,"That, actually.",Neutral,0,0,0,0,0,0,0,0
+1010,4137,I'm afraid not.,fear,0,0,0,1,0,0,0,0
+1011,4139,"Sorry, but I wasn't asking.",Neutral,0,0,0,0,0,0,0,0
+1012,4141,You don't want to do this.,Neutral,0,0,0,0,0,0,0,0
+1013,4142,"You're right, I don't. But I need that stone...",anger,1,0,0,0,0,0,0,0
+1014,4144,and I don't have time to debate it.,anticipation,0,1,0,0,0,0,0,0
+1015,4154,"Let's start over, shall we?",anticipation,0,1,0,0,0,0,0,0
+1016,4167,"For you, Lady Jane.",Neutral,0,0,0,0,0,0,0,0
+1017,4169,Do you have anything with pants?,Neutral,0,0,0,0,0,0,0,0
+1018,4172,Pants?,Neutral,0,0,0,0,0,0,0,0
+1019,4173,Never mind. These will be fine. Thank you.,Neutral,0,0,0,0,0,0,0,0
+1020,4175,"- Yes, milady. - There's Jane.",Neutral,0,0,0,0,0,0,0,0
+1021,4178,All right.,Neutral,0,0,0,0,0,0,0,0
+1022,4181,"Here's the deal, tubby.",anticipation,0,1,0,0,1,0,1,1
+1023,4182,"You're gonna charm her, and I'm gonna poke her with this thing...",anticipation,0,1,0,0,0,0,0,0
+1024,4185,"and extract the Reality Stone, and get gone lickety-split.",anger,1,0,0,0,0,0,0,0
+1025,4189,"I'll be right back, okay? The wine cellar is just down here.",anger,1,0,1,1,0,1,0,0
+1026,4192,My father used to have this huge barrel of Aakonian ale.,trust,0,0,0,0,0,0,0,1
+1027,4195,I'll see if the scullery has a couple of to-go cups.,anger,1,0,1,1,0,1,0,0
+1028,4197,Hey. Hey! Aren't you drunk enough already?,Neutral,0,0,0,0,0,0,0,0
+1029,4206,"- If you could send Loki some soup. - Yes, milady.",Neutral,0,0,0,0,0,0,0,0
+1030,4208,And ask our librarians to pull some volumes from the astronomy shelf.,Neutral,0,0,0,0,0,0,0,0
+1031,4218,Who's the fancy broad?,anticipation,0,1,0,0,1,0,0,0
+1032,4221,That's my mother.,anticipation,0,1,0,0,1,1,0,1
+1033,4223,She dies today.,fear,0,0,0,1,0,1,0,0
+1034,4226,"Oh, that is today?",Neutral,0,0,0,0,0,0,0,0
+1035,4234,I can't do this. I can't do this.,Neutral,0,0,0,0,0,0,0,0
+1036,4237,I shouldn't be here. I shouldn't have come.,Neutral,0,0,0,0,0,0,0,0
+1037,4239,It's a bad idea!,anger,1,0,1,1,0,1,0,0
+1038,4240,"- Come here. - No, no, no.",Neutral,0,0,0,0,0,0,0,0
+1039,4241,I think I'm having a panic attack.,fear,1,0,0,2,0,0,0,0
+1040,4244,- Come here. Right here. - I shouldn't be here. This is bad.,anger,1,0,1,1,0,1,0,0
+1041,4247,You think you're the only one who lost people?,anger,1,0,1,1,0,1,1,0
+1042,4248,What do you think we're doing here?,Neutral,0,0,0,0,0,0,0,0
+1043,4251,I lost the only family I ever had.,anger,1,0,1,1,0,1,1,0
+1044,4253,"Quill, Groot, Drax, the chick with the antenna...",Neutral,0,0,0,0,0,0,0,0
+1045,4255,all gone.,Neutral,0,0,0,0,0,0,0,0
+1046,4258,I get you miss your mom...,Neutral,0,0,0,0,0,0,0,0
+1047,4259,but she's gone.,Neutral,0,0,0,0,0,0,0,0
+1048,4261,Really gone.,Neutral,0,0,0,0,0,0,0,0
+1049,4262,And there are plenty of people who are only kind of gone...,joy,0,0,0,0,1,0,0,1
+1050,4265,and you can help them.,Neutral,0,0,0,0,0,0,0,0
+1051,4267,"So, is it too much to ask that you brush the crumbs out of your beard...",Neutral,0,0,0,0,0,0,0,0
+1052,4271,make schmoopy talk to Pretty Pants...,anticipation,0,1,0,0,1,0,0,1
+1053,4274,"and when she's not looking, suck out the Infinity Stone...",anger,1,1,0,0,1,0,0,1
+1054,4277,and help me get my family back?,Neutral,0,0,0,0,0,0,0,0
+1055,4280,Okay.,Neutral,0,0,0,0,0,0,0,0
+1056,4281,Are you crying?,sadness,0,0,0,0,0,1,0,0
+1057,4283,No.,Neutral,0,0,0,0,0,0,0,0
+1058,4286,Yes.,Neutral,0,0,0,0,0,0,0,0
+1059,4287,I feel like I'm losing it.,anger,1,0,1,1,0,1,1,0
+1060,4289,Get it together!,Neutral,0,0,0,0,0,0,0,0
+1061,4290,You can do this.,Neutral,0,0,0,0,0,0,0,0
+1062,4292,You can do this.,Neutral,0,0,0,0,0,0,0,0
+1063,4296,All right?,Neutral,0,0,0,0,0,0,0,0
+1064,4298,"Yes, I can.",Neutral,0,0,0,0,0,0,0,0
+1065,4299,Good.,anticipation,0,1,0,0,1,0,1,1
+1066,4302,I can do this. I can do this.,Neutral,0,0,0,0,0,0,0,0
+1067,4305,I can't do this.,Neutral,0,0,0,0,0,0,0,0
+1068,4307,"All right, heartbreaker, she's alone. This is our shot.",anger,1,0,0,1,0,0,0,0
+1069,4310,Thor? Thor!,Neutral,0,0,0,0,0,0,0,0
+1070,4323,"All right, bring it down, Blue.",sadness,0,0,0,0,0,1,0,0
+1071,4325,"Right on that line. That's it. Down, down.",Neutral,0,0,0,0,0,0,0,0
+1072,4332,"Hey, can we hurry it up?",anticipation,0,1,0,0,0,0,0,0
+1073,4334,"Guys, chop-chop. Come on. We're on the clock.",anticipation,0,1,0,0,0,0,0,0
+1074,4336,All that is really helpful.,joy,0,0,0,0,1,0,0,1
+1075,4340,"- Take care, okay? - Yeah.",Neutral,0,0,0,0,0,0,0,0
+1076,4342,Get that stone and come back. No messing around.,anger,1,0,1,0,0,0,0,0
+1077,4345,- Hey. - We got this.,Neutral,0,0,0,0,0,0,0,0
+1078,4346,"- Let's get it done. - Yes, sir.",trust,0,0,0,0,0,0,0,1
+1079,4348,I'll see you back.,anger,1,0,1,1,0,1,0,0
+1080,4350,You guys watch each other's six.,anticipation,0,1,0,1,0,0,0,0
+1081,4352,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1082,4362,Coordinates for Vormir are laid in.,Neutral,0,0,0,0,0,0,0,0
+1083,4365,All they have to do is not fall out.,sadness,0,0,0,0,0,1,0,0
+1084,4373,We're a long way from Budapest.,anticipation,0,1,0,0,0,0,0,0
+1085,4380,"Okay, so...",Neutral,0,0,0,0,0,0,0,0
+1086,4383,we just wait around for this Quill guy to show up...,anticipation,0,1,0,0,0,0,0,1
+1087,4386,"and then he leads us to the Power Stone, is that it?",anger,1,0,0,0,0,0,0,0
+1088,4389,Let's take cover.,trust,0,0,0,0,0,0,0,1
+1089,4392,We're not the only ones in 2014 looking for the stones.,anger,1,0,0,0,0,0,0,0
+1090,4395,Wait a minute. What are you talking about right now?,anticipation,0,1,0,0,0,0,0,0
+1091,4396,Who else is looking for these stones?,anger,1,0,0,0,0,0,0,0
+1092,4401,My father...,trust,0,0,0,0,0,0,0,1
+1093,4403,my sister...,Neutral,0,0,0,0,0,0,0,0
+1094,4405,and me.,Neutral,0,0,0,0,0,0,0,0
+1095,4406,And you?,Neutral,0,0,0,0,0,0,0,0
+1096,4409,Where are you right now?,Neutral,0,0,0,0,0,0,0,0
+1097,4439,You're welcome.,Neutral,0,0,0,0,0,0,0,0
+1098,4440,I didn't ask for your help.,Neutral,0,0,0,0,0,0,0,0
+1099,4443,"And yet, you always need it.",Neutral,0,0,0,0,0,0,0,0
+1100,4449,Get up. Father wants us back on the ship.,anticipation,0,1,0,0,0,0,0,1
+1101,4451,Why?,Neutral,0,0,0,0,0,0,0,0
+1102,4452,He's found an Infinity Stone.,anger,1,1,0,0,1,0,0,1
+1103,4459,Where?,Neutral,0,0,0,0,0,0,0,0
+1104,4461,On a planet called Morag.,Neutral,0,0,0,0,0,0,0,0
+1105,4464,Father's plan is finally in motion.,anticipation,0,3,1,0,1,0,1,2
+1106,4466,"One stone isn't six, Nebula.",anger,1,0,0,0,0,0,0,0
+1107,4468,It's a start.,anticipation,0,1,0,0,0,0,0,0
+1108,4470,If he gets all of them...,Neutral,0,0,0,0,0,0,0,0
+1109,4484,Ronan's located the Power Stone. I'm dispatching you to his ship.,anger,1,1,0,0,0,0,0,0
+1110,4488,He won't like that.,anticipation,0,1,0,0,0,0,0,0
+1111,4489,His alternative is death.,anger,1,1,1,1,0,1,1,0
+1112,4493,Ronan's obsession...,Neutral,0,0,0,0,0,0,0,0
+1113,4496,clouds his judgment.,surprise,0,0,0,0,0,0,1,0
+1114,4502,"We will not fail you, Father.",trust,0,0,0,0,0,0,0,1
+1115,4505,"No, you won't.",anticipation,0,1,0,0,0,0,0,0
+1116,4510,I swear...,trust,0,0,0,0,0,0,0,1
+1117,4513,I will make you proud.,anticipation,0,1,0,0,1,0,0,1
+1118,4523,We just wait around for this Quill guy to show up...,anticipation,0,1,0,0,0,0,0,1
+1119,4527,"and then he leads us to the Power Stone, is that it?",anger,1,0,0,0,0,0,0,0
+1120,4529,Let's take cover.,trust,0,0,0,0,0,0,0,1
+1121,4531,We're not the only ones in 2014 looking for the stones.,anger,1,0,0,0,0,0,0,0
+1122,4537,Who was that?,Neutral,0,0,0,0,0,0,0,0
+1123,4538,I don't know.,Neutral,0,0,0,0,0,0,0,0
+1124,4539,My head is splitting. I don't know.,Neutral,0,0,0,0,0,0,0,0
+1125,4543,Her synaptic drive was probably damaged in battle.,anger,2,0,1,0,0,1,0,0
+1126,4556,Bring her to my ship.,anticipation,0,1,0,0,0,0,0,0
+1127,4566,"Better hustle, Cap.",anticipation,0,1,0,0,0,0,0,1
+1128,4567,Things look like they're just about wrapped up here.,Neutral,0,0,0,0,0,0,0,0
+1129,4569,Got it. I'm approaching the elevator now.,Neutral,0,0,0,0,0,0,0,0
+1130,4577,If it's all the same to you...,Neutral,0,0,0,0,0,0,0,0
+1131,4581,I'll have that drink now.,anger,1,0,1,1,0,1,0,0
+1132,4583,"All right, get him on his feet.",Neutral,0,0,0,0,0,0,0,0
+1133,4585,We can all stand around posing up a storm later.,anger,1,0,0,0,0,0,0,0
+1134,4588,"By the way, feel free to clean up.",joy,0,0,0,0,1,0,0,1
+1135,4590,"Mr. Rogers, I almost forgot that that suit...",Neutral,0,0,0,0,0,0,0,0
+1136,4593,did nothing for your ass.,Neutral,0,0,0,0,0,0,0,0
+1137,4595,"No one asked you to look, Tony.",Neutral,0,0,0,0,0,0,0,0
+1138,4596,"- It's ridiculous. - I think you look great, Cap.",anger,1,1,1,0,0,0,0,1
+1139,4598,"As far as I'm concerned, that's America's ass.",Neutral,0,0,0,0,0,0,0,0
+1140,4601,Who gets the magic wand?,Neutral,0,0,0,0,0,0,0,0
+1141,4603,S.T.R.I.K.E. team's coming to secure it.,anger,1,0,0,0,0,0,0,1
+1142,4615,We can take that off your hands.,Neutral,0,0,0,0,0,0,0,0
+1143,4617,By all means.,Neutral,0,0,0,0,0,0,0,0
+1144,4620,Careful with that thing.,Neutral,0,0,0,0,0,0,0,0
+1145,4622,"Yeah, unless you want your mind erased.",fear,0,0,0,1,0,0,0,0
+1146,4624,And not in a fun way.,anticipation,0,1,0,0,1,0,0,0
+1147,4625,We promise to be careful.,joy,0,0,0,0,1,0,0,1
+1148,4626,Who are these guys?,Neutral,0,0,0,0,0,0,0,0
+1149,4627,They are S.H.I.E.I.D.,Neutral,0,0,0,0,0,0,0,0
+1150,4629,"Well, actually Hydra, but we didn't know that yet.",fear,0,0,0,1,0,0,0,0
+1151,4632,Seriously? You didn't?,Neutral,0,0,0,0,0,0,0,0
+1152,4635,"I mean, they look like bad guys.",anger,1,0,1,1,0,1,0,0
+1153,4636,"You're small, but you're talking loud.",Neutral,0,0,0,0,0,0,0,0
+1154,4638,On my way down to coordinate search and rescue.,anticipation,0,1,0,0,1,0,1,1
+1155,4640,On my way down to coordinate search and rescue.,anticipation,0,1,0,0,1,0,1,1
+1156,4642,"I mean, honestly, how do you keep your food down?",joy,0,0,0,0,1,0,0,1
+1157,4645,Shut up.,Neutral,0,0,0,0,0,0,0,0
+1158,4647,"All right, you're up, little buddy.",anticipation,0,1,0,0,1,0,0,1
+1159,4648,There's our stone.,anger,1,0,0,0,0,0,0,0
+1160,4650,All right.,Neutral,0,0,0,0,0,0,0,0
+1161,4651,Flick me.,Neutral,0,0,0,0,0,0,0,0
+1162,4667,- Move. - Hey.,Neutral,0,0,0,0,0,0,0,0
+1163,4668,"Hey, hey. Buddy!",anticipation,0,1,0,0,1,0,0,1
+1164,4670,What do you think? Maximum occupancy has been reached.,Neutral,0,0,0,0,0,0,0,0
+1165,4672,Take the stairs.,Neutral,0,0,0,0,0,0,0,0
+1166,4673,"Yeah. Stop, stop.",Neutral,0,0,0,0,0,0,0,0
+1167,4678,"""Take the stairs."" Hate the stairs.",anger,1,0,1,1,0,1,0,0
+1168,4684,"All right, Cap, I got our scepter in the elevator...",anticipation,0,1,0,0,0,0,0,1
+1169,4687,just passing the 80th floor.,Neutral,0,0,0,0,0,0,0,0
+1170,4689,On it.,Neutral,0,0,0,0,0,0,0,0
+1171,4691,"- Head to the lobby. - All right, I'll see you there.",anger,1,0,1,1,0,1,0,0
+1172,4693,Evidence secure.,Neutral,0,0,0,0,0,0,0,0
+1173,4695,We're en route to Doctor List.,trust,0,0,0,0,0,0,0,1
+1174,4697,"No. No hitches at all, Mr. Secretary.",Neutral,0,0,0,0,0,0,0,0
+1175,4705,Captain.,Neutral,0,0,0,0,0,0,0,0
+1176,4706,I thought you were coordinating search and rescue.,anticipation,0,1,0,0,1,0,1,1
+1177,4709,Change of plans.,anticipation,0,1,0,1,0,0,0,0
+1178,4714,"Hey, Cap.",anticipation,0,1,0,0,0,0,0,1
+1179,4717,Rumlow.,Neutral,0,0,0,0,0,0,0,0
+1180,4724,I just got a call from the secretary.,Neutral,0,0,0,0,0,0,0,0
+1181,4726,I'm gonna be running point on the scepter.,Neutral,0,0,0,0,0,0,0,0
+1182,4730,Sir? I don't understand.,trust,0,0,0,0,0,0,0,1
+1183,4735,We got word there may be an attempt to steal it.,anger,1,1,0,1,0,1,0,1
+1184,4737,"Sorry, Cap.",anticipation,0,1,0,0,0,0,0,1
+1185,4739,We can't give you the scepter.,Neutral,0,0,0,0,0,0,0,0
+1186,4741,I'm gonna have to call the director.,trust,0,0,0,0,0,0,0,1
+1187,4743,That's okay. Trust me.,trust,0,0,0,0,0,0,0,1
+1188,4749,Hail Hydra.,fear,0,0,0,1,0,0,0,1
+1189,4764,So many stairs!,Neutral,0,0,0,0,0,0,0,0
+1190,4778,"Thumbelina, do you copy? I've got eyes on the prize.",Neutral,0,0,0,0,0,0,0,0
+1191,4781,It is go time.,anticipation,0,1,0,0,0,0,0,0
+1192,4782,Bombs away.,anger,1,0,0,1,0,1,1,0
+1193,4790,Is that Axe Body Spray?,Neutral,0,0,0,0,0,0,0,0
+1194,4793,"Yeah, I had a can in the desk for emergencies. Relax.",Neutral,0,0,0,0,0,0,0,0
+1195,4795,"Can we focus, please?",Neutral,0,0,0,0,0,0,0,0
+1196,4796,I'm going inside you...,Neutral,0,0,0,0,0,0,0,0
+1197,4798,now.,Neutral,0,0,0,0,0,0,0,0
+1198,4805,May I ask you where you're going?,Neutral,0,0,0,0,0,0,0,0
+1199,4807,"Bit of lunch and then Asgard. I'm sorry, you are...?",Neutral,0,0,0,0,0,0,0,0
+1200,4809,Alexander Pierce.,Neutral,0,0,0,0,0,0,0,0
+1201,4810,He's the man above the folks behind Nick Fury.,anger,1,0,0,1,0,1,0,0
+1202,4813,My friends call me Mr. Secretary.,Neutral,0,0,0,0,0,0,0,0
+1203,4814,I'm gonna have to ask you to turn that prisoner over to me.,anger,1,0,1,1,0,1,0,0
+1204,4817,Loki will be answering to Odin himself.,Neutral,0,0,0,0,0,0,0,0
+1205,4819,"No, he's going to answer to us. Odin can have what's left.",sadness,0,0,0,0,0,1,1,0
+1206,4821,And I'm gonna need that case.,fear,0,0,0,1,0,1,0,0
+1207,4823,That's been S.H.I.E.I.D. property for over 70 years.,Neutral,0,0,0,0,0,0,0,0
+1208,4825,"Hand over the case, Stark.",fear,0,0,0,1,0,1,0,1
+1209,4826,"All right, move it, Stuart Little. Things are getting dicey out here. Let's go.",Neutral,0,0,0,0,0,0,0,0
+1210,4829,I'm not gonna argue who's got the higher authority here...,anger,1,0,0,0,0,0,0,1
+1211,4831,You promise me you won't die?,anticipation,0,1,0,1,1,1,0,1
+1212,4832,We're only giving me a mild cardiac dysrhythmia.,Neutral,0,0,0,0,0,0,0,0
+1213,4835,That doesn't sound mild.,Neutral,0,0,0,0,0,0,0,0
+1214,4837,I need the case.,fear,0,0,0,1,0,1,0,0
+1215,4838,"I know you got a lot of pull, I'm just saying, jurisdiction...",Neutral,0,0,0,0,0,0,0,0
+1216,4840,"Okay, then give me the case.",fear,0,0,0,1,0,1,0,0
+1217,4841,"- Well, jurisdiction... - Hand it over.",Neutral,0,0,0,0,0,0,0,0
+1218,4843,"Do it, Lang!",Neutral,0,0,0,0,0,0,0,0
+1219,4844,- Get your hands off me. - Window's closing. Pull my pin.,Neutral,0,0,0,0,0,0,0,0
+1220,4847,Here goes!,Neutral,0,0,0,0,0,0,0,0
+1221,4852,- Stark? - Stark?,trust,0,0,0,0,0,0,0,2
+1222,4854,He's convulsing. Give him air!,Neutral,0,0,0,0,0,0,0,0
+1223,4856,- Medic! - Medic!,Neutral,0,0,0,0,0,0,0,0
+1224,4858,Give these guys some help.,Neutral,0,0,0,0,0,0,0,0
+1225,4860,Speak to me.,Neutral,0,0,0,0,0,0,0,0
+1226,4861,"Stark, is it your chest machine?",trust,0,0,0,0,0,0,0,2
+1227,4866,"Breathe, breathe.",Neutral,0,0,0,0,0,0,0,0
+1228,4872,Good job. Meet me in the alley. I'm gonna grab a quick slice.,anger,1,1,0,0,1,0,1,1
+1229,4880,No stairs!,Neutral,0,0,0,0,0,0,0,0
+1230,4890,"Come on, Stark, stay with us.",trust,0,0,0,0,0,0,0,1
+1231,4892,I'm going to try something. Okay? I have no idea if it's going to work.,Neutral,0,0,0,0,0,0,0,0
+1232,4896,Yes!,Neutral,0,0,0,0,0,0,0,0
+1233,4897,"Oh, that worked a treat.",anger,1,1,1,1,1,1,1,1
+1234,4898,"Dude, that was so crazy.",anger,1,0,0,1,0,1,0,0
+1235,4900,I had no idea if that was gonna work.,Neutral,0,0,0,0,0,0,0,0
+1236,4901,- The case. - The case is...,fear,0,0,0,2,0,2,0,0
+1237,4903,Where's the case? Where's Loki?,fear,0,0,0,1,0,1,0,0
+1238,4906,Loki!,Neutral,0,0,0,0,0,0,0,0
+1239,4907,"That wasn't supposed to happen, was it?",anticipation,0,1,0,0,0,0,0,0
+1240,4909,We blew it.,Neutral,0,0,0,0,0,0,0,0
+1241,4910,Loki?,Neutral,0,0,0,0,0,0,0,0
+1242,4913,"Tony, what's going on?",Neutral,0,0,0,0,0,0,0,0
+1243,4916,Tell me you found that Cube.,trust,0,0,0,0,0,0,0,1
+1244,4920,You got to be shitting me.,anger,1,0,1,0,0,0,0,0
+1245,4926,I have eyes on Loki. 14th floor.,Neutral,0,0,0,0,0,0,0,0
+1246,4928,I'm not Loki...,Neutral,0,0,0,0,0,0,0,0
+1247,4933,and I don't wanna hurt you.,fear,1,0,0,2,0,2,0,0
+1248,4944,I can do this all day.,Neutral,0,0,0,0,0,0,0,0
+1249,4945,"Yeah, I know.",Neutral,0,0,0,0,0,0,0,0
+1250,4946,I know.,Neutral,0,0,0,0,0,0,0,0
+1251,4980,Where did you get this?,Neutral,0,0,0,0,0,0,0,0
+1252,4992,Bucky is alive.,anticipation,0,1,0,0,1,0,0,1
+1253,4999,What?,Neutral,0,0,0,0,0,0,0,0
+1254,5015,That is America's ass.,Neutral,0,0,0,0,0,0,0,0
+1255,5021,"Please, please.",Neutral,0,0,0,0,0,0,0,0
+1256,5022,"I'm sorry, I can't help you, Bruce.",Neutral,0,0,0,0,0,0,0,0
+1257,5025,"If I give up the Time Stone to help your reality, I'm dooming my own.",anger,1,1,0,1,0,0,0,0
+1258,5028,"With all due respect, all right...",anticipation,0,1,0,0,1,0,0,1
+1259,5030,I'm not sure the science really supports that.,Neutral,0,0,0,0,0,0,0,0
+1260,5039,The Infinity Stones create what you experience as the flow of time.,anticipation,1,2,0,0,2,0,0,1
+1261,5043,Remove one of the stones...,anger,2,0,0,1,0,1,0,0
+1262,5045,and that flow splits.,Neutral,0,0,0,0,0,0,0,0
+1263,5047,"Now, this may benefit your reality...",Neutral,0,0,0,0,0,0,0,0
+1264,5050,"but my new one, not so much.",Neutral,0,0,0,0,0,0,0,0
+1265,5052,In this new branch reality...,Neutral,0,0,0,0,0,0,0,0
+1266,5054,without our chief weapon against the forces of darkness...,anger,2,0,0,2,0,1,0,0
+1267,5058,our world would be overrun.,Neutral,0,0,0,0,0,0,0,0
+1268,5060,Millions will suffer.,Neutral,0,0,0,0,0,0,0,0
+1269,5062,"So, tell me, Doctor.",trust,0,0,0,0,0,0,0,1
+1270,5064,Can your science prevent all that?,fear,0,0,0,1,0,0,0,0
+1271,5066,No...,Neutral,0,0,0,0,0,0,0,0
+1272,5068,but we can erase it.,fear,0,0,0,1,0,0,0,0
+1273,5069,Because once we're done with the stones...,anger,1,0,0,0,0,0,0,0
+1274,5071,we can return each one to its own timeline...,Neutral,0,0,0,0,0,0,0,0
+1275,5073,at the moment it was taken.,Neutral,0,0,0,0,0,0,0,0
+1276,5075,"So, chronologically...",Neutral,0,0,0,0,0,0,0,0
+1277,5079,in that reality...,Neutral,0,0,0,0,0,0,0,0
+1278,5082,it never left.,sadness,0,0,0,0,0,1,1,0
+1279,5086,"Yes, but you're leaving out the most important part.",sadness,0,0,0,0,0,1,1,1
+1280,5093,"In order to return the stones, you have to survive.",anger,1,0,0,0,0,0,0,0
+1281,5096,We will. I will. I promise.,joy,0,0,0,0,1,0,0,1
+1282,5099,I can't risk this reality on a promise.,anticipation,0,1,0,1,1,0,0,1
+1283,5103,It's the duty of the Sorcerer Supreme to protect the Time Stone.,anger,1,1,0,0,0,0,0,0
+1284,5108,Then why the hell did Strange give it away?,anger,1,0,1,1,0,1,0,0
+1285,5112,What did you say?,Neutral,0,0,0,0,0,0,0,0
+1286,5113,Strange. He gave it away. He gave it to Thanos.,Neutral,0,0,0,0,0,0,0,0
+1287,5116,- Willingly? - Yes.,Neutral,0,0,0,0,0,0,0,0
+1288,5121,- Why? - I have no idea.,Neutral,0,0,0,0,0,0,0,0
+1289,5123,Maybe he made a mistake.,sadness,0,0,0,0,0,1,0,0
+1290,5135,Or I did.,Neutral,0,0,0,0,0,0,0,0
+1291,5156,Strange is meant to be the best of us.,Neutral,0,0,0,0,0,0,0,0
+1292,5159,"So, he must've done it for a reason.",Neutral,0,0,0,0,0,0,0,0
+1293,5162,I fear you might be right.,anger,1,0,0,1,0,0,0,0
+1294,5169,Thank you.,Neutral,0,0,0,0,0,0,0,0
+1295,5176,"I'm counting on you, Bruce.",trust,0,0,0,0,0,0,0,1
+1296,5180,We all are.,Neutral,0,0,0,0,0,0,0,0
+1297,5202,Run diagnostics.,Neutral,0,0,0,0,0,0,0,0
+1298,5204,Show me her memory file.,trust,0,0,0,0,0,0,0,1
+1299,5208,"Sire, the file appears entangled.",Neutral,0,0,0,0,0,0,0,0
+1300,5211,"It was a memory, but not hers.",Neutral,0,0,0,0,0,0,0,0
+1301,5215,There's another consciousness...,Neutral,0,0,0,0,0,0,0,0
+1302,5216,sharing her network.,anticipation,0,2,0,0,1,0,0,1
+1303,5218,Another Nebula.,Neutral,0,0,0,0,0,0,0,0
+1304,5221,Impossible.,sadness,0,0,0,0,0,1,0,0
+1305,5223,This duplicate carries a time stamp...,anticipation,0,1,0,0,0,0,0,0
+1306,5227,from nine years in the future.,Neutral,0,0,0,0,0,0,0,0
+1307,5233,Where is this other Nebula?,Neutral,0,0,0,0,0,0,0,0
+1308,5236,In our solar system on Morag.,trust,0,0,0,0,0,0,0,1
+1309,5240,Can you access her?,Neutral,0,0,0,0,0,0,0,0
+1310,5241,"Yes, the two are linked.",Neutral,0,0,0,0,0,0,0,0
+1311,5244,Search the duplicate's memories...,Neutral,0,0,0,0,0,0,0,0
+1312,5246,for Infinity Stones.,anger,1,1,0,0,1,0,0,1
+1313,5252,And these stones have been in a lot of different places throughout history.,anger,1,0,0,0,0,0,0,0
+1314,5255,Our history.,Neutral,0,0,0,0,0,0,0,0
+1315,5256,"So, not a lot of convenient spots...",Neutral,0,0,0,0,0,0,0,0
+1316,5258,to just drop in.,Neutral,0,0,0,0,0,0,0,0
+1317,5260,Which means we have to pick our targets.,Neutral,0,0,0,0,0,0,0,0
+1318,5261,- Correct. - Freeze image.,Neutral,0,0,0,0,0,0,0,0
+1319,5265,Terrans.,Neutral,0,0,0,0,0,0,0,0
+1320,5267,Avengers.,Neutral,0,0,0,0,0,0,0,0
+1321,5270,Unruly wretches.,anger,1,0,1,1,0,0,0,0
+1322,5272,What's that reflection?,Neutral,0,0,0,0,0,0,0,0
+1323,5275,"Amplify this, Maw.",Neutral,0,0,0,0,0,0,0,0
+1324,5279,I don't understand.,Neutral,0,0,0,0,0,0,0,0
+1325,5285,Two Nebulas.,Neutral,0,0,0,0,0,0,0,0
+1326,5287,No. The same Nebula...,Neutral,0,0,0,0,0,0,0,0
+1327,5290,from two different times.,anticipation,0,1,0,0,0,0,0,0
+1328,5293,Set course for Morag.,Neutral,0,0,0,0,0,0,0,0
+1329,5295,And scan the duplicate's memories.,Neutral,0,0,0,0,0,0,0,0
+1330,5298,I wanna see everything.,fear,0,0,0,1,0,1,0,0
+1331,5310,"My ladies, I'll see you after. I'll see you after. Go on ahead.",anger,2,0,2,2,0,2,0,0
+1332,5328,What are you doing?,Neutral,0,0,0,0,0,0,0,0
+1333,5331,"Oh, God!",anticipation,0,1,0,1,1,0,0,1
+1334,5332,You're better off leaving the sneaking to your brother.,surprise,1,0,0,1,0,1,2,1
+1335,5335,"No, I wasn't sneaking. I was just going for a walk.",anger,1,0,0,1,0,0,1,0
+1336,5337,What are you wearing?,trust,0,0,0,0,0,0,0,1
+1337,5338,I always wear this. It's one of my favorites.,trust,0,0,0,0,0,0,0,1
+1338,5345,What's wrong with your eye?,Neutral,0,0,0,0,0,0,0,0
+1339,5346,"Oh, my eye.",Neutral,0,0,0,0,0,0,0,0
+1340,5348,Remember the Battle of Harokin...,anger,1,0,0,0,0,0,0,0
+1341,5350,when I got hit in the face with the broadsword?,anger,1,0,0,0,0,0,0,0
+1342,5356,"You're not the Thor I know at all, are you?",Neutral,0,0,0,0,0,0,0,0
+1343,5359,"Yes, I am.",Neutral,0,0,0,0,0,0,0,0
+1344,5361,"The future hasn't been kind to you, has it?",joy,0,0,0,0,1,0,0,1
+1345,5364,I didn't say I was from the future.,Neutral,0,0,0,0,0,0,0,0
+1346,5367,"I was raised by witches, boy.",disgust,1,0,2,1,0,0,0,0
+1347,5370,"I see with more than eyes, you know that.",Neutral,0,0,0,0,0,0,0,0
+1348,5375,"Yeah, I'm totally from the future.",Neutral,0,0,0,0,0,0,0,0
+1349,5377,"Yes, you are, honey.",Neutral,0,0,0,0,0,0,0,0
+1350,5379,I really need to talk to you.,Neutral,0,0,0,0,0,0,0,0
+1351,5381,We can talk.,Neutral,0,0,0,0,0,0,0,0
+1352,5406,His head was over there...,Neutral,0,0,0,0,0,0,0,0
+1353,5408,and his body over there...,Neutral,0,0,0,0,0,0,0,0
+1354,5412,"I mean, what was the point? I was too late.",sadness,0,0,0,0,0,1,0,0
+1355,5415,I was just standing there.,Neutral,0,0,0,0,0,0,0,0
+1356,5418,Some idiot with an axe.,disgust,0,0,1,0,0,0,0,0
+1357,5420,"Now, you're no idiot.",disgust,0,0,1,0,0,0,0,0
+1358,5423,"You're here, aren't you?",Neutral,0,0,0,0,0,0,0,0
+1359,5425,Seeking counsel from the wisest person in Asgard.,anticipation,0,1,0,0,0,0,0,1
+1360,5427,I am. Yes.,Neutral,0,0,0,0,0,0,0,0
+1361,5429,"Idiot, no.",disgust,0,0,1,0,0,0,0,0
+1362,5430,A failure?,disgust,0,0,1,1,0,1,0,0
+1363,5432,Absolutely.,Neutral,0,0,0,0,0,0,0,0
+1364,5433,That's a little bit harsh.,Neutral,0,0,0,0,0,0,0,0
+1365,5435,Do you know what that makes you?,Neutral,0,0,0,0,0,0,0,0
+1366,5438,Just like everyone else.,Neutral,0,0,0,0,0,0,0,0
+1367,5440,"I'm not supposed to be like everyone else, am I?",Neutral,0,0,0,0,0,0,0,0
+1368,5443,"Everyone fails at who they're supposed to be, Thor.",Neutral,0,0,0,0,0,0,0,0
+1369,5447,"The measure of a person, of a hero...",trust,0,1,0,0,1,0,1,2
+1370,5450,is how well they succeed at being who they are.,anticipation,0,1,0,0,1,0,1,1
+1371,5459,"I've really missed you, Mom.",Neutral,0,0,0,0,0,0,0,0
+1372,5466,Thor! I got it!,Neutral,0,0,0,0,0,0,0,0
+1373,5469,Get that rabbit!,Neutral,0,0,0,0,0,0,0,0
+1374,5473,"Mom, I have to tell you something.",Neutral,0,0,0,0,0,0,0,0
+1375,5475,"No, son, you don't.",Neutral,0,0,0,0,0,0,0,0
+1376,5477,"You're here to repair your future, not mine.",Neutral,0,0,0,0,0,0,0,0
+1377,5480,This is about your future.,Neutral,0,0,0,0,0,0,0,0
+1378,5482,It's none of my business.,Neutral,0,0,0,0,0,0,0,0
+1379,5487,Hi.,Neutral,0,0,0,0,0,0,0,0
+1380,5488,You must be Mom.,Neutral,0,0,0,0,0,0,0,0
+1381,5491,I got the thing. Come on. We got to move.,Neutral,0,0,0,0,0,0,0,0
+1382,5492,I wish we had more time.,anticipation,0,1,0,0,0,0,0,0
+1383,5494,"No, this was a gift.",anticipation,0,1,0,0,1,0,1,0
+1384,5496,Now you go and be the man you're meant to be.,Neutral,0,0,0,0,0,0,0,0
+1385,5500,"I love you, Mom.",joy,0,0,0,0,1,0,0,0
+1386,5501,I love you.,joy,0,0,0,0,1,0,0,0
+1387,5506,And eat a salad.,Neutral,0,0,0,0,0,0,0,0
+1388,5509,"Come on, we got to go.",Neutral,0,0,0,0,0,0,0,0
+1389,5511,- Goodbye. - Three...,Neutral,0,0,0,0,0,0,0,0
+1390,5512,"- Two... - No, wait!",anticipation,0,1,0,0,0,0,0,0
+1391,5517,What am I looking at?,Neutral,0,0,0,0,0,0,0,0
+1392,5518,Sometimes it takes a second.,Neutral,0,0,0,0,0,0,0,0
+1393,5529,I'm still worthy.,trust,0,0,0,0,0,0,0,1
+1394,5532,"Oh, boy.",disgust,0,0,1,0,0,0,0,0
+1395,5535,"- Goodbye, Mom. - Goodbye.",Neutral,0,0,0,0,0,0,0,0
+1396,5576,"So, he's an idiot?",disgust,0,0,1,0,0,0,0,0
+1397,5579,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1398,5589,What's that?,Neutral,0,0,0,0,0,0,0,0
+1399,5591,The tool of a thief.,anger,1,0,1,1,0,1,1,0
+1400,5602,This is the part where spikes come out...,fear,0,0,0,1,0,0,0,0
+1401,5604,with skeletons on the end of them and everything.,Neutral,0,0,0,0,0,0,0,0
+1402,5606,What are you talking about?,Neutral,0,0,0,0,0,0,0,0
+1403,5607,"When you break into a place called ""The Temple of the Power Stone""...",anger,1,0,0,0,0,0,1,0
+1404,5610,there's gonna be a bunch of booby traps.,Neutral,0,0,0,0,0,0,0,0
+1405,5611,"- Oh, my God. - Okay. All right. Go ahead.",anticipation,0,1,0,1,1,0,0,1
+1406,5647,I wasn't always like this.,Neutral,0,0,0,0,0,0,0,0
+1407,5649,Me either.,Neutral,0,0,0,0,0,0,0,0
+1408,5652,"But we work with what we got, right?",Neutral,0,0,0,0,0,0,0,0
+1409,5657,Let's sync up.,Neutral,0,0,0,0,0,0,0,0
+1410,5661,"Three, two, one.",Neutral,0,0,0,0,0,0,0,0
+1411,5676,You murdered trillions!,anger,1,0,1,1,0,1,1,0
+1412,5678,You should be grateful.,Neutral,0,0,0,0,0,0,0,0
+1413,5681,Where are the stones?,anger,1,0,0,0,0,0,0,0
+1414,5682,Gone.,Neutral,0,0,0,0,0,0,0,0
+1415,5684,Reduced to atoms.,Neutral,0,0,0,0,0,0,0,0
+1416,5686,You used them two days ago!,Neutral,0,0,0,0,0,0,0,0
+1417,5688,I used the stones to destroy the stones.,anger,2,0,0,0,0,0,0,0
+1418,5691,It nearly killed me.,fear,0,0,0,1,0,1,0,0
+1419,5693,But the work is done.,Neutral,0,0,0,0,0,0,0,0
+1420,5695,It always will be.,Neutral,0,0,0,0,0,0,0,0
+1421,5698,I am inevitable.,Neutral,0,0,0,0,0,0,0,0
+1422,5703,What did you do to them?,Neutral,0,0,0,0,0,0,0,0
+1423,5705,Nothing.,Neutral,0,0,0,0,0,0,0,0
+1424,5707,Yet.,Neutral,0,0,0,0,0,0,0,0
+1425,5710,They're not trying to stop something I'm going to do in our time.,anticipation,0,1,0,0,0,0,0,0
+1426,5714,They're trying to undo something I've already done in theirs.,Neutral,0,0,0,0,0,0,0,0
+1427,5718,The stones.,anger,1,0,0,0,0,0,0,0
+1428,5721,I found them all.,Neutral,0,0,0,0,0,0,0,0
+1429,5725,I won.,Neutral,0,0,0,0,0,0,0,0
+1430,5727,Tipped the cosmic scales to balance.,Neutral,0,0,0,0,0,0,0,0
+1431,5734,This is your future.,Neutral,0,0,0,0,0,0,0,0
+1432,5736,It's my destiny.,Neutral,0,0,0,0,0,0,0,0
+1433,5739,My father is many things.,trust,0,0,0,0,0,0,0,1
+1434,5741,A liar is not one of them.,disgust,0,0,1,0,0,0,0,0
+1435,5747,"Thank you, daughter.",joy,0,0,0,0,1,0,0,0
+1436,5749,Perhaps I treated you too harshly.,anger,1,1,1,1,1,1,1,1
+1437,5755,And that is destiny fulfilled.,Neutral,0,0,0,0,0,0,0,0
+1438,5759,Sire...,Neutral,0,0,0,0,0,0,0,0
+1439,5760,your daughter...,joy,0,0,0,0,1,0,0,0
+1440,5764,No!,Neutral,0,0,0,0,0,0,0,0
+1441,5765,Is a traitor.,anger,1,0,1,1,0,1,0,0
+1442,5767,"That's not me. It's not, I could never...",Neutral,0,0,0,0,0,0,0,0
+1443,5769,I would never betray you.,anger,1,0,1,0,0,1,1,0
+1444,5771,Never. Never.,Neutral,0,0,0,0,0,0,0,0
+1445,5778,I know.,Neutral,0,0,0,0,0,0,0,0
+1446,5780,And you'll have the chance to prove it.,surprise,0,0,0,0,0,0,1,0
+1447,5790,No!,Neutral,0,0,0,0,0,0,0,0
+1448,5792,He knows!,Neutral,0,0,0,0,0,0,0,0
+1449,5797,"Barton! Barton, come in.",Neutral,0,0,0,0,0,0,0,0
+1450,5800,Romanoff!,Neutral,0,0,0,0,0,0,0,0
+1451,5802,"Come in, we have a problem.",fear,0,0,0,1,0,1,0,0
+1452,5804,Come on!,Neutral,0,0,0,0,0,0,0,0
+1453,5805,"Come in, we have a...",Neutral,0,0,0,0,0,0,0,0
+1454,5806,Thanos knows.,Neutral,0,0,0,0,0,0,0,0
+1455,5808,Thanos...,Neutral,0,0,0,0,0,0,0,0
+1456,5823,Cap.,anticipation,0,1,0,0,0,0,0,1
+1457,5826,"Sorry, buddy, we got a problem.",anticipation,0,1,0,1,1,1,0,1
+1458,5829,"Yeah, we do.",Neutral,0,0,0,0,0,0,0,0
+1459,5831,"Well, what are we gonna do now?",Neutral,0,0,0,0,0,0,0,0
+1460,5832,"You know what? Give me a break, Steve.",surprise,0,0,0,0,0,0,1,0
+1461,5833,I just got hit in the head with the Hulk.,anger,1,0,1,0,0,0,0,0
+1462,5835,You said that we had one shot.,anger,1,0,0,1,0,0,0,0
+1463,5837,This was our shot.,anger,1,0,0,1,0,0,0,0
+1464,5838,We shot it. It's shot. Six stones or nothing.,anger,3,0,0,2,0,0,0,0
+1465,5840,"- It was six stones or nothing. - You're repeating yourself, you know that?",anger,1,0,0,0,0,0,0,0
+1466,5842,You're repeating yourself.,Neutral,0,0,0,0,0,0,0,0
+1467,5843,You're repeating yourself. You're repeating yourself.,Neutral,0,0,0,0,0,0,0,0
+1468,5845,- Dude. Come on! - No. You never wanted a time heist.,anticipation,0,1,0,0,0,0,0,0
+1469,5847,You weren't on board with the time heist.,anticipation,0,2,0,0,0,0,0,0
+1470,5848,- I dropped the ball. - You ruined the time heist.,anticipation,0,1,0,1,0,1,0,0
+1471,5849,- Is that what I did? - Yeah.,Neutral,0,0,0,0,0,0,0,0
+1472,5851,Are there any other options with the Tesseract?,Neutral,0,0,0,0,0,0,0,0
+1473,5853,"No, no, no, there's no other options.",Neutral,0,0,0,0,0,0,0,0
+1474,5854,There's no do-overs.,Neutral,0,0,0,0,0,0,0,0
+1475,5856,We're not going anywhere else. We have one particle left.,sadness,0,0,0,0,0,1,1,0
+1476,5858,Each.,Neutral,0,0,0,0,0,0,0,0
+1477,5859,That's it. All right? We use that...,Neutral,0,0,0,0,0,0,0,0
+1478,5861,"bye-bye, you're not going home.",Neutral,0,0,0,0,0,0,0,0
+1479,5863,"Yeah, well, if we don't try...",Neutral,0,0,0,0,0,0,0,0
+1480,5865,"then no one else is going home, either.",Neutral,0,0,0,0,0,0,0,0
+1481,5866,I got it.,Neutral,0,0,0,0,0,0,0,0
+1482,5868,There's another way to retake the Tesseract and acquire new particles.,Neutral,0,0,0,0,0,0,0,0
+1483,5873,Little stroll down memory lane.,Neutral,0,0,0,0,0,0,0,0
+1484,5875,"Military installation, Garden State.",fear,0,0,0,1,1,0,0,0
+1485,5881,When were they both there?,Neutral,0,0,0,0,0,0,0,0
+1486,5882,They were there at a time... I have a vaguely exact idea.,anticipation,0,1,0,0,0,0,0,0
+1487,5885,- How vague? - What are you talking about?,Neutral,0,0,0,0,0,0,0,0
+1488,5887,Where are we going?,Neutral,0,0,0,0,0,0,0,0
+1489,5888,I know for a fact they were there.,trust,0,0,0,0,0,0,0,1
+1490,5889,- Who's they? What are we doing? - And I know how I know.,Neutral,0,0,0,0,0,0,0,0
+1491,5893,"Guys, what is it?",Neutral,0,0,0,0,0,0,0,0
+1492,5895,Looks like we're improvising.,anticipation,0,1,0,0,0,0,1,0
+1493,5897,- Great. - What are we improvising?,anticipation,0,1,0,0,0,0,1,0
+1494,5898,"Scott, get this back to the compound.",Neutral,0,0,0,0,0,0,0,0
+1495,5900,Suit up.,Neutral,0,0,0,0,0,0,0,0
+1496,5901,- What's in New Jersey? - 0-4.,Neutral,0,0,0,0,0,0,0,0
+1497,5903,0-4.,Neutral,0,0,0,0,0,0,0,0
+1498,5904,- 0-7. - 0-7.,Neutral,0,0,0,0,0,0,0,0
+1499,5905,- Excuse me. - 1-9-7-0.,Neutral,0,0,0,0,0,0,0,0
+1500,5907,Are you sure?,Neutral,0,0,0,0,0,0,0,0
+1501,5908,Cap? Captain?,anticipation,0,1,0,0,0,0,0,1
+1502,5910,Steve? Sorry.,Neutral,0,0,0,0,0,0,0,0
+1503,5912,America. Rogers.,Neutral,0,0,0,0,0,0,0,0
+1504,5914,"Look, if you do this...",Neutral,0,0,0,0,0,0,0,0
+1505,5915,"and it doesn't work, you're not coming back.",Neutral,0,0,0,0,0,0,0,0
+1506,5919,"Thanks for the pep talk, pissant.",Neutral,0,0,0,0,0,0,0,0
+1507,5922,You trust me?,trust,0,0,0,0,0,0,0,1
+1508,5924,I do.,Neutral,0,0,0,0,0,0,0,0
+1509,5926,Your call.,Neutral,0,0,0,0,0,0,0,0
+1510,5928,Here we go.,Neutral,0,0,0,0,0,0,0,0
+1511,5946,"Hey, man! Make love, not war.",fear,0,0,0,1,1,0,0,0
+1512,5955,"Clearly you weren't actually born here, right?",anger,1,0,0,1,0,0,0,0
+1513,5958,The idea of me was.,Neutral,0,0,0,0,0,0,0,0
+1514,5961,"Right. Well, imagine you're S.H.I.E.I.D...",Neutral,0,0,0,0,0,0,0,0
+1515,5963,running a quasi-fascistic intelligence organization...,joy,0,1,0,1,2,0,1,2
+1516,5967,where do you hide it?,fear,0,0,0,1,0,0,0,0
+1517,5969,In plain sight.,Neutral,0,0,0,0,0,0,0,0
+1518,5999,"Good luck on your mission, Captain.",anticipation,0,2,0,0,2,0,2,1
+1519,6000,"Good luck on your project, Doctor.",anticipation,0,2,0,0,2,0,2,2
+1520,6006,You new here?,Neutral,0,0,0,0,0,0,0,0
+1521,6010,Not exactly.,Neutral,0,0,0,0,0,0,0,0
+1522,6018,"Come on, you bastard.",disgust,0,0,1,0,0,1,0,0
+1523,6027,Gotcha.,Neutral,0,0,0,0,0,0,0,0
+1524,6046,Back in the game.,Neutral,0,0,0,0,0,0,0,0
+1525,6050,"Arnim, you in there?",Neutral,0,0,0,0,0,0,0,0
+1526,6052,Arnim?,Neutral,0,0,0,0,0,0,0,0
+1527,6058,Hey!,Neutral,0,0,0,0,0,0,0,0
+1528,6060,"The door is this way, pal.",Neutral,0,0,0,0,0,0,0,0
+1529,6063,"Oh, yeah.",Neutral,0,0,0,0,0,0,0,0
+1530,6064,"Looking for Doctor Zola, have you seen him?",trust,0,0,0,0,0,0,0,1
+1531,6066,"Yeah, Doctor Zola. No, I haven't seen a soul.",trust,0,0,0,0,0,0,0,1
+1532,6071,Pardon me.,Neutral,0,0,0,0,0,0,0,0
+1533,6073,Do I know you?,Neutral,0,0,0,0,0,0,0,0
+1534,6076,"No, sir.",trust,0,0,0,0,0,0,0,1
+1535,6079,I'm a visitor from MIT.,anticipation,0,1,0,0,1,0,0,0
+1536,6081,MIT.,Neutral,0,0,0,0,0,0,0,0
+1537,6083,Got a name?,Neutral,0,0,0,0,0,0,0,0
+1538,6084,Howard.,Neutral,0,0,0,0,0,0,0,0
+1539,6085,- That'll be easy to remember. - Howard...,Neutral,0,0,0,0,0,0,0,0
+1540,6089,Potts.,Neutral,0,0,0,0,0,0,0,0
+1541,6091,"Well, I'm Howard Stark.",trust,0,0,0,0,0,0,0,1
+1542,6093,Hi.,Neutral,0,0,0,0,0,0,0,0
+1543,6094,"Shake that, don't pull it.",Neutral,0,0,0,0,0,0,0,0
+1544,6095,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1545,6098,"You look a little green around the gills, there, Potts.",joy,0,0,0,0,1,0,0,1
+1546,6100,I'm fine. Just long hours.,anticipation,0,1,0,0,0,0,0,0
+1547,6103,You wanna get some air?,fear,0,0,0,1,0,1,0,0
+1548,6107,"- Hello, Potts. - Yeah.",Neutral,0,0,0,0,0,0,0,0
+1549,6109,- That'd be swell. - That way.,Neutral,0,0,0,0,0,0,0,0
+1550,6110,Okay.,Neutral,0,0,0,0,0,0,0,0
+1551,6111,Need your briefcase?,Neutral,0,0,0,0,0,0,0,0
+1552,6117,"You're not one of those beatniks, are you, Potts?",Neutral,0,0,0,0,0,0,0,0
+1553,6126,- Hello? - Doctor Pym?,trust,0,0,0,0,0,0,0,1
+1554,6128,"That would be the number that you called, yes.",Neutral,0,0,0,0,0,0,0,0
+1555,6130,This is Captain Stevens from shipping.,anticipation,0,1,0,0,0,0,0,0
+1556,6133,We have a package for you.,Neutral,0,0,0,0,0,0,0,0
+1557,6134,Bring it up.,Neutral,0,0,0,0,0,0,0,0
+1558,6135,"That's the thing, sir, we can't.",trust,0,0,0,0,0,0,0,1
+1559,6138,I'm confused. I thought that was your job.,Neutral,0,0,0,0,0,0,0,0
+1560,6141,"Well, it's just...",Neutral,0,0,0,0,0,0,0,0
+1561,6143,"Sir, the box is glowing...",trust,0,1,0,0,1,0,0,2
+1562,6144,"and to be honest, some of our mail guys aren't feeling that great.",anger,1,1,1,1,1,1,0,1
+1563,6147,"They didn't open it, did they?",Neutral,0,0,0,0,0,0,0,0
+1564,6149,"Yeah, they did. You better get down here.",Neutral,0,0,0,0,0,0,0,0
+1565,6152,Excuse me! Out of the way!,Neutral,0,0,0,0,0,0,0,0
+1566,6181,"So, flowers and sauerkraut. You got a big date tonight?",Neutral,0,0,0,0,0,0,0,0
+1567,6186,My wife's expecting.,anticipation,0,1,0,0,0,0,1,1
+1568,6187,And too much time at the office.,anticipation,0,1,0,0,0,0,0,0
+1569,6192,Congratulations.,Neutral,0,0,0,0,0,0,0,0
+1570,6193,"- Thanks. Hold this, will ya? - Yeah, sure.",Neutral,0,0,0,0,0,0,0,0
+1571,6197,- How far along is she? - I don't know.,Neutral,0,0,0,0,0,0,0,0
+1572,6201,She's at the point where she can't stand the sound of my chewing.,Neutral,0,0,0,0,0,0,0,0
+1573,6203,I guess I'll be eating dinner in the pantry again.,anger,1,0,1,1,0,1,1,0
+1574,6208,I have a little girl.,Neutral,0,0,0,0,0,0,0,0
+1575,6209,A girl would be nice.,Neutral,0,0,0,0,0,0,0,0
+1576,6211,Less of a chance she'd turn out exactly like me.,surprise,0,0,0,0,0,0,1,0
+1577,6213,What'd be so awful about that?,anger,1,0,1,1,0,1,0,0
+1578,6215,Let's just say that the greater good has rarely outweighed my own self-interest.,anticipation,0,1,0,0,1,0,1,1
+1579,6224,And you've never seen these two men before?,Neutral,0,0,0,0,0,0,0,0
+1580,6226,"No, I've got an eye for this. The two of them looked fishy.",Neutral,0,0,0,0,0,0,0,0
+1581,6228,- Can you describe them? - One of them had a hippie beard.,Neutral,0,0,0,0,0,0,0,0
+1582,6230,Hippie. Like Bee Gees or Mungo Jerry?,anger,1,0,0,1,0,0,0,0
+1583,6232,Definitely Mungo Jerry.,Neutral,0,0,0,0,0,0,0,0
+1584,6234,"Yeah, this is Chesler. I need every available MP to sublevel six.",Neutral,0,0,0,0,0,0,0,0
+1585,6236,We have a potential breach.,Neutral,0,0,0,0,0,0,0,0
+1586,6256,I said bring them in.,Neutral,0,0,0,0,0,0,0,0
+1587,6257,"They're trying, ma'am, but Braddock's unit has been stopped by lightning strikes.",anger,2,0,0,1,0,0,1,0
+1588,6259,"Oh, for the love of...",joy,0,0,0,0,1,0,0,0
+1589,6260,I'll look at the weather projections.,anger,1,0,1,1,0,1,0,0
+1590,6286,It's not lightning strikes we're looking at.,anger,2,0,0,1,0,0,1,0
+1591,6299,"So, where you at with names?",Neutral,0,0,0,0,0,0,0,0
+1592,6301,"Well, if it's a boy, my wife likes Elmonzo.",disgust,0,0,1,0,0,0,0,0
+1593,6305,Might wanna let that stew awhile. You got time.,anticipation,0,1,0,1,0,1,0,0
+1594,6309,Let me ask you a question.,Neutral,0,0,0,0,0,0,0,0
+1595,6312,"When your kid was born, were you nervous?",fear,1,1,0,2,0,0,0,0
+1596,6315,Wildly.,Neutral,0,0,0,0,0,0,0,0
+1597,6317,- Yeah. - Did you feel qualified?,Neutral,0,0,0,0,0,0,0,0
+1598,6318,Like you had any idea how to successfully operate that thing?,Neutral,0,0,0,0,0,0,0,0
+1599,6322,I literally pieced it together as I went along.,Neutral,0,0,0,0,0,0,0,0
+1600,6325,I thought about what my dad did.,Neutral,0,0,0,0,0,0,0,0
+1601,6328,"My old man, he never met a problem he couldn't solve with a belt.",fear,1,0,0,2,0,1,0,0
+1602,6331,I thought my dad was tough on me.,sadness,0,0,0,0,0,1,0,0
+1603,6333,"And now, looking back on it, I just remember the good stuff.",anticipation,0,1,0,0,1,0,1,1
+1604,6336,You know? He did drop the odd pearl.,Neutral,0,0,0,0,0,0,0,0
+1605,6338,Yeah? Like what?,Neutral,0,0,0,0,0,0,0,0
+1606,6340,"""No amount of money ever bought a second of time.""",anticipation,1,2,0,0,1,0,1,1
+1607,6344,Smart guy.,Neutral,0,0,0,0,0,0,0,0
+1608,6346,He did his best.,Neutral,0,0,0,0,0,0,0,0
+1609,6349,"I'll tell you, that kid's not even here yet and there's nothing I wouldn't do for him.",anger,1,0,1,1,0,1,0,0
+1610,6361,"Good to meet you, Potts.",anticipation,0,1,0,0,1,0,1,1
+1611,6363,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1612,6365,Howard...,Neutral,0,0,0,0,0,0,0,0
+1613,6366,everything's gonna be all right.,Neutral,0,0,0,0,0,0,0,0
+1614,6371,Thank you...,Neutral,0,0,0,0,0,0,0,0
+1615,6373,for everything...,Neutral,0,0,0,0,0,0,0,0
+1616,6375,you've done for this country.,Neutral,0,0,0,0,0,0,0,0
+1617,6380,Jarvis.,Neutral,0,0,0,0,0,0,0,0
+1618,6385,Have we ever met that guy?,Neutral,0,0,0,0,0,0,0,0
+1619,6388,"You meet a lot of people, sir.",trust,0,0,0,0,0,0,0,1
+1620,6393,Seems very familiar.,trust,0,0,0,0,0,0,0,1
+1621,6395,Weird beard.,disgust,0,0,1,0,0,0,0,0
+1622,6405,You're weak.,Neutral,0,0,0,0,0,0,0,0
+1623,6406,I'm you.,Neutral,0,0,0,0,0,0,0,0
+1624,6425,You could stop this.,Neutral,0,0,0,0,0,0,0,0
+1625,6428,You know you want to.,Neutral,0,0,0,0,0,0,0,0
+1626,6430,Did you see what happens in the future?,anticipation,0,1,0,0,0,0,0,0
+1627,6434,Thanos finds the Soul Stone.,anger,1,0,0,0,0,0,0,0
+1628,6437,You wanna know how he does that?,fear,0,0,0,1,0,1,0,0
+1629,6441,You wanna know what he does to you?,fear,0,0,0,1,0,1,0,0
+1630,6446,That's enough.,Neutral,0,0,0,0,0,0,0,0
+1631,6459,You disgust me.,anger,1,0,1,1,0,1,0,0
+1632,6462,But that doesn't mean you're useless.,Neutral,0,0,0,0,0,0,0,0
+1633,6489,How do I look?,Neutral,0,0,0,0,0,0,0,0
+1634,6497,Wow.,Neutral,0,0,0,0,0,0,0,0
+1635,6499,Under different circumstances...,Neutral,0,0,0,0,0,0,0,0
+1636,6502,this would be totally awesome.,Neutral,0,0,0,0,0,0,0,0
+1637,6516,I bet the raccoon didn't have to climb a mountain.,anticipation,0,1,0,0,0,0,0,0
+1638,6519,"Technically he's not a raccoon, you know?",Neutral,0,0,0,0,0,0,0,0
+1639,6521,Whatever. He eats garbage.,disgust,0,0,1,0,0,0,0,0
+1640,6523,Welcome.,Neutral,0,0,0,0,0,0,0,0
+1641,6528,Natasha.,Neutral,0,0,0,0,0,0,0,0
+1642,6529,Daughter of Ivan.,joy,0,0,0,0,1,0,0,0
+1643,6532,Clint.,Neutral,0,0,0,0,0,0,0,0
+1644,6533,Son of Edith.,Neutral,0,0,0,0,0,0,0,0
+1645,6540,Who are you?,Neutral,0,0,0,0,0,0,0,0
+1646,6543,Consider me a guide...,trust,0,0,0,0,0,0,0,1
+1647,6545,to you...,Neutral,0,0,0,0,0,0,0,0
+1648,6547,and to all who seek the Soul Stone.,anger,1,1,0,0,0,0,0,0
+1649,6549,"Oh, good.",anticipation,0,1,0,0,1,0,1,1
+1650,6550,"You tell us where it is, then we'll be on our way.",Neutral,0,0,0,0,0,0,0,0
+1651,6556,If only it were that easy.,Neutral,0,0,0,0,0,0,0,0
+1652,6571,What you seek lies in front of you.,anger,1,1,1,0,0,1,0,0
+1653,6576,As does what you fear.,anger,1,0,0,1,0,0,0,0
+1654,6583,The stone's down there.,anger,1,0,0,0,0,0,0,0
+1655,6585,For one of you.,Neutral,0,0,0,0,0,0,0,0
+1656,6588,For the other...,Neutral,0,0,0,0,0,0,0,0
+1657,6592,In order to take the stone...,anger,1,0,0,0,0,0,0,0
+1658,6594,you must lose that which you love.,anger,1,0,1,1,1,1,1,0
+1659,6599,An everlasting exchange.,trust,0,0,0,0,0,0,0,1
+1660,6603,A soul for a soul.,Neutral,0,0,0,0,0,0,0,0
+1661,6609,How's it going?,Neutral,0,0,0,0,0,0,0,0
+1662,6614,Jesus.,Neutral,0,0,0,0,0,0,0,0
+1663,6616,Maybe he's making this shit up.,anger,1,0,1,0,0,0,0,0
+1664,6618,No.,Neutral,0,0,0,0,0,0,0,0
+1665,6621,I don't think so.,Neutral,0,0,0,0,0,0,0,0
+1666,6622,Why? 'Cause he knows your daddy's name?,Neutral,0,0,0,0,0,0,0,0
+1667,6626,I didn't.,Neutral,0,0,0,0,0,0,0,0
+1668,6629,Thanos left here with the stone...,anger,1,0,0,0,0,1,1,0
+1669,6632,without his daughter.,joy,0,0,0,0,1,0,0,0
+1670,6633,That's not a coincidence.,surprise,0,0,0,0,0,0,1,0
+1671,6637,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1672,6640,Whatever it takes.,Neutral,0,0,0,0,0,0,0,0
+1673,6646,Whatever it takes.,Neutral,0,0,0,0,0,0,0,0
+1674,6652,If we don't get that stone...,anger,1,0,0,0,0,0,0,0
+1675,6654,billions of people stay dead.,Neutral,0,0,0,0,0,0,0,0
+1676,6657,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1677,6660,Then I guess we both know who it's got to be.,surprise,0,0,0,0,0,0,1,0
+1678,6663,I guess we do.,surprise,0,0,0,0,0,0,1,0
+1679,6672,"I'm starting to think we mean different people here, Natasha.",anticipation,0,1,0,0,0,0,0,0
+1680,6678,"For the last five years, I've been trying to do one thing.",Neutral,0,0,0,0,0,0,0,0
+1681,6680,Get to right here.,Neutral,0,0,0,0,0,0,0,0
+1682,6681,That's all it's been about. Bringing everybody back.,Neutral,0,0,0,0,0,0,0,0
+1683,6683,"No, don't you get all decent on me now.",Neutral,0,0,0,0,0,0,0,0
+1684,6685,"What, you think I wanna do it?",fear,0,0,0,1,0,1,0,0
+1685,6688,"I'm trying to save your life, you idiot.",disgust,0,0,1,0,1,0,0,1
+1686,6690,"Yeah, well, I don't want you to. How's that?",Neutral,0,0,0,0,0,0,0,0
+1687,6693,"Natasha, you know what I've done.",Neutral,0,0,0,0,0,0,0,0
+1688,6697,You know what I've become.,Neutral,0,0,0,0,0,0,0,0
+1689,6701,I don't judge people on their worst mistakes.,sadness,0,0,0,0,0,1,0,0
+1690,6708,Maybe you should.,Neutral,0,0,0,0,0,0,0,0
+1691,6710,You didn't.,Neutral,0,0,0,0,0,0,0,0
+1692,6718,"You're a pain in my ass, you know that?",fear,0,0,0,1,0,1,0,0
+1693,6731,Okay.,Neutral,0,0,0,0,0,0,0,0
+1694,6734,You win.,Neutral,0,0,0,0,0,0,0,0
+1695,6742,Tell my family I love 'em.,joy,0,0,0,0,1,0,0,0
+1696,6747,You tell 'em yourself.,Neutral,0,0,0,0,0,0,0,0
+1697,6781,Damn you.,anger,1,0,1,0,0,0,0,0
+1698,6789,Wait.,anticipation,0,1,0,0,0,0,0,0
+1699,6798,Let me go.,Neutral,0,0,0,0,0,0,0,0
+1700,6801,No.,Neutral,0,0,0,0,0,0,0,0
+1701,6804,"No. Please, no.",Neutral,0,0,0,0,0,0,0,0
+1702,6809,It's okay.,Neutral,0,0,0,0,0,0,0,0
+1703,6813,Please.,Neutral,0,0,0,0,0,0,0,0
+1704,6816,No!,Neutral,0,0,0,0,0,0,0,0
+1705,6918,Did we get 'em all?,Neutral,0,0,0,0,0,0,0,0
+1706,6920,Are you telling me this actually worked?,Neutral,0,0,0,0,0,0,0,0
+1707,6927,"Clint, where's Nat?",Neutral,0,0,0,0,0,0,0,0
+1708,6958,Do we know if she had family?,Neutral,0,0,0,0,0,0,0,0
+1709,6960,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1710,6961,Us.,Neutral,0,0,0,0,0,0,0,0
+1711,6963,What?,Neutral,0,0,0,0,0,0,0,0
+1712,6966,- What are you doing? - Just asked him a question.,Neutral,0,0,0,0,0,0,0,0
+1713,6968,"Yeah, no, you're acting like she's dead.",Neutral,0,0,0,0,0,0,0,0
+1714,6969,"Why are we acting like she's dead? We have the stones, right?",anger,1,0,0,0,0,0,0,0
+1715,6972,As long as we have the stones...,anger,1,1,0,0,0,0,0,0
+1716,6973,"Cap, we can bring her back. Isn't that right?",anticipation,0,1,0,0,0,0,0,1
+1717,6975,"So, stop this shit. We're the Avengers. Get it together.",anger,1,0,1,0,0,0,0,0
+1718,6977,Can't get her back.,Neutral,0,0,0,0,0,0,0,0
+1719,6981,What's he...? What?,Neutral,0,0,0,0,0,0,0,0
+1720,6983,It can't be undone.,Neutral,0,0,0,0,0,0,0,0
+1721,6985,It can't.,Neutral,0,0,0,0,0,0,0,0
+1722,6989,"Look, I'm sorry, no offense, but you're a very earthly being, okay?",anger,1,0,1,1,0,1,0,0
+1723,6992,And we're talking about space magic.,Neutral,0,0,0,0,0,0,0,0
+1724,6993,"And ""can't"" seems very definitive. Don't you think?",trust,0,0,0,0,0,0,0,1
+1725,6996,"Yeah, look, I know that I'm way outside my pay grade here.",anticipation,0,1,0,0,1,0,0,1
+1726,6999,"But she still isn't here, is she?",Neutral,0,0,0,0,0,0,0,0
+1727,7000,"No, that's my point.",Neutral,0,0,0,0,0,0,0,0
+1728,7001,It can't be undone.,Neutral,0,0,0,0,0,0,0,0
+1729,7005,"Or that's at least what the red, floating guy had to say.",Neutral,0,0,0,0,0,0,0,0
+1730,7008,"Maybe you wanna go talk to him, okay?",fear,0,0,0,1,0,1,0,0
+1731,7010,Go grab your hammer and you go fly and you talk to him.,anger,1,0,0,0,0,0,0,0
+1732,7021,It was supposed to be me.,Neutral,0,0,0,0,0,0,0,0
+1733,7026,She sacrificed her life for that goddamn stone.,anger,1,0,0,0,0,0,0,0
+1734,7028,She bet her life on it.,Neutral,0,0,0,0,0,0,0,0
+1735,7034,She's not coming back.,Neutral,0,0,0,0,0,0,0,0
+1736,7039,We have to make it worth it.,Neutral,0,0,0,0,0,0,0,0
+1737,7041,We have to.,Neutral,0,0,0,0,0,0,0,0
+1738,7044,We will.,Neutral,0,0,0,0,0,0,0,0
+1739,7070,Boom!,Neutral,0,0,0,0,0,0,0,0
+1740,7077,"All right, the glove's ready.",anticipation,0,1,0,0,0,0,0,0
+1741,7079,"Question is, who's gonna snap their freakin' fingers?",Neutral,0,0,0,0,0,0,0,0
+1742,7082,- I'll do it. - Excuse me?,anger,1,0,1,1,0,1,0,0
+1743,7084,It's okay.,Neutral,0,0,0,0,0,0,0,0
+1744,7085,"Stop, stop. Slow down.",Neutral,0,0,0,0,0,0,0,0
+1745,7086,Thor. Just wait.,anticipation,0,1,0,0,0,0,0,0
+1746,7088,We haven't decided who's gonna put that on yet.,Neutral,0,0,0,0,0,0,0,0
+1747,7090,"I'm sorry. What, we're all just sitting around waiting for the right opportunity?",anticipation,0,2,0,0,0,0,0,0
+1748,7093,We should at least discuss it.,Neutral,0,0,0,0,0,0,0,0
+1749,7094,"Look, sitting here staring at the thing is not gonna bring everybody back.",anticipation,0,1,0,0,1,0,0,1
+1750,7099,"I'm the strongest Avenger, okay? So, this responsibility falls upon me.",anger,1,0,0,0,0,1,0,0
+1751,7102,"- Normally, you're right. - It's my duty.",Neutral,0,0,0,0,0,0,0,0
+1752,7104,- It's not about that. - It's not that.,Neutral,0,0,0,0,0,0,0,0
+1753,7106,"- Hey, buddy... - Stop it! Just let me.",anticipation,0,1,0,0,1,0,0,1
+1754,7110,Just let me do it.,Neutral,0,0,0,0,0,0,0,0
+1755,7112,Just let me do something good. Something right.,anticipation,0,1,0,0,1,0,1,1
+1756,7115,"Look, it's not just the fact...",trust,0,0,0,0,0,0,0,1
+1757,7116,that that glove is channeling enough energy to light up a continent.,Neutral,0,0,0,0,0,0,0,0
+1758,7118,I'm telling you. You're in no condition.,Neutral,0,0,0,0,0,0,0,0
+1759,7120,What do you think is coursing through my veins right now?,Neutral,0,0,0,0,0,0,0,0
+1760,7124,Cheez Whiz?,Neutral,0,0,0,0,0,0,0,0
+1761,7127,Lightning.,anger,1,0,0,1,0,0,1,0
+1762,7128,- Yeah. - Lightning.,anger,1,0,0,1,0,0,1,0
+1763,7130,"Lightning won't help you, pal.",anger,1,1,0,1,0,0,1,0
+1764,7131,It's got to be me.,Neutral,0,0,0,0,0,0,0,0
+1765,7134,You saw what those stones did to Thanos.,anger,1,0,0,0,0,0,0,0
+1766,7137,They almost killed him.,fear,0,0,0,1,0,1,0,0
+1767,7140,None of you could survive.,Neutral,0,0,0,0,0,0,0,0
+1768,7142,How do we know you will?,Neutral,0,0,0,0,0,0,0,0
+1769,7144,We don't.,Neutral,0,0,0,0,0,0,0,0
+1770,7145,But the radiation's mostly gamma.,Neutral,0,0,0,0,0,0,0,0
+1771,7151,It's like...,Neutral,0,0,0,0,0,0,0,0
+1772,7155,I was made for this.,Neutral,0,0,0,0,0,0,0,0
+1773,7176,"Good to go, yeah?",anticipation,0,1,0,0,1,0,1,1
+1774,7179,Let's do it.,Neutral,0,0,0,0,0,0,0,0
+1775,7181,"Okay, remember, everyone Thanos snapped away five years ago...",Neutral,0,0,0,0,0,0,0,0
+1776,7184,"you're just bringing them back to now, today.",Neutral,0,0,0,0,0,0,0,0
+1777,7186,Don't change anything from the last five years.,fear,0,0,0,1,0,0,0,0
+1778,7189,Got it.,Neutral,0,0,0,0,0,0,0,0
+1779,7207,"Friday, do me a favor and activate Barn Door Protocol, will ya?",Neutral,0,0,0,0,0,0,0,0
+1780,7210,"Yes, boss.",Neutral,0,0,0,0,0,0,0,0
+1781,7220,Everybody comes home.,Neutral,0,0,0,0,0,0,0,0
+1782,7245,Take it off! Take it off!,Neutral,0,0,0,0,0,0,0,0
+1783,7246,"No, wait. Bruce, are you okay?",anticipation,0,1,0,0,0,0,0,0
+1784,7249,"Talk to me, Banner.",Neutral,0,0,0,0,0,0,0,0
+1785,7253,I'm okay.,Neutral,0,0,0,0,0,0,0,0
+1786,7255,I'm okay.,Neutral,0,0,0,0,0,0,0,0
+1787,7287,Bruce!,Neutral,0,0,0,0,0,0,0,0
+1788,7290,Don't move him.,Neutral,0,0,0,0,0,0,0,0
+1789,7299,- Did it work? - We're not sure. It's okay.,Neutral,0,0,0,0,0,0,0,0
+1790,7347,Honey.,Neutral,0,0,0,0,0,0,0,0
+1791,7348,Clint?,Neutral,0,0,0,0,0,0,0,0
+1792,7349,Honey.,Neutral,0,0,0,0,0,0,0,0
+1793,7352,Guys...,Neutral,0,0,0,0,0,0,0,0
+1794,7355,I think it worked.,Neutral,0,0,0,0,0,0,0,0
+1795,7399,I can't breathe! I can't breathe!,Neutral,0,0,0,0,0,0,0,0
+1796,7402,"Canopy, canopy, canopy.",Neutral,0,0,0,0,0,0,0,0
+1797,7411,"Rhodey, Rocket, get out of here.",anger,1,0,0,0,0,0,0,0
+1798,7414,Let me up! Let me up!,Neutral,0,0,0,0,0,0,0,0
+1799,7416,Come on!,Neutral,0,0,0,0,0,0,0,0
+1800,7427,Rhodey!,Neutral,0,0,0,0,0,0,0,0
+1801,7436,"Mayday, Mayday! Does anybody copy? We're on the lower level. It's flooding!",fear,0,0,0,1,0,1,0,1
+1802,7440,What? What?,Neutral,0,0,0,0,0,0,0,0
+1803,7441,We are drowning! Does anybody copy? Mayday!,fear,0,0,0,1,0,1,0,0
+1804,7444,Wait! I'm here!,anticipation,0,1,0,0,0,0,0,0
+1805,7446,I'm here. Can you hear me?,Neutral,0,0,0,0,0,0,0,0
+1806,7467,Cap?,anticipation,0,1,0,0,0,0,0,1
+1807,7492,Okay.,Neutral,0,0,0,0,0,0,0,0
+1808,7513,Daughter.,joy,0,0,0,0,1,0,0,0
+1809,7514,"Yes, Father.",trust,0,0,0,0,0,0,0,1
+1810,7517,"So, this is the future.",Neutral,0,0,0,0,0,0,0,0
+1811,7520,Well done.,Neutral,0,0,0,0,0,0,0,0
+1812,7521,"Thank you, Father.",trust,0,0,0,0,0,0,0,1
+1813,7523,They suspected nothing.,fear,0,0,0,1,0,0,0,0
+1814,7527,The arrogant never do.,anger,1,0,1,0,0,0,0,0
+1815,7531,Go.,Neutral,0,0,0,0,0,0,0,0
+1816,7533,"Find the stones, bring them to me.",anger,1,0,0,0,0,0,0,0
+1817,7536,What will you do?,Neutral,0,0,0,0,0,0,0,0
+1818,7539,Wait.,anticipation,0,1,0,0,0,0,0,0
+1819,7566,Tell me something.,Neutral,0,0,0,0,0,0,0,0
+1820,7569,In the future...,Neutral,0,0,0,0,0,0,0,0
+1821,7571,what happens to you and me?,anticipation,0,1,0,0,0,0,0,0
+1822,7575,I try to kill you.,fear,0,0,0,1,0,1,0,0
+1823,7579,Several times.,anticipation,0,1,0,0,0,0,0,0
+1824,7581,But eventually...,Neutral,0,0,0,0,0,0,0,0
+1825,7583,we become friends.,Neutral,0,0,0,0,0,0,0,0
+1826,7587,We become sisters.,Neutral,0,0,0,0,0,0,0,0
+1827,7596,Come on.,Neutral,0,0,0,0,0,0,0,0
+1828,7599,We can stop him.,Neutral,0,0,0,0,0,0,0,0
+1829,7609,"Come on, buddy, wake up!",anticipation,0,1,0,0,1,0,0,1
+1830,7611,That's my man.,Neutral,0,0,0,0,0,0,0,0
+1831,7614,"You lose this again, I'm keeping it.",anger,1,0,1,1,0,1,1,0
+1832,7619,What happened?,anticipation,0,1,0,0,0,0,0,0
+1833,7621,"You mess with time, it tends to mess back.",disgust,0,1,2,0,0,0,0,0
+1834,7623,You'll see.,Neutral,0,0,0,0,0,0,0,0
+1835,7646,What's he been doing?,Neutral,0,0,0,0,0,0,0,0
+1836,7649,Absolutely nothing.,Neutral,0,0,0,0,0,0,0,0
+1837,7652,Where are the stones?,anger,1,0,0,0,0,0,0,0
+1838,7655,Somewhere under all this.,Neutral,0,0,0,0,0,0,0,0
+1839,7658,All I know is he doesn't have 'em.,Neutral,0,0,0,0,0,0,0,0
+1840,7660,"So, we keep it that way.",Neutral,0,0,0,0,0,0,0,0
+1841,7662,"You know it's a trap, right?",Neutral,0,0,0,0,0,0,0,0
+1842,7664,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1843,7665,I don't much care.,Neutral,0,0,0,0,0,0,0,0
+1844,7667,Good.,anticipation,0,1,0,0,1,0,1,1
+1845,7669,Just as long as we're all in agreement.,anticipation,0,1,0,0,0,0,0,1
+1846,7681,Let's kill him properly this time.,anticipation,0,1,0,1,0,1,0,0
+1847,7693,You could not live with your own failure.,disgust,0,0,1,1,0,1,0,0
+1848,7697,Where did that bring you?,Neutral,0,0,0,0,0,0,0,0
+1849,7702,Back to me.,Neutral,0,0,0,0,0,0,0,0
+1850,7707,I thought by eliminating half of life...,Neutral,0,0,0,0,0,0,0,0
+1851,7711,the other half would thrive.,Neutral,0,0,0,0,0,0,0,0
+1852,7713,But you've shown me...,trust,0,0,0,0,0,0,0,1
+1853,7716,that's impossible.,sadness,0,0,0,0,0,1,0,0
+1854,7720,And as long as there are those that remember what was...,anticipation,0,1,0,0,0,0,0,0
+1855,7723,there will always be those that are unable to accept what can be.,sadness,0,0,0,0,0,1,0,0
+1856,7729,They will resist.,Neutral,0,0,0,0,0,0,0,0
+1857,7731,"Yep, we're all kinds of stubborn.",Neutral,0,0,0,0,0,0,0,0
+1858,7734,I'm thankful.,joy,0,0,0,0,1,0,0,0
+1859,7737,Because now...,Neutral,0,0,0,0,0,0,0,0
+1860,7739,I know what I must do.,Neutral,0,0,0,0,0,0,0,0
+1861,7742,I will shred this universe...,Neutral,0,0,0,0,0,0,0,0
+1862,7745,down to its last atom.,Neutral,0,0,0,0,0,0,0,0
+1863,7748,And then...,Neutral,0,0,0,0,0,0,0,0
+1864,7750,with the stones you've collected for me...,anger,1,0,0,0,0,0,0,0
+1865,7753,create a new one...,joy,0,0,0,0,1,0,0,0
+1866,7755,teeming with life...,Neutral,0,0,0,0,0,0,0,0
+1867,7757,that knows not what it has lost...,anger,1,0,1,1,0,1,1,0
+1868,7760,but only what it has been given.,Neutral,0,0,0,0,0,0,0,0
+1869,7765,A grateful universe.,Neutral,0,0,0,0,0,0,0,0
+1870,7767,Born out of blood.,anger,1,0,0,1,0,0,0,0
+1871,7769,They'll never know it.,Neutral,0,0,0,0,0,0,0,0
+1872,7771,Because you won't be alive to tell them.,anticipation,0,2,0,0,1,0,0,1
+1873,7789,"See you on the other side, man.",Neutral,0,0,0,0,0,0,0,0
+1874,7793,Hang on! I'm coming!,Neutral,0,0,0,0,0,0,0,0
+1875,7825,Yeah!,Neutral,0,0,0,0,0,0,0,0
+1876,7841,"Oh, hey.",Neutral,0,0,0,0,0,0,0,0
+1877,7842,I know you.,Neutral,0,0,0,0,0,0,0,0
+1878,7847,Father...,trust,0,0,0,0,0,0,0,1
+1879,7849,I have the stones.,anger,1,0,0,0,0,0,0,0
+1880,7850,What?,Neutral,0,0,0,0,0,0,0,0
+1881,7853,Stop.,Neutral,0,0,0,0,0,0,0,0
+1882,7859,You're betraying us?,anger,1,0,1,0,0,1,1,0
+1883,7866,You don't have to do this.,Neutral,0,0,0,0,0,0,0,0
+1884,7870,I am this.,Neutral,0,0,0,0,0,0,0,0
+1885,7873,"No, you're not.",Neutral,0,0,0,0,0,0,0,0
+1886,7875,You've seen what we become.,Neutral,0,0,0,0,0,0,0,0
+1887,7883,"Nebula, listen to her.",Neutral,0,0,0,0,0,0,0,0
+1888,7887,You can change.,fear,0,0,0,1,0,0,0,0
+1889,7895,He won't let me.,anticipation,0,1,0,0,0,0,0,0
+1890,7898,No!,Neutral,0,0,0,0,0,0,0,0
+1891,7918,"Okay, Thor. Hit me.",anger,1,0,0,0,0,0,0,0
+1892,7936,"Boss, wake up!",Neutral,0,0,0,0,0,0,0,0
+1893,7989,I knew it!,Neutral,0,0,0,0,0,0,0,0
+1894,8072,In all my years of conquest...,anger,1,0,0,1,0,0,0,0
+1895,8077,violence...,anger,1,0,0,1,0,1,0,0
+1896,8079,slaughter...,anger,1,0,1,1,0,1,1,0
+1897,8082,it was never personal.,trust,0,0,0,0,0,0,0,1
+1898,8087,But I'll tell you now...,anger,1,0,1,1,0,1,0,0
+1899,8092,"what I'm about to do to your stubborn, annoying little planet...",anger,1,0,1,0,0,0,0,0
+1900,8100,I'm gonna enjoy it...,anticipation,0,1,0,0,1,0,0,1
+1901,8103,"very, very much.",Neutral,0,0,0,0,0,0,0,0
+1902,8169,"Hey, Cap, you read me?",anticipation,0,1,0,0,0,0,0,1
+1903,8176,"Cap, it's Sam. Can you hear me?",anticipation,0,1,0,0,0,0,0,1
+1904,8182,On your left.,sadness,0,0,0,0,0,1,1,0
+1905,8269,Is that everyone?,Neutral,0,0,0,0,0,0,0,0
+1906,8271,What? You wanted more?,Neutral,0,0,0,0,0,0,0,0
+1907,8300,Avengers...,Neutral,0,0,0,0,0,0,0,0
+1908,8307,assemble.,Neutral,0,0,0,0,0,0,0,0
+1909,8343,Die!,fear,0,0,0,1,0,1,0,0
+1910,8365,"No, no, give me that. You have the little one.",Neutral,0,0,0,0,0,0,0,0
+1911,8381,Hey!,Neutral,0,0,0,0,0,0,0,0
+1912,8383,Holy cow!,Neutral,0,0,0,0,0,0,0,0
+1913,8384,You will not believe what's been going on.,Neutral,0,0,0,0,0,0,0,0
+1914,8386,Do you remember when we were in space?,Neutral,0,0,0,0,0,0,0,0
+1915,8387,And I got all dusty?,Neutral,0,0,0,0,0,0,0,0
+1916,8389,"And I must've passed out, because I woke up and you were gone.",Neutral,0,0,0,0,0,0,0,0
+1917,8392,"But Doctor Strange was there, right? And he was like...",trust,0,0,0,0,0,0,0,1
+1918,8393,"""It's been five years. Come on, they need us.""",Neutral,0,0,0,0,0,0,0,0
+1919,8395,And then he started doing the yellow sparkly thing that he does all the time.,anticipation,0,2,0,0,0,0,0,0
+1920,8397,"He did? Oh, no.",Neutral,0,0,0,0,0,0,0,0
+1921,8398,What are you doing?,Neutral,0,0,0,0,0,0,0,0
+1922,8404,This is nice.,Neutral,0,0,0,0,0,0,0,0
+1923,8427,Gamora?,Neutral,0,0,0,0,0,0,0,0
+1924,8438,I thought I lost you.,anger,1,0,1,1,0,1,1,0
+1925,8444,Don't touch me!,Neutral,0,0,0,0,0,0,0,0
+1926,8450,You missed the first time.,anticipation,0,1,0,0,0,0,0,0
+1927,8452,Then you got 'em both the second time.,anticipation,0,1,0,0,0,0,0,0
+1928,8456,This is the one?,Neutral,0,0,0,0,0,0,0,0
+1929,8457,Seriously?,Neutral,0,0,0,0,0,0,0,0
+1930,8459,Your choices were him or a tree.,anger,1,1,1,0,1,0,1,1
+1931,8471,Cap!,anticipation,0,1,0,0,0,0,0,1
+1932,8472,What do you want me to do with this damn thing?,anger,1,0,1,0,0,0,0,0
+1933,8477,Get those stones as far away as possible!,anger,1,0,0,0,0,0,0,0
+1934,8479,No!,Neutral,0,0,0,0,0,0,0,0
+1935,8481,We need to get 'em back where they came from.,Neutral,0,0,0,0,0,0,0,0
+1936,8483,No way to get 'em back. Thanos destroyed the quantum tunnel.,Neutral,0,0,0,0,0,0,0,0
+1937,8486,Hold on!,Neutral,0,0,0,0,0,0,0,0
+1938,8489,That wasn't our only time machine.,anticipation,0,1,0,0,0,0,0,1
+1939,8497,Anyone see an ugly brown van out there?,disgust,0,0,1,0,0,0,0,0
+1940,8500,Yes! But you're not gonna like where it's parked!,Neutral,0,0,0,0,0,0,0,0
+1941,8503,"Scott, how long you need to get that thing working?",anticipation,0,1,0,0,0,0,0,0
+1942,8506,Maybe 10 minutes.,Neutral,0,0,0,0,0,0,0,0
+1943,8507,Get it started. We'll get the stones to you.,anger,1,1,0,0,0,0,0,0
+1944,8509,"We're on it, Cap.",anticipation,0,1,0,0,0,0,0,1
+1945,8520,Hey.,Neutral,0,0,0,0,0,0,0,0
+1946,8522,"You said one out of 14 million, we win, yeah?",Neutral,0,0,0,0,0,0,0,0
+1947,8526,Tell me this is it.,Neutral,0,0,0,0,0,0,0,0
+1948,8527,If I tell you what happens...,anticipation,0,1,0,0,0,0,0,0
+1949,8529,it won't happen.,anticipation,0,2,0,0,0,0,0,0
+1950,8534,You better be right.,Neutral,0,0,0,0,0,0,0,0
+1951,8543,It's a mess back here.,disgust,0,0,1,0,0,0,0,0
+1952,8546,It's dead.,Neutral,0,0,0,0,0,0,0,0
+1953,8548,- What? - It's dead.,Neutral,0,0,0,0,0,0,0,0
+1954,8550,I have to hot-wire it.,Neutral,0,0,0,0,0,0,0,0
+1955,8554,Where's Nebula?,Neutral,0,0,0,0,0,0,0,0
+1956,8556,She's not responding.,Neutral,0,0,0,0,0,0,0,0
+1957,8558,Sire...,Neutral,0,0,0,0,0,0,0,0
+1958,8569,Clint!,Neutral,0,0,0,0,0,0,0,0
+1959,8573,Give it to me.,Neutral,0,0,0,0,0,0,0,0
+1960,8596,You took everything from me.,Neutral,0,0,0,0,0,0,0,0
+1961,8600,I don't even know who you are.,Neutral,0,0,0,0,0,0,0,0
+1962,8602,You will.,Neutral,0,0,0,0,0,0,0,0
+1963,8626,I got it!,Neutral,0,0,0,0,0,0,0,0
+1964,8630,Activate Instant Kill.,fear,0,0,0,1,0,1,0,0
+1965,8654,Rain fire!,fear,0,0,0,1,0,0,0,0
+1966,8656,"But, sire, our troops!",Neutral,0,0,0,0,0,0,0,0
+1967,8658,Just do it!,Neutral,0,0,0,0,0,0,0,0
+1968,8680,Is anyone else seeing this?,Neutral,0,0,0,0,0,0,0,0
+1969,8697,I got this!,Neutral,0,0,0,0,0,0,0,0
+1970,8698,"I got this. Okay, I don't got this.",Neutral,0,0,0,0,0,0,0,0
+1971,8700,"Help, somebody help!",Neutral,0,0,0,0,0,0,0,0
+1972,8701,"Hey, Queens, heads up!",Neutral,0,0,0,0,0,0,0,0
+1973,8713,"Hang on. I got you, kid.",Neutral,0,0,0,0,0,0,0,0
+1974,8718,Hey! Nice to meet you...,Neutral,0,0,0,0,0,0,0,0
+1975,8719,"Oh, my God!",anticipation,0,1,0,1,1,0,0,1
+1976,8758,What the hell is this?,anger,1,0,1,1,0,1,0,0
+1977,8760,"Friday, what are they firing at?",fear,0,0,0,1,0,0,0,0
+1978,8761,Something just entered the upper atmosphere.,Neutral,0,0,0,0,0,0,0,0
+1979,8776,"Oh, yeah!",Neutral,0,0,0,0,0,0,0,0
+1980,8798,"Danvers, we need an assist here.",trust,0,0,0,0,0,0,0,1
+1981,8809,"Hi, I'm Peter Parker.",Neutral,0,0,0,0,0,0,0,0
+1982,8813,"Hey, Peter Parker.",Neutral,0,0,0,0,0,0,0,0
+1983,8814,You got something for me?,Neutral,0,0,0,0,0,0,0,0
+1984,8821,I don't know how you're gonna get it through all of that.,Neutral,0,0,0,0,0,0,0,0
+1985,8825,Don't worry.,anticipation,0,1,0,1,0,1,0,0
+1986,8828,She's got help.,Neutral,0,0,0,0,0,0,0,0
+1987,8997,I am inevitable.,Neutral,0,0,0,0,0,0,0,0
+1988,9021,And I...,Neutral,0,0,0,0,0,0,0,0
+1989,9024,am...,Neutral,0,0,0,0,0,0,0,0
+1990,9029,Iron Man.,trust,0,0,0,0,0,0,0,1
+1991,9149,Mr. Stark?,trust,0,0,0,0,0,0,0,1
+1992,9151,Hey!,Neutral,0,0,0,0,0,0,0,0
+1993,9153,Mr. Stark. Can you hear me?,trust,0,0,0,0,0,0,0,1
+1994,9156,It's Peter.,Neutral,0,0,0,0,0,0,0,0
+1995,9159,Hey.,Neutral,0,0,0,0,0,0,0,0
+1996,9162,"We won, Mr. Stark.",trust,0,0,0,0,0,0,0,1
+1997,9167,"We won, Mr. Stark.",trust,0,0,0,0,0,0,0,1
+1998,9171,"We won! You did it, sir, you did it.",trust,0,0,0,0,0,0,0,1
+1999,9174,I'm sorry.,Neutral,0,0,0,0,0,0,0,0
+2000,9176,Tony.,Neutral,0,0,0,0,0,0,0,0
+2001,9190,Hey.,Neutral,0,0,0,0,0,0,0,0
+2002,9192,"Hey, Pep.",Neutral,0,0,0,0,0,0,0,0
+2003,9198,Friday?,Neutral,0,0,0,0,0,0,0,0
+2004,9199,Life functions critical.,Neutral,0,0,0,0,0,0,0,0
+2005,9210,Tony?,Neutral,0,0,0,0,0,0,0,0
+2006,9213,Look at me.,Neutral,0,0,0,0,0,0,0,0
+2007,9216,We're gonna be okay.,Neutral,0,0,0,0,0,0,0,0
+2008,9223,You can rest now.,Neutral,0,0,0,0,0,0,0,0
+2009,9330,"Everybody wants a happy ending, right?",anticipation,0,1,0,0,1,0,0,1
+2010,9333,But it doesn't always roll that way.,Neutral,0,0,0,0,0,0,0,0
+2011,9338,Maybe this time.,anticipation,0,1,0,0,0,0,0,0
+2012,9341,I'm hoping if you play this back...,Neutral,0,0,0,0,0,0,0,0
+2013,9345,it's in celebration.,anticipation,0,1,0,0,1,0,1,1
+2014,9348,I hope families are reunited. I hope we get it back.,anticipation,0,2,0,0,2,0,2,2
+2015,9352,And something like a normal version of the planet has been restored.,Neutral,0,0,0,0,0,0,0,0
+2016,9356,If there ever was such a thing.,Neutral,0,0,0,0,0,0,0,0
+2017,9358,"God, what a world. Universe, now.",anticipation,0,1,0,1,1,0,0,1
+2018,9362,If you told me 10 years ago that we weren't alone...,Neutral,0,0,0,0,0,0,0,0
+2019,9364,"let alone to this extent, I mean, I wouldn't have been surprised...",fear,0,0,0,1,1,0,1,0
+2020,9368,"but come on, who knew?",Neutral,0,0,0,0,0,0,0,0
+2021,9370,The epic forces of darkness and light that have come into play.,anger,2,0,0,2,0,1,0,0
+2022,9375,And for better or worse...,fear,0,0,0,1,0,1,0,0
+2023,9377,that's the reality Morgan's gonna have to find a way to grow up in.,anticipation,0,1,0,0,1,0,0,1
+2024,9384,"So, I thought I'd probably better record a little greeting...",Neutral,0,0,0,0,0,0,0,0
+2025,9386,in the case of an untimely death. On my part.,fear,1,1,1,2,0,2,1,0
+2026,9390,Not that death at any time isn't untimely.,anticipation,1,2,1,1,0,1,1,0
+2027,9394,This time travel thing that we're gonna try and pull off tomorrow...,anticipation,0,2,0,0,0,0,0,0
+2028,9398,it's got me scratching my head about the survivability of it all.,Neutral,0,0,0,0,0,0,0,0
+2029,9400,That's the thing.,Neutral,0,0,0,0,0,0,0,0
+2030,9403,"Then again, that's the hero gig, right?",anticipation,0,1,0,0,1,0,1,1
+2031,9405,Part of the journey is the end.,anticipation,0,1,0,1,1,0,0,0
+2032,9409,What am I even tripping for?,surprise,0,0,0,0,0,0,1,0
+2033,9410,Everything is gonna work out exactly the way it's supposed to.,Neutral,0,0,0,0,0,0,0,0
+2034,9417,"I love you 3,000.",joy,0,0,0,0,1,0,0,0
+2035,9554,"You know, I wish there was a way that I could let her know.",Neutral,0,0,0,0,0,0,0,0
+2036,9560,That we won.,Neutral,0,0,0,0,0,0,0,0
+2037,9564,We did it.,Neutral,0,0,0,0,0,0,0,0
+2038,9569,She knows.,Neutral,0,0,0,0,0,0,0,0
+2039,9576,They both do.,Neutral,0,0,0,0,0,0,0,0
+2040,9587,"How you doing, squirt?",Neutral,0,0,0,0,0,0,0,0
+2041,9588,Good.,anticipation,0,1,0,0,1,0,1,1
+2042,9589,- You good? - Mm-hmm.,anticipation,0,1,0,0,1,0,1,1
+2043,9591,- Good. You hungry? - Mm-hmm.,anticipation,0,2,0,0,1,0,1,1
+2044,9594,What do you want?,Neutral,0,0,0,0,0,0,0,0
+2045,9595,Cheeseburgers.,Neutral,0,0,0,0,0,0,0,0
+2046,9602,"You know, your dad liked cheeseburgers.",Neutral,0,0,0,0,0,0,0,0
+2047,9604,Okay.,Neutral,0,0,0,0,0,0,0,0
+2048,9608,I'm gonna get you all the cheeseburgers you want.,Neutral,0,0,0,0,0,0,0,0
+2049,9611,Okay.,Neutral,0,0,0,0,0,0,0,0
+2050,9628,So...,Neutral,0,0,0,0,0,0,0,0
+2051,9630,when can we expect you back?,anticipation,0,1,0,0,0,0,1,1
+2052,9634,About that...,Neutral,0,0,0,0,0,0,0,0
+2053,9636,"Thor, your people need a king.",Neutral,0,0,0,0,0,0,0,0
+2054,9638,"No, they already have one.",Neutral,0,0,0,0,0,0,0,0
+2055,9642,That's funny.,Neutral,0,0,0,0,0,0,0,0
+2056,9649,Are you being serious?,Neutral,0,0,0,0,0,0,0,0
+2057,9654,It's time for me to be who I am...,anticipation,0,1,0,0,0,0,0,0
+2058,9657,rather than who I'm supposed to be.,Neutral,0,0,0,0,0,0,0,0
+2059,9661,"But you, you're a leader.",trust,0,0,0,0,0,0,0,1
+2060,9663,That's who you are.,Neutral,0,0,0,0,0,0,0,0
+2061,9668,"You know, I'd make a lot of changes around here.",fear,0,0,0,1,0,0,0,0
+2062,9670,I'm counting on it...,trust,0,0,0,0,0,0,0,1
+2063,9671,Your Majesty.,trust,0,0,0,0,0,0,0,1
+2064,9683,What will you do?,Neutral,0,0,0,0,0,0,0,0
+2065,9685,I'm not sure.,Neutral,0,0,0,0,0,0,0,0
+2066,9687,"For the first time in a thousand years, I have no path.",anticipation,0,1,0,0,0,0,0,0
+2067,9690,I do have a ride though.,Neutral,0,0,0,0,0,0,0,0
+2068,9692,"Move it or lose it, hairbag.",anger,1,0,1,1,0,1,1,0
+2069,9698,Here we are!,Neutral,0,0,0,0,0,0,0,0
+2070,9700,"Tree, good to see you.",anticipation,1,2,1,0,2,0,2,2
+2071,9706,The Asgardians of the Galaxy back together again.,Neutral,0,0,0,0,0,0,0,0
+2072,9710,Where to first?,Neutral,0,0,0,0,0,0,0,0
+2073,9713,Hey.,Neutral,0,0,0,0,0,0,0,0
+2074,9715,"Just so you know, this is my ship still.",anticipation,0,1,0,0,0,0,0,0
+2075,9717,I'm in charge.,Neutral,0,0,0,0,0,0,0,0
+2076,9718,I know. I know. Of course you are.,Neutral,0,0,0,0,0,0,0,0
+2077,9721,Of course.,Neutral,0,0,0,0,0,0,0,0
+2078,9725,"See, you say, ""Of course,"" but then you touch the map.",Neutral,0,0,0,0,0,0,0,0
+2079,9728,It makes you think that maybe you didn't realize I was in charge.,Neutral,0,0,0,0,0,0,0,0
+2080,9731,"Quail, that's your own insecurities in there.",fear,0,0,0,1,0,0,0,0
+2081,9733,Quail?,fear,0,0,0,1,0,0,0,0
+2082,9734,Okay? I am merely trying to be of service and assisting.,trust,0,0,0,0,0,0,0,1
+2083,9736,Quill.,Neutral,0,0,0,0,0,0,0,0
+2084,9738,That's what I said.,Neutral,0,0,0,0,0,0,0,0
+2085,9739,You should fight one another for the honor of leadership.,anger,1,0,0,1,0,0,0,1
+2086,9741,Sounds fair.,Neutral,0,0,0,0,0,0,0,0
+2087,9745,"- It's not necessary, okay? - It's not.",Neutral,0,0,0,0,0,0,0,0
+2088,9748,"I got some blasters, unless you guys wanna use knives.",fear,0,0,0,1,0,1,0,0
+2089,9750,"Oh, yes! Please, use knives.",Neutral,0,0,0,0,0,0,0,0
+2090,9753,Yeah. Knives.,Neutral,0,0,0,0,0,0,0,0
+2091,9754,I am Groot.,Neutral,0,0,0,0,0,0,0,0
+2092,9761,Not necessary.,Neutral,0,0,0,0,0,0,0,0
+2093,9763,There shall be no knifing one another.,Neutral,0,0,0,0,0,0,0,0
+2094,9765,Everybody knows who's in charge.,Neutral,0,0,0,0,0,0,0,0
+2095,9771,Me.,Neutral,0,0,0,0,0,0,0,0
+2096,9773,Right?,Neutral,0,0,0,0,0,0,0,0
+2097,9775,"Yes, you.",Neutral,0,0,0,0,0,0,0,0
+2098,9778,Of course! Of course.,Neutral,0,0,0,0,0,0,0,0
+2099,9780,Of course.,Neutral,0,0,0,0,0,0,0,0
+2100,9784,Remember...,Neutral,0,0,0,0,0,0,0,0
+2101,9786,you have to return the stones to the exact moment you got 'em...,anger,1,0,0,0,0,0,0,0
+2102,9788,or you're gonna open up a bunch of nasty alternative realities.,anger,1,0,1,1,0,1,0,0
+2103,9792,"Don't worry, Bruce.",anticipation,0,1,0,1,0,1,0,0
+2104,9793,Clip all the branches.,Neutral,0,0,0,0,0,0,0,0
+2105,9796,"You know, I tried.",Neutral,0,0,0,0,0,0,0,0
+2106,9799,"When I had the gauntlet, the stones, I really tried to bring her back.",anger,1,0,0,0,0,0,0,0
+2107,9806,"I miss her, man.",Neutral,0,0,0,0,0,0,0,0
+2108,9808,Me too.,Neutral,0,0,0,0,0,0,0,0
+2109,9813,"You know, if you want, I could come with you.",Neutral,0,0,0,0,0,0,0,0
+2110,9818,"You're a good man, Sam.",anticipation,0,1,0,0,1,0,1,1
+2111,9820,"This one's on me, though.",Neutral,0,0,0,0,0,0,0,0
+2112,9826,Don't do anything stupid till I get back.,Neutral,0,0,0,0,0,0,0,0
+2113,9830,How can I?,Neutral,0,0,0,0,0,0,0,0
+2114,9832,You're taking all the stupid with you.,Neutral,0,0,0,0,0,0,0,0
+2115,9841,"Gonna miss you, buddy.",anticipation,0,1,0,0,1,0,0,1
+2116,9843,"It's gonna be okay, Buck.",fear,0,0,0,1,0,0,1,0
+2117,9852,How long is this gonna take?,anticipation,0,1,0,0,0,0,0,0
+2118,9854,"For him, as long as he needs. For us, five seconds.",anticipation,0,1,0,0,0,0,0,0
+2119,9862,"You ready, Cap?",anticipation,0,2,0,0,0,0,0,1
+2120,9863,"All right, we'll meet you back here, okay?",Neutral,0,0,0,0,0,0,0,0
+2121,9866,You bet.,Neutral,0,0,0,0,0,0,0,0
+2122,9869,Going quantum. Three...,Neutral,0,0,0,0,0,0,0,0
+2123,9871,two...,Neutral,0,0,0,0,0,0,0,0
+2124,9873,one.,Neutral,0,0,0,0,0,0,0,0
+2125,9876,And returning in five...,Neutral,0,0,0,0,0,0,0,0
+2126,9878,four...,Neutral,0,0,0,0,0,0,0,0
+2127,9879,"three, two...",Neutral,0,0,0,0,0,0,0,0
+2128,9881,one.,Neutral,0,0,0,0,0,0,0,0
+2129,9890,Where is he?,Neutral,0,0,0,0,0,0,0,0
+2130,9891,I don't know. He blew right by his time stamp.,anticipation,0,1,0,0,0,0,0,0
+2131,9893,He should be here.,Neutral,0,0,0,0,0,0,0,0
+2132,9900,Get him back.,Neutral,0,0,0,0,0,0,0,0
+2133,9901,- I'm trying. - Get him the hell back.,anger,1,0,1,1,0,1,0,0
+2134,9902,"- Hey, I said I'm trying. - Sam.",Neutral,0,0,0,0,0,0,0,0
+2135,9928,Go ahead.,Neutral,0,0,0,0,0,0,0,0
+2136,9948,Cap?,anticipation,0,1,0,0,0,0,0,1
+2137,9951,"Hi, Sam.",Neutral,0,0,0,0,0,0,0,0
+2138,9955,"So, did something go wrong or did something go right?",Neutral,0,0,0,0,0,0,0,0
+2139,9961,"Well, after I put the stones back, I thought...",anger,1,0,0,0,0,0,0,0
+2140,9966,maybe...,Neutral,0,0,0,0,0,0,0,0
+2141,9967,I'll try some of that life Tony was telling me to get.,anger,1,0,1,1,0,1,0,0
+2142,9974,How'd that work out for ya?,Neutral,0,0,0,0,0,0,0,0
+2143,9979,It was beautiful.,joy,0,0,0,0,1,0,0,0
+2144,9982,Good. I'm happy for you.,anticipation,0,2,0,0,2,0,1,2
+2145,9984,Truly.,Neutral,0,0,0,0,0,0,0,0
+2146,9985,Thank you.,Neutral,0,0,0,0,0,0,0,0
+2147,9988,Only thing bumming me out...,disgust,0,0,1,0,0,1,0,0
+2148,9989,is the fact I have to live in a world without Captain America.,trust,0,0,0,0,0,0,0,1
+2149,9997,That reminds me.,Neutral,0,0,0,0,0,0,0,0
+2150,10008,Try it on.,Neutral,0,0,0,0,0,0,0,0
+2151,10035,How does it feel?,Neutral,0,0,0,0,0,0,0,0
+2152,10039,Like it's someone else's.,Neutral,0,0,0,0,0,0,0,0
+2153,10044,It isn't.,Neutral,0,0,0,0,0,0,0,0
+2154,10058,Thank you.,Neutral,0,0,0,0,0,0,0,0
+2155,10061,I'll do my best.,anger,1,0,1,1,0,1,0,0
+2156,10068,That's why it's yours.,Neutral,0,0,0,0,0,0,0,0
+2157,10072,You wanna tell me about her?,fear,0,0,0,1,0,1,0,0
+2158,10080,No.,Neutral,0,0,0,0,0,0,0,0
+2159,10082,"No, I don't think I will.  										                             ",Neutral,0,0,0,0,0,0,0,0

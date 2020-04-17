@@ -1,0 +1,2106 @@
+,secs_stamp,text,max_sentiment,anger,anticipation,disgust,fear,joy,sadness,surprise,trust
+0,61,(BUCKY SCREAMING),anger,1,0,1,1,0,0,1,0
+1,65,(CONTINUES SCREAMING),anger,1,1,1,1,0,0,1,1
+2,68,- (KARPOV SPEAKING RUSSIAN) - (PANTING),Neutral,0,0,0,0,0,0,0,0
+3,70,<i>Longing</i>,Neutral,0,0,0,0,0,0,0,0
+4,73,<i>Rusted</i>,Neutral,0,0,0,0,0,0,0,0
+5,75,<i>Seventeen</i>,Neutral,0,0,0,0,0,0,0,0
+6,76,<i>Daybreak</i>,Neutral,0,0,0,0,0,0,0,0
+7,79,<i>Furnace</i>,Neutral,0,0,0,0,0,0,0,0
+8,81,<i>Nine</i>,Neutral,0,0,0,0,0,0,0,0
+9,83,<i>Benign</i>,Neutral,0,0,0,0,0,0,0,0
+10,85,<i>Homecoming</i>,Neutral,0,0,0,0,0,0,0,0
+11,88,<i>One</i>,Neutral,0,0,0,0,0,0,0,0
+12,91,<i>Freight car</i>,Neutral,0,0,0,0,0,0,0,0
+13,101,"Good morning, Soldier.",anger,1,1,0,0,1,1,1,1
+14,104,Ready to comply.,anticipation,0,1,0,0,0,0,0,0
+15,107,I have a mission for you.,Neutral,0,0,0,0,0,0,0,0
+16,110,Sanction and extract.,Neutral,0,0,0,0,0,0,0,0
+17,112,No witnesses.,trust,0,0,0,0,0,0,0,1
+18,156,Well done Soldier.,anger,1,0,0,0,0,1,0,0
+19,187,(INDISTINCT CHATTER),Neutral,0,0,0,0,0,0,0,0
+20,201,"STEVE: (ON RADIO) <i>All right, what do you see?</i>",Neutral,0,0,0,0,0,0,0,0
+21,203,Standard beat cops.,fear,0,0,0,1,0,0,0,1
+22,206,Small station.,Neutral,0,0,0,0,0,0,0,0
+23,210,Quiet street.,sadness,0,0,0,0,0,1,0,0
+24,212,<i>It's a good target.</i>,anticipation,0,1,0,0,1,0,1,1
+25,213,"There's an ATM on the south corner, which means?",Neutral,0,0,0,0,0,0,0,0
+26,216,Cameras.,Neutral,0,0,0,0,0,0,0,0
+27,217,<i>Both cross streets are one-way.</i>,anger,1,0,0,1,0,1,0,0
+28,219,"So, compromised escape routes.",anticipation,0,1,0,1,0,0,0,0
+29,221,STEVE: Means our guy doesn't care about being seen.,Neutral,0,0,0,0,0,0,0,0
+30,223,He isn't afraid to make a mess on the way out.,disgust,0,0,1,1,0,0,0,0
+31,225,You see that Range Rover halfway up the block?,Neutral,0,0,0,0,0,0,0,0
+32,227,"Yeah, the red one? It's cute.",Neutral,0,0,0,0,0,0,0,0
+33,229,"NATASHA: (ON RADIO) <i>It's also bulletproof,</i>",Neutral,0,0,0,0,0,0,0,0
+34,231,<i>which means private security...</i>,Neutral,0,0,0,0,0,0,0,0
+35,232,<i>which means more guns...</i>,Neutral,0,0,0,0,0,0,0,0
+36,234,<i>which means more headaches for somebody. Probably us.</i>,Neutral,0,0,0,0,0,0,0,0
+37,236,"You guys know I can move things with my mind, right?",Neutral,0,0,0,0,0,0,0,0
+38,239,Looking over your shoulder needs to become second nature.,trust,0,0,0,0,0,0,0,1
+39,242,Anybody ever tell you you're a little paranoid?,Neutral,0,0,0,0,0,0,0,0
+40,244,NATASHA: <i>Not to my face. Why? Did you hear something?</i>,Neutral,0,0,0,0,0,0,0,0
+41,247,"STEVE: <i>Eyes on target, folks.</i>",Neutral,0,0,0,0,0,0,0,0
+42,248,This is the best lead we've had on Rumlow,Neutral,0,0,0,0,0,0,0,0
+43,250,in six months. I don't want to lose him.,anger,1,0,1,1,0,1,1,0
+44,251,"(SCOFFS) If he sees us coming, that won't be a problem.",anger,1,1,1,1,0,1,0,0
+45,254,He kind of hates us.,joy,0,0,0,0,1,0,0,1
+46,255,- (INDISTINCT SHOUTING) - (HORNS HONKING),anger,1,0,0,0,0,0,1,0
+47,259,Sam...,Neutral,0,0,0,0,0,0,0,0
+48,260,see that garbage truck?,disgust,0,0,1,0,0,0,0,1
+49,262,Tag it.,Neutral,0,0,0,0,0,0,0,0
+50,281,Give me X-ray.,Neutral,0,0,0,0,0,0,0,0
+51,288,That truck's loaded for max weight.,trust,0,1,1,1,1,1,1,2
+52,289,And the driver's armed.,Neutral,0,0,0,0,0,0,0,0
+53,291,It's a battering ram.,anger,2,1,0,1,0,0,0,0
+54,292,- STEVE: <i>Go now.</i> - What?,Neutral,0,0,0,0,0,0,0,0
+55,294,He's not hitting the police.,anger,1,0,0,1,0,0,0,1
+56,341,(PEOPLE COUGHING),disgust,0,0,1,0,0,0,0,0
+57,346,(WHOOSHING),Neutral,0,0,0,0,0,0,0,0
+58,351,(GRUNTING),Neutral,0,0,0,0,0,0,0,0
+59,357,(GROANS),disgust,0,0,1,0,0,1,0,0
+60,359,"Body Armour, AR-15s.",Neutral,0,0,0,0,0,0,0,0
+61,361,<i>I make seven hostiles.</i>,Neutral,0,0,0,0,0,0,0,0
+62,364,(GUNFIRE),Neutral,0,0,0,0,0,0,0,0
+63,369,(GROANS),disgust,0,0,1,0,0,1,0,0
+64,372,I make five.,Neutral,0,0,0,0,0,0,0,0
+65,378,- (GROANS) - Sam.,disgust,0,0,1,0,0,1,0,0
+66,380,(MERC YELPING),anger,1,0,0,1,0,0,1,0
+67,383,Four.,Neutral,0,0,0,0,0,0,0,0
+68,389,Rumlow's on the third floor.,Neutral,0,0,0,0,0,0,0,0
+69,390,"Wanda, just like we practiced.",Neutral,0,0,0,0,0,0,0,0
+70,392,WANDA: What about the gas?,Neutral,0,0,0,0,0,0,0,0
+71,393,Get it out.,Neutral,0,0,0,0,0,0,0,0
+72,399,- (GASPING) - (GRUNTS),surprise,0,0,0,0,0,0,1,0
+73,403,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+74,406,(TECHNICIAN YELPS),anger,1,0,0,1,0,0,1,0
+75,412,CROSSBONES: Pack it up.,Neutral,0,0,0,0,0,0,0,0
+76,413,(GUNFIRE),Neutral,0,0,0,0,0,0,0,0
+77,416,(GROANING),disgust,0,0,1,0,0,1,0,0
+78,451,CROSSBONES: He's here.,Neutral,0,0,0,0,0,0,0,0
+79,455,Rumlow has a biological weapon.,Neutral,0,0,0,0,0,0,0,0
+80,457,NATASHA: (ON RADIO) <i>I'm on it.</i>,Neutral,0,0,0,0,0,0,0,0
+81,460,(TYRES SCREECHING),fear,0,0,0,1,0,0,1,0
+82,466,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+83,480,(MERC GROANS),disgust,0,0,1,0,0,1,0,0
+84,482,- (NATASHA GRUNTS) - (GROWLS),anger,1,0,0,1,0,0,0,0
+85,494,I don't work like that no more.,Neutral,0,0,0,0,0,0,0,0
+86,499,Fire in the hole.,fear,0,0,0,1,0,0,0,0
+87,501,(TICKING),Neutral,0,0,0,0,0,0,0,0
+88,505,MERC: No!,Neutral,0,0,0,0,0,0,0,0
+89,509,(COUGHS),disgust,0,0,1,0,0,0,0,0
+90,516,(PANTING),Neutral,0,0,0,0,0,0,0,0
+91,526,(GROANING),disgust,0,0,1,0,0,1,0,0
+92,529,Sam.,Neutral,0,0,0,0,0,0,0,0
+93,530,<i>He's in an AFV heading north.</i>,Neutral,0,0,0,0,0,0,0,0
+94,537,Take this to the airstrip.,Neutral,0,0,0,0,0,0,0,0
+95,539,We're not gonna outrun them. Lose the truck.,anger,1,0,1,1,0,1,1,1
+96,542,(PEOPLE SCREAMING),anger,1,0,1,1,0,0,1,0
+97,549,Where are you going to meet us?,Neutral,0,0,0,0,0,0,0,0
+98,550,I'm not. (GRUNTS),Neutral,0,0,0,0,0,0,0,0
+99,563,"I've got four, they're splitting up.",Neutral,0,0,0,0,0,0,0,0
+100,569,I got the two on the left.,sadness,0,0,0,0,0,1,1,0
+101,574,(PANICKED CHATTER),fear,0,0,0,1,0,0,0,0
+102,579,They ditched their gear.,Neutral,0,0,0,0,0,0,0,0
+103,581,It's a shell game now. One of them has the payload.,anger,1,0,0,1,0,1,1,0
+104,583,(BEEPING),Neutral,0,0,0,0,0,0,0,0
+105,585,- (PEOPLE SCREAMING) - (STEVE GRUNTS),anger,1,0,1,1,0,0,1,0
+106,586,(CROSSBONES GRUNTS),Neutral,0,0,0,0,0,0,0,0
+107,589,"There you are, you son of a bitch.",anger,1,0,1,1,0,1,0,0
+108,592,I've been waiting for this.,anticipation,0,1,0,0,0,0,0,0
+109,602,(GROANS),disgust,0,0,1,0,0,1,0,0
+110,610,He doesn't have it.,Neutral,0,0,0,0,0,0,0,0
+111,612,I'm empty!,Neutral,0,0,0,0,0,0,0,0
+112,613,Out of the way!,Neutral,0,0,0,0,0,0,0,0
+113,615,(PANICKED SHOUTING),anger,1,0,0,1,0,0,1,0
+114,620,(PANTING),Neutral,0,0,0,0,0,0,0,0
+115,628,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+116,654,Drop it.,Neutral,0,0,0,0,0,0,0,0
+117,655,Or I'll drop this.,anger,1,0,1,1,0,1,0,0
+118,657,(PANTING),Neutral,0,0,0,0,0,0,0,0
+119,658,- Drop it! - He'll do it!,anger,1,0,1,1,0,1,0,0
+120,663,(BOTH GROAN),disgust,0,0,1,0,0,1,0,0
+121,664,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+122,667,"Payload secure. Thanks, Sam.",Neutral,0,0,0,0,0,0,0,0
+123,669,Don't thank me.,Neutral,0,0,0,0,0,0,0,0
+124,671,I'm not thanking that thing.,Neutral,0,0,0,0,0,0,0,0
+125,672,His name is Redwing.,Neutral,0,0,0,0,0,0,0,0
+126,674,<i>I'm still not thanking it.</i>,Neutral,0,0,0,0,0,0,0,0
+127,675,"He's cute. Go ahead, pet him.",Neutral,0,0,0,0,0,0,0,0
+128,676,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+129,683,Come on!,Neutral,0,0,0,0,0,0,0,0
+130,692,This is for dropping a building on my face.,Neutral,0,0,0,0,0,0,0,0
+131,710,(PANTING),Neutral,0,0,0,0,0,0,0,0
+132,712,Ahh!,Neutral,0,0,0,0,0,0,0,0
+133,716,"I think I look pretty good, all things considered.",anticipation,0,2,0,0,2,0,1,2
+134,718,Who's your buyer?,Neutral,0,0,0,0,0,0,0,0
+135,720,"You know, he knew you.",Neutral,0,0,0,0,0,0,0,0
+136,722,"Your pal, your buddy, your BUCKY.",anticipation,0,1,0,0,1,0,0,1
+137,725,What did you say?,Neutral,0,0,0,0,0,0,0,0
+138,726,He remembered you.,Neutral,0,0,0,0,0,0,0,0
+139,729,I was there. He got all weepy about it.,Neutral,0,0,0,0,0,0,0,0
+140,733,Till they put his brain back in a blender.,Neutral,0,0,0,0,0,0,0,0
+141,735,He wanted you to know something.,Neutral,0,0,0,0,0,0,0,0
+142,737,He said to me...,Neutral,0,0,0,0,0,0,0,0
+143,739,"""Please tell Rogers.",Neutral,0,0,0,0,0,0,0,0
+144,741,"""When you gotta go...",Neutral,0,0,0,0,0,0,0,0
+145,743,"""you gotta go.""",Neutral,0,0,0,0,0,0,0,0
+146,747,And you're coming with me.,Neutral,0,0,0,0,0,0,0,0
+147,750,(SCREAMING),anger,1,0,1,1,0,0,1,0
+148,751,(WANDA GRUNTING),Neutral,0,0,0,0,0,0,0,0
+149,764,(GASPS),surprise,0,0,0,0,0,0,1,0
+150,765,"Oh, my...",Neutral,0,0,0,0,0,0,0,0
+151,770,Sam...,Neutral,0,0,0,0,0,0,0,0
+152,773,we need Fire and Rescue,anticipation,0,1,0,1,1,0,1,1
+153,774,on the south side of the building.,Neutral,0,0,0,0,0,0,0,0
+154,776,We gotta get up there.,Neutral,0,0,0,0,0,0,0,0
+155,780,(SOFT PIANO PLAYING),Neutral,0,0,0,0,0,0,0,0
+156,785,(SINGING) <i>Try to remember the kind of September</i>,joy,0,1,0,0,2,1,0,2
+157,791,<i>When grass was green</i>,Neutral,0,0,0,0,0,0,0,0
+158,796,"Wake up, dear, and say goodbye to your father.",trust,0,0,0,0,0,0,0,1
+159,799,Who's the homeless person on the couch?,sadness,1,1,1,1,0,2,0,0
+160,800,(YOUNG TONY CHUCKLES),anticipation,0,2,0,0,2,0,2,1
+161,802,This is why I love coming home for Christmas...,joy,0,0,0,0,1,0,0,0
+162,804,right before you leave town.,sadness,0,0,0,0,0,1,1,0
+163,805,"Be nice, dear, he's been studying abroad.",Neutral,0,0,0,0,0,0,0,0
+164,808,Really? Which broad? What's her name?,Neutral,0,0,0,0,0,0,0,0
+165,810,Candice.,Neutral,0,0,0,0,0,0,0,0
+166,812,Do me a favour?,Neutral,0,0,0,0,0,0,0,0
+167,813,Try not to burn the house down before Monday.,Neutral,0,0,0,0,0,0,0,0
+168,815,"Okay, so it's Monday.",Neutral,0,0,0,0,0,0,0,0
+169,816,"That is good to know,",anticipation,0,1,0,0,1,0,1,1
+170,817,I will plan my toga party accordingly.,anticipation,0,1,0,0,0,0,0,0
+171,820,Where you going?,Neutral,0,0,0,0,0,0,0,0
+172,821,Your father's flying us,trust,0,0,0,0,0,0,0,1
+173,822,to the Bahamas for a little getaway.,Neutral,0,0,0,0,0,0,0,0
+174,824,We might have to make a quick stop.,Neutral,0,0,0,0,0,0,0,0
+175,825,At the Pentagon. Right?,Neutral,0,0,0,0,0,0,0,0
+176,828,"Don't worry, you're gonna love the holiday menu at the commissary.",anticipation,0,2,0,1,2,1,0,0
+177,831,They say sarcasm is a metric for potential.,anger,1,0,1,0,0,1,0,0
+178,834,"If that's true, you'll be a great man someday.",Neutral,0,0,0,0,0,0,0,0
+179,836,I'll get the bags.,anger,1,0,1,1,0,1,0,0
+180,839,He does miss you when you're not here.,Neutral,0,0,0,0,0,0,0,0
+181,844,"And frankly, you're going to miss us.",Neutral,0,0,0,0,0,0,0,0
+182,848,Because this is the last time,anticipation,0,1,0,0,0,0,0,0
+183,849,we're all going to be together.,Neutral,0,0,0,0,0,0,0,0
+184,852,You know what's about to happen.,anticipation,0,1,0,0,0,0,0,0
+185,855,Say something.,Neutral,0,0,0,0,0,0,0,0
+186,856,"If you don't, you'll regret it.",sadness,0,0,0,0,0,1,0,0
+187,862,"I love you, Dad.",joy,0,0,0,0,1,0,0,0
+188,865,And I know you did the best you could.,Neutral,0,0,0,0,0,0,0,0
+189,883,That's how I wish it happened.,anticipation,0,1,0,0,0,0,0,0
+190,887,Binarily Augmented Retro-Framing...,Neutral,0,0,0,0,0,0,0,0
+191,890,or BARF.,disgust,0,0,1,0,0,0,0,0
+192,891,"God, I gotta work on that acronym.",anticipation,0,1,0,1,1,0,0,1
+193,893,An extremely costly method,Neutral,0,0,0,0,0,0,0,0
+194,896,of hijacking the hippocampus...,Neutral,0,0,0,0,0,0,0,0
+195,898,to (SIGHS) clear traumatic memories.,anger,1,0,0,1,0,1,0,0
+196,902,(BLOWING),Neutral,0,0,0,0,0,0,0,0
+197,905,Huh.,Neutral,0,0,0,0,0,0,0,0
+198,906,It doesn't change the fact,fear,0,0,0,1,0,0,0,1
+199,907,that they never made it to the airport...,anticipation,0,1,0,0,0,0,0,0
+200,910,"or all the things I did to avoid processing my grief, but...",fear,0,0,0,1,0,1,0,0
+201,915,"Plus, $611 million for my little therapeutic experiment?",anticipation,0,1,0,0,1,0,1,1
+202,921,No one in their right mind would've ever funded it.,Neutral,0,0,0,0,0,0,0,0
+203,925,"Help me out, what's the MIT mission statement?",trust,0,0,0,0,0,0,0,1
+204,928,"""To generate, disseminate...",Neutral,0,0,0,0,0,0,0,0
+205,929,(STUDENTS RECITING),Neutral,0,0,0,0,0,0,0,0
+206,930,"""and preserve knowledge.",Neutral,0,0,0,0,0,0,0,0
+207,932,"""And work with others...",Neutral,0,0,0,0,0,0,0,0
+208,934,"""to bring it to bear on the world's great challenges.""",anger,2,0,0,2,0,0,0,0
+209,938,"Well, you are the others.",Neutral,0,0,0,0,0,0,0,0
+210,942,"And, quiet as it's kept...",sadness,0,0,0,0,0,1,0,0
+211,943,the challenges facing you,anger,1,0,0,1,0,0,0,0
+212,945,are the greatest mankind's ever known.,Neutral,0,0,0,0,0,0,0,0
+213,947,"- Plus, most of you are broke. - (ALL LAUGHING)",surprise,0,0,0,0,1,0,2,0
+214,950,"Oh, I'm sorry. Rather, you were.",Neutral,0,0,0,0,0,0,0,0
+215,952,As of this moment...,Neutral,0,0,0,0,0,0,0,0
+216,953,every student has been made an equal recipient...,anticipation,0,1,0,0,0,0,0,0
+217,955,of the inaugural September Foundation Grant.,anticipation,0,2,0,0,1,0,0,1
+218,958,- (STUDENTS GASPING) - As in...,surprise,0,0,0,0,0,0,1,0
+219,960,all of your projects have just been approved and funded.,joy,0,0,0,0,1,0,0,1
+220,963,(ALL CHEERING),anticipation,0,1,0,0,1,0,1,1
+221,966,"No strings, no taxes...",sadness,0,0,0,0,0,1,0,0
+222,969,just reframe the future!,Neutral,0,0,0,0,0,0,0,0
+223,971,Starting now.,anticipation,0,1,0,0,0,0,0,0
+224,983,Go break some eggs.,surprise,0,0,0,0,0,0,1,0
+225,985,(ALL CHEERING),anticipation,0,1,0,0,1,0,1,1
+226,992,Wow. Wow.,Neutral,0,0,0,0,0,0,0,0
+227,995,That took my breath away.,Neutral,0,0,0,0,0,0,0,0
+228,997,"Oh, Tony! So generous.",joy,0,0,0,0,1,0,0,1
+229,999,So much money! Wow! (LAUGHS AWKWARDLY),joy,1,1,0,0,2,0,2,1
+230,1001,Out of curiosity...,anticipation,0,1,0,0,0,0,1,0
+231,1003,will any portion of that grant be made available to faculty?,trust,0,1,0,0,1,0,0,2
+232,1006,"I know, ""Ooh, gross,"" but hear me out.",disgust,0,0,1,0,0,0,0,0
+233,1007,I have got this killer idea for a self-cooking hotdog.,Neutral,0,0,0,0,0,0,0,0
+234,1010,"Basically, chemical detonator embedded...",Neutral,0,0,0,0,0,0,0,0
+235,1011,"Restroom's this way, yeah?",Neutral,0,0,0,0,0,0,0,0
+236,1012,Yeah. Embedded in the meat shaft.,Neutral,0,0,0,0,0,0,0,0
+237,1013,"Mr Stark, I am so sorry about the teleprompter.",trust,0,0,0,0,0,0,0,1
+238,1016,I didn't know Miss Potts had cancelled.,sadness,0,0,0,0,0,1,0,0
+239,1017,They didn't have time to fix it.,anticipation,0,1,0,0,0,0,0,0
+240,1020,It's fine. I'll be right back.,anger,1,0,1,1,0,1,0,0
+241,1023,We'll catch up later.,surprise,0,0,0,0,0,0,1,0
+242,1042,"That was nice, what you did for those young people.",anticipation,0,1,0,0,1,0,1,0
+243,1046,"Ah, they deserve it.",anger,1,1,0,0,0,0,0,1
+244,1047,"Plus, it helps ease my conscience.",trust,0,0,0,0,0,0,0,1
+245,1050,They say there's a correlation between generosity and guilt.,anticipation,0,1,1,0,1,1,1,1
+246,1056,But if you've got the money...,anger,1,1,0,0,1,0,1,1
+247,1059,break as many eggs as you like.,surprise,0,0,0,0,0,0,1,0
+248,1062,Right?,Neutral,0,0,0,0,0,0,0,0
+249,1072,Are you going up?,Neutral,0,0,0,0,0,0,0,0
+250,1074,I'm right where I want to be.,Neutral,0,0,0,0,0,0,0,0
+251,1076,Okay. Hey.,Neutral,0,0,0,0,0,0,0,0
+252,1081,"Sorry, it's an occupational hazard.",fear,0,0,0,1,0,0,0,0
+253,1084,I work for the State Department.,Neutral,0,0,0,0,0,0,0,0
+254,1086,Human Resources.,joy,0,0,0,0,1,0,0,1
+255,1088,I know it's boring...,Neutral,0,0,0,0,0,0,0,0
+256,1090,but it enabled me to raise a son.,trust,0,0,0,0,0,0,0,1
+257,1095,I'm very proud of what he grew up to be.,anticipation,0,2,0,0,2,0,0,2
+258,1099,His name was Charlie Spencer.,Neutral,0,0,0,0,0,0,0,0
+259,1104,You murdered him.,anger,1,0,1,1,0,1,1,0
+260,1107,In Sokovia.,Neutral,0,0,0,0,0,0,0,0
+261,1111,Not that that matters in the least to you.,Neutral,0,0,0,0,0,0,0,0
+262,1115,You think you fight for us?,anger,1,0,0,1,0,0,0,0
+263,1119,You just fight for yourself.,anger,1,0,0,1,0,0,0,0
+264,1122,"Who's going to avenge my son, Stark?",trust,0,0,0,0,0,0,0,1
+265,1127,He's dead...,Neutral,0,0,0,0,0,0,0,0
+266,1129,and I blame you.,anger,1,0,1,0,0,0,0,0
+267,1140,FEMALE NEWS ANCHOR: <i>11 Wakandans were</i>,Neutral,0,0,0,0,0,0,0,0
+268,1141,<i>among those killed during a confrontation...</i>,fear,0,0,0,1,0,1,0,0
+269,1143,<i>between the Avengers and a group of mercenaries...</i>,Neutral,0,0,0,0,0,0,0,0
+270,1145,"<i>in Lagos, Nigeria last month.</i>",Neutral,0,0,0,0,0,0,0,0
+271,1148,<i>The traditionally reclusive Wakandans</i>,Neutral,0,0,0,0,0,0,0,0
+272,1149,<i>were on an outreach mission...</i>,Neutral,0,0,0,0,0,0,0,0
+273,1150,"<i>in Lagos, when the attack occurred.</i>",anger,1,0,0,1,0,0,0,0
+274,1152,<i>Our people's blood is spilled on foreign soil...</i>,Neutral,0,0,0,0,0,0,0,0
+275,1156,<i>not only because of the actions of criminals...</i>,Neutral,0,0,0,0,0,0,0,0
+276,1160,<i>but by the indifference of those pledged to stop them.</i>,anger,1,0,1,1,1,1,0,1
+277,1163,<i>Victory at the expense of the innocent...</i>,Neutral,0,0,0,0,0,0,0,0
+278,1167,<i>is no victory at all.</i>,anticipation,0,1,0,0,1,0,0,1
+279,1169,FEMALE NEWS ANCHOR: <i>The Wakandan king went on to...</i>,Neutral,0,0,0,0,0,0,0,0
+280,1171,MALE PUNDIT: (ON TV) <i>They are operating outside</i>,Neutral,0,0,0,0,0,0,0,0
+281,1172,<i>and above the international law.</i>,Neutral,0,0,0,0,0,0,0,0
+282,1174,"<i>Because that's the reality,</i>",Neutral,0,0,0,0,0,0,0,0
+283,1176,<i>if we don't respond to acts like these.</i>,Neutral,0,0,0,0,0,0,0,0
+284,1177,<i>What legal authority does an enhanced</i>,trust,0,0,0,0,0,0,0,2
+285,1179,<i>individual like Wanda Maximoff have...</i>,Neutral,0,0,0,0,0,0,0,0
+286,1181,<i>to operate in Nigeri...?</i>,Neutral,0,0,0,0,0,0,0,0
+287,1187,It's my fault.,sadness,0,0,0,0,0,1,0,0
+288,1189,That's not true.,Neutral,0,0,0,0,0,0,0,0
+289,1190,Turn the TV back on.,Neutral,0,0,0,0,0,0,0,0
+290,1191,They're being very specific.,Neutral,0,0,0,0,0,0,0,0
+291,1194,I should've clocked that bomb vest long before you had to deal with it.,anticipation,1,3,0,1,1,1,2,1
+292,1198,"Rumlow said ""BUCKY""...",Neutral,0,0,0,0,0,0,0,0
+293,1201,"and all of a sudden I was a 16-year-old kid again,",surprise,0,0,0,0,0,0,1,0
+294,1203,in Brooklyn.,Neutral,0,0,0,0,0,0,0,0
+295,1208,And people died.,fear,0,0,0,1,0,1,0,0
+296,1212,It's on me.,Neutral,0,0,0,0,0,0,0,0
+297,1214,It's on both of us.,Neutral,0,0,0,0,0,0,0,0
+298,1217,This job...,Neutral,0,0,0,0,0,0,0,0
+299,1221,We try to save as many people as we can.,joy,0,0,0,0,1,0,0,1
+300,1224,Sometimes that doesn't mean everybody.,Neutral,0,0,0,0,0,0,0,0
+301,1226,But if we can't find a way to live with that...,Neutral,0,0,0,0,0,0,0,0
+302,1228,then next time...,anticipation,0,1,0,0,0,0,0,0
+303,1231,maybe nobody gets saved.,joy,0,0,0,0,1,0,0,1
+304,1237,Vis! We talked about this.,Neutral,0,0,0,0,0,0,0,0
+305,1239,"Yes, but the door was open so I assumed that...",Neutral,0,0,0,0,0,0,0,0
+306,1243,Captain Rogers wished to know when Mr Stark was arriving.,anticipation,0,1,0,0,0,0,0,1
+307,1247,Thank you. We'll be right down.,Neutral,0,0,0,0,0,0,0,0
+308,1249,I'll use the door.,anger,1,0,1,1,0,1,0,0
+309,1252,"Oh, and apparently, he's brought a guest.",Neutral,0,0,0,0,0,0,0,0
+310,1254,STEVE: We know who it is?,Neutral,0,0,0,0,0,0,0,0
+311,1256,The Secretary of State.,Neutral,0,0,0,0,0,0,0,0
+312,1261,SECRETARY ROSS: (SIGHS) <i>Five years ago...</i>,Neutral,0,0,0,0,0,0,0,0
+313,1263,I had a heart attack...,anger,1,0,0,1,0,0,0,0
+314,1265,and dropped right in the middle of my backswing.,Neutral,0,0,0,0,0,0,0,0
+315,1269,Turned out it was the best round of my life...,Neutral,0,0,0,0,0,0,0,0
+316,1272,because after 13 hours of surgery,fear,0,0,0,1,0,1,0,0
+317,1274,and a triple bypass...,Neutral,0,0,0,0,0,0,0,0
+318,1277,I found something 40 years in the Army had never taught me.,joy,0,0,0,0,1,0,1,1
+319,1281,Perspective.,Neutral,0,0,0,0,0,0,0,0
+320,1284,The world owes the Avengers an unpayable debt.,sadness,0,0,0,0,0,1,0,0
+321,1289,You have fought for us...,anger,1,0,0,1,0,0,0,0
+322,1292,"protected us, risked your lives...",anticipation,0,1,0,1,0,0,0,0
+323,1296,but while a great many people see you as heroes...,Neutral,0,0,0,0,0,0,0,0
+324,1300,there are some...,Neutral,0,0,0,0,0,0,0,0
+325,1303,"who would prefer the word ""vigilantes.""",trust,0,0,0,0,0,0,0,2
+326,1305,"What word would you use, Mr Secretary?",trust,0,0,0,0,0,0,0,1
+327,1308,"How about ""dangerous""?",fear,0,0,0,1,0,0,0,0
+328,1310,"What would you call a group of US-based,",Neutral,0,0,0,0,0,0,0,0
+329,1312,enhanced individuals...,Neutral,0,0,0,0,0,0,0,0
+330,1315,who routinely ignore sovereign borders...,trust,0,0,0,0,0,0,0,1
+331,1318,and inflict their will wherever they choose...,anger,1,0,0,1,0,1,0,0
+332,1322,"and who, frankly, seem unconcerned",Neutral,0,0,0,0,0,0,0,0
+333,1324,about what they leave behind?,sadness,0,0,0,0,0,1,1,0
+334,1330,New York.,Neutral,0,0,0,0,0,0,0,0
+335,1332,(PEOPLE SCREAMING),anger,1,0,1,1,0,0,1,0
+336,1345,"Washington, D.C.",Neutral,0,0,0,0,0,0,0,0
+337,1350,(PEOPLE SCREAMING),anger,1,0,1,1,0,0,1,0
+338,1355,Sokovia.,Neutral,0,0,0,0,0,0,0,0
+339,1368,Lagos.,Neutral,0,0,0,0,0,0,0,0
+340,1371,(SIREN WAILING),fear,0,0,0,2,0,1,0,0
+341,1378,Okay. That's enough.,Neutral,0,0,0,0,0,0,0,0
+342,1382,"For the past four years,",Neutral,0,0,0,0,0,0,0,0
+343,1383,you've operated with unlimited power...,Neutral,0,0,0,0,0,0,0,0
+344,1385,and no supervision.,Neutral,0,0,0,0,0,0,0,0
+345,1387,That's an arrangement the governments of the world,Neutral,0,0,0,0,0,0,0,0
+346,1388,can no longer tolerate.,anger,1,0,0,0,0,1,0,0
+347,1393,But I think we have a solution.,Neutral,0,0,0,0,0,0,0,0
+348,1399,The Sokovia Accords.,trust,0,0,0,0,0,0,0,1
+349,1402,Approved by 117 countries...,joy,0,0,0,0,1,0,0,1
+350,1405,it states that the Avengers,Neutral,0,0,0,0,0,0,0,0
+351,1408,shall no longer be a private organization.,anticipation,0,1,0,0,1,0,1,1
+352,1410,Instead...,Neutral,0,0,0,0,0,0,0,0
+353,1412,they'll operate under the supervision,Neutral,0,0,0,0,0,0,0,0
+354,1414,of a United Nations panel...,Neutral,0,0,0,0,0,0,0,0
+355,1416,only when and if that panel deems it necessary.,Neutral,0,0,0,0,0,0,0,0
+356,1422,The Avengers were formed to make the world a safer place.,Neutral,0,0,0,0,0,0,0,0
+357,1425,I feel we've done that.,Neutral,0,0,0,0,0,0,0,0
+358,1427,"Tell me, Captain, do you know where Thor and Banner are right now?",Neutral,0,0,0,0,0,0,0,0
+359,1432,If I misplaced a couple of 30 megaton nukes...,anger,1,0,1,0,0,0,0,0
+360,1435,you can bet there'd be consequences.,Neutral,0,0,0,0,0,0,0,0
+361,1437,Compromise. Reassurance. That's how the world works.,trust,0,0,0,0,0,0,0,1
+362,1442,"Believe me, this is the middle ground.",Neutral,0,0,0,0,0,0,0,0
+363,1446,"So, there are contingencies.",Neutral,0,0,0,0,0,0,0,0
+364,1449,"Three days from now, the UN meets in Vienna...",Neutral,0,0,0,0,0,0,0,0
+365,1452,to ratify the Accords.,trust,0,0,0,0,0,0,0,2
+366,1456,Talk it over.,Neutral,0,0,0,0,0,0,0,0
+367,1461,And if we come to a decision you don't like?,Neutral,0,0,0,0,0,0,0,0
+368,1465,Then you retire.,Neutral,0,0,0,0,0,0,0,0
+369,1477,(VEHICLE CRASHING),fear,0,0,0,1,0,1,1,0
+370,1490,MAN: Hello?,Neutral,0,0,0,0,0,0,0,0
+371,1492,Is this your car out front?,Neutral,0,0,0,0,0,0,0,0
+372,1496,I jumped the kerb.,joy,0,0,0,0,1,0,0,0
+373,1500,Maybe we could...,Neutral,0,0,0,0,0,0,0,0
+374,1501,take care of it ourselves.,Neutral,0,0,0,0,0,0,0,0
+375,1503,"If you wanna call the cops, that's okay, too...",fear,0,0,0,2,0,1,0,1
+376,1505,- I guess. - No.,surprise,0,0,0,0,0,0,1,0
+377,1508,No cops.,fear,0,0,0,1,0,0,0,1
+378,1510,Thank you.,Neutral,0,0,0,0,0,0,0,0
+379,1523,(CLATTERS),Neutral,0,0,0,0,0,0,0,0
+380,1532,(KARPOV STRAINING),Neutral,0,0,0,0,0,0,0,0
+381,1549,"You have kept your looks, Colonel.",trust,0,0,0,0,0,0,0,1
+382,1552,Congratulations.,Neutral,0,0,0,0,0,0,0,0
+383,1557,"""Mission report. December 16, 1991.""",Neutral,0,0,0,0,0,0,0,0
+384,1561,Who are you?,Neutral,0,0,0,0,0,0,0,0
+385,1563,My name is Zemo.,Neutral,0,0,0,0,0,0,0,0
+386,1566,I will repeat my question.,Neutral,0,0,0,0,0,0,0,0
+387,1569,"Mission report, December 16, 1991.",Neutral,0,0,0,0,0,0,0,0
+388,1574,How did you find me?,Neutral,0,0,0,0,0,0,0,0
+389,1576,When S.H.I.E.L.D. fell...,sadness,0,0,0,0,0,1,0,0
+390,1578,Black Widow released HYDRA files to the public.,sadness,0,1,0,1,0,2,0,0
+391,1582,Millions of pages. Much of it encrypted.,Neutral,0,0,0,0,0,0,0,0
+392,1585,Not easy to decipher.,Neutral,0,0,0,0,0,0,0,0
+393,1590,"But, I have experience.",Neutral,0,0,0,0,0,0,0,0
+394,1593,And patience.,anticipation,0,1,0,0,0,0,0,1
+395,1596,A man can do anything if he has those.,Neutral,0,0,0,0,0,0,0,0
+396,1599,What do you want?,Neutral,0,0,0,0,0,0,0,0
+397,1601,Mission report.,Neutral,0,0,0,0,0,0,0,0
+398,1603,December 16.,Neutral,0,0,0,0,0,0,0,0
+399,1605,1991.,Neutral,0,0,0,0,0,0,0,0
+400,1607,Go... to... hell!,anger,1,0,1,1,0,1,0,0
+401,1611,(BREATHING HEAVILY),Neutral,0,0,0,0,0,0,0,0
+402,1625,HYDRA deserves its place on the ash heap.,anger,1,1,0,1,0,0,0,1
+403,1628,So your death would not bother me.,anger,1,1,1,1,0,1,1,0
+404,1631,But I'd have to use this book...,Neutral,0,0,0,0,0,0,0,0
+405,1633,and other bloodier methods to find what I need.,Neutral,0,0,0,0,0,0,0,0
+406,1637,I don't look forward to that.,Neutral,0,0,0,0,0,0,0,0
+407,1641,You'd only be dying for...,fear,0,0,0,1,0,1,0,0
+408,1643,your pride.,joy,0,0,0,0,1,0,0,0
+409,1659,Hail HYDRA.,fear,0,0,0,1,0,0,0,1
+410,1668,(CHOKING),anger,1,0,0,0,0,1,0,0
+411,1673,Secretary Ross has a Congressional Medal of Honour...,anticipation,0,1,0,0,1,0,1,1
+412,1676,which is one more than you have.,Neutral,0,0,0,0,0,0,0,0
+413,1677,SAM: So let's say we agree to this thing.,Neutral,0,0,0,0,0,0,0,0
+414,1679,How long is it gonna be before they LoJack us,anticipation,0,1,0,0,0,0,0,0
+415,1681,like a bunch of common criminals?,Neutral,0,0,0,0,0,0,0,0
+416,1682,117 countries want to sign this.,Neutral,0,0,0,0,0,0,0,0
+417,1684,"117, Sam, and you're just like, ""No, that's cool. We got it.""",Neutral,0,0,0,0,0,0,0,0
+418,1687,How long are you going to play both sides?,anticipation,0,1,0,0,0,0,0,0
+419,1688,I have an equation.,Neutral,0,0,0,0,0,0,0,0
+420,1690,"Oh, this will clear it up.",Neutral,0,0,0,0,0,0,0,0
+421,1692,In the eight years since Mr Stark,trust,0,0,0,0,0,0,0,1
+422,1694,announced himself as Iron Man...,trust,0,0,0,0,0,0,0,1
+423,1695,the number of known enhanced persons has grown exponentially.,anticipation,0,1,0,0,1,0,0,1
+424,1700,During the same period...,Neutral,0,0,0,0,0,0,0,0
+425,1702,the number of potentially world-ending events,Neutral,0,0,0,0,0,0,0,0
+426,1704,has risen at a commensurate rate.,Neutral,0,0,0,0,0,0,0,0
+427,1706,Are you saying it's our fault?,sadness,0,0,0,0,0,1,0,0
+428,1707,I'm saying there may be a causality.,Neutral,0,0,0,0,0,0,0,0
+429,1712,Our very strength invites challenge.,trust,1,1,0,1,1,0,1,2
+430,1715,Challenge incites conflict.,anger,3,1,0,3,0,1,0,0
+431,1718,And conflict...,anger,1,0,0,1,0,1,0,0
+432,1721,breeds catastrophe.,anger,1,0,1,1,0,1,1,0
+433,1723,Oversight...,Neutral,0,0,0,0,0,0,0,0
+434,1727,Oversight is not an idea that can be dismissed out of hand.,Neutral,0,0,0,0,0,0,0,0
+435,1730,Boom.,Neutral,0,0,0,0,0,0,0,0
+436,1732,NATASHA: Tony.,Neutral,0,0,0,0,0,0,0,0
+437,1734,You are being uncharacteristically non-hyperverbal.,Neutral,0,0,0,0,0,0,0,0
+438,1736,It's because he's already made up his mind.,Neutral,0,0,0,0,0,0,0,0
+439,1738,"Boy, you know me so well.",disgust,0,0,1,0,0,0,0,0
+440,1741,"Actually, I'm nursing an electromagnetic headache.",trust,0,0,0,0,0,0,0,1
+441,1744,"That's what's going on, Cap. It's just pain.",anticipation,0,1,0,1,0,1,0,1
+442,1748,It's discomfort.,sadness,0,0,0,0,0,1,0,0
+443,1750,Who's putting coffee grounds in the disposal?,trust,0,0,0,0,0,0,0,1
+444,1752,Am I running a bed and breakfast for a biker gang?,anger,1,0,0,1,0,0,0,0
+445,1760,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+446,1761,"Oh, that's Charles Spencer, by the way.",Neutral,0,0,0,0,0,0,0,0
+447,1763,He's a great kid.,Neutral,0,0,0,0,0,0,0,0
+448,1765,"Computer engineering degree, 3.6 GPA...",Neutral,0,0,0,0,0,0,0,0
+449,1768,had a floor-level gig at Intel planned for the fall.,anticipation,0,1,0,0,0,1,0,0
+450,1771,"But first, he wanted to put a few miles on his soul...",Neutral,0,0,0,0,0,0,0,0
+451,1774,before he parked it behind a desk. See the world.,Neutral,0,0,0,0,0,0,0,0
+452,1776,Maybe be of service.,Neutral,0,0,0,0,0,0,0,0
+453,1779,Charlie didn't want to go to Vegas or,Neutral,0,0,0,0,0,0,0,0
+454,1780,"Fort Lauderdale, which is what I would do.",trust,0,0,0,0,0,0,0,1
+455,1782,"He didn't go to Paris or Amsterdam, which sounds fun.",anticipation,0,1,0,0,1,0,0,0
+456,1784,He decided to spend his summer,Neutral,0,0,0,0,0,0,0,0
+457,1787,building sustainable housing for the poor.,Neutral,0,0,0,0,0,0,0,0
+458,1788,Guess where. Sokovia.,surprise,0,0,0,0,0,0,1,0
+459,1794,"He wanted to make a difference, I suppose.",Neutral,0,0,0,0,0,0,0,0
+460,1795,We won't know because we dropped,anticipation,0,1,0,0,0,0,0,0
+461,1796,a building on him while we were kicking ass.,anger,1,0,0,0,0,0,0,0
+462,1807,There's no decision-making process here.,Neutral,0,0,0,0,0,0,0,0
+463,1811,We need to be put in check!,Neutral,0,0,0,0,0,0,0,0
+464,1813,"Whatever form that takes, I'm game.",Neutral,0,0,0,0,0,0,0,0
+465,1815,"If we can't accept limitations,",Neutral,0,0,0,0,0,0,0,0
+466,1816,if we're boundary-less...,Neutral,0,0,0,0,0,0,0,0
+467,1817,we're no better than the bad guys.,anger,1,0,1,1,0,1,0,0
+468,1820,"Tony, someone dies on your watch, you don't give up.",fear,0,1,0,2,0,1,0,0
+469,1822,Who said we're giving up?,Neutral,0,0,0,0,0,0,0,0
+470,1823,We are if we're not taking responsibility for our actions.,Neutral,0,0,0,0,0,0,0,0
+471,1826,This document just shifts the blame.,anger,1,0,1,0,0,0,0,0
+472,1828,"I'm sorry, Steve.",Neutral,0,0,0,0,0,0,0,0
+473,1830,That is dangerously arrogant.,anger,1,0,1,0,0,0,0,0
+474,1832,This is the United Nations we're talking about.,Neutral,0,0,0,0,0,0,0,0
+475,1834,"It's not the World Security Council,",anticipation,0,1,0,0,0,0,0,1
+476,1836,"it's not S.H.I.E.L.D., it's not HYDRA.",fear,0,0,0,1,0,0,0,0
+477,1837,"No, but it's run by people",Neutral,0,0,0,0,0,0,0,0
+478,1839,"with agendas, and agendas change.",fear,0,0,0,1,0,0,0,0
+479,1840,That's good. That's why I'm here.,anticipation,0,1,0,0,1,0,1,1
+480,1842,When I realised what my weapons were capable of in the wrong hands...,Neutral,0,0,0,0,0,0,0,0
+481,1845,I shut it down and stopped manufacturing.,Neutral,0,0,0,0,0,0,0,0
+482,1847,"Tony, you chose to do that.",Neutral,0,0,0,0,0,0,0,0
+483,1849,"If we sign this, we surrender our right to choose.",fear,0,0,0,1,0,1,0,0
+484,1853,What if this panel sends us somewhere we don't think we should go?,Neutral,0,0,0,0,0,0,0,0
+485,1856,What if there is somewhere we need to go,Neutral,0,0,0,0,0,0,0,0
+486,1857,and they don't let us?,Neutral,0,0,0,0,0,0,0,0
+487,1858,"We may not be perfect,",anticipation,0,1,0,0,1,0,0,1
+488,1860,but the safest hands are still our own.,Neutral,0,0,0,0,0,0,0,0
+489,1862,"If we don't do this now,",Neutral,0,0,0,0,0,0,0,0
+490,1864,it's gonna be done to us later.,Neutral,0,0,0,0,0,0,0,0
+491,1866,That's the fact. That won't be pretty.,anticipation,0,2,0,0,1,0,0,2
+492,1868,You're saying they'll come for me.,Neutral,0,0,0,0,0,0,0,0
+493,1869,We would protect you.,Neutral,0,0,0,0,0,0,0,0
+494,1871,NATASHA: Maybe Tony's right.,Neutral,0,0,0,0,0,0,0,0
+495,1874,"If we have one hand on the wheel,",Neutral,0,0,0,0,0,0,0,0
+496,1876,we can still steer. If we take it off...,Neutral,0,0,0,0,0,0,0,0
+497,1879,Aren't you the same woman who told the government,fear,0,0,0,1,0,0,0,0
+498,1880,to kiss her ass a few years ago?,anticipation,0,1,0,0,1,0,1,0
+499,1882,I'm just reading the terrain.,Neutral,0,0,0,0,0,0,0,0
+500,1885,We have made some very public mistakes.,anticipation,0,1,0,0,0,1,0,0
+501,1888,We need to win their trust back.,trust,0,0,0,0,0,0,0,1
+502,1890,Focus up. I'm sorry. Did I just mishear you...,Neutral,0,0,0,0,0,0,0,0
+503,1892,- or did you agree with me? - I want to take it back now.,Neutral,0,0,0,0,0,0,0,0
+504,1894,"No, you can't retract it.",anger,1,0,0,0,0,0,0,0
+505,1896,Thank you. Unprecedented.,surprise,0,0,0,0,0,0,1,0
+506,1897,(MOBILE BUZZING),anticipation,0,2,0,1,0,0,0,0
+507,1898,Okay. Case closed. I win.,fear,0,0,0,1,0,1,0,0
+508,1902,I have to go.,Neutral,0,0,0,0,0,0,0,0
+509,1922,(CHOIR SINGING HYMN),joy,0,2,0,0,3,2,0,3
+510,1946,"And now, I would like to invite Sharon Carter",anticipation,0,1,0,0,1,0,1,1
+511,1949,to come up and say a few words.,trust,0,0,0,0,0,0,0,1
+512,1961,(EXHALES SHAKILY),Neutral,0,0,0,0,0,0,0,0
+513,1965,Margaret Carter was known to most as a founder of S.H.I.E.L.D...,Neutral,0,0,0,0,0,0,0,0
+514,1969,but I just knew her as Aunt Peggy.,trust,0,0,0,0,0,0,0,1
+515,1973,She had a photograph in her office.,Neutral,0,0,0,0,0,0,0,0
+516,1975,Aunt Peggy standing next to JFK.,trust,0,0,0,0,0,0,0,1
+517,1979,"As a kid, that was pretty cool.",anticipation,0,1,0,0,1,0,0,1
+518,1981,But it was a lot to live up to.,Neutral,0,0,0,0,0,0,0,0
+519,1984,Which is why I never told anyone we were related.,Neutral,0,0,0,0,0,0,0,0
+520,1988,I asked her once how she managed,trust,0,0,0,0,0,0,0,1
+521,1990,to master diplomacy and espionage...,anticipation,0,1,0,0,0,0,0,1
+522,1992,in a time when no one wanted to see a woman succeed at either.,anticipation,0,2,0,0,1,0,1,1
+523,1997,"She said, compromise where you can.",Neutral,0,0,0,0,0,0,0,0
+524,1999,"But where you can't, don't.",Neutral,0,0,0,0,0,0,0,0
+525,2004,Even if everyone is telling you that something wrong is something right.,Neutral,0,0,0,0,0,0,0,0
+526,2009,Even if the whole world is telling you to move...,Neutral,0,0,0,0,0,0,0,0
+527,2013,it is your duty to plant yourself like a tree...,anger,1,1,1,0,1,0,1,1
+528,2017,"look them in the eye and say ""No, you move.""",Neutral,0,0,0,0,0,0,0,0
+529,2033,"When I came out of the ice,",Neutral,0,0,0,0,0,0,0,0
+530,2035,I thought everyone I had known was gone.,Neutral,0,0,0,0,0,0,0,0
+531,2038,Then I found out she was alive.,anticipation,0,1,0,0,1,0,0,1
+532,2041,I was just lucky to have her.,joy,0,0,0,0,1,0,1,0
+533,2043,"She had you back, too.",Neutral,0,0,0,0,0,0,0,0
+534,2047,Who else signed?,Neutral,0,0,0,0,0,0,0,0
+535,2050,"Tony, Rhodey, Vision.",anticipation,0,1,0,0,0,0,0,0
+536,2053,Clint?,Neutral,0,0,0,0,0,0,0,0
+537,2055,Says he's retired.,Neutral,0,0,0,0,0,0,0,0
+538,2057,- Wanda? - TBD.,Neutral,0,0,0,0,0,0,0,0
+539,2060,I'm off to Vienna for the signing of the Accords.,trust,0,0,0,0,0,0,0,1
+540,2063,There's plenty of room on the jet.,Neutral,0,0,0,0,0,0,0,0
+541,2066,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+542,2069,Just because it's the path of least resistance...,anger,1,0,0,0,0,0,0,0
+543,2072,doesn't mean it's the wrong path.,Neutral,0,0,0,0,0,0,0,0
+544,2074,Staying together is more important than how we stay together.,trust,0,0,0,0,0,0,0,1
+545,2078,What are we giving up to do it?,Neutral,0,0,0,0,0,0,0,0
+546,2081,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+547,2084,"I'm sorry, Nat.",Neutral,0,0,0,0,0,0,0,0
+548,2086,I can't sign it.,Neutral,0,0,0,0,0,0,0,0
+549,2089,I know.,Neutral,0,0,0,0,0,0,0,0
+550,2092,Then what are you doing here?,Neutral,0,0,0,0,0,0,0,0
+551,2096,I didn't want you to be alone.,Neutral,0,0,0,0,0,0,0,0
+552,2105,Come here.,Neutral,0,0,0,0,0,0,0,0
+553,2112,MALE NEWS ANCHOR: <i>At a special United Nations conference...</i>,joy,0,0,0,0,1,0,0,0
+554,2115,<i>117 countries have come together</i>,Neutral,0,0,0,0,0,0,0,0
+555,2118,<i>to ratify the Sokovia Accords.</i>,trust,0,0,0,0,0,0,0,1
+556,2125,"UN STAFFER: Excuse me, Ms Romanoff?",Neutral,0,0,0,0,0,0,0,0
+557,2126,- NATASHA: Yes? - These need your signature.,trust,0,0,0,0,0,0,0,1
+558,2129,- Thank you. - Thanks.,Neutral,0,0,0,0,0,0,0,0
+559,2132,T'CHALLA: I suppose neither of us is used to the spotlight.,Neutral,0,0,0,0,0,0,0,0
+560,2137,"Oh, well, it's not always so flattering.",Neutral,0,0,0,0,0,0,0,0
+561,2139,You seem to be doing all right so far.,Neutral,0,0,0,0,0,0,0,0
+562,2142,Considering your last trip to Capitol Hill...,surprise,0,0,0,0,0,0,1,0
+563,2144,I wouldn't think you'd be particularly comfortable in this company.,Neutral,0,0,0,0,0,0,0,0
+564,2148,"Well, I'm not.",Neutral,0,0,0,0,0,0,0,0
+565,2149,"And that alone makes me glad you are here, Ms Romanoff.",anticipation,0,1,0,0,1,0,0,0
+566,2152,Why? You don't approve of all this?,joy,0,0,0,0,1,0,0,1
+567,2154,"The Accords, yes. The politics, not really.",anger,1,0,0,0,0,0,0,1
+568,2158,Two people in a room can get more done than a hundred.,Neutral,0,0,0,0,0,0,0,0
+569,2161,Unless you need to move a piano.,Neutral,0,0,0,0,0,0,0,0
+570,2164,(BOTH SPEAKING NATIVE LANGUAGE),Neutral,0,0,0,0,0,0,0,0
+571,2166,Ms Romanoff.,Neutral,0,0,0,0,0,0,0,0
+572,2167,King T'Chaka.,Neutral,0,0,0,0,0,0,0,0
+573,2169,"Please, allow me to apologise for what happened in Nigeria.",anticipation,0,1,0,0,0,0,0,0
+574,2171,Thank you.,Neutral,0,0,0,0,0,0,0,0
+575,2173,Thank you for agreeing to all of this.,Neutral,0,0,0,0,0,0,0,0
+576,2176,I'm sad to hear that Captain Rogers will not be joining us today.,Neutral,0,0,0,0,0,0,0,0
+577,2179,"Yes, so am I.",Neutral,0,0,0,0,0,0,0,0
+578,2180,MAN: (ON SPEAKERS) <i>If everyone could please be seated.</i>,Neutral,0,0,0,0,0,0,0,0
+579,2182,<i>This assembly is now in session.</i>,trust,0,0,0,0,0,0,0,1
+580,2185,That is the future calling.,Neutral,0,0,0,0,0,0,0,0
+581,2188,Such a pleasure.,Neutral,0,0,0,0,0,0,0,0
+582,2189,Thank you.,Neutral,0,0,0,0,0,0,0,0
+583,2190,(BOTH SPEAKING NATIVE LANGUAGE),Neutral,0,0,0,0,0,0,0,0
+584,2191,"For a man who disapproves of diplomacy,",anger,1,1,1,1,0,1,0,1
+585,2196,you're getting quite good at it.,anticipation,0,1,0,0,1,0,1,1
+586,2198,"I'm happy, Father.",trust,0,1,0,0,1,0,0,2
+587,2205,Thank you.,Neutral,0,0,0,0,0,0,0,0
+588,2207,Thank you.,Neutral,0,0,0,0,0,0,0,0
+589,2208,KING T'CHAKA: <i>When stolen Wakandan vibranium</i>,anger,1,0,0,1,0,1,0,0
+590,2211,<i>was used to make a terrible weapon...</i>,anger,1,0,1,1,0,1,0,0
+591,2214,<i>we in Wakanda were forced to question our legacy.</i>,anger,1,0,0,1,0,0,0,0
+592,2219,Those men and women killed in Nigeria...,fear,0,0,0,1,0,1,0,0
+593,2221,were part of a goodwill mission,Neutral,0,0,0,0,0,0,0,0
+594,2223,from a country too long in the shadows.,anticipation,0,1,0,0,0,0,0,0
+595,2226,"We will not, however, let misfortune drive us back.",fear,0,0,0,1,0,1,0,0
+596,2231,We will fight to improve the world we wish to join.,anger,1,1,0,1,1,0,0,1
+597,2235,I am grateful to the Avengers for supporting this initiative.,Neutral,0,0,0,0,0,0,0,0
+598,2241,Wakanda is proud,anticipation,0,1,0,0,1,0,0,1
+599,2243,- to extend its hand in peace. - (DOG BARKING),anger,1,1,0,0,1,0,0,1
+600,2245,Everybody get down!,Neutral,0,0,0,0,0,0,0,0
+601,2246,(PEOPLE SCREAMING),anger,1,0,1,1,0,0,1,0
+602,2264,(INAUDIBLE),Neutral,0,0,0,0,0,0,0,0
+603,2272,(SOBBING),sadness,0,0,0,0,0,1,0,0
+604,2281,SHARON: My mom tried to talk me out of enlisting...,Neutral,0,0,0,0,0,0,0,0
+605,2284,"but, um, not Aunt Peggy.",trust,0,0,0,0,0,0,0,1
+606,2286,She bought me my first thigh holster.,Neutral,0,0,0,0,0,0,0,0
+607,2288,Very practical.,Neutral,0,0,0,0,0,0,0,0
+608,2290,And stylish.,Neutral,0,0,0,0,0,0,0,0
+609,2297,CIA has you stationed over here now?,Neutral,0,0,0,0,0,0,0,0
+610,2299,Berlin. Joint Terrorism Task Force.,anger,2,0,1,2,0,1,0,0
+611,2302,Right. Right. Sounds fun.,anticipation,0,1,0,0,1,0,0,0
+612,2304,"I know, right?",Neutral,0,0,0,0,0,0,0,0
+613,2308,I've been meaning to ask you.,Neutral,0,0,0,0,0,0,0,0
+614,2311,When you were spying on me from across the hall...,Neutral,0,0,0,0,0,0,0,0
+615,2314,You mean when I was doing my job.,Neutral,0,0,0,0,0,0,0,0
+616,2318,Did Peggy know?,Neutral,0,0,0,0,0,0,0,0
+617,2322,She kept so many secrets.,Neutral,0,0,0,0,0,0,0,0
+618,2324,I didn't want her to have one from you.,Neutral,0,0,0,0,0,0,0,0
+619,2327,(ELEVATOR BELL DINGS),Neutral,0,0,0,0,0,0,0,0
+620,2331,Thanks for walking me back.,Neutral,0,0,0,0,0,0,0,0
+621,2332,Sure.,Neutral,0,0,0,0,0,0,0,0
+622,2337,SAM: Steve.,Neutral,0,0,0,0,0,0,0,0
+623,2339,There's something you gotta see.,Neutral,0,0,0,0,0,0,0,0
+624,2341,MALE NEWS ANCHOR: <i>A bomb hidden in a news van...</i>,fear,1,0,0,2,0,1,1,0
+625,2342,SHARON: Who's coordinating?,Neutral,0,0,0,0,0,0,0,0
+626,2344,<i>Ripped through the UN building in Vienna.</i>,Neutral,0,0,0,0,0,0,0,0
+627,2345,Good. They're solid. Forensics?,anticipation,0,1,0,0,1,0,1,1
+628,2346,<i>More than 70 people have been injured.</i>,Neutral,0,0,0,0,0,0,0,0
+629,2347,"<i>At least 12 are dead, including Wakanda's King T'Chaka.</i>",Neutral,0,0,0,0,0,0,0,0
+630,2351,<i>Officials have released a video of a suspect...</i>,Neutral,0,0,0,0,0,0,0,0
+631,2353,<i>who they have identified as James Buchanan Barnes...</i>,Neutral,0,0,0,0,0,0,0,0
+632,2355,<i>the Winter Soldier.</i>,Neutral,0,0,0,0,0,0,0,0
+633,2357,<i>The infamous HYDRA agent...</i>,fear,1,0,1,2,0,0,0,0
+634,2359,<i>linked to numerous acts of terrorism and political assassinations.</i>,anger,1,0,1,1,0,1,0,0
+635,2362,I have to go to work.,Neutral,0,0,0,0,0,0,0,0
+636,2364,(INDISTINCT CHATTER),Neutral,0,0,0,0,0,0,0,0
+637,2369,"Call MI6, see if we can get Micro Forensics to hurry this up.",anticipation,0,1,0,0,0,0,0,0
+638,2372,We need the whole team here in two hours,trust,0,0,0,0,0,0,0,1
+639,2374,or it's not worth it.,Neutral,0,0,0,0,0,0,0,0
+640,2385,I'm very sorry.,Neutral,0,0,0,0,0,0,0,0
+641,2393,T'CHALLA: In my culture...,Neutral,0,0,0,0,0,0,0,0
+642,2395,death is not the end.,anger,1,1,1,1,0,1,1,0
+643,2399,It's more of a stepping-off point.,Neutral,0,0,0,0,0,0,0,0
+644,2404,You reach out with both hands...,Neutral,0,0,0,0,0,0,0,0
+645,2405,"and Bast and Sekhmet,",Neutral,0,0,0,0,0,0,0,0
+646,2408,they lead you into the green veldt...,joy,0,0,0,0,1,0,0,1
+647,2411,where you can run forever.,Neutral,0,0,0,0,0,0,0,0
+648,2414,That sounds very peaceful.,anticipation,0,1,0,0,1,0,1,1
+649,2417,My father thought so.,trust,0,0,0,0,0,0,0,1
+650,2421,I am not my father.,trust,0,0,0,0,0,0,0,1
+651,2424,T'CHALLA...,Neutral,0,0,0,0,0,0,0,0
+652,2425,Task Force will decide who brings in Barnes.,anger,1,0,0,1,0,0,0,0
+653,2430,"Don't bother, Ms Romanoff.",Neutral,0,0,0,0,0,0,0,0
+654,2433,I'll kill him myself.,fear,1,0,1,2,0,2,0,0
+655,2438,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+656,2439,(MOBILE RINGING),anticipation,0,1,0,0,0,0,0,0
+657,2441,Yeah?,Neutral,0,0,0,0,0,0,0,0
+658,2443,You all right?,Neutral,0,0,0,0,0,0,0,0
+659,2444,"<i>Uh, yeah, thanks. I got lucky.</i>",Neutral,0,0,0,0,0,0,0,0
+660,2453,I know how much Barnes means to you. I really do.,Neutral,0,0,0,0,0,0,0,0
+661,2457,Stay home. You'll only make this worse.,fear,0,0,0,1,0,1,0,0
+662,2460,<i>For all of us.</i>,Neutral,0,0,0,0,0,0,0,0
+663,2462,<i>Please.</i>,Neutral,0,0,0,0,0,0,0,0
+664,2463,Are you saying you'll arrest me?,Neutral,0,0,0,0,0,0,0,0
+665,2464,No.,Neutral,0,0,0,0,0,0,0,0
+666,2467,Someone will.,Neutral,0,0,0,0,0,0,0,0
+667,2468,<i>If you interfere. That's how it works now.</i>,Neutral,0,0,0,0,0,0,0,0
+668,2470,"If he's this far gone, Nat, I should be the one to bring him in.",Neutral,0,0,0,0,0,0,0,0
+669,2474,<i>Why?</i>,Neutral,0,0,0,0,0,0,0,0
+670,2475,Because I'm the one least likely to die trying.,fear,0,0,0,1,0,1,0,0
+671,2479,Shit.,anger,1,0,1,0,0,0,0,0
+672,2485,She tell you to stay out of it?,Neutral,0,0,0,0,0,0,0,0
+673,2488,Might have a point.,Neutral,0,0,0,0,0,0,0,0
+674,2490,He'd do it for me.,Neutral,0,0,0,0,0,0,0,0
+675,2491,"1945, maybe.",Neutral,0,0,0,0,0,0,0,0
+676,2493,I just want to make sure we consider all our options.,Neutral,0,0,0,0,0,0,0,0
+677,2496,The people that shoot at you,anger,1,0,0,1,0,0,0,0
+678,2497,usually wind up shooting at me.,anger,1,0,0,1,0,0,0,0
+679,2501,Tips have been pouring in since that footage went public.,anticipation,0,1,0,0,0,0,0,0
+680,2504,Everybody thinks the Winter Soldier goes to their gym.,anger,1,0,0,0,0,1,0,0
+681,2506,Most of it's noise.,Neutral,0,0,0,0,0,0,0,0
+682,2508,Except for this.,Neutral,0,0,0,0,0,0,0,0
+683,2511,"My boss expects a briefing, pretty much now...",anticipation,0,2,0,0,1,0,1,2
+684,2514,so that's all the head start you're gonna get.,anticipation,0,1,0,0,0,0,0,0
+685,2516,Thank you.,Neutral,0,0,0,0,0,0,0,0
+686,2517,SHARON: You're gonna have to hurry.,anticipation,0,1,0,0,0,0,0,0
+687,2520,We have orders to shoot on sight.,anger,1,0,0,1,0,0,0,0
+688,2524,(HELMUT ZEMO PRACTICING RUSSIAN),Neutral,0,0,0,0,0,0,0,0
+689,2528,<i>Homecoming</i>,Neutral,0,0,0,0,0,0,0,0
+690,2532,<i>One</i>,Neutral,0,0,0,0,0,0,0,0
+691,2534,<i>One</i>,Neutral,0,0,0,0,0,0,0,0
+692,2540,<i>Freight car</i>,Neutral,0,0,0,0,0,0,0,0
+693,2543,(KNOCKING ON DOOR),Neutral,0,0,0,0,0,0,0,0
+694,2552,(WOMAN SPEAKING GERMAN),Neutral,0,0,0,0,0,0,0,0
+695,2554,I have your breakfast.,Neutral,0,0,0,0,0,0,0,0
+696,2558,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+697,2559,I could smell it before I opened the door.,anger,1,0,1,0,0,0,0,0
+698,2562,Side of bacon and black coffee.,sadness,0,0,0,0,0,1,0,0
+699,2564,Again.,Neutral,0,0,0,0,0,0,0,0
+700,2564,"I can make you something different, if you like.",Neutral,0,0,0,0,0,0,0,0
+701,2567,This is wonderful...,joy,0,0,0,0,1,0,1,1
+702,2568,I will just put this on your...,Neutral,0,0,0,0,0,0,0,0
+703,2569,"It's okay, I can manage!",trust,0,0,0,0,0,0,0,1
+704,2581,(SPEAKING ROMANIAN),Neutral,0,0,0,0,0,0,0,0
+705,2599,(SIREN WAILING),fear,0,0,0,2,0,1,0,0
+706,2664,"SAM: (ON RADIO) <i>Heads up, Cap.</i>",Neutral,0,0,0,0,0,0,0,0
+707,2665,"<i>German Special Forces, approaching from the south.</i>",anger,1,0,0,1,1,0,0,0
+708,2669,Understood.,Neutral,0,0,0,0,0,0,0,0
+709,2679,Do you know me?,Neutral,0,0,0,0,0,0,0,0
+710,2682,You're Steve.,Neutral,0,0,0,0,0,0,0,0
+711,2685,I read about you in a museum.,Neutral,0,0,0,0,0,0,0,0
+712,2688,SAM: <i>They've set the perimeter.</i>,Neutral,0,0,0,0,0,0,0,0
+713,2691,"I know you're nervous,",anticipation,0,1,0,1,0,0,0,0
+714,2692,and you have plenty of reason to be.,Neutral,0,0,0,0,0,0,0,0
+715,2696,But you're lying.,anger,1,0,1,0,0,1,0,0
+716,2698,I wasn't in Vienna. I don't do that any more.,Neutral,0,0,0,0,0,0,0,0
+717,2700,<i>They're entering the building.</i>,Neutral,0,0,0,0,0,0,0,0
+718,2702,"Well, the people who think you did are coming here now.",Neutral,0,0,0,0,0,0,0,0
+719,2704,And they're not planning on taking you alive.,anticipation,0,2,0,0,1,0,0,1
+720,2706,That's smart.,Neutral,0,0,0,0,0,0,0,0
+721,2708,Good strategy.,anticipation,0,1,0,0,1,0,1,1
+722,2709,(FOOTSTEPS APPROACHING),Neutral,0,0,0,0,0,0,0,0
+723,2711,<i>They're on the roof. I'm compromised.</i>,Neutral,0,0,0,0,0,0,0,0
+724,2715,"This doesn't have to end in a fight, Buck.",fear,1,0,0,2,0,0,1,0
+725,2722,- It always ends in a fight. <i>- Five seconds.</i>,anger,1,0,0,1,0,0,0,0
+726,2725,You pulled me from the river.,Neutral,0,0,0,0,0,0,0,0
+727,2727,Why?,Neutral,0,0,0,0,0,0,0,0
+728,2729,- I don't know. <i>- Three seconds.</i>,Neutral,0,0,0,0,0,0,0,0
+729,2731,"Yes, you do.",Neutral,0,0,0,0,0,0,0,0
+730,2734,<i>Breach! Breach! Breach!</i>,Neutral,0,0,0,0,0,0,0,0
+731,2739,(SHOUTING IN GERMAN),anger,1,0,0,0,0,0,1,0
+732,2756,"Buck, stop!",fear,0,0,0,1,0,0,1,0
+733,2757,You're gonna kill someone.,fear,0,0,0,1,0,1,0,0
+734,2761,I'm not gonna kill anyone.,fear,0,0,0,1,0,1,0,0
+735,2801,(SOLDIER SHOUTING IN GERMAN),anger,2,0,0,0,0,1,1,0
+736,2809,Suspect has broken containment!,fear,0,0,0,1,0,0,1,0
+737,2811,He's headed down the east stairwell!,Neutral,0,0,0,0,0,0,0,0
+738,2823,"Come on, man.",Neutral,0,0,0,0,0,0,0,0
+739,2833,(YELPS),anger,1,0,0,1,0,0,1,0
+740,2846,Ahhh!,Neutral,0,0,0,0,0,0,0,0
+741,2858,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+742,2870,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+743,2889,"Sam, southwest rooftop.",Neutral,0,0,0,0,0,0,0,0
+744,2891,SAM: <i>Who the hell's the other guy?</i>,Neutral,0,0,0,0,0,0,0,0
+745,2892,About to find out.,Neutral,0,0,0,0,0,0,0,0
+746,2906,- Sam. <i>- Got him.</i>,Neutral,0,0,0,0,0,0,0,0
+747,2935,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+748,2945,(SIREN WAILING),fear,0,0,0,2,0,1,0,0
+749,2949,DRIVER: (ON SPEAKER) <i>Stand down!</i>,Neutral,0,0,0,0,0,0,0,0
+750,2953,<i>Stand down!</i>,Neutral,0,0,0,0,0,0,0,0
+751,2983,"Sam, I can't shake this guy.",Neutral,0,0,0,0,0,0,0,0
+752,2985,Right behind you.,Neutral,0,0,0,0,0,0,0,0
+753,2987,(SIRENS WAILING),fear,0,0,0,1,0,1,0,0
+754,3038,(BLACK PANTHER GRUNTING),sadness,0,0,0,0,0,1,0,0
+755,3059,(TYRES SCREECHING),fear,0,0,0,1,0,0,1,0
+756,3071,(SIRENS CONTINUE WAILING),anticipation,0,1,0,1,0,1,0,1
+757,3081,"Stand down, now.",Neutral,0,0,0,0,0,0,0,0
+758,3091,"<i>Congratulations, Cap.</i>",Neutral,0,0,0,0,0,0,0,0
+759,3093,<i>You're a criminal.</i>,Neutral,0,0,0,0,0,0,0,0
+760,3095,(ALL SHOUTING INDISTINCTLY),anger,1,0,0,0,0,0,1,0
+761,3117,<i>Your Highness.</i>,Neutral,0,0,0,0,0,0,0,0
+762,3124,"""A pinch of paprika.""",Neutral,0,0,0,0,0,0,0,0
+763,3127,A pinch.,Neutral,0,0,0,0,0,0,0,0
+764,3128,(SOFT MUSIC PLAYING ON STEREO),joy,0,0,0,0,1,1,0,0
+765,3131,Is that paprikash?,Neutral,0,0,0,0,0,0,0,0
+766,3133,I thought it might lift your spirits.,Neutral,0,0,0,0,0,0,0,0
+767,3137,(WANDA CHUCKLES),anticipation,0,1,0,0,1,0,1,1
+768,3150,Spirits lifted.,Neutral,0,0,0,0,0,0,0,0
+769,3154,"In my defense,",anger,1,1,0,1,0,0,0,0
+770,3156,"I haven't actually ever eaten anything before, so...",Neutral,0,0,0,0,0,0,0,0
+771,3159,May I?,Neutral,0,0,0,0,0,0,0,0
+772,3160,Please.,Neutral,0,0,0,0,0,0,0,0
+773,3168,- Wanda? - Hmm.,Neutral,0,0,0,0,0,0,0,0
+774,3170,"No one dislikes you, Wanda.",anger,1,0,1,0,0,0,0,0
+775,3174,Thanks.,Neutral,0,0,0,0,0,0,0,0
+776,3175,"Oh, you're welcome.",Neutral,0,0,0,0,0,0,0,0
+777,3176,"No, it's a involuntary response in their amygdala.",Neutral,0,0,0,0,0,0,0,0
+778,3180,They can't help but be afraid of you.,fear,0,0,0,1,0,0,0,0
+779,3182,Are you?,Neutral,0,0,0,0,0,0,0,0
+780,3183,"My amygdala is synthetic, so...",Neutral,0,0,0,0,0,0,0,0
+781,3185,(LAUGHS),joy,0,0,0,0,1,0,1,0
+782,3189,I used to think of myself one way.,Neutral,0,0,0,0,0,0,0,0
+783,3193,But after this...,Neutral,0,0,0,0,0,0,0,0
+784,3196,I am something else.,Neutral,0,0,0,0,0,0,0,0
+785,3198,"I'm still me, I think, but...",Neutral,0,0,0,0,0,0,0,0
+786,3204,that's not what everyone else sees.,Neutral,0,0,0,0,0,0,0,0
+787,3210,"Do you know, I don't know what this is?",Neutral,0,0,0,0,0,0,0,0
+788,3213,Not really.,Neutral,0,0,0,0,0,0,0,0
+789,3214,I know it's not of this world...,Neutral,0,0,0,0,0,0,0,0
+790,3216,"that it powered Loki's staff,",Neutral,0,0,0,0,0,0,0,0
+791,3218,"gave you your abilities, but...",Neutral,0,0,0,0,0,0,0,0
+792,3221,its true nature is a mystery.,anticipation,0,1,0,0,0,0,1,0
+793,3225,"And yet, it is part of me.",Neutral,0,0,0,0,0,0,0,0
+794,3227,Are you afraid of it?,fear,0,0,0,1,0,0,0,0
+795,3229,I wish to understand it.,Neutral,0,0,0,0,0,0,0,0
+796,3231,"The more I do, the less it controls me.",Neutral,0,0,0,0,0,0,0,0
+797,3234,One day... who knows?,Neutral,0,0,0,0,0,0,0,0
+798,3237,I may even control it.,Neutral,0,0,0,0,0,0,0,0
+799,3241,I don't know what's in this but it is not paprika.,Neutral,0,0,0,0,0,0,0,0
+800,3245,I'm gonna go to the store.,anticipation,0,1,0,0,0,0,0,0
+801,3248,I'll be back in 20 minutes.,anger,1,0,1,1,0,1,0,0
+802,3250,"Alternatively, we could order a pizza?",Neutral,0,0,0,0,0,0,0,0
+803,3255,"Vision, are you not letting me leave?",anticipation,0,1,0,0,0,1,1,0
+804,3259,It is a question of safety.,Neutral,0,0,0,0,0,0,0,0
+805,3261,I can protect myself.,Neutral,0,0,0,0,0,0,0,0
+806,3264,Not yours.,Neutral,0,0,0,0,0,0,0,0
+807,3267,Mr Stark would like to avoid the possibility,anticipation,0,1,0,1,0,0,0,1
+808,3270,of another public incident.,anticipation,0,1,0,0,0,0,1,0
+809,3272,Until the Accords are on a more secure foundation.,trust,0,0,0,0,0,0,0,1
+810,3279,And what do you want?,Neutral,0,0,0,0,0,0,0,0
+811,3282,For people to see you...,Neutral,0,0,0,0,0,0,0,0
+812,3285,as I do.,Neutral,0,0,0,0,0,0,0,0
+813,3295,(SIRENS WAILING),fear,0,0,0,1,0,1,0,0
+814,3319,"So, you like cats?",Neutral,0,0,0,0,0,0,0,0
+815,3320,- Sam. - SAM: What?,Neutral,0,0,0,0,0,0,0,0
+816,3322,"Dude shows up dressed like a cat, you don't wanna know more?",fear,0,0,0,1,0,1,0,1
+817,3327,Your suit... it's vibranium?,Neutral,0,0,0,0,0,0,0,0
+818,3332,The Black Panther has been the protector,sadness,0,0,0,0,0,1,0,1
+819,3335,of Wakanda for generations.,Neutral,0,0,0,0,0,0,0,0
+820,3338,"A mantle, passed from warrior to warrior.",anger,2,0,0,2,0,0,0,0
+821,3343,"And now, because your friend murdered my father...",trust,1,0,1,1,1,1,1,2
+822,3346,I also wear the mantle of king.,trust,0,0,0,0,0,0,0,1
+823,3350,"So, I ask you...",Neutral,0,0,0,0,0,0,0,0
+824,3351,as both warrior and king...,anger,1,0,0,1,0,0,0,0
+825,3355,how long do you think you can keep your friend safe from me?,joy,0,1,0,0,2,0,0,2
+826,3365,(MAN SPEAKING GERMAN ON PA),Neutral,0,0,0,0,0,0,0,0
+827,3379,What's gonna happen to him?,anticipation,0,1,0,0,0,0,0,0
+828,3380,Same thing that ought to happen to you.,anticipation,0,1,0,0,0,0,0,0
+829,3383,Psychological evaluation and extradition.,Neutral,0,0,0,0,0,0,0,0
+830,3385,"This is Everett Ross, Deputy Task Force Commander.",anger,1,0,0,1,0,0,0,1
+831,3387,What about a lawyer?,anger,1,0,1,1,0,0,0,0
+832,3389,Lawyer. That's funny.,anger,1,0,1,1,0,0,0,0
+833,3391,See their weapons are placed in lockup.,fear,0,0,0,1,0,1,0,0
+834,3393,We'll write you a receipt.,Neutral,0,0,0,0,0,0,0,0
+835,3395,I better not look out the window and see anybody flying around in that.,Neutral,0,0,0,0,0,0,0,0
+836,3399,(MAN ON PA CONTINUES IN GERMAN),anticipation,0,1,0,0,0,0,0,1
+837,3404,EVERETT: You'll be provided with an office,trust,0,0,0,0,0,0,0,1
+838,3406,instead of a cell.,Neutral,0,0,0,0,0,0,0,0
+839,3407,"Now, do me a favour, stay in it?",Neutral,0,0,0,0,0,0,0,0
+840,3410,I don't intend on going anywhere.,trust,0,0,0,0,0,0,0,1
+841,3412,"For the record, this is what making things worse looks like.",fear,0,0,0,1,0,1,0,0
+842,3416,He's alive.,anticipation,0,1,0,0,1,0,0,1
+843,3417,TONY: No.,Neutral,0,0,0,0,0,0,0,0
+844,3419,Romania was not Accords-sanctioned.,Neutral,0,0,0,0,0,0,0,0
+845,3422,Colonel Rhodes is supervising cleanup.,trust,0,0,0,0,0,0,0,1
+846,3423,Try not to break anything while we fix this.,surprise,0,0,0,0,0,0,1,0
+847,3426,Consequences? You bet there'll be consequences.,Neutral,0,0,0,0,0,0,0,0
+848,3428,"Obviously you can quote me on that,",anticipation,0,1,0,0,0,0,1,0
+849,3430,because I just said it. Anything else?,Neutral,0,0,0,0,0,0,0,0
+850,3431,"Thank you, sir.",trust,0,0,0,0,0,0,0,1
+851,3434,"""Consequences""?",Neutral,0,0,0,0,0,0,0,0
+852,3435,Secretary Ross wants you both prosecuted.,anger,1,0,0,1,0,1,0,0
+853,3437,Had to give him something.,Neutral,0,0,0,0,0,0,0,0
+854,3438,"I'm not getting that shield back, am I?",Neutral,0,0,0,0,0,0,0,0
+855,3440,"Technically, it's the government's property.",Neutral,0,0,0,0,0,0,0,0
+856,3441,"Wings, too.",Neutral,0,0,0,0,0,0,0,0
+857,3442,That's cold.,Neutral,0,0,0,0,0,0,0,0
+858,3444,Warmer than jail.,fear,0,0,0,1,0,1,0,0
+859,3458,(SPEAKING GERMAN),Neutral,0,0,0,0,0,0,0,0
+860,3473,"TONY: Hey, you wanna see something cool?",fear,0,0,0,1,0,1,0,0
+861,3476,I pulled something from Dad's archives.,Neutral,0,0,0,0,0,0,0,0
+862,3480,Felt timely.,Neutral,0,0,0,0,0,0,0,0
+863,3485,FDR signed the Lend-Lease bill with these in 1941.,Neutral,0,0,0,0,0,0,0,0
+864,3489,Provided support to the Allies when they needed it most.,trust,0,0,0,0,0,0,0,2
+865,3492,Some would say it brought our country closer to war.,fear,0,0,0,1,0,0,0,0
+866,3496,"See? If not for these, you wouldn't be here.",Neutral,0,0,0,0,0,0,0,0
+867,3500,I'm trying to... What do you call it?,Neutral,0,0,0,0,0,0,0,0
+868,3503,That's an olive branch.,Neutral,0,0,0,0,0,0,0,0
+869,3506,Is that what you call it?,Neutral,0,0,0,0,0,0,0,0
+870,3509,Is Pepper here? I didn't see her.,Neutral,0,0,0,0,0,0,0,0
+871,3512,We're kinda...,Neutral,0,0,0,0,0,0,0,0
+872,3515,"- Well, not kinda... - Pregnant?",Neutral,0,0,0,0,0,0,0,0
+873,3517,No. Definitely not.,Neutral,0,0,0,0,0,0,0,0
+874,3519,We're taking a break.,surprise,0,0,0,0,0,0,1,0
+875,3521,It's nobody's fault.,sadness,0,0,0,0,0,1,0,0
+876,3524,"I'm so sorry, Tony. I didn't know.",Neutral,0,0,0,0,0,0,0,0
+877,3526,"A few years ago, I almost lost her, so I trashed all my suits.",disgust,1,0,2,1,0,2,1,0
+878,3530,"Then, we had to mop up HYDRA...",fear,0,0,0,1,0,0,0,0
+879,3532,and then Ultron. My fault.,sadness,0,0,0,0,0,1,0,0
+880,3535,"And then, and then, and then, I never stopped.",Neutral,0,0,0,0,0,0,0,0
+881,3538,Because the truth is I don't wanna stop.,fear,0,0,0,1,0,1,0,1
+882,3542,I don't wanna lose her.,fear,1,0,1,2,0,2,1,0
+883,3544,I thought maybe the Accords could split the difference.,trust,0,0,0,0,0,0,0,1
+884,3550,"In her defense, I'm a handful.",anger,1,1,0,1,0,0,0,0
+885,3554,"Yet, Dad was a pain in the ass,",fear,0,0,0,1,0,1,0,0
+886,3556,but he and Mom always made it work.,Neutral,0,0,0,0,0,0,0,0
+887,3558,STEVE: I'm glad Howard got married.,anticipation,0,2,0,1,2,0,1,1
+888,3560,I only knew him when he was young and single.,anticipation,0,1,0,0,1,0,1,0
+889,3562,"Oh, really? You two knew each other?",Neutral,0,0,0,0,0,0,0,0
+890,3564,He never mentioned that.,Neutral,0,0,0,0,0,0,0,0
+891,3566,Maybe only a thousand times.,anticipation,0,1,0,0,0,0,0,0
+892,3569,"God, I hated you.",anticipation,0,1,0,1,1,0,0,1
+893,3572,I don't mean to make things difficult.,fear,0,0,0,1,0,0,0,0
+894,3574,"I know, because you're a very polite person.",Neutral,0,0,0,0,0,0,0,0
+895,3577,If I see a situation pointed south...,Neutral,0,0,0,0,0,0,0,0
+896,3580,I can't ignore it.,Neutral,0,0,0,0,0,0,0,0
+897,3582,Sometimes I wish I could.,Neutral,0,0,0,0,0,0,0,0
+898,3583,"No, you don't.",Neutral,0,0,0,0,0,0,0,0
+899,3588,"No, I don't.",Neutral,0,0,0,0,0,0,0,0
+900,3590,Sometimes...,Neutral,0,0,0,0,0,0,0,0
+901,3591,Sometimes I wanna punch you in your perfect teeth.,fear,1,1,0,2,1,2,1,1
+902,3595,But I don't wanna see you gone.,fear,0,0,0,1,0,1,0,0
+903,3597,"We need you, Cap.",anticipation,0,1,0,0,0,0,0,1
+904,3599,"So far, nothing's happened that can't be undone, if you sign.",anticipation,0,1,0,0,0,0,0,0
+905,3603,We can make the last 24 hours legit.,Neutral,0,0,0,0,0,0,0,0
+906,3605,Barnes gets transferred to an American psych-centre...,Neutral,0,0,0,0,0,0,0,0
+907,3607,instead of a Wakandan prison.,anger,1,0,0,1,0,1,0,0
+908,3621,I'm not saying it's impossible...,sadness,0,0,0,0,0,1,0,0
+909,3623,but there would have to be safeguards.,trust,0,0,0,0,0,0,0,1
+910,3625,Sure.,Neutral,0,0,0,0,0,0,0,0
+911,3626,"Once we put out the PR fire,",fear,0,0,0,1,0,0,0,0
+912,3628,those documents can be amended.,Neutral,0,0,0,0,0,0,0,0
+913,3630,I'd file a motion to have you and Wanda reinstated...,anticipation,0,1,0,0,0,0,0,0
+914,3632,Wanda? What about Wanda?,Neutral,0,0,0,0,0,0,0,0
+915,3634,"She's fine. She's confined to the compound, currently.",anger,1,0,0,1,0,1,0,0
+916,3636,Vision's keeping her company.,Neutral,0,0,0,0,0,0,0,0
+917,3637,"Oh, God, Tony.",anticipation,0,1,0,1,1,0,0,1
+918,3638,Every time I think you see things the right way...,anticipation,0,1,0,0,0,0,0,0
+919,3641,It's 100 acres with a lap pool.,Neutral,0,0,0,0,0,0,0,0
+920,3642,It's got a screening room.,Neutral,0,0,0,0,0,0,0,0
+921,3643,There's worse ways to protect people.,fear,0,0,0,1,0,1,0,0
+922,3644,Protection?,Neutral,0,0,0,0,0,0,0,0
+923,3646,Is that how you see this?,Neutral,0,0,0,0,0,0,0,0
+924,3647,"This is protection? It's internment, Tony.",Neutral,0,0,0,0,0,0,0,0
+925,3649,"- She's not a US citizen. - Oh, come on, Tony.",Neutral,0,0,0,0,0,0,0,0
+926,3651,And they don't grant visas to weapons of mass destruction.,anger,1,1,0,0,1,0,0,1
+927,3652,She's a kid!,Neutral,0,0,0,0,0,0,0,0
+928,3654,Give me a break!,surprise,0,0,0,0,0,0,1,0
+929,3656,I'm doing what has to be done.,Neutral,0,0,0,0,0,0,0,0
+930,3658,To stave off something worse.,fear,0,0,0,1,0,1,0,0
+931,3663,You keep telling yourself that.,Neutral,0,0,0,0,0,0,0,0
+932,3668,Hate to break up the set.,anger,1,0,1,1,0,1,1,0
+933,3677,"HELMUT ZEMO: <i>Hello, Mr Barnes.</i>",Neutral,0,0,0,0,0,0,0,0
+934,3679,<i>I've been sent by the United Nations to evaluate you.</i>,Neutral,0,0,0,0,0,0,0,0
+935,3682,<i>Do you mind if I sit?</i>,Neutral,0,0,0,0,0,0,0,0
+936,3689,<i>Your first name is James?</i>,Neutral,0,0,0,0,0,0,0,0
+937,3692,The receipt for your gear.,Neutral,0,0,0,0,0,0,0,0
+938,3696,"""Bird costume""? Come on.",Neutral,0,0,0,0,0,0,0,0
+939,3698,I didn't write it.,Neutral,0,0,0,0,0,0,0,0
+940,3706,HELMUT ZEMO: <i>I'm not here to judge you.</i>,Neutral,0,0,0,0,0,0,0,0
+941,3708,<i>I just want to ask you a few questions.</i>,Neutral,0,0,0,0,0,0,0,0
+942,3711,"<i>Do you know where you are, James?</i>",Neutral,0,0,0,0,0,0,0,0
+943,3716,"<i>I can't help you if you don't talk to me, James.</i>",Neutral,0,0,0,0,0,0,0,0
+944,3720,<i>My name is BUCKY.</i>,Neutral,0,0,0,0,0,0,0,0
+945,3725,(HONKING),Neutral,0,0,0,0,0,0,0,0
+946,3731,Hello?,Neutral,0,0,0,0,0,0,0,0
+947,3739,Hey!,Neutral,0,0,0,0,0,0,0,0
+948,3741,(BOTH SPEAKING GERMAN),Neutral,0,0,0,0,0,0,0,0
+949,3761,Why would the Task Force release this photo to begin with?,anger,1,0,0,1,0,0,0,0
+950,3764,"Get the word out, involve as many eyes as we can?",trust,0,0,0,0,0,0,0,1
+951,3766,Right. It's a good way to flush a guy out of hiding.,anticipation,0,1,0,1,1,0,1,1
+952,3769,"Set off a bomb, get your picture taken.",anger,1,0,0,1,0,1,1,0
+953,3772,Get seven billion people looking for the Winter Soldier.,anger,1,0,0,0,0,1,0,0
+954,3774,You're saying someone framed him to find him?,Neutral,0,0,0,0,0,0,0,0
+955,3776,"Steve, we looked for the guy for two years",Neutral,0,0,0,0,0,0,0,0
+956,3777,and found nothing.,Neutral,0,0,0,0,0,0,0,0
+957,3778,We didn't bomb the UN. That turns a lot of heads.,anger,1,0,0,1,0,1,1,0
+958,3780,"SHARON: Yeah, but that doesn't guarantee",trust,0,0,0,0,0,0,0,1
+959,3782,that whoever framed him would get him.,Neutral,0,0,0,0,0,0,0,0
+960,3783,It guarantees that we would.,trust,0,0,0,0,0,0,0,1
+961,3791,Yeah.,Neutral,0,0,0,0,0,0,0,0
+962,3794,"HELMUT ZEMO: Tell me, BUCKY.",Neutral,0,0,0,0,0,0,0,0
+963,3796,"You've seen a great deal, haven't you?",anticipation,0,1,0,0,1,0,1,1
+964,3800,<i>I don't wanna talk about it.</i>,fear,0,0,0,1,0,1,0,0
+965,3803,"You fear that if you open your mouth,",anger,1,0,0,1,0,0,1,0
+966,3805,the horrors might never stop.,fear,0,0,0,1,0,1,0,0
+967,3811,Don't worry.,anticipation,0,1,0,1,0,1,0,0
+968,3815,We only have to talk about one.,Neutral,0,0,0,0,0,0,0,0
+969,3825,(BEEPING),Neutral,0,0,0,0,0,0,0,0
+970,3829,(SPEAKING GERMAN),Neutral,0,0,0,0,0,0,0,0
+971,3842,"Come on, guys, get me eyes on Barnes.",Neutral,0,0,0,0,0,0,0,0
+972,3844,"Friday, get me a source on that outage.",Neutral,0,0,0,0,0,0,0,0
+973,3848,"Sub-level five, East Wing.",Neutral,0,0,0,0,0,0,0,0
+974,3854,What the hell is this?,anger,1,0,1,1,0,1,0,0
+975,3855,Why don't we discuss your home?,Neutral,0,0,0,0,0,0,0,0
+976,3857,"Not Romania. Certainly not Brooklyn, no.",Neutral,0,0,0,0,0,0,0,0
+977,3861,I mean your real home.,trust,0,0,0,0,0,0,0,1
+978,3870,(SPEAKING RUSSIAN),Neutral,0,0,0,0,0,0,0,0
+979,3871,<i>Longing</i>,Neutral,0,0,0,0,0,0,0,0
+980,3873,No.,Neutral,0,0,0,0,0,0,0,0
+981,3875,<i>Rusted</i>,Neutral,0,0,0,0,0,0,0,0
+982,3876,Stop.,Neutral,0,0,0,0,0,0,0,0
+983,3878,<i>Seventeen</i>,Neutral,0,0,0,0,0,0,0,0
+984,3881,Stop.,Neutral,0,0,0,0,0,0,0,0
+985,3885,<i>Daybreak</i>,Neutral,0,0,0,0,0,0,0,0
+986,3886,(SCREAMING),anger,1,0,1,1,0,0,1,0
+987,3888,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+988,3892,<i>Furnace</i>,Neutral,0,0,0,0,0,0,0,0
+989,3895,<i>Nine</i>,Neutral,0,0,0,0,0,0,0,0
+990,3900,<i>Benign</i>,Neutral,0,0,0,0,0,0,0,0
+991,3904,<i>Homecoming</i>,Neutral,0,0,0,0,0,0,0,0
+992,3907,<i>One</i>,Neutral,0,0,0,0,0,0,0,0
+993,3909,<i>Freight car</i>,Neutral,0,0,0,0,0,0,0,0
+994,3927,Soldier?,anger,1,0,0,0,0,1,0,0
+995,3931,Ready to comply.,anticipation,0,1,0,0,0,0,0,0
+996,3933,"Mission report. December 16, 1991.",Neutral,0,0,0,0,0,0,0,0
+997,3949,HELMUT ZEMO: Help me.,Neutral,0,0,0,0,0,0,0,0
+998,3951,Help.,Neutral,0,0,0,0,0,0,0,0
+999,3952,(GROANING),disgust,0,0,1,0,0,1,0,0
+1000,3955,Get up.,Neutral,0,0,0,0,0,0,0,0
+1001,3959,Who are you? What do you want?,Neutral,0,0,0,0,0,0,0,0
+1002,3962,To see an empire fall.,sadness,0,0,0,0,0,1,0,0
+1003,3965,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1004,3985,(GROANS),disgust,0,0,1,0,0,1,0,0
+1005,3988,- (ALARM BLARING) - (GROANING SOFTLY),disgust,0,0,1,1,0,1,1,0
+1006,3990,(MAN SPEAKING GERMAN ON PA),Neutral,0,0,0,0,0,0,0,0
+1007,3997,Hey.,Neutral,0,0,0,0,0,0,0,0
+1008,4004,EVERETT: Evac all civilians.,Neutral,0,0,0,0,0,0,0,0
+1009,4006,"Get me a perimeter around the building, and gunships in the air.",Neutral,0,0,0,0,0,0,0,0
+1010,4008,Please tell me you brought a suit.,Neutral,0,0,0,0,0,0,0,0
+1011,4010,"Sure did. It's a lovely Tom Ford, three-piece, two-button.",anticipation,0,1,0,0,1,1,1,1
+1012,4013,I'm an active-duty non-combatant.,Neutral,0,0,0,0,0,0,0,0
+1013,4015,Follow me.,Neutral,0,0,0,0,0,0,0,0
+1014,4016,(ALARM CONTINUES BLARING),anticipation,0,1,0,1,0,0,1,1
+1015,4023,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1016,4033,NATASHA: (ON RADIO) <i>We're in position.</i>,Neutral,0,0,0,0,0,0,0,0
+1017,4045,(GUNSHOT),Neutral,0,0,0,0,0,0,0,0
+1018,4066,You could at least recognise me.,Neutral,0,0,0,0,0,0,0,0
+1019,4071,(GASPING),surprise,0,0,0,0,0,0,1,0
+1020,4086,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1021,4112,(PEOPLE SCREAMING),anger,1,0,1,1,0,0,1,0
+1022,4121,Damn it.,anger,1,0,1,0,0,0,0,0
+1023,4136,(HELICOPTER POWERING UP),Neutral,0,0,0,0,0,0,0,0
+1024,4160,(STRAINING),Neutral,0,0,0,0,0,0,0,0
+1025,4184,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1026,4189,(GROWLS),anger,1,0,0,1,0,0,0,0
+1027,4218,(PANTING),Neutral,0,0,0,0,0,0,0,0
+1028,4220,WOMAN: <i>He asked me again if you were going to be there.</i>,Neutral,0,0,0,0,0,0,0,0
+1029,4222,<i>I said I wasn't sure.</i>,Neutral,0,0,0,0,0,0,0,0
+1030,4224,"<i>You should have seen his little face. Just try, okay?</i>",Neutral,0,0,0,0,0,0,0,0
+1031,4228,<i>I'm going to bed.</i>,Neutral,0,0,0,0,0,0,0,0
+1032,4230,<i>I love you.</i>,joy,0,0,0,0,1,0,0,0
+1033,4233,(MALE NEWS ANCHOR SPEAKING GERMAN ON TV),Neutral,0,0,0,0,0,0,0,0
+1034,4235,James Barnes the suspect in the UN Vienna bombing...,fear,1,0,0,2,0,1,1,0
+1035,4239,escaped custody today.,anticipation,0,1,0,1,0,0,0,1
+1036,4241,Also missing Avenger Captain Steve Rogers...,anger,1,0,0,0,0,0,0,0
+1037,4244,and Sam Wilson.,Neutral,0,0,0,0,0,0,0,0
+1038,4255,(GROANING),disgust,0,0,1,0,0,1,0,0
+1039,4269,"SAM: Hey, Cap!",anticipation,0,1,0,0,0,0,0,1
+1040,4277,(BUCKY CONTINUES GROANING),anticipation,0,1,1,0,0,1,0,1
+1041,4283,Steve.,Neutral,0,0,0,0,0,0,0,0
+1042,4285,Which BUCKY am I talking to?,Neutral,0,0,0,0,0,0,0,0
+1043,4289,Your mom's name was Sarah.,Neutral,0,0,0,0,0,0,0,0
+1044,4295,You used to wear newspapers in your shoes. (CHUCKLES),trust,0,1,0,0,1,0,1,2
+1045,4300,Can't read that in a museum.,Neutral,0,0,0,0,0,0,0,0
+1046,4301,"Just like that, we're supposed to be cool?",Neutral,0,0,0,0,0,0,0,0
+1047,4303,What did I do?,Neutral,0,0,0,0,0,0,0,0
+1048,4305,Enough.,Neutral,0,0,0,0,0,0,0,0
+1049,4306,"Oh, God, I knew this would happen.",anticipation,0,2,0,1,1,0,0,1
+1050,4308,Everything HYDRA put inside me is still there.,fear,0,0,0,1,0,0,0,0
+1051,4310,All he had to do was say the goddamn words.,trust,0,0,0,0,0,0,0,1
+1052,4312,- Who was he? - I don't know.,Neutral,0,0,0,0,0,0,0,0
+1053,4314,"People are dead. The bombing, the setup...",anger,1,0,0,1,0,1,1,0
+1054,4316,the doctor did all that just to get 10 minutes with you.,trust,0,0,0,0,0,0,0,1
+1055,4319,"I need you to do better than ""I don't know.""",Neutral,0,0,0,0,0,0,0,0
+1056,4324,He wanted to know about Siberia.,Neutral,0,0,0,0,0,0,0,0
+1057,4329,Where I was kept.,Neutral,0,0,0,0,0,0,0,0
+1058,4333,He wanted to know exactly where.,Neutral,0,0,0,0,0,0,0,0
+1059,4335,Why would he need to know that?,Neutral,0,0,0,0,0,0,0,0
+1060,4339,Because I'm not the only Winter Soldier.,anger,1,0,0,0,0,1,0,0
+1061,4391,(GROANING),disgust,0,0,1,0,0,1,0,0
+1062,4394,(SPEAKING RUSSIAN),Neutral,0,0,0,0,0,0,0,0
+1063,4395,It hurts!,anger,1,0,0,1,0,1,0,0
+1064,4402,(GROANING CONTINUES),anticipation,0,1,1,0,0,1,0,1
+1065,4421,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1066,4433,(SPEAKING RUSSIAN),Neutral,0,0,0,0,0,0,0,0
+1067,4435,Good work.,anticipation,0,1,0,0,1,0,1,1
+1068,4436,(PANTING),Neutral,0,0,0,0,0,0,0,0
+1069,4439,(SCREAMING),anger,1,0,1,1,0,0,1,0
+1070,4446,(COCKS GUN),anger,1,0,0,1,0,0,0,0
+1071,4447,Get me out of here.,Neutral,0,0,0,0,0,0,0,0
+1072,4462,Who were they?,Neutral,0,0,0,0,0,0,0,0
+1073,4464,BUCKY: Their most elite death squad.,anticipation,1,2,1,1,1,1,1,1
+1074,4465,More kills than anyone in HYDRA history.,fear,0,0,0,2,0,1,0,0
+1075,4468,And that was before the serum.,Neutral,0,0,0,0,0,0,0,0
+1076,4469,They all turn out like you?,Neutral,0,0,0,0,0,0,0,0
+1077,4470,Worse.,fear,0,0,0,1,0,1,0,0
+1078,4472,"The doctor, could he control them?",trust,0,0,0,0,0,0,0,1
+1079,4475,Enough.,Neutral,0,0,0,0,0,0,0,0
+1080,4476,Said he wanted to see an empire fall.,sadness,0,0,0,0,0,1,0,0
+1081,4478,"BUCKY: With these guys, he could do it.",Neutral,0,0,0,0,0,0,0,0
+1082,4480,"They speak 30 languages, can hide in plain sight...",fear,0,0,0,1,0,0,0,0
+1083,4483,"infiltrate, assassinate, destabilize.",anger,1,0,0,1,0,0,0,0
+1084,4485,They can take a whole country down,Neutral,0,0,0,0,0,0,0,0
+1085,4487,"in one night, you'd never see them coming.",Neutral,0,0,0,0,0,0,0,0
+1086,4491,This would have been a lot easier a week ago.,Neutral,0,0,0,0,0,0,0,0
+1087,4493,"- If we call Tony... - No, he won't believe us.",anticipation,0,1,0,0,0,0,0,0
+1088,4496,Even if he did...,Neutral,0,0,0,0,0,0,0,0
+1089,4497,Who knows if the Accords would let him help.,trust,0,0,0,0,0,0,0,1
+1090,4500,We're on our own.,Neutral,0,0,0,0,0,0,0,0
+1091,4502,Maybe not.,Neutral,0,0,0,0,0,0,0,0
+1092,4505,I know a guy.,Neutral,0,0,0,0,0,0,0,0
+1093,4508,I don't suppose you have any idea where they are?,Neutral,0,0,0,0,0,0,0,0
+1094,4511,TONY: We will.,Neutral,0,0,0,0,0,0,0,0
+1095,4512,GSG 9's got the borders covered.,trust,0,0,0,0,0,0,0,1
+1096,4514,Recon's flying 24/7.,Neutral,0,0,0,0,0,0,0,0
+1097,4516,They'll get a hit. We'll handle it.,anger,1,0,0,0,0,0,0,0
+1098,4517,"You don't get it, Stark. It's not yours to handle.",trust,0,0,0,0,0,0,0,1
+1099,4519,It's clear you can't be objective.,anticipation,0,1,0,0,0,0,0,1
+1100,4522,I'm putting Special Ops on this.,joy,0,0,0,0,1,0,0,0
+1101,4523,What happens when the shooting starts?,anticipation,1,2,0,1,0,0,0,0
+1102,4525,"What, do you kill Steve Rogers?",fear,0,0,0,1,0,1,0,0
+1103,4526,SECRETARY ROSS: If we're provoked.,Neutral,0,0,0,0,0,0,0,0
+1104,4528,Barnes would've been eliminated in Romania if it wasn't for Rogers.,Neutral,0,0,0,0,0,0,0,0
+1105,4531,There are dead people who would be alive now.,anticipation,0,1,0,0,1,0,0,1
+1106,4536,Feel free to check my math.,Neutral,0,0,0,0,0,0,0,0
+1107,4538,"All due respect, you're not gonna solve this",anticipation,0,1,0,0,1,0,0,1
+1108,4539,"with boys and bullets, Ross.",Neutral,0,0,0,0,0,0,0,0
+1109,4541,You gotta let us bring them in.,Neutral,0,0,0,0,0,0,0,0
+1110,4542,How would that end any differently than last time?,anticipation,0,1,0,0,0,0,1,0
+1111,4544,"Because this time,",anticipation,0,1,0,0,0,0,0,0
+1112,4545,I won't be wearing loafers and a silk shirt.,anticipation,0,1,0,0,0,0,0,1
+1113,4548,"72 hours, guaranteed.",trust,0,0,0,0,0,0,0,1
+1114,4550,36 hours.,Neutral,0,0,0,0,0,0,0,0
+1115,4554,Barnes.,Neutral,0,0,0,0,0,0,0,0
+1116,4557,Rogers.,Neutral,0,0,0,0,0,0,0,0
+1117,4559,Wilson.,Neutral,0,0,0,0,0,0,0,0
+1118,4560,"Thank you, sir.",trust,0,0,0,0,0,0,0,1
+1119,4564,(EXHALES),Neutral,0,0,0,0,0,0,0,0
+1120,4565,My left arm is numb. Is that normal?,sadness,0,0,0,0,0,1,1,0
+1121,4570,You all right?,Neutral,0,0,0,0,0,0,0,0
+1122,4572,Always.,Neutral,0,0,0,0,0,0,0,0
+1123,4577,36 hours. Jeez.,Neutral,0,0,0,0,0,0,0,0
+1124,4579,We're seriously understaffed.,Neutral,0,0,0,0,0,0,0,0
+1125,4581,"Oh, yeah.",Neutral,0,0,0,0,0,0,0,0
+1126,4583,It'd be great if we had a Hulk right about now. Any shot?,anger,1,0,1,1,0,0,0,0
+1127,4588,You really think he'd be on our side?,Neutral,0,0,0,0,0,0,0,0
+1128,4591,No.,Neutral,0,0,0,0,0,0,0,0
+1129,4592,I have an idea.,Neutral,0,0,0,0,0,0,0,0
+1130,4593,"Me, too. Where's yours?",Neutral,0,0,0,0,0,0,0,0
+1131,4596,Downstairs.,Neutral,0,0,0,0,0,0,0,0
+1132,4598,Where's yours?,Neutral,0,0,0,0,0,0,0,0
+1133,4601,(ROCK MUSIC PLAYING),joy,0,0,0,0,1,1,0,0
+1134,4608,(ELEVATOR BELL DINGS),Neutral,0,0,0,0,0,0,0,0
+1135,4621,"Hey, May. (GRUNTS)",Neutral,0,0,0,0,0,0,0,0
+1136,4622,MAY: Mmm. Hey.,Neutral,0,0,0,0,0,0,0,0
+1137,4626,How was school today?,trust,0,0,0,0,0,0,0,1
+1138,4628,PETER: It was okay.,Neutral,0,0,0,0,0,0,0,0
+1139,4629,This crazy car parked outside.,anger,1,0,0,1,0,1,0,0
+1140,4635,"- Oh, Mr Parker. - Um...",Neutral,0,0,0,0,0,0,0,0
+1141,4639,(STAMMERING) What are you doing...,Neutral,0,0,0,0,0,0,0,0
+1142,4641,"Hey! Uh, I'm Peter.",Neutral,0,0,0,0,0,0,0,0
+1143,4643,Tony.,Neutral,0,0,0,0,0,0,0,0
+1144,4645,What are you doing here?,Neutral,0,0,0,0,0,0,0,0
+1145,4646,It's about time we met.,anticipation,0,1,0,0,0,0,0,0
+1146,4648,"You've been getting my emails, right?",Neutral,0,0,0,0,0,0,0,0
+1147,4650,- Yeah. Yeah. - Right?,Neutral,0,0,0,0,0,0,0,0
+1148,4651,Regarding the...,Neutral,0,0,0,0,0,0,0,0
+1149,4653,You didn't even tell me about the grant.,anticipation,0,1,0,0,1,0,0,1
+1150,4654,- About the grant. - The September Foundation.,anticipation,0,1,0,0,1,0,0,1
+1151,4655,- Right. - Yeah.,Neutral,0,0,0,0,0,0,0,0
+1152,4656,Remember when you applied?,Neutral,0,0,0,0,0,0,0,0
+1153,4658,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1154,4659,"I approved, so now we're in business.",joy,0,0,0,0,1,0,0,1
+1155,4662,But you didn't tell me anything. What's up with that?,Neutral,0,0,0,0,0,0,0,0
+1156,4664,You keeping secrets from me now?,Neutral,0,0,0,0,0,0,0,0
+1157,4665,I just know how much you love surprises so I thought I would let you know...,joy,0,0,0,1,2,0,1,0
+1158,4670,"Anyway, what did I apply for?",Neutral,0,0,0,0,0,0,0,0
+1159,4671,That's what I'm here to hash out.,Neutral,0,0,0,0,0,0,0,0
+1160,4673,"Okay. Hash it out, okay.",Neutral,0,0,0,0,0,0,0,0
+1161,4674,It's so hard for me to believe that she's someone's aunt.,trust,0,0,0,0,0,0,0,1
+1162,4677,"Yeah, well, we come in all shapes and sizes, you know?",Neutral,0,0,0,0,0,0,0,0
+1163,4680,This walnut date loaf is exceptional.,Neutral,0,0,0,0,0,0,0,0
+1164,4682,- Let me just stop you there. - Yeah.,Neutral,0,0,0,0,0,0,0,0
+1165,4683,Is this grant got money involved or whatever? No?,anticipation,1,2,0,0,2,0,1,2
+1166,4687,"TONY: Yeah, it's pretty well funded.",anticipation,0,1,0,0,1,0,0,1
+1167,4689,Yeah? Wow.,Neutral,0,0,0,0,0,0,0,0
+1168,4690,Look who you're talking to.,Neutral,0,0,0,0,0,0,0,0
+1169,4692,- Can I have five minutes with him? - Sure.,Neutral,0,0,0,0,0,0,0,0
+1170,4700,"As walnut date loaves go, that wasn't bad.",anger,1,0,1,1,0,1,0,0
+1171,4704,"Whoa, what have we here? Retro tech, huh?",Neutral,0,0,0,0,0,0,0,0
+1172,4707,Thrift store? Salvation Army?,anticipation,0,2,1,0,1,0,0,2
+1173,4709,"- Uh, the garbage, actually. - You're a dumpster diver?",disgust,0,0,1,0,0,0,0,0
+1174,4711,"Yeah, I was...",Neutral,0,0,0,0,0,0,0,0
+1175,4713,"Anyway, look, um,",Neutral,0,0,0,0,0,0,0,0
+1176,4714,I definitely did not apply for your grant...,anticipation,0,1,0,0,1,0,0,1
+1177,4716,- Ah-ah! Me first. - Okay.,Neutral,0,0,0,0,0,0,0,0
+1178,4718,Quick question of the rhetorical variety.,Neutral,0,0,0,0,0,0,0,0
+1179,4721,"That's you, right?",Neutral,0,0,0,0,0,0,0,0
+1180,4724,"Um, no.",Neutral,0,0,0,0,0,0,0,0
+1181,4725,- (STAMMERS) What do you mean? - Yeah.,Neutral,0,0,0,0,0,0,0,0
+1182,4727,Look at you go.,Neutral,0,0,0,0,0,0,0,0
+1183,4729,"Wow! Nice catch. 3,000 pounds, 40 miles an hour.",anger,1,0,0,0,0,0,1,0
+1184,4732,That's not easy. You got mad skills.,anger,1,0,1,1,0,1,0,0
+1185,4735,"That's all on YouTube, though, right?",Neutral,0,0,0,0,0,0,0,0
+1186,4737,That's where you found that?,Neutral,0,0,0,0,0,0,0,0
+1187,4739,Because you know that's all fake.,Neutral,0,0,0,0,0,0,0,0
+1188,4740,It's all done on the computer.,Neutral,0,0,0,0,0,0,0,0
+1189,4741,Mmm-hmm.,Neutral,0,0,0,0,0,0,0,0
+1190,4742,It's like that video. What is it?,Neutral,0,0,0,0,0,0,0,0
+1191,4745,"Yeah. Oh, you mean like those UFOs over Phoenix?",Neutral,0,0,0,0,0,0,0,0
+1192,4747,Exactly.,Neutral,0,0,0,0,0,0,0,0
+1193,4748,"Oh, what have we here?",Neutral,0,0,0,0,0,0,0,0
+1194,4751,- Uh... - (CLATTERS),Neutral,0,0,0,0,0,0,0,0
+1195,4754,(EXHALES),Neutral,0,0,0,0,0,0,0,0
+1196,4758,You're the Spider-ling.,Neutral,0,0,0,0,0,0,0,0
+1197,4760,Crime-fighting spider. You're Spider-Boy?,disgust,0,0,1,1,0,0,0,0
+1198,4765,Spider-Man.,Neutral,0,0,0,0,0,0,0,0
+1199,4767,"Not in that onesie, you're not.",Neutral,0,0,0,0,0,0,0,0
+1200,4770,It's not a onesie.,Neutral,0,0,0,0,0,0,0,0
+1201,4773,I don't believe this. I was actually having,Neutral,0,0,0,0,0,0,0,0
+1202,4774,"a really good day today, Mr Stark.",trust,0,1,0,0,1,0,1,2
+1203,4776,"Didn't miss my train, this perfectly good DVD player was just sitting there...",anticipation,0,1,0,0,1,0,1,1
+1204,4780,"and Algebra test, nailed it.",Neutral,0,0,0,0,0,0,0,0
+1205,4783,Who else knows? Anybody?,Neutral,0,0,0,0,0,0,0,0
+1206,4786,Nobody.,Neutral,0,0,0,0,0,0,0,0
+1207,4788,Not even your unusually attractive aunt?,trust,0,0,0,0,0,0,0,1
+1208,4790,No. No.,Neutral,0,0,0,0,0,0,0,0
+1209,4792,"No! If she knew, she would freak out.",Neutral,0,0,0,0,0,0,0,0
+1210,4794,"And when she freaks out, I freak out.",Neutral,0,0,0,0,0,0,0,0
+1211,4796,You know what I think is really cool? This webbing.,Neutral,0,0,0,0,0,0,0,0
+1212,4800,That tensile strength is off the charts.,trust,0,0,0,0,0,0,0,2
+1213,4802,Who manufactured that?,Neutral,0,0,0,0,0,0,0,0
+1214,4804,I did.,Neutral,0,0,0,0,0,0,0,0
+1215,4806,"Climbing walls, how you doing that?",Neutral,0,0,0,0,0,0,0,0
+1216,4808,Adhesive gloves?,Neutral,0,0,0,0,0,0,0,0
+1217,4809,It's a long story. I was...,anticipation,0,1,0,0,0,0,0,0
+1218,4811,Lordy! Can you even see in these?,Neutral,0,0,0,0,0,0,0,0
+1219,4814,"Yes, I can.",Neutral,0,0,0,0,0,0,0,0
+1220,4815,I'm blind!,Neutral,0,0,0,0,0,0,0,0
+1221,4817,I can see in those.,Neutral,0,0,0,0,0,0,0,0
+1222,4819,Okay?,Neutral,0,0,0,0,0,0,0,0
+1223,4820,"It's just that when whatever happened, happened...",anticipation,0,2,0,0,0,0,0,0
+1224,4822,it's like my senses have been dialled to 11.,Neutral,0,0,0,0,0,0,0,0
+1225,4825,"There's way too much input, so they just kinda help me focus.",Neutral,0,0,0,0,0,0,0,0
+1226,4829,You're in dire need of an upgrade.,disgust,0,0,1,1,0,1,1,0
+1227,4832,"Systemic, top to bottom, hundred-point restoration.",anticipation,0,1,0,0,0,1,0,1
+1228,4834,That's why I'm here.,Neutral,0,0,0,0,0,0,0,0
+1229,4838,Why you doing this?,Neutral,0,0,0,0,0,0,0,0
+1230,4841,"I gotta know, what's your MO?",Neutral,0,0,0,0,0,0,0,0
+1231,4842,What gets you outta that twin bed in the morning?,Neutral,0,0,0,0,0,0,0,0
+1232,4845,Because...,Neutral,0,0,0,0,0,0,0,0
+1233,4847,(STAMMERS),Neutral,0,0,0,0,0,0,0,0
+1234,4850,"Because I've been me my whole life,",Neutral,0,0,0,0,0,0,0,0
+1235,4852,and I've had these powers for six months.,Neutral,0,0,0,0,0,0,0,0
+1236,4854,Mmm-hmm.,Neutral,0,0,0,0,0,0,0,0
+1237,4855,"I read books, I build computers.",Neutral,0,0,0,0,0,0,0,0
+1238,4859,"Yeah, I would love to play football,",joy,0,1,0,0,2,0,0,0
+1239,4862,"but I couldn't then, so I shouldn't now.",Neutral,0,0,0,0,0,0,0,0
+1240,4863,"Sure, because you're different.",Neutral,0,0,0,0,0,0,0,0
+1241,4865,"Exactly. But I can't tell anybody that, so I'm not.",Neutral,0,0,0,0,0,0,0,0
+1242,4872,"When you can do the things that I can, but you don't...",Neutral,0,0,0,0,0,0,0,0
+1243,4878,and then the bad things happen...,anger,1,1,1,1,0,1,0,0
+1244,4881,they happen because of you.,anticipation,0,1,0,0,0,0,0,0
+1245,4888,"So you wanna look out for the little guy, you wanna do your part?",fear,0,0,0,2,0,2,0,0
+1246,4890,"Make the world a better place, all that, right?",Neutral,0,0,0,0,0,0,0,0
+1247,4893,"Yeah, just looking out for the little guy.",Neutral,0,0,0,0,0,0,0,0
+1248,4896,That's what it is.,Neutral,0,0,0,0,0,0,0,0
+1249,4905,"I'm gonna sit here, so you move the leg.",Neutral,0,0,0,0,0,0,0,0
+1250,4911,(TONY EXHALES),Neutral,0,0,0,0,0,0,0,0
+1251,4916,You got a passport?,Neutral,0,0,0,0,0,0,0,0
+1252,4918,"No, I don't even have a driver's license.",Neutral,0,0,0,0,0,0,0,0
+1253,4919,- You ever been to Germany? - No.,Neutral,0,0,0,0,0,0,0,0
+1254,4921,"Oh, you'll love it.",joy,0,0,0,0,1,0,0,0
+1255,4922,- I can't go to Germany. - Why?,Neutral,0,0,0,0,0,0,0,0
+1256,4926,I got homework.,fear,0,0,0,1,0,0,0,0
+1257,4928,I'm gonna pretend you didn't say that.,Neutral,0,0,0,0,0,0,0,0
+1258,4930,"No, I'm being serious. I can't just drop out of school.",trust,0,0,0,0,0,0,0,1
+1259,4932,Might be a little dangerous.,fear,0,0,0,1,0,0,0,0
+1260,4934,Better tell Aunt Hottie I'm taking you on a field trip.,surprise,0,0,0,0,0,0,1,1
+1261,4938,Don't tell Aunt May.,trust,0,0,0,0,0,0,0,1
+1262,4941,"All right, Spider-Man.",Neutral,0,0,0,0,0,0,0,0
+1263,4946,Get me out of this.,Neutral,0,0,0,0,0,0,0,0
+1264,4947,Sorry. I'll get the...,anger,1,0,1,1,0,1,0,0
+1265,4957,(EXPLOSION),fear,0,0,0,1,0,0,1,0
+1266,4961,What is it?,Neutral,0,0,0,0,0,0,0,0
+1267,4962,"Stay here, please.",Neutral,0,0,0,0,0,0,0,0
+1268,4967,(GASPS),surprise,0,0,0,0,0,0,1,0
+1269,4971,Guess I shoulda knocked.,surprise,0,0,0,0,0,0,1,0
+1270,4972,"Oh, my God! What are you doing here?",anticipation,0,1,0,1,1,0,0,1
+1271,4976,Disappointing my kids.,anger,1,0,1,0,0,1,0,0
+1272,4982,I'm supposed to go waterskiing.,Neutral,0,0,0,0,0,0,0,0
+1273,4984,Cap needs our help. Come on.,anticipation,0,1,0,0,0,0,0,1
+1274,4986,Clint!,Neutral,0,0,0,0,0,0,0,0
+1275,4989,You should not be here.,Neutral,0,0,0,0,0,0,0,0
+1276,4993,Really?,Neutral,0,0,0,0,0,0,0,0
+1277,4994,"I retire for, what, like five minutes, and it all goes to shit.",anger,1,0,1,0,0,0,0,0
+1278,4998,Please consider the consequences of your actions.,Neutral,0,0,0,0,0,0,0,0
+1279,5000,"Okay, they're considered.",Neutral,0,0,0,0,0,0,0,0
+1280,5001,(GROANS),disgust,0,0,1,0,0,1,0,0
+1281,5002,"Okay, we gotta go.",Neutral,0,0,0,0,0,0,0,0
+1282,5008,It's this way.,Neutral,0,0,0,0,0,0,0,0
+1283,5010,I've caused enough problems.,Neutral,0,0,0,0,0,0,0,0
+1284,5013,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+1285,5016,"You gotta help me, Wanda.",Neutral,0,0,0,0,0,0,0,0
+1286,5018,"Look, you wanna mope, you can go to high school.",fear,0,0,0,1,0,1,0,1
+1287,5020,"You wanna make amends, you get off your ass.",fear,0,0,0,1,0,1,0,0
+1288,5023,Shit.,anger,1,0,1,0,0,0,0,0
+1289,5028,(GROANS),disgust,0,0,1,0,0,1,0,0
+1290,5031,I knew I should've stretched.,Neutral,0,0,0,0,0,0,0,0
+1291,5033,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1292,5046,"VISION: Clint, you can't overpower me.",anticipation,0,1,0,0,0,0,0,0
+1293,5049,I know I can't.,Neutral,0,0,0,0,0,0,0,0
+1294,5051,But she can.,Neutral,0,0,0,0,0,0,0,0
+1295,5054,"Vision, that's enough. Let him go.",anticipation,0,1,0,0,0,0,0,0
+1296,5058,I'm leaving.,sadness,0,0,0,0,0,1,1,0
+1297,5059,I can't let you.,Neutral,0,0,0,0,0,0,0,0
+1298,5066,I'm sorry.,Neutral,0,0,0,0,0,0,0,0
+1299,5070,If you do this...,Neutral,0,0,0,0,0,0,0,0
+1300,5073,they will never stop being afraid of you.,fear,0,0,0,1,0,0,0,0
+1301,5077,"I can't control their fear, only my own.",anger,1,0,0,1,0,0,0,0
+1302,5093,CLINT: Oh...,Neutral,0,0,0,0,0,0,0,0
+1303,5096,Come on. We got one more stop.,Neutral,0,0,0,0,0,0,0,0
+1304,5099,ATTACHE: It's just a matter of time.,anticipation,0,1,0,0,0,0,0,0
+1305,5101,"Our satellites are running facial, biometric,",Neutral,0,0,0,0,0,0,0,0
+1306,5104,and behavioural pattern scans.,Neutral,0,0,0,0,0,0,0,0
+1307,5110,Move or you will be moved.,Neutral,0,0,0,0,0,0,0,0
+1308,5113,As entertaining as that would be...,joy,0,0,0,0,1,0,0,0
+1309,5116,You really think you can find him?,Neutral,0,0,0,0,0,0,0,0
+1310,5119,My resources are considerable.,joy,0,0,0,0,1,0,0,1
+1311,5121,"Yeah, it took the world 70 years to find Barnes...",Neutral,0,0,0,0,0,0,0,0
+1312,5123,so you could probably do that in about half the time.,anticipation,0,1,0,0,0,0,0,0
+1313,5127,You know where they are.,Neutral,0,0,0,0,0,0,0,0
+1314,5129,I know someone who does.,Neutral,0,0,0,0,0,0,0,0
+1315,5134,Not sure you understand the concept of a getaway car.,Neutral,0,0,0,0,0,0,0,0
+1316,5136,It's low profile.,Neutral,0,0,0,0,0,0,0,0
+1317,5138,"Good, because this stuff tends to draw a crowd.",anticipation,0,1,0,0,1,0,1,1
+1318,5142,Can you move your seat up?,Neutral,0,0,0,0,0,0,0,0
+1319,5144,No.,Neutral,0,0,0,0,0,0,0,0
+1320,5145,I owe you again.,Neutral,0,0,0,0,0,0,0,0
+1321,5147,Keeping a list.,Neutral,0,0,0,0,0,0,0,0
+1322,5152,"You know, he kinda tried to kill me.",fear,0,0,0,1,0,1,0,0
+1323,5155,"Sorry. I'll put it on the list, too.",anger,1,0,1,1,0,1,0,0
+1324,5161,They're going to come looking for you.,Neutral,0,0,0,0,0,0,0,0
+1325,5163,I know.,Neutral,0,0,0,0,0,0,0,0
+1326,5167,"Thank you, Sharon.",Neutral,0,0,0,0,0,0,0,0
+1327,5184,That was...,Neutral,0,0,0,0,0,0,0,0
+1328,5185,Late.,sadness,0,0,0,0,0,1,0,0
+1329,5186,Damn right.,anger,1,0,1,0,0,0,0,0
+1330,5191,I should go.,Neutral,0,0,0,0,0,0,0,0
+1331,5192,Okay.,Neutral,0,0,0,0,0,0,0,0
+1332,5218,Cap.,anticipation,0,1,0,0,0,0,0,1
+1333,5219,You know I wouldn't have called if I had any other choice.,Neutral,0,0,0,0,0,0,0,0
+1334,5222,"Hey, man, you're doing me a favour.",Neutral,0,0,0,0,0,0,0,0
+1335,5223,"Besides, I owe a debt.",sadness,0,0,0,0,0,1,0,0
+1336,5226,Thanks for having my back.,Neutral,0,0,0,0,0,0,0,0
+1337,5227,It was time to get off my ass.,anticipation,0,1,0,0,0,0,0,0
+1338,5229,How about our other recruit?,Neutral,0,0,0,0,0,0,0,0
+1339,5231,He's rarin' to go.,Neutral,0,0,0,0,0,0,0,0
+1340,5234,Had to put a little coffee in him...,Neutral,0,0,0,0,0,0,0,0
+1341,5235,(CAR DOOR SLAMS),anger,1,0,0,1,0,0,1,0
+1342,5236,but he should be good.,anticipation,0,1,0,0,1,0,1,1
+1343,5241,What time zone is this?,anticipation,0,1,0,0,0,0,0,0
+1344,5242,Come on. Come on.,Neutral,0,0,0,0,0,0,0,0
+1345,5247,- Captain America! - Mr Lang.,Neutral,0,0,0,0,0,0,0,0
+1346,5250,It's an honour.,Neutral,0,0,0,0,0,0,0,0
+1347,5252,I'm shaking your hand too long.,anticipation,0,1,0,0,0,0,0,0
+1348,5254,Wow! This is awesome!,Neutral,0,0,0,0,0,0,0,0
+1349,5255,"Captain America. I know you, too. You're great!",Neutral,0,0,0,0,0,0,0,0
+1350,5262,Jeez.,Neutral,0,0,0,0,0,0,0,0
+1351,5263,"Ah, look, I wanna say,",fear,0,0,0,1,0,1,0,0
+1352,5265,"I know you know a lot of super people, so...",Neutral,0,0,0,0,0,0,0,0
+1353,5268,thinks for thanking of me.,Neutral,0,0,0,0,0,0,0,0
+1354,5270,"- Hey, man! - What's up, Tic Tac?",Neutral,0,0,0,0,0,0,0,0
+1355,5272,"Uh, good to see you.",anticipation,0,1,0,0,1,0,1,1
+1356,5273,"Look, what happened last time when I...",anticipation,0,2,0,0,0,0,0,0
+1357,5274,"It was a great audition, but it'll never happen again.",anticipation,0,1,0,0,0,0,0,0
+1358,5278,They tell you what we're up against?,Neutral,0,0,0,0,0,0,0,0
+1359,5280,Something about some psycho-assassins?,Neutral,0,0,0,0,0,0,0,0
+1360,5284,We're outside the law on this one.,trust,0,0,0,0,0,0,0,1
+1361,5286,"So if you come with us, you're a wanted man.",Neutral,0,0,0,0,0,0,0,0
+1362,5288,"Yeah, well, what else is new?",Neutral,0,0,0,0,0,0,0,0
+1363,5290,We should get moving.,Neutral,0,0,0,0,0,0,0,0
+1364,5291,We got a chopper lined up.,Neutral,0,0,0,0,0,0,0,0
+1365,5294,(MAN SPEAKING GERMAN ON PA),Neutral,0,0,0,0,0,0,0,0
+1366,5297,They're evacuating the airport.,anticipation,0,1,0,1,0,0,0,0
+1367,5299,Stark.,trust,0,0,0,0,0,0,0,1
+1368,5301,Stark?,trust,0,0,0,0,0,0,0,1
+1369,5303,Suit up.,Neutral,0,0,0,0,0,0,0,0
+1370,5325,"IRON MAN: <i>Wow, it's so weird how you run into people at the airport.</i>",disgust,0,0,1,0,0,0,0,1
+1371,5327,- Don't you think that's weird? <i>- Definitely weird.</i>,disgust,0,0,1,0,0,0,0,0
+1372,5329,"CAPTAIN AMERICA: Hear me out, Tony.",Neutral,0,0,0,0,0,0,0,0
+1373,5330,"That doctor, the psychiatrist, he's behind all of this.",trust,0,0,0,0,0,0,0,1
+1374,5337,<i>Captain.</i>,Neutral,0,0,0,0,0,0,0,0
+1375,5338,Your Highness.,Neutral,0,0,0,0,0,0,0,0
+1376,5340,IRON MAN: Anyway...,trust,0,0,0,0,0,0,0,1
+1377,5341,Ross gave me 36 hours to bring you in.,Neutral,0,0,0,0,0,0,0,0
+1378,5343,That was 24 hours ago. Can you help a brother out?,trust,0,0,0,0,0,0,0,1
+1379,5346,You're after the wrong guy.,Neutral,0,0,0,0,0,0,0,0
+1380,5348,Your judgement is askew.,Neutral,0,0,0,0,0,0,0,0
+1381,5351,Your old war buddy killed innocent people yesterday.,fear,0,1,0,2,1,1,0,2
+1382,5353,And there are five more super soldiers just like him.,anger,1,0,0,0,0,1,0,0
+1383,5356,"I can't let the doctor find them first, Tony. I can't.",trust,0,0,0,0,0,0,0,1
+1384,5358,BLACK WIDOW: Steve...,sadness,0,0,0,0,0,2,0,0
+1385,5361,you know what's about to happen.,anticipation,0,1,0,0,0,0,0,0
+1386,5363,Do you really wanna punch your way out of this one?,fear,1,0,0,2,0,2,1,0
+1387,5369,"All right, I've run out of patience.",anticipation,0,1,0,0,0,0,0,1
+1388,5371,Underoos!,Neutral,0,0,0,0,0,0,0,0
+1389,5378,"- Nice job, kid. - Thanks.",Neutral,0,0,0,0,0,0,0,0
+1390,5380,"I could have stuck the landing a little better, it's just...",Neutral,0,0,0,0,0,0,0,0
+1391,5382,"New suit. It's nothing, Mr Stark.",trust,0,0,0,0,0,0,0,1
+1392,5384,It's perfect. Thank you.,anticipation,0,1,0,0,1,0,0,1
+1393,5385,"Yeah, we don't really need to start a conversation.",anticipation,0,1,0,0,0,0,0,0
+1394,5387,Okay. Cap. Captain.,anticipation,0,1,0,0,0,0,0,1
+1395,5389,Big fan. I'm Spider-Man.,Neutral,0,0,0,0,0,0,0,0
+1396,5391,"Yeah, we'll talk about it later.",Neutral,0,0,0,0,0,0,0,0
+1397,5392,"- (EXHALES) Hey, everyone. - Good job.",anticipation,0,1,0,0,1,0,1,1
+1398,5394,You've been busy.,Neutral,0,0,0,0,0,0,0,0
+1399,5395,And you've been a complete idiot.,disgust,0,0,1,0,0,0,0,0
+1400,5398,Dragging in Clint...,Neutral,0,0,0,0,0,0,0,0
+1401,5399,"""Rescuing"" Wanda from a place",anticipation,0,1,0,0,1,0,1,1
+1402,5400,"she doesn't even want to leave, a safe place.",joy,0,0,0,0,1,1,1,1
+1403,5402,I'm trying to keep...,Neutral,0,0,0,0,0,0,0,0
+1404,5404,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+1405,5405,I'm trying to keep you from tearing the Avengers apart.,Neutral,0,0,0,0,0,0,0,0
+1406,5409,You did that when you signed.,Neutral,0,0,0,0,0,0,0,0
+1407,5412,"All right, we're done.",Neutral,0,0,0,0,0,0,0,0
+1408,5414,"You're gonna turn Barnes over,",Neutral,0,0,0,0,0,0,0,0
+1409,5415,"you're gonna come with us, now, because it's us...",Neutral,0,0,0,0,0,0,0,0
+1410,5418,or a squad of J-SOC guys...,Neutral,0,0,0,0,0,0,0,0
+1411,5420,with no compunction about being impolite.,disgust,0,0,1,0,0,0,0,0
+1412,5424,Come on.,Neutral,0,0,0,0,0,0,0,0
+1413,5427,FALCON: <i>We found it.</i>,Neutral,0,0,0,0,0,0,0,0
+1414,5429,"Their Quinjet's in hangar five, north runway.",Neutral,0,0,0,0,0,0,0,0
+1415,5436,"All right, Lang.",Neutral,0,0,0,0,0,0,0,0
+1416,5438,"Hey, guys, something... (GRUNTS)",Neutral,0,0,0,0,0,0,0,0
+1417,5440,Whoa. (STAMMERS) What the hell was that?,anger,1,0,1,1,0,1,0,0
+1418,5441,"<i>I believe this is yours, Captain America.</i>",Neutral,0,0,0,0,0,0,0,0
+1419,5444,"Oh, great.",Neutral,0,0,0,0,0,0,0,0
+1420,5445,"All right, there's two on the parking deck.",Neutral,0,0,0,0,0,0,0,0
+1421,5446,"One of them's Maximoff, I'm gonna grab her.",anger,1,0,0,0,0,0,0,0
+1422,5448,"<i>Rhodey, you wanna take Cap?</i>",fear,0,0,0,1,0,1,0,0
+1423,5449,"<i>Got two in the terminal, Wilson and Barnes.</i>",fear,0,0,0,1,0,1,0,0
+1424,5451,<i>Barnes is mine.</i>,Neutral,0,0,0,0,0,0,0,0
+1425,5452,- (GRUNTS) - (GROANS),disgust,0,0,1,0,0,1,0,0
+1426,5454,"Hey, Mr Stark, what should I do?",trust,0,0,0,0,0,0,0,1
+1427,5455,What we discussed.,Neutral,0,0,0,0,0,0,0,0
+1428,5456,"Keep your distance, web them up.",Neutral,0,0,0,0,0,0,0,0
+1429,5457,"Okay, copy that.",Neutral,0,0,0,0,0,0,0,0
+1430,5463,"<i>Move, Captain.</i>",Neutral,0,0,0,0,0,0,0,0
+1431,5465,<i>I won't ask a second time.</i>,anticipation,0,1,0,0,0,0,0,0
+1432,5469,"<i>Look, I really don't want to hurt you.</i>",anger,1,0,0,1,0,1,0,0
+1433,5471,I wouldn't stress about it.,Neutral,0,0,0,0,0,0,0,0
+1434,5473,(GROANS),disgust,0,0,1,0,0,1,0,0
+1435,5479,(BLACK WIDOW STRAINING),sadness,0,0,0,0,0,2,0,0
+1436,5482,(GROANS),disgust,0,0,1,0,0,1,0,0
+1437,5485,What the hell is that?,anger,1,0,1,1,0,1,0,0
+1438,5486,Everyone's got a gimmick now.,Neutral,0,0,0,0,0,0,0,0
+1439,5492,(FALCON GROANS),disgust,0,0,1,0,0,1,0,0
+1440,5495,You have a metal arm?,Neutral,0,0,0,0,0,0,0,0
+1441,5497,"That is awesome, dude.",Neutral,0,0,0,0,0,0,0,0
+1442,5500,You have the right to remain silent!,Neutral,0,0,0,0,0,0,0,0
+1443,5516,"<i>Sorry, Cap, this won't kill you...</i>",anticipation,0,2,0,1,0,1,0,1
+1444,5518,but it ain't gonna tickle either.,anticipation,0,1,0,0,1,0,1,1
+1445,5524,"<i>Wanda, I think you hurt Vision's feelings.</i>",anger,1,0,0,1,0,1,0,0
+1446,5526,You locked me in my room.,Neutral,0,0,0,0,0,0,0,0
+1447,5528,"<i>Okay, first, that's an exaggeration.</i>",Neutral,0,0,0,0,0,0,0,0
+1448,5529,"<i>Second, I did it to protect you.</i>",Neutral,0,0,0,0,0,0,0,0
+1449,5532,"<i>- Hey, Clint.</i> - Hey, man.",Neutral,0,0,0,0,0,0,0,0
+1450,5533,"<i>Clearly, retirement doesn't suit you.</i>",anticipation,0,1,0,1,1,1,0,1
+1451,5535,<i>You got tired of shooting golf?</i>,anger,1,0,0,1,0,0,0,0
+1452,5537,"Well, I played 18, shot 18.",anger,1,0,0,1,0,0,0,0
+1453,5540,Just can't seem to miss.,Neutral,0,0,0,0,0,0,0,0
+1454,5544,<i>First time for everything.</i>,anticipation,0,1,0,0,0,0,0,0
+1455,5545,Made you look.,Neutral,0,0,0,0,0,0,0,0
+1456,5557,FRIDAY: <i>Multiple contusions detected.</i>,Neutral,0,0,0,0,0,0,0,0
+1457,5559,"Yeah, I detected that, too.",Neutral,0,0,0,0,0,0,0,0
+1458,5568,"Oh, God!",anticipation,0,1,0,1,1,0,0,1
+1459,5571,"Hey, buddy, I think you lost this!",anger,1,1,1,1,1,1,1,1
+1460,5574,(YELPS),anger,1,0,0,1,0,0,1,0
+1461,5578,Ahh!,Neutral,0,0,0,0,0,0,0,0
+1462,5584,Those wings carbon fibre?,Neutral,0,0,0,0,0,0,0,0
+1463,5586,Is this stuff coming out of you?,Neutral,0,0,0,0,0,0,0,0
+1464,5587,"That would explain the rigidity-flexibility ratio,",trust,0,0,0,0,0,0,0,1
+1465,5589,"which, gotta say, that's awesome, man.",Neutral,0,0,0,0,0,0,0,0
+1466,5591,I don't know if you've been in a fight before...,anger,1,0,0,1,0,0,0,0
+1467,5592,but there's usually not this much talking.,Neutral,0,0,0,0,0,0,0,0
+1468,5594,"All right, sorry. My bad.",anger,1,0,1,1,0,1,0,0
+1469,5600,"Guys, look, I'd love to keep this up,",joy,0,0,0,0,1,0,0,0
+1470,5602,but I've only got one job here today...,Neutral,0,0,0,0,0,0,0,0
+1471,5604,"and I gotta impress Mr Stark, so, I'm really sorry.",trust,0,0,0,0,0,0,0,1
+1472,5607,(YELPS),anger,1,0,0,1,0,0,1,0
+1473,5609,(SCREAMING),anger,1,0,1,1,0,0,1,0
+1474,5610,You couldn't have done that earlier?,Neutral,0,0,0,0,0,0,0,0
+1475,5613,I hate you.,anger,1,0,1,1,0,1,0,0
+1476,5621,<i>Great.</i>,Neutral,0,0,0,0,0,0,0,0
+1477,5622,"<i>Hey, Cap, heads-up!</i>",anticipation,0,1,0,0,0,0,0,1
+1478,5625,<i>Throw it at this.</i>,Neutral,0,0,0,0,0,0,0,0
+1479,5627,<i>Now!</i>,Neutral,0,0,0,0,0,0,0,0
+1480,5631,"<i>Oh, come on!</i>",Neutral,0,0,0,0,0,0,0,0
+1481,5636,"<i>Oh, man, I thought it was a water truck.</i>",Neutral,0,0,0,0,0,0,0,0
+1482,5639,"<i>Uh, sorry.</i>",Neutral,0,0,0,0,0,0,0,0
+1483,5643,"<i>All right, now I'm pissed.</i>",Neutral,0,0,0,0,0,0,0,0
+1484,5645,Is this part of the plan?,anticipation,0,1,0,0,0,0,0,0
+1485,5646,"<i>Well, my plan was go easy on them.</i>",anticipation,0,1,0,0,0,0,0,0
+1486,5648,<i>You wanna switch it up?</i>,fear,0,0,0,1,0,1,0,0
+1487,5652,There's our ride.,Neutral,0,0,0,0,0,0,0,0
+1488,5655,Come on!,Neutral,0,0,0,0,0,0,0,0
+1489,5665,Captain Rogers...,Neutral,0,0,0,0,0,0,0,0
+1490,5667,I know you believe what you're doing is right.,Neutral,0,0,0,0,0,0,0,0
+1491,5671,But for the collective good...,anticipation,0,1,0,0,1,0,1,1
+1492,5673,you must surrender now.,fear,0,0,0,1,0,1,0,0
+1493,5679,(SPIDER-MAN GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1494,5692,"FALCON: What do we do, Cap?",anticipation,0,1,0,0,0,0,0,1
+1495,5695,We fight.,anger,1,0,0,1,0,0,0,0
+1496,5698,This is gonna end well.,Neutral,0,0,0,0,0,0,0,0
+1497,5706,They're not stopping.,Neutral,0,0,0,0,0,0,0,0
+1498,5708,Neither are we.,Neutral,0,0,0,0,0,0,0,0
+1499,5717,(ALL GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1500,5740,"We're still friends, right?",Neutral,0,0,0,0,0,0,0,0
+1501,5741,Depends on how hard you hit me.,anger,1,1,0,0,0,0,0,1
+1502,5749,(GROANS),disgust,0,0,1,0,0,1,0,0
+1503,5752,You were pulling your punches.,anger,1,0,0,1,0,1,1,0
+1504,5758,I didn't kill your father.,fear,0,0,0,1,0,1,0,1
+1505,5759,<i>Then why did you run?</i>,Neutral,0,0,0,0,0,0,0,0
+1506,5779,That thing does not obey the laws of physics at all.,fear,0,0,0,1,0,0,0,1
+1507,5782,"Look, kid, there's a lot going on here that you don't understand.",Neutral,0,0,0,0,0,0,0,0
+1508,5783,Mr Stark said you'd say that. Wow.,trust,0,0,0,0,0,0,0,1
+1509,5795,He also said to go for your legs.,Neutral,0,0,0,0,0,0,0,0
+1510,5800,(BOTH STRAINING),Neutral,0,0,0,0,0,0,0,0
+1511,5804,Ahhh!,Neutral,0,0,0,0,0,0,0,0
+1512,5808,"Clint, can you get him off me?",Neutral,0,0,0,0,0,0,0,0
+1513,5810,Buckled in?,Neutral,0,0,0,0,0,0,0,0
+1514,5811,"ANT-MAN: <i>Yeah. No, I'm good.</i>",Neutral,0,0,0,0,0,0,0,0
+1515,5813,"<i>I'm good, Arrow Guy. Let's go!</i>",anticipation,0,1,0,0,1,0,1,1
+1516,5816,(ANT-MAN YELLING),anger,1,0,0,1,0,0,1,0
+1517,5837,Stark tell you anything else?,trust,0,0,0,0,0,0,0,1
+1518,5838,That you're wrong. You think you're right.,Neutral,0,0,0,0,0,0,0,0
+1519,5841,That makes you dangerous.,fear,0,0,0,1,0,0,0,0
+1520,5848,Guess he had a point.,surprise,0,0,0,0,0,0,1,0
+1521,5854,"You got heart, kid. Where you from?",Neutral,0,0,0,0,0,0,0,0
+1522,5857,Queens.,Neutral,0,0,0,0,0,0,0,0
+1523,5860,Brooklyn.,Neutral,0,0,0,0,0,0,0,0
+1524,5861,(STRAINING),Neutral,0,0,0,0,0,0,0,0
+1525,5866,(POWERING DOWN),Neutral,0,0,0,0,0,0,0,0
+1526,5867,<i>Friday?</i>,Neutral,0,0,0,0,0,0,0,0
+1527,5868,FRIDAY: <i>We have some weapon systems offline.</i>,Neutral,0,0,0,0,0,0,0,0
+1528,5869,What?,Neutral,0,0,0,0,0,0,0,0
+1529,5871,"<i>Oh, you're gonna have to take this into the shop.</i>",Neutral,0,0,0,0,0,0,0,0
+1530,5873,Who's speaking?,Neutral,0,0,0,0,0,0,0,0
+1531,5875,<i>It's your conscience. We don't talk a lot these days.</i>,trust,0,0,0,0,0,0,0,1
+1532,5879,Friday?,Neutral,0,0,0,0,0,0,0,0
+1533,5880,FRIDAY: <i>Deploying fire suppression system.</i>,fear,1,0,1,2,0,0,0,0
+1534,5882,<i>Uh-oh.</i>,Neutral,0,0,0,0,0,0,0,0
+1535,5885,"<i>Oh, boy!</i>",Neutral,0,0,0,0,0,0,0,0
+1536,5889,<i>Whoa!</i>,Neutral,0,0,0,0,0,0,0,0
+1537,5893,(ANT-MAN SCREAMING),anger,1,0,1,1,0,0,1,0
+1538,5895,We gotta go. That guy's probably in Siberia by now.,Neutral,0,0,0,0,0,0,0,0
+1539,5898,We gotta draw out the flyers.,Neutral,0,0,0,0,0,0,0,0
+1540,5899,"I'll take Vision, you get to the jet.",anger,1,1,1,1,0,1,0,0
+1541,5901,"No, you get to the jet!",Neutral,0,0,0,0,0,0,0,0
+1542,5903,<i>Both of you!</i>,Neutral,0,0,0,0,0,0,0,0
+1543,5906,The rest of us aren't getting out of here.,Neutral,0,0,0,0,0,0,0,0
+1544,5908,As much as I hate to admit it...,anger,1,0,1,1,0,1,0,0
+1545,5909,"<i>if we're gonna win this one,</i>",Neutral,0,0,0,0,0,0,0,0
+1546,5911,<i>some of us might have to lose it.</i>,anger,1,0,1,1,0,1,1,0
+1547,5912,"FALCON: <i>This isn't the real fight, Steve.</i>",anger,1,0,0,1,0,0,0,1
+1548,5915,"All right, Sam. What's the play?",Neutral,0,0,0,0,0,0,0,0
+1549,5916,We need a diversion. Something big.,surprise,0,0,0,0,0,0,1,0
+1550,5920,ANT-MAN: <i>I got something kinda big.</i>,Neutral,0,0,0,0,0,0,0,0
+1551,5922,<i>But I can't hold it very long.</i>,Neutral,0,0,0,0,0,0,0,0
+1552,5924,"<i>On my signal, run like hell.</i>",Neutral,0,0,0,0,0,0,0,0
+1553,5926,<i>And if I tear myself in half... don't come back for me.</i>,Neutral,0,0,0,0,0,0,0,0
+1554,5929,He's gonna tear himself in half?,Neutral,0,0,0,0,0,0,0,0
+1555,5930,"You sure about this, Scott?",Neutral,0,0,0,0,0,0,0,0
+1556,5932,ANT-MAN: <i>I do it all the time.</i>,Neutral,0,0,0,0,0,0,0,0
+1557,5933,"<i>I mean, once. In a lab.</i>",Neutral,0,0,0,0,0,0,0,0
+1558,5935,<i>Then I passed out.</i>,Neutral,0,0,0,0,0,0,0,0
+1559,5937,"<i>I'm the boss, I'm the boss, I'm the boss.</i>",Neutral,0,0,0,0,0,0,0,0
+1560,5950,(ANT-MAN GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1561,5955,Holy shit!,anger,1,0,1,0,0,0,0,0
+1562,5956,(LAUGHING),joy,0,0,0,0,1,0,1,0
+1563,5961,"Okay, tiny dude is big now. He's big now.",Neutral,0,0,0,0,0,0,0,0
+1564,5964,I guess that's the signal.,surprise,0,0,0,0,0,0,1,0
+1565,5966,"Way to go, Tic Tac!",Neutral,0,0,0,0,0,0,0,0
+1566,5969,Give me back my Rhodey.,Neutral,0,0,0,0,0,0,0,0
+1567,5974,I got him.,Neutral,0,0,0,0,0,0,0,0
+1568,5979,(GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1569,5998,"Okay, anybody on our side hiding any shocking",fear,1,0,0,2,0,0,1,0
+1570,6001,and fantastic abilities they'd like to disclose...,Neutral,0,0,0,0,0,0,0,0
+1571,6003,I'm open to suggestions.,Neutral,0,0,0,0,0,0,0,0
+1572,6008,(GROANS),disgust,0,0,1,0,0,1,0,0
+1573,6012,ANT-MAN: <i>You wanna get to them...</i>,fear,0,0,0,1,0,1,0,0
+1574,6014,<i>you gotta go through me.</i>,Neutral,0,0,0,0,0,0,0,0
+1575,6020,(GROANS),disgust,0,0,1,0,0,1,0,0
+1576,6026,<i>Uh-huh.</i>,Neutral,0,0,0,0,0,0,0,0
+1577,6030,(GROANS),disgust,0,0,1,0,0,1,0,0
+1578,6042,We haven't met yet.,Neutral,0,0,0,0,0,0,0,0
+1579,6046,- I'm Clint. <i>- I don't care.</i>,Neutral,0,0,0,0,0,0,0,0
+1580,6057,(YELLING),anger,1,0,0,1,0,0,1,0
+1581,6062,Whoa!,Neutral,0,0,0,0,0,0,0,0
+1582,6068,Ahhh!,Neutral,0,0,0,0,0,0,0,0
+1583,6075,Get off!,Neutral,0,0,0,0,0,0,0,0
+1584,6091,<i>Something just flew in me!</i>,Neutral,0,0,0,0,0,0,0,0
+1585,6108,(SCREAMING),anger,1,0,1,1,0,0,1,0
+1586,6117,You're not gonna stop.,Neutral,0,0,0,0,0,0,0,0
+1587,6119,You know I can't.,Neutral,0,0,0,0,0,0,0,0
+1588,6121,I'm gonna regret this.,sadness,0,0,0,0,0,1,0,0
+1589,6124,(GROANS),disgust,0,0,1,0,0,1,0,0
+1590,6126,Go.,Neutral,0,0,0,0,0,0,0,0
+1591,6133,"Hey, guys, you ever see that really old movie,",Neutral,0,0,0,0,0,0,0,0
+1592,6135,<i>Empire Strikes Back?</i>,anger,1,0,0,0,0,0,0,0
+1593,6137,"WAR MACHINE: <i>Jesus, Tony, how old is this guy?</i>",fear,0,0,0,1,0,0,0,1
+1594,6138,"I don't know, I didn't carbon-date him.",Neutral,0,0,0,0,0,0,0,0
+1595,6140,He's on the young side.,anticipation,0,1,0,0,1,0,1,0
+1596,6143,You know that part where they're on the snow planet...,Neutral,0,0,0,0,0,0,0,0
+1597,6147,with the walking thingies?,Neutral,0,0,0,0,0,0,0,0
+1598,6151,Maybe the kid's onto something.,Neutral,0,0,0,0,0,0,0,0
+1599,6152,"High now, Tony. Go high.",Neutral,0,0,0,0,0,0,0,0
+1600,6162,SPIDER-MAN: Yes!,Neutral,0,0,0,0,0,0,0,0
+1601,6163,(LAUGHS) That was awesome!,joy,0,0,0,0,1,0,1,0
+1602,6175,(GROANING),disgust,0,0,1,0,0,1,0,0
+1603,6179,Does anyone have any orange slices?,Neutral,0,0,0,0,0,0,0,0
+1604,6188,"- Kid, you all right? - (GASPS)",surprise,0,0,0,0,0,0,1,0
+1605,6189,Whoa!,Neutral,0,0,0,0,0,0,0,0
+1606,6191,Same side. Guess who. Hi. It's me.,surprise,0,0,0,0,0,0,1,0
+1607,6194,"- (SIGHS) Hey, man. - Yeah.",Neutral,0,0,0,0,0,0,0,0
+1608,6196,- That was scary. - Yeah.,Neutral,0,0,0,0,0,0,0,0
+1609,6197,"You're done, all right?",Neutral,0,0,0,0,0,0,0,0
+1610,6199,"What? I'm good, I'm fine.",anticipation,0,1,0,0,1,0,1,1
+1611,6200,You did a good job. Stay down.,anticipation,0,1,0,0,1,0,1,1
+1612,6201,"No, it's good. I gotta get him back.",anticipation,0,1,0,0,1,0,1,1
+1613,6202,You're going home or I'll call Aunt May!,anger,1,0,1,1,0,1,0,1
+1614,6203,- Dude. - You're done!,Neutral,0,0,0,0,0,0,0,0
+1615,6205,Wait.,anticipation,0,1,0,0,0,0,0,0
+1616,6206,"Mr Stark, wait. (GROANS) I'm not done. I'm not...",anticipation,0,1,1,0,0,1,0,1
+1617,6210,(GROANS),disgust,0,0,1,0,0,1,0,0
+1618,6211,"Okay, I'm done. I'm done.",Neutral,0,0,0,0,0,0,0,0
+1619,6230,"BLACK WIDOW: I said I'd help you find him, not catch him.",sadness,0,0,0,0,0,2,1,0
+1620,6232,There's a difference.,Neutral,0,0,0,0,0,0,0,0
+1621,6240,(PANTING),Neutral,0,0,0,0,0,0,0,0
+1622,6241,I'm sorry.,Neutral,0,0,0,0,0,0,0,0
+1623,6242,"Me, too.",Neutral,0,0,0,0,0,0,0,0
+1624,6244,It's as I said.,Neutral,0,0,0,0,0,0,0,0
+1625,6246,Catastrophe.,anger,1,0,1,1,0,1,1,0
+1626,6261,"Vision, I got a bandit on my six.",anticipation,0,1,0,0,0,0,0,0
+1627,6267,<i>Vision! You copy?</i>,Neutral,0,0,0,0,0,0,0,0
+1628,6268,"<i>Target his thruster, turn him into a glider.</i>",Neutral,0,0,0,0,0,0,0,0
+1629,6275,(GROANS),disgust,0,0,1,0,0,1,0,0
+1630,6285,<i>Rhodey!</i>,Neutral,0,0,0,0,0,0,0,0
+1631,6288,"Tony, I'm flying dead stick.",Neutral,0,0,0,0,0,0,0,0
+1632,6290,(GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1633,6298,Rhodes!,Neutral,0,0,0,0,0,0,0,0
+1634,6312,Read vitals.,Neutral,0,0,0,0,0,0,0,0
+1635,6314,FRIDAY: <i>Heartbeat detected.</i>,Neutral,0,0,0,0,0,0,0,0
+1636,6315,<i>Emergency medical is on its way.</i>,anticipation,0,1,0,1,0,0,0,1
+1637,6322,I'm sorry.,Neutral,0,0,0,0,0,0,0,0
+1638,6341,(WOMAN SPEAKING GERMAN ON PHONE),Neutral,0,0,0,0,0,0,0,0
+1639,6343,(HELMUT ZEMO SPEAKING GERMAN),Neutral,0,0,0,0,0,0,0,0
+1640,6345,- this is room 201...,Neutral,0,0,0,0,0,0,0,0
+1641,6348,Bacon and black coffee again today?,sadness,0,0,0,0,0,1,0,0
+1642,6350,(CHUCKLES),anticipation,0,1,0,0,1,0,1,1
+1643,6351,You know me so well...,Neutral,0,0,0,0,0,0,0,0
+1644,6353,- (KNOCKING ON DOOR) - (SPEAKING GERMAN),Neutral,0,0,0,0,0,0,0,0
+1645,6354,Hello? Your breakfast is here.,Neutral,0,0,0,0,0,0,0,0
+1646,6357,May I let myself in?,Neutral,0,0,0,0,0,0,0,0
+1647,6374,(GASPS),surprise,0,0,0,0,0,0,1,0
+1648,6383,What's gonna happen to your friends?,anticipation,0,1,0,0,0,0,0,0
+1649,6391,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+1650,6394,Whatever it is...,Neutral,0,0,0,0,0,0,0,0
+1651,6396,I'll deal with it.,anger,1,1,1,1,1,1,1,1
+1652,6400,"I don't know if I'm worth all this, Steve.",Neutral,0,0,0,0,0,0,0,0
+1653,6410,What you did all those years...,Neutral,0,0,0,0,0,0,0,0
+1654,6412,It wasn't you.,Neutral,0,0,0,0,0,0,0,0
+1655,6415,You didn't have a choice.,Neutral,0,0,0,0,0,0,0,0
+1656,6418,I know.,Neutral,0,0,0,0,0,0,0,0
+1657,6422,But I did it.,Neutral,0,0,0,0,0,0,0,0
+1658,6438,(WHISPERS) How did this happen?,anticipation,0,1,0,0,0,0,0,0
+1659,6441,I became distracted.,Neutral,0,0,0,0,0,0,0,0
+1660,6444,(SCOFFS),anger,1,0,1,0,0,0,0,0
+1661,6445,I didn't think that was possible.,Neutral,0,0,0,0,0,0,0,0
+1662,6448,Neither did I.,Neutral,0,0,0,0,0,0,0,0
+1663,6467,TONY: The doctors say he shattered L4 through S1.,anger,1,0,0,1,0,1,1,1
+1664,6470,Extreme laceration to the spinal cord.,Neutral,0,0,0,0,0,0,0,0
+1665,6473,Probably looking at some form of paralysis.,anger,1,1,0,1,0,1,0,0
+1666,6479,NATASHA: Steve's not gonna stop.,Neutral,0,0,0,0,0,0,0,0
+1667,6481,"If you don't either,",Neutral,0,0,0,0,0,0,0,0
+1668,6482,Rhodey's gonna be the best case scenario.,fear,0,0,0,1,0,1,0,0
+1669,6484,"You let them go, Nat.",Neutral,0,0,0,0,0,0,0,0
+1670,6485,We played this wrong.,Neutral,0,0,0,0,0,0,0,0
+1671,6486,"""We""?",Neutral,0,0,0,0,0,0,0,0
+1672,6488,"Boy, it must be hard to",disgust,0,0,1,0,0,0,0,0
+1673,6489,"shake the whole double agent thing, huh?",Neutral,0,0,0,0,0,0,0,0
+1674,6491,It sticks in the DNA.,Neutral,0,0,0,0,0,0,0,0
+1675,6494,Are you incapable of letting go of your ego...,Neutral,0,0,0,0,0,0,0,0
+1676,6497,for one goddamn second?,Neutral,0,0,0,0,0,0,0,0
+1677,6503,"T'CHALLA told Ross what you did, so...",Neutral,0,0,0,0,0,0,0,0
+1678,6506,they're coming for you.,Neutral,0,0,0,0,0,0,0,0
+1679,6509,I'm not the one that needs to watch their back.,anticipation,0,1,0,1,0,0,0,0
+1680,6517,(WATCH BEEPING),anticipation,0,1,0,1,0,0,0,0
+1681,6521,"What am I looking at, Friday?",Neutral,0,0,0,0,0,0,0,0
+1682,6522,FRIDAY: <i>Priority upload from Berlin police.</i>,Neutral,0,0,0,0,0,0,0,0
+1683,6527,Fire up the chopper.,fear,0,0,0,1,0,0,0,0
+1684,6535,FRIDAY: <i>The Task Force called for a psychiatrist</i>,anger,1,0,0,1,0,0,0,0
+1685,6537,<i>as soon as Barnes was captured.</i>,Neutral,0,0,0,0,0,0,0,0
+1686,6539,<i>The UN dispatched Doctor Theo Broussard</i>,trust,0,0,0,0,0,0,0,1
+1687,6541,<i>from Geneva within the hour.</i>,Neutral,0,0,0,0,0,0,0,0
+1688,6543,<i>He was met by this man.</i>,Neutral,0,0,0,0,0,0,0,0
+1689,6544,TONY: Did you run facial recognition yet?,Neutral,0,0,0,0,0,0,0,0
+1690,6545,FRIDAY: <i>What do I look like?</i>,Neutral,0,0,0,0,0,0,0,0
+1691,6547,"Uh, I don't know. I've been picturing a redhead.",Neutral,0,0,0,0,0,0,0,0
+1692,6549,<i>You must be thinking of someone else.</i>,Neutral,0,0,0,0,0,0,0,0
+1693,6551,Must be.,Neutral,0,0,0,0,0,0,0,0
+1694,6552,<i>The fake doctor is actually Colonel Helmut Zemo.</i>,trust,0,0,0,0,0,0,0,2
+1695,6556,<i>Sokovian Intelligence.</i>,Neutral,0,0,0,0,0,0,0,0
+1696,6559,<i>Zemo ran Echo Scorpion...</i>,Neutral,0,0,0,0,0,0,0,0
+1697,6561,<i>a Sokovian covert kill squad.</i>,fear,0,0,0,1,0,1,0,0
+1698,6566,What happened to the real Broussard?,anticipation,0,1,0,0,0,0,0,1
+1699,6567,<i>He was found dead in a Berlin hotel room.</i>,Neutral,0,0,0,0,0,0,0,0
+1700,6569,<i>Where police also found a wig and facial prosthesis...</i>,fear,0,0,0,1,0,0,0,1
+1701,6572,<i>approximating the appearance of one James Buchanan Barnes.</i>,Neutral,0,0,0,0,0,0,0,0
+1702,6577,Son of a bitch.,anger,1,0,1,1,0,1,0,0
+1703,6581,"- Get this to Ross. <i>- Yes, boss.</i>",Neutral,0,0,0,0,0,0,0,0
+1704,6600,(ICE PICK CHIPPING),Neutral,0,0,0,0,0,0,0,0
+1705,6613,(DOOR RUMBLING),Neutral,0,0,0,0,0,0,0,0
+1706,6620,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1707,6677,GUARD: (ON RADIO) <i>This is Raft Prison Control.</i>,fear,1,0,0,2,0,1,0,1
+1708,6679,"<i>You're cleared for landing, Mr Stark.</i>",Neutral,0,0,0,0,0,0,0,0
+1709,6714,So? You got the files?,Neutral,0,0,0,0,0,0,0,0
+1710,6716,"Let's reroute the satellites,",Neutral,0,0,0,0,0,0,0,0
+1711,6717,start facial scanning for this Zemo guy.,anticipation,0,1,0,0,0,0,0,0
+1712,6719,You seriously think I'm gonna listen to you,Neutral,0,0,0,0,0,0,0,0
+1713,6722,after that fiasco in Leipzig?,Neutral,0,0,0,0,0,0,0,0
+1714,6724,You're lucky you're not in one of these cells.,joy,0,0,0,0,1,0,1,0
+1715,6755,(CLAPPING),anticipation,0,1,0,0,1,0,0,1
+1716,6757,"CLINT: The Futurist, gentlemen!",Neutral,0,0,0,0,0,0,0,0
+1717,6760,The Futurist is here!,Neutral,0,0,0,0,0,0,0,0
+1718,6762,He sees all!,Neutral,0,0,0,0,0,0,0,0
+1719,6765,"He knows what's best for you, whether you like it or not.",Neutral,0,0,0,0,0,0,0,0
+1720,6768,"Give me a break, Barton.",surprise,0,0,0,0,0,0,1,0
+1721,6770,<i>I had no idea they'd put you here. Come on.</i>,Neutral,0,0,0,0,0,0,0,0
+1722,6773,"(SPITS) Yeah, well, you knew they'd put us somewhere, Tony.",disgust,0,0,1,0,0,0,0,0
+1723,6776,"Yeah, but not some super-max floating ocean pokey.",Neutral,0,0,0,0,0,0,0,0
+1724,6779,This place is for maniacs. This is a place for...,Neutral,0,0,0,0,0,0,0,0
+1725,6781,CLINT: Criminals?,Neutral,0,0,0,0,0,0,0,0
+1726,6784,"Criminals, Tony.",Neutral,0,0,0,0,0,0,0,0
+1727,6786,Think that's the word you're looking for.,trust,0,0,0,0,0,0,0,1
+1728,6790,Right?,Neutral,0,0,0,0,0,0,0,0
+1729,6791,That didn't used to mean me.,Neutral,0,0,0,0,0,0,0,0
+1730,6794,"Or Sam, or Wanda.",Neutral,0,0,0,0,0,0,0,0
+1731,6795,But here we are.,Neutral,0,0,0,0,0,0,0,0
+1732,6797,- Because you broke the law. - Yeah.,surprise,0,0,0,0,0,0,1,1
+1733,6799,I didn't make you.,Neutral,0,0,0,0,0,0,0,0
+1734,6801,"- La, la, la, la, la... - You read it, you broke it.",surprise,0,0,0,0,0,0,1,0
+1735,6805,"You're all grown up, you got a wife and kids.",anticipation,0,1,0,0,1,0,0,1
+1736,6807,"I don't understand, why didn't you",Neutral,0,0,0,0,0,0,0,0
+1737,6808,think about them before you chose the wrong side?,Neutral,0,0,0,0,0,0,0,0
+1738,6811,You gotta watch your back with this guy.,anticipation,0,1,0,1,0,0,0,0
+1739,6815,There's a chance he's gonna break it.,surprise,0,0,0,0,0,0,2,0
+1740,6818,Hank Pym always said you never can trust a Stark.,trust,0,0,0,0,0,0,0,2
+1741,6822,Who are you?,Neutral,0,0,0,0,0,0,0,0
+1742,6824,"Come on, man.",Neutral,0,0,0,0,0,0,0,0
+1743,6828,SAM: How's Rhodes?,Neutral,0,0,0,0,0,0,0,0
+1744,6829,They're flying him to Columbia Medical tomorrow...,anticipation,0,2,0,1,0,0,0,1
+1745,6832,so fingers crossed.,anger,1,0,0,1,0,1,0,0
+1746,6834,What do you need? They feed you yet?,anger,1,0,0,0,0,0,0,0
+1747,6838,"You're the good cop, now?",trust,0,1,0,1,1,0,1,2
+1748,6840,I'm just the guy who needs to know where Steve went.,Neutral,0,0,0,0,0,0,0,0
+1749,6842,"Well, you better go get a bad cop...",fear,1,0,1,2,0,1,0,1
+1750,6844,because you're gonna have to go Mark Fuhrman on my ass...,Neutral,0,0,0,0,0,0,0,0
+1751,6846,to get information out of me.,Neutral,0,0,0,0,0,0,0,0
+1752,6848,"Well, I just knocked the A out of their AV.",Neutral,0,0,0,0,0,0,0,0
+1753,6851,We got about 30 seconds before they realise it's not their equipment.,Neutral,0,0,0,0,0,0,0,0
+1754,6854,SECRETARY ROSS: What'd you do?,Neutral,0,0,0,0,0,0,0,0
+1755,6856,Get it back up!,Neutral,0,0,0,0,0,0,0,0
+1756,6858,Just look.,Neutral,0,0,0,0,0,0,0,0
+1757,6860,Because that...,Neutral,0,0,0,0,0,0,0,0
+1758,6862,is the fellow who was supposed to interrogate Barnes.,fear,0,0,0,1,0,0,0,1
+1759,6866,"Clearly, I made a mistake. Sam, I was wrong.",sadness,0,0,0,0,0,1,0,0
+1760,6868,That's a first.,Neutral,0,0,0,0,0,0,0,0
+1761,6870,Cap is definitely off the reservation...,anticipation,0,1,0,0,0,0,0,1
+1762,6872,but he's about to need all the help he can get.,Neutral,0,0,0,0,0,0,0,0
+1763,6874,We don't know each other very well.,Neutral,0,0,0,0,0,0,0,0
+1764,6875,You don't have to...,Neutral,0,0,0,0,0,0,0,0
+1765,6876,"Hey, it's all right.",Neutral,0,0,0,0,0,0,0,0
+1766,6882,(SIGHS),Neutral,0,0,0,0,0,0,0,0
+1767,6886,"Look, I'll tell you...",anger,1,0,1,1,0,1,0,0
+1768,6888,but you have to go alone and as a friend.,joy,0,0,0,0,1,0,0,1
+1769,6892,Easy.,Neutral,0,0,0,0,0,0,0,0
+1770,6896,SECRETARY ROSS: Stark?,trust,0,0,0,0,0,0,0,1
+1771,6898,Did he give you anything on Rogers?,Neutral,0,0,0,0,0,0,0,0
+1772,6900,Nope. Told me to go to hell.,anger,1,0,1,1,0,1,0,0
+1773,6901,"I'm going back to the compound instead,",Neutral,0,0,0,0,0,0,0,0
+1774,6903,but you can call me anytime.,Neutral,0,0,0,0,0,0,0,0
+1775,6905,I'll put you on hold. I like to watch the line blink.,fear,1,1,1,2,0,1,0,0
+1776,6976,You remember that time we had to ride back,anticipation,0,1,0,0,0,0,0,0
+1777,6978,from Rockaway Beach in the back of that freezer truck?,joy,0,0,0,0,1,0,0,1
+1778,6980,Was that the time we used our train money,anticipation,1,2,0,0,1,0,1,1
+1779,6983,to buy hot dogs?,anger,1,0,0,0,0,0,0,0
+1780,6984,You blew three bucks trying to win that stuffed bear for a redhead.,fear,1,0,0,2,0,0,1,0
+1781,6988,"What was her name, again?",Neutral,0,0,0,0,0,0,0,0
+1782,6989,Dolores. You called her Dot.,Neutral,0,0,0,0,0,0,0,0
+1783,6991,She's gotta be a hundred years old right now.,Neutral,0,0,0,0,0,0,0,0
+1784,6993,"So are we, pal.",Neutral,0,0,0,0,0,0,0,0
+1785,6999,(WIND HOWLING),anger,1,0,1,1,0,1,1,0
+1786,7004,STEVE: He can't have been here more than a few hours.,Neutral,0,0,0,0,0,0,0,0
+1787,7006,BUCKY: Long enough to wake them up.,anticipation,0,1,0,0,0,0,0,0
+1788,7045,(LOUD THUD),Neutral,0,0,0,0,0,0,0,0
+1789,7048,(DOOR CREAKING),Neutral,0,0,0,0,0,0,0,0
+1790,7050,You ready?,anticipation,0,1,0,0,0,0,0,0
+1791,7052,Yeah.,Neutral,0,0,0,0,0,0,0,0
+1792,7066,You seem a little defensive.,Neutral,0,0,0,0,0,0,0,0
+1793,7069,It's been a long day.,anticipation,0,1,0,0,0,0,0,0
+1794,7071,"At ease, Soldier. I'm not currently after you.",anger,1,0,0,0,0,1,0,0
+1795,7073,Then why are you here?,Neutral,0,0,0,0,0,0,0,0
+1796,7076,Could be your story's not so crazy.,anger,1,0,0,1,0,1,0,0
+1797,7079,Maybe.,Neutral,0,0,0,0,0,0,0,0
+1798,7081,Ross has no idea I'm here. I'd like to keep it that way.,Neutral,0,0,0,0,0,0,0,0
+1799,7085,"Otherwise, I gotta arrest myself.",Neutral,0,0,0,0,0,0,0,0
+1800,7088,"Well, that sounds like a lot of paperwork.",Neutral,0,0,0,0,0,0,0,0
+1801,7091,(SCOFFS),anger,1,0,1,0,0,0,0,0
+1802,7094,"It's good to see you, Tony.",anticipation,0,1,0,0,1,0,1,1
+1803,7095,"You too, Cap.",anticipation,0,1,0,0,0,0,0,1
+1804,7097,"Hey, Manchurian Candidate, you're killing me.",fear,0,0,0,1,0,1,0,0
+1805,7100,There's a truce here. You can drop...,joy,0,0,0,0,1,0,0,1
+1806,7122,IRON MAN: <i>I got heat signatures.</i>,trust,0,0,0,0,0,0,0,1
+1807,7123,CAPTAIN AMERICA: How many?,Neutral,0,0,0,0,0,0,0,0
+1808,7126,"<i>Uh, one.</i>",Neutral,0,0,0,0,0,0,0,0
+1809,7146,"HELMUT ZEMO: (ON SPEAKER) <i>If it's any comfort,</i>",Neutral,0,0,0,0,0,0,0,0
+1810,7149,<i>they died in their sleep.</i>,fear,0,0,0,1,0,1,0,0
+1811,7157,<i>Did you really think I wanted more of you?</i>,Neutral,0,0,0,0,0,0,0,0
+1812,7161,What the hell?,anger,1,0,1,1,0,1,0,0
+1813,7164,"<i>I'm grateful to them, though.</i>",Neutral,0,0,0,0,0,0,0,0
+1814,7167,<i>They brought you here.</i>,Neutral,0,0,0,0,0,0,0,0
+1815,7173,"<i>Please, Captain.</i>",Neutral,0,0,0,0,0,0,0,0
+1816,7175,<i>The Soviets built this chamber to withstand</i>,Neutral,0,0,0,0,0,0,0,0
+1817,7177,<i>the launch blast of UR-100 rockets.</i>,anger,1,1,0,1,0,0,1,0
+1818,7179,IRON MAN: <i>I'm betting I could beat that.</i>,trust,0,0,0,0,0,0,0,1
+1819,7181,"HELMUT ZEMO: <i>Oh, I'm sure you could, Mr Stark.</i>",Neutral,0,0,0,0,0,0,0,0
+1820,7184,<i>Given time.</i>,Neutral,0,0,0,0,0,0,0,0
+1821,7186,<i>But then you'd never know why you came.</i>,Neutral,0,0,0,0,0,0,0,0
+1822,7187,You killed innocent people in Vienna just to bring us here?,fear,0,0,0,1,0,1,0,1
+1823,7197,I've thought about nothing else for over a year.,Neutral,0,0,0,0,0,0,0,0
+1824,7201,I studied you.,Neutral,0,0,0,0,0,0,0,0
+1825,7203,I followed you.,Neutral,0,0,0,0,0,0,0,0
+1826,7205,But now that you're standing here...,Neutral,0,0,0,0,0,0,0,0
+1827,7207,I just realised...,Neutral,0,0,0,0,0,0,0,0
+1828,7211,there's a bit of green in the blue of your eyes.,joy,0,0,0,0,1,1,0,1
+1829,7215,(HELMUT ZEMO CHUCKLES),anticipation,0,1,0,0,1,0,1,1
+1830,7216,How nice to find a flaw.,sadness,0,0,0,0,0,1,0,0
+1831,7219,You're Sokovian.,Neutral,0,0,0,0,0,0,0,0
+1832,7222,Is that what this is about?,Neutral,0,0,0,0,0,0,0,0
+1833,7224,Sokovia was a failed state long before you blew it to hell.,anger,1,1,1,1,0,1,0,0
+1834,7227,No.,Neutral,0,0,0,0,0,0,0,0
+1835,7230,I'm here because I made a promise.,joy,0,0,0,0,1,0,0,1
+1836,7236,You lost someone?,anger,1,0,1,1,0,1,1,0
+1837,7240,(CLICKS TONGUE),Neutral,0,0,0,0,0,0,0,0
+1838,7241,I lost everyone.,anger,1,0,1,1,0,1,1,0
+1839,7245,And so will you.,Neutral,0,0,0,0,0,0,0,0
+1840,7253,An empire toppled by its enemies can rise again.,surprise,0,0,0,0,0,0,1,0
+1841,7258,But one which crumbles from within?,Neutral,0,0,0,0,0,0,0,0
+1842,7261,That's dead.,Neutral,0,0,0,0,0,0,0,0
+1843,7264,Forever.,Neutral,0,0,0,0,0,0,0,0
+1844,7274,I know that road.,Neutral,0,0,0,0,0,0,0,0
+1845,7278,What is this?,Neutral,0,0,0,0,0,0,0,0
+1846,7302,<i>Help my wife.</i>,Neutral,0,0,0,0,0,0,0,0
+1847,7305,<i>Please. Help.</i>,Neutral,0,0,0,0,0,0,0,0
+1848,7309,(GASPS),surprise,0,0,0,0,0,0,1,0
+1849,7313,<i>Sergeant Barnes?</i>,Neutral,0,0,0,0,0,0,0,0
+1850,7316,MARIA: <i>Howard!</i>,Neutral,0,0,0,0,0,0,0,0
+1851,7325,<i>Howard!</i>,Neutral,0,0,0,0,0,0,0,0
+1852,7333,(MARIA GASPING),surprise,0,0,0,0,0,0,1,0
+1853,7346,(WHIMPERS),fear,0,0,0,1,0,1,0,0
+1854,7347,(CHOKING),anger,1,0,0,0,0,1,0,0
+1855,7363,"No, Tony.",Neutral,0,0,0,0,0,0,0,0
+1856,7374,Did you know?,Neutral,0,0,0,0,0,0,0,0
+1857,7377,I didn't know it was him.,Neutral,0,0,0,0,0,0,0,0
+1858,7379,"Don't bullshit me, Rogers. Did you know?",Neutral,0,0,0,0,0,0,0,0
+1859,7385,Yes.,Neutral,0,0,0,0,0,0,0,0
+1860,7395,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1861,7427,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1862,7443,Get out of here!,Neutral,0,0,0,0,0,0,0,0
+1863,7456,"It wasn't him, Tony.",Neutral,0,0,0,0,0,0,0,0
+1864,7457,HYDRA had control of his mind!,fear,0,0,0,1,0,0,0,0
+1865,7458,Move!,Neutral,0,0,0,0,0,0,0,0
+1866,7459,It wasn't him!,Neutral,0,0,0,0,0,0,0,0
+1867,7461,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1868,7469,FRIDAY: <i>Left bootjet failing.</i>,Neutral,0,0,0,0,0,0,0,0
+1869,7471,<i>Flight systems compromised.</i>,Neutral,0,0,0,0,0,0,0,0
+1870,7474,"Ah, crap.",disgust,0,0,1,0,0,0,0,0
+1871,7475,(PANTING),Neutral,0,0,0,0,0,0,0,0
+1872,7485,(GROANS),disgust,0,0,1,0,0,1,0,0
+1873,7489,He's not gonna stop. Go.,Neutral,0,0,0,0,0,0,0,0
+1874,7499,(GROANS),disgust,0,0,1,0,0,1,0,0
+1875,7514,"Come on, come on.",Neutral,0,0,0,0,0,0,0,0
+1876,7515,"FRIDAY: <i>Targeting system's knackered, boss.</i>",Neutral,0,0,0,0,0,0,0,0
+1877,7517,I'm eyeballing it.,Neutral,0,0,0,0,0,0,0,0
+1878,7524,(GASPS),surprise,0,0,0,0,0,0,1,0
+1879,7530,(GROWLS),anger,1,0,0,1,0,0,0,0
+1880,7536,(WHISPERS) Do you even remember them?,Neutral,0,0,0,0,0,0,0,0
+1881,7538,I remember all of them.,Neutral,0,0,0,0,0,0,0,0
+1882,7545,(GROANS),disgust,0,0,1,0,0,1,0,0
+1883,7550,(GROANS),disgust,0,0,1,0,0,1,0,0
+1884,7557,(PANTING),Neutral,0,0,0,0,0,0,0,0
+1885,7563,This isn't gonna change what happened.,anticipation,0,1,0,1,0,0,0,0
+1886,7565,I don't care.,Neutral,0,0,0,0,0,0,0,0
+1887,7567,He killed my mom.,fear,0,0,0,1,0,1,0,0
+1888,7569,(BOTH GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1889,7581,(YELLING),anger,1,0,0,1,0,0,1,0
+1890,7586,(ALL GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1891,7596,(IRON MAN GROANS),disgust,0,0,1,0,0,1,0,1
+1892,7609,(YELLING),anger,1,0,0,1,0,0,1,0
+1893,7630,WOMAN: <i>You should have seen his little face.</i>,Neutral,0,0,0,0,0,0,0,0
+1894,7631,"<i>Just try, okay?</i>",Neutral,0,0,0,0,0,0,0,0
+1895,7633,<i>I'm going to bed.</i>,Neutral,0,0,0,0,0,0,0,0
+1896,7635,<i>I love you.</i>,joy,0,0,0,0,1,0,0,0
+1897,7645,T'CHALLA: I almost killed the wrong man.,fear,0,0,0,1,0,1,0,0
+1898,7648,Hardly an innocent one.,trust,0,0,0,0,0,0,0,1
+1899,7651,T'CHALLA: This is all you wanted?,Neutral,0,0,0,0,0,0,0,0
+1900,7653,To see them rip each other apart.,Neutral,0,0,0,0,0,0,0,0
+1901,7660,My father lived outside the city.,trust,0,0,0,0,0,0,0,1
+1902,7663,I thought we would be safe there.,joy,0,0,0,0,1,0,0,1
+1903,7666,My son was excited.,anger,1,1,0,1,1,0,1,0
+1904,7668,He could see the Iron Man from the car window.,trust,0,0,0,0,0,0,0,1
+1905,7672,"I told my wife, ""Don't worry.",anticipation,0,1,0,1,0,1,0,0
+1906,7675,"""They're fighting in the city. We're miles from harm.""",fear,1,0,0,2,0,0,0,0
+1907,7682,When the dust cleared...,Neutral,0,0,0,0,0,0,0,0
+1908,7685,and the screaming stopped...,anger,1,0,1,1,0,0,1,0
+1909,7688,it took me two days until I found their bodies.,Neutral,0,0,0,0,0,0,0,0
+1910,7694,My father...,trust,0,0,0,0,0,0,0,1
+1911,7697,still holding my wife and son in his arms.,Neutral,0,0,0,0,0,0,0,0
+1912,7705,And the Avengers?,Neutral,0,0,0,0,0,0,0,0
+1913,7708,They went home.,Neutral,0,0,0,0,0,0,0,0
+1914,7711,I knew I couldn't kill them.,fear,0,0,0,1,0,1,0,0
+1915,7714,More powerful men than me have tried.,anger,1,1,1,1,1,0,0,1
+1916,7719,"<i>But, if I could get them to kill each other...</i>",fear,0,0,0,1,0,1,0,0
+1917,7725,I'm sorry about your father.,trust,0,0,0,0,0,0,0,1
+1918,7729,He seemed a good man.,anticipation,0,1,0,0,1,0,1,1
+1919,7732,With a dutiful son.,anticipation,0,1,0,0,0,0,0,1
+1920,7738,Vengeance has consumed you.,anger,1,0,0,0,0,0,0,0
+1921,7743,It's consuming them.,Neutral,0,0,0,0,0,0,0,0
+1922,7749,I am done letting it consume me.,Neutral,0,0,0,0,0,0,0,0
+1923,7755,Justice will come soon enough.,trust,0,0,0,0,0,0,0,1
+1924,7761,Tell that to the dead.,Neutral,0,0,0,0,0,0,0,0
+1925,7764,(GUNSHOT),Neutral,0,0,0,0,0,0,0,0
+1926,7765,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1927,7767,"The living are not done with you, yet.",Neutral,0,0,0,0,0,0,0,0
+1928,7771,(GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1929,7773,FRIDAY: <i>You can't beat him hand-to-hand.</i>,Neutral,0,0,0,0,0,0,0,0
+1930,7776,Analyze his fight pattern.,anger,1,0,0,1,0,0,0,0
+1931,7778,<i>Scanning.</i>,Neutral,0,0,0,0,0,0,0,0
+1932,7783,<i>Countermeasures ready.</i>,Neutral,0,0,0,0,0,0,0,0
+1933,7787,Let's kick his ass.,anger,1,0,0,0,0,0,0,0
+1934,7790,(CAPTAIN AMERICA GROANS),disgust,0,0,1,0,0,1,0,0
+1935,7799,(PANTING),Neutral,0,0,0,0,0,0,0,0
+1936,7801,He's my friend.,joy,0,0,0,0,1,0,0,1
+1937,7803,So was I.,Neutral,0,0,0,0,0,0,0,0
+1938,7807,(COUGHING),disgust,0,0,1,0,0,0,0,0
+1939,7812,<i>Stay down. Final warning.</i>,Neutral,0,0,0,0,0,0,0,0
+1940,7828,I could do this all day.,Neutral,0,0,0,0,0,0,0,0
+1941,7832,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1942,7835,(CAPTAIN AMERICA GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1943,7837,(GROANS),disgust,0,0,1,0,0,1,0,0
+1944,7838,(GRUNTING),Neutral,0,0,0,0,0,0,0,0
+1945,7848,(GASPS),surprise,0,0,0,0,0,0,1,0
+1946,7850,(PANTING),Neutral,0,0,0,0,0,0,0,0
+1947,7877,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1948,7888,(GROANING),disgust,0,0,1,0,0,1,0,0
+1949,7897,That shield doesn't belong to you.,Neutral,0,0,0,0,0,0,0,0
+1950,7900,You don't deserve it.,anger,1,1,0,0,0,0,0,1
+1951,7902,My father made that shield!,trust,0,0,0,0,0,0,0,1
+1952,7916,(SPITS),disgust,0,0,1,0,0,0,0,0
+1953,7940,Meals at 8 and 5.,Neutral,0,0,0,0,0,0,0,0
+1954,7942,Toilet privileges twice a day.,disgust,0,0,1,0,0,0,0,0
+1955,7946,"Raise your voice, zap.",Neutral,0,0,0,0,0,0,0,0
+1956,7949,"Touch the glass, zap.",Neutral,0,0,0,0,0,0,0,0
+1957,7951,"You step out of line, you deal with me.",anticipation,0,1,0,0,1,0,1,1
+1958,7953,"Please, step out of line, hmm?",Neutral,0,0,0,0,0,0,0,0
+1959,7958,So how does it feel?,Neutral,0,0,0,0,0,0,0,0
+1960,7960,"To spend all that time, all that effort...",anticipation,0,1,0,0,0,0,0,0
+1961,7965,to see it fail so spectacularly?,Neutral,0,0,0,0,0,0,0,0
+1962,7974,Did it?,Neutral,0,0,0,0,0,0,0,0
+1963,8000,TONY: It's just the first pass.,Neutral,0,0,0,0,0,0,0,0
+1964,8002,JAMES RHODES: Yeah.,Neutral,0,0,0,0,0,0,0,0
+1965,8003,"TONY: Give me some feedback, anything you think of.",Neutral,0,0,0,0,0,0,0,0
+1966,8005,"Shock absorption, lateral movement.",anger,1,0,0,1,0,0,1,0
+1967,8008,Cup holder?,Neutral,0,0,0,0,0,0,0,0
+1968,8009,You may wanna think about some AC down in...,fear,0,0,0,1,0,1,0,0
+1969,8011,- (TONY GASPS) - Ow.,surprise,0,0,0,0,0,0,1,0
+1970,8015,Let's go. I'll give you a hand.,anger,1,0,1,1,0,1,0,0
+1971,8016,No. Don't help me.,Neutral,0,0,0,0,0,0,0,0
+1972,8018,(PANTING),Neutral,0,0,0,0,0,0,0,0
+1973,8021,Ah.,Neutral,0,0,0,0,0,0,0,0
+1974,8027,(CHUCKLES),anticipation,0,1,0,0,1,0,1,1
+1975,8034,138.,Neutral,0,0,0,0,0,0,0,0
+1976,8036,138 combat missions.,anger,1,0,0,1,0,0,0,0
+1977,8039,"That's how many I've flown, Tony.",Neutral,0,0,0,0,0,0,0,0
+1978,8041,"Every one of them could've been my last, but I flew them.",Neutral,0,0,0,0,0,0,0,0
+1979,8046,Because the fight needed to be fought.,anger,2,0,0,2,0,0,0,0
+1980,8048,It's the same with these Accords.,trust,0,0,0,0,0,0,0,1
+1981,8050,I signed because it was the right thing to do.,Neutral,0,0,0,0,0,0,0,0
+1982,8055,"And yeah, this sucks. This is, uh...",Neutral,0,0,0,0,0,0,0,0
+1983,8059,This is a bad beat.,anger,1,0,1,1,0,1,0,0
+1984,8063,But it hasn't changed my mind.,fear,0,0,0,1,0,0,0,0
+1985,8066,I don't think.,Neutral,0,0,0,0,0,0,0,0
+1986,8076,(GRUNTS),Neutral,0,0,0,0,0,0,0,0
+1987,8078,"- You okay? - Oh, yeah.",Neutral,0,0,0,0,0,0,0,0
+1988,8079,(KNOCKING ON WINDOW),Neutral,0,0,0,0,0,0,0,0
+1989,8082,Are you Tony Stank?,disgust,0,0,1,0,0,0,0,0
+1990,8086,"Yes, this is Tony Stank. You're in the right place.",disgust,0,0,1,0,0,0,0,0
+1991,8090,Thank you for that!,Neutral,0,0,0,0,0,0,0,0
+1992,8092,"Never dropping that, by the way.",Neutral,0,0,0,0,0,0,0,0
+1993,8094,"""Table for one, Mr Stank.",disgust,0,0,1,0,0,0,0,0
+1994,8096,"- ""Please, by the bathroom."" - (LAUGHING)",joy,0,0,0,0,1,0,1,0
+1995,8104,STEVE: <i>Tony...</i>,Neutral,0,0,0,0,0,0,0,0
+1996,8106,<i>I'm glad you're back at the compound.</i>,anticipation,0,1,0,0,1,0,0,0
+1997,8108,<i>I don't like the idea of you rattling around a mansion by yourself.</i>,Neutral,0,0,0,0,0,0,0,0
+1998,8111,<i>We all need family.</i>,Neutral,0,0,0,0,0,0,0,0
+1999,8114,<i>The Avengers are yours. Maybe more so than mine.</i>,Neutral,0,0,0,0,0,0,0,0
+2000,8119,<i>I've been on my own since I was 18.</i>,Neutral,0,0,0,0,0,0,0,0
+2001,8122,"<i>I never really fit in anywhere,</i>",Neutral,0,0,0,0,0,0,0,0
+2002,8125,<i>even in the Army.</i>,Neutral,0,0,0,0,0,0,0,0
+2003,8128,"<i>My faith's in people, I guess.</i>",Neutral,0,0,0,0,0,0,0,0
+2004,8132,<i>Individuals.</i>,Neutral,0,0,0,0,0,0,0,0
+2005,8134,"<i>And I'm happy to say that, for the most part...</i>",anticipation,0,1,0,0,1,0,0,1
+2006,8137,<i>they haven't let me down.</i>,Neutral,0,0,0,0,0,0,0,0
+2007,8141,<i>Which is why I can't let them down either.</i>,Neutral,0,0,0,0,0,0,0,0
+2008,8147,"<i>Locks can be replaced, but maybe they shouldn't.</i>",Neutral,0,0,0,0,0,0,0,0
+2009,8152,"<i>I know I hurt you, Tony.</i>",anger,1,0,0,1,0,1,0,0
+2010,8155,<i>I guess I thought by not telling you about your parents...</i>,surprise,0,0,0,0,0,0,1,0
+2011,8158,<i>I was sparing you...</i>,Neutral,0,0,0,0,0,0,0,0
+2012,8160,<i>but I can see now that I was really sparing myself.</i>,Neutral,0,0,0,0,0,0,0,0
+2013,8163,<i>And I'm sorry.</i>,Neutral,0,0,0,0,0,0,0,0
+2014,8166,<i>Hopefully one day you can understand.</i>,Neutral,0,0,0,0,0,0,0,0
+2015,8169,<i>I wish we agreed on the Accords.</i>,Neutral,0,0,0,0,0,0,0,0
+2016,8170,<i>I really do.</i>,Neutral,0,0,0,0,0,0,0,0
+2017,8172,"<i>I know you're doing what you believe in,</i>",Neutral,0,0,0,0,0,0,0,0
+2018,8174,<i>and that's all any of us can do.</i>,Neutral,0,0,0,0,0,0,0,0
+2019,8175,<i>That's all any of us should.</i>,Neutral,0,0,0,0,0,0,0,0
+2020,8177,FRIDAY: <i>Priority call from Secretary Ross.</i>,Neutral,0,0,0,0,0,0,0,0
+2021,8179,<i>There's been a breach at the Raft prison.</i>,Neutral,0,0,0,0,0,0,0,0
+2022,8183,"Yeah, put him through.",Neutral,0,0,0,0,0,0,0,0
+2023,8185,"SECRETARY ROSS: <i>Tony, we have a problem.</i>",Neutral,0,0,0,0,0,0,0,0
+2024,8187,"- Uh, please hold. <i>- No, don't.</i>",Neutral,0,0,0,0,0,0,0,0
+2025,8192,STEVE: <i>So no matter what...</i>,Neutral,0,0,0,0,0,0,0,0
+2026,8194,<i>I promise you...</i>,joy,0,0,0,0,1,0,0,1
+2027,8196,<i>if you need us...</i>,Neutral,0,0,0,0,0,0,0,0
+2028,8198,<i>if you need me...</i>,Neutral,0,0,0,0,0,0,0,0
+2029,8204,<i>I'll be there.</i>,Neutral,0,0,0,0,0,0,0,0
+2030,8206,(DRAMATIC MUSIC PLAYING),joy,0,0,0,0,1,1,0,0
+2031,8325,You sure about this?,Neutral,0,0,0,0,0,0,0,0
+2032,8328,I can't trust my own mind.,trust,0,0,0,0,0,0,0,1
+2033,8333,"So, until they figure out how to get this stuff out of my head...",Neutral,0,0,0,0,0,0,0,0
+2034,8336,I think going back under is the best thing.,Neutral,0,0,0,0,0,0,0,0
+2035,8339,For everybody.,Neutral,0,0,0,0,0,0,0,0
+2036,8343,(MECHANICAL WHIRRING),Neutral,0,0,0,0,0,0,0,0
+2037,8349,(AIR HISSING),anger,1,0,0,1,0,0,0,0
+2038,8363,Thank you for this.,Neutral,0,0,0,0,0,0,0,0
+2039,8367,Your friend and my father...,trust,0,0,0,0,1,0,0,2
+2040,8370,they were both victims.,Neutral,0,0,0,0,0,0,0,0
+2041,8373,If I can help one of them find peace...,anticipation,0,1,0,0,1,0,0,1
+2042,8379,"You know, if they find out he's here...",Neutral,0,0,0,0,0,0,0,0
+2043,8382,they'll come for him.,Neutral,0,0,0,0,0,0,0,0
+2044,8386,Let them try.,Neutral,0,0,0,0,0,0,0,0
+2045,8393,(DRAMATIC MUSIC PLAYING),joy,0,0,0,0,1,1,0,0
+2046,8617,(ROCK MUSIC PLAYING),joy,0,0,0,0,1,1,0,0
+2047,8619,"<i>Hey, shady baby I'm hot like the prodigal son</i>",anger,1,0,0,1,1,0,0,0
+2048,8628,"<i>Pick a petal Eenie, meenie, miney, Moe</i>",Neutral,0,0,0,0,0,0,0,0
+2049,8630,<i>And flower You're the chosen one</i>,Neutral,0,0,0,0,0,0,0,0
+2050,8637,"<i>Well, your left hand's free And your right's in a grip</i>",sadness,0,0,0,0,0,1,1,0
+2051,8641,<i>With another left hand Watch his right hand slip</i>,anticipation,0,1,0,1,0,1,1,0
+2052,8646,<i>Towards his gun</i>,Neutral,0,0,0,0,0,0,0,0
+2053,8649,"<i>Oh, no</i>",Neutral,0,0,0,0,0,0,0,0
+2054,8661,"<i>I tackle, we tussle Oh, my days, we're rolling</i>",anger,2,0,0,0,0,0,1,0
+2055,8670,<i>My right hand's gripped on his Colt Single Action Army</i>,Neutral,0,0,0,0,0,0,0,0
+2056,8677,"<i>Oh, no</i>",Neutral,0,0,0,0,0,0,0,0
+2057,8679,"<i>Well, your left hand's free And your right's in a grip</i>",sadness,0,0,0,0,0,1,1,0
+2058,8684,<i>With another left hand Watch his right hand slip</i>,anticipation,0,1,0,1,0,1,1,0
+2059,8688,<i>Towards his gun</i>,Neutral,0,0,0,0,0,0,0,0
+2060,8691,"<i>Oh, no</i>",Neutral,0,0,0,0,0,0,0,0
+2061,8694,"<i>N-E-O, O-M-G Gee whiz</i>",Neutral,0,0,0,0,0,0,0,0
+2062,8696,"<i>Girl, you're the one for me</i>",Neutral,0,0,0,0,0,0,0,0
+2063,8703,<i>Though your man's bigger than I am</i>,Neutral,0,0,0,0,0,0,0,0
+2064,8705,"<i>Oh, my days He disagrees</i>",Neutral,0,0,0,0,0,0,0,0
+2065,8710,"<i>Oh, no</i>",Neutral,0,0,0,0,0,0,0,0
+2066,8712,<i>Speak easy</i>,Neutral,0,0,0,0,0,0,0,0
+2067,8731,"<i>Well, my left hand's free</i>",sadness,0,0,0,0,0,1,1,0
+2068,8733,<i>Oh</i>,Neutral,0,0,0,0,0,0,0,0
+2069,8735,"<i>Well, my left hand's free</i>",sadness,0,0,0,0,0,1,1,0
+2070,8738,<i>Oh</i>,Neutral,0,0,0,0,0,0,0,0
+2071,8740,"<i>Well, my left hand's free</i>",sadness,0,0,0,0,0,1,1,0
+2072,8742,<i>Oh</i>,Neutral,0,0,0,0,0,0,0,0
+2073,8743,"<i>Oh, no</i>",Neutral,0,0,0,0,0,0,0,0
+2074,8745,"<i>Hey, shady baby I'm hot like the prodigal son</i>",anger,1,0,0,1,1,0,0,0
+2075,8755,"<i>Pick a petal Eenie, meenie, miney, Moe</i>",Neutral,0,0,0,0,0,0,0,0
+2076,8757,<i>And flower You're the chosen one</i>,Neutral,0,0,0,0,0,0,0,0
+2077,8764,"<i>Well, your left hand's free</i>",sadness,0,0,0,0,0,1,1,0
+2078,8766,<i>Oh</i>,Neutral,0,0,0,0,0,0,0,0
+2079,8768,"<i>Well, my left hand's free</i>",sadness,0,0,0,0,0,1,1,0
+2080,8771,<i>Oh</i>,Neutral,0,0,0,0,0,0,0,0
+2081,8773,"<i>Well, my left hand's free</i>",sadness,0,0,0,0,0,1,1,0
+2082,8775,<i>Oh</i>,Neutral,0,0,0,0,0,0,0,0
+2083,8778,"<i>Well, my left hand's free</i>",sadness,0,0,0,0,0,1,1,0
+2084,8780,<i>Oh</i>,Neutral,0,0,0,0,0,0,0,0
+2085,8782,"<i>Well, my left hand's free</i>",sadness,0,0,0,0,0,1,1,0
+2086,8784,<i>Oh</i>,Neutral,0,0,0,0,0,0,0,0
+2087,8785,"<i>Oh, no</i>",Neutral,0,0,0,0,0,0,0,0
+2088,8790,MAY: Who was it? Who hit you?,anger,1,0,0,0,0,0,0,0
+2089,8792,PETER: Some guy.,Neutral,0,0,0,0,0,0,0,0
+2090,8793,"So itchy, man, God.",anticipation,0,1,0,1,1,0,0,1
+2091,8795,"MAY: What's ""some guy's"" name?",Neutral,0,0,0,0,0,0,0,0
+2092,8796,"Uh, Steve.",Neutral,0,0,0,0,0,0,0,0
+2093,8798,Steve? From 12-C?,Neutral,0,0,0,0,0,0,0,0
+2094,8800,"- With the overbite? - No, no, no.",Neutral,0,0,0,0,0,0,0,0
+2095,8802,You don't know him. He's from Brooklyn.,Neutral,0,0,0,0,0,0,0,0
+2096,8807,Ouch.,Neutral,0,0,0,0,0,0,0,0
+2097,8808,Well...,Neutral,0,0,0,0,0,0,0,0
+2098,8810,I hope you got a few good licks in.,anticipation,0,2,1,0,2,0,2,2
+2099,8812,"Yeah, I got quite a few in, actually.",Neutral,0,0,0,0,0,0,0,0
+2100,8815,His friend was huge. Like huge.,joy,0,0,0,0,1,0,0,1
+2101,8820,That's way better. Thank you.,Neutral,0,0,0,0,0,0,0,0
+2102,8823,"Okay, tough guy.",sadness,0,0,0,0,0,1,0,0
+2103,8827,"Love you, May. Hey, can you shut the door?",joy,0,0,0,0,1,0,0,0
+2104,8837,(CHUCKLES),anticipation,0,1,0,0,1,0,1,1

@@ -1,0 +1,1423 @@
+,secs_stamp,text,max_sentiment,anger,anticipation,disgust,fear,joy,sadness,surprise,trust
+0,135,Do you know what time it is?,anticipation,0,1,0,0,0,0,0,0
+1,137,Can't sleep.,Neutral,0,0,0,0,0,0,0,0
+2,138,There are tabs for that.,Neutral,0,0,0,0,0,0,0,0
+3,140,"Yeah, but then I'd be sleeping.",Neutral,0,0,0,0,0,0,0,0
+4,143,Dreams again?,Neutral,0,0,0,0,0,0,0,0
+5,149,Wanna fight?,fear,1,0,0,2,0,1,0,0
+6,154,I slipped.,surprise,0,0,0,0,0,0,1,0
+7,155,"Right, you slipped",surprise,0,0,0,0,0,0,1,0
+8,156,as a result of me punching you in the face.,anger,1,1,0,1,0,1,1,0
+9,158,I was already slipping,surprise,0,0,0,0,0,0,1,0
+10,159,when you happened to punch me in the face.,anger,1,1,0,1,0,1,1,0
+11,160,The two events were not related.,Neutral,0,0,0,0,0,0,0,0
+12,162,Tell me about this dream.,Neutral,0,0,0,0,0,0,0,0
+13,166,Anything new? - No.,Neutral,0,0,0,0,0,0,0,0
+14,173,You have to let go of the past.,Neutral,0,0,0,0,0,0,0,0
+15,174,I don't remember my past.,Neutral,0,0,0,0,0,0,0,0
+16,175,"It's causing you doubt,",fear,0,0,0,1,0,1,0,1
+17,177,and doubt makes you vulnerable.,fear,0,0,0,1,0,1,0,1
+18,187,Control it.,Neutral,0,0,0,0,0,0,0,0
+19,190,"Lose control again, and you'll have to commune",anger,1,0,1,1,0,1,1,0
+20,192,with the Supreme Intelligence.,fear,0,0,0,1,1,0,0,1
+21,193,There's nothing more dangerous to a warrior than emotion.,fear,1,0,0,2,0,0,0,0
+22,199,Humor is a distraction.,Neutral,0,0,0,0,0,0,0,0
+23,204,And anger?,anger,1,0,0,0,0,0,0,0
+24,206,Anger only serves the enemy.,anger,2,0,1,1,0,0,0,1
+25,218,<i>One hundred twenty days</i>,Neutral,0,0,0,0,0,0,0,0
+26,220,<i>since the last Skrull attack.</i>,Neutral,0,0,0,0,0,0,0,0
+27,222,<i>Has anyone ever seen</i>,Neutral,0,0,0,0,0,0,0,0
+28,224,what the Supreme Intelligence really looks like?,fear,0,0,0,1,1,0,0,1
+29,225,No one can look upon the Supreme Intelligence,fear,0,0,0,1,1,0,0,1
+30,228,in its true form.,Neutral,0,0,0,0,0,0,0,0
+31,230,You know that.,Neutral,0,0,0,0,0,0,0,0
+32,232,Our subconscious chooses the way they appear to us.,Neutral,0,0,0,0,0,0,0,0
+33,235,So it's sacred. It's personal.,trust,0,0,0,0,0,0,0,1
+34,239,"No Kree divulges it, ever.",Neutral,0,0,0,0,0,0,0,0
+35,241,Who do you see?,Neutral,0,0,0,0,0,0,0,0
+36,243,- Your brother? - No.,trust,0,0,0,0,0,0,0,1
+37,244,- Father?,trust,0,0,0,0,0,0,0,1
+38,245,- Your old commander? - Vers.,Neutral,0,0,0,0,0,0,0,0
+39,248,"It's me you see, isn't it?",Neutral,0,0,0,0,0,0,0,0
+40,250,I see what you're trying to do.,Neutral,0,0,0,0,0,0,0,0
+41,252,- Is it working'? - Yes.,Neutral,0,0,0,0,0,0,0,0
+42,253,But you won't succeed in changing the subject.,anticipation,0,2,0,1,1,0,1,1
+43,255,What is the point of giving me these...,Neutral,0,0,0,0,0,0,0,0
+44,258,if you don't want me to use them'?,Neutral,0,0,0,0,0,0,0,0
+45,260,I want you to use them.,Neutral,0,0,0,0,0,0,0,0
+46,261,The Supreme Intelligence gave me a responsibility...,fear,0,0,0,1,1,0,0,1
+47,263,of showing you how to use them.,trust,0,0,0,0,0,0,0,1
+48,265,I know how.,Neutral,0,0,0,0,0,0,0,0
+49,266,"Yeah, if that were true, you'd be able to",Neutral,0,0,0,0,0,0,0,0
+50,267,knock me down without them.,Neutral,0,0,0,0,0,0,0,0
+51,270,Control your impulses.,Neutral,0,0,0,0,0,0,0,0
+52,273,"Stop using this, start using this.",anticipation,0,1,0,0,0,0,0,0
+53,276,I want you to be the best version of yourself.,Neutral,0,0,0,0,0,0,0,0
+54,321,<i>Vers.</i>,Neutral,0,0,0,0,0,0,0,0
+55,324,Intelligence.,fear,0,0,0,1,1,0,0,1
+56,326,Your commander insists that you're fit to serve.,trust,0,0,0,0,0,0,0,1
+57,329,I am.,Neutral,0,0,0,0,0,0,0,0
+58,330,You struggle with your emotions...,anger,1,0,0,1,0,1,0,0
+59,334,"with your past, which fuels them.",Neutral,0,0,0,0,0,0,0,0
+60,338,You are just one victim of the Skrull expansion...,anger,1,0,0,1,0,1,0,0
+61,341,that has threatened our civilization for centuries.,anger,1,1,0,1,0,0,0,1
+62,344,Imposters who silently infiltrate...,Neutral,0,0,0,0,0,0,0,0
+63,347,then take over our planets.,Neutral,0,0,0,0,0,0,0,0
+64,351,Horrors that you remember...,fear,0,0,0,1,0,1,0,0
+65,353,and so much that you do not.,Neutral,0,0,0,0,0,0,0,0
+66,359,It's all blank. My life.,Neutral,0,0,0,0,0,0,0,0
+67,363,You're supposed to take the form,Neutral,0,0,0,0,0,0,0,0
+68,365,of who I most admire...,trust,0,0,0,0,0,0,0,1
+69,367,but I don't even remember who this person was to me.,Neutral,0,0,0,0,0,0,0,0
+70,371,Perhaps this is a mercy,Neutral,0,0,0,0,0,0,0,0
+71,373,sparing you from a deeper pain.,fear,0,0,0,1,0,1,0,0
+72,376,Freeing you to do what all Kree must...,Neutral,0,0,0,0,0,0,0,0
+73,380,put your people's needs before your own.,Neutral,0,0,0,0,0,0,0,0
+74,383,We've given you a great gift.,anticipation,0,1,0,0,1,0,1,0
+75,385,The chance to fight for the good of all Kree.,surprise,1,1,0,1,1,0,2,1
+76,389,<i>Wanna serve.</i>,Neutral,0,0,0,0,0,0,0,0
+77,390,Then master yourself.,Neutral,0,0,0,0,0,0,0,0
+78,392,What was given can be taken away.,Neutral,0,0,0,0,0,0,0,0
+79,399,I won't let you down.,anticipation,0,1,0,0,0,0,0,0
+80,401,We'll know soon enough.,Neutral,0,0,0,0,0,0,0,0
+81,403,You have a mission.,Neutral,0,0,0,0,0,0,0,0
+82,406,"Serve well, and with honor.",trust,0,0,0,0,0,0,0,2
+83,430,This can't be good.,anticipation,0,1,0,0,1,0,1,1
+84,431,Must be another Skrull attack.,anger,1,0,0,1,0,0,0,0
+85,433,"Whatever it is, it's big.",Neutral,0,0,0,0,0,0,0,0
+86,436,Has a Skrull ever simmed you?,Neutral,0,0,0,0,0,0,0,0
+87,437,Once.,Neutral,0,0,0,0,0,0,0,0
+88,438,- It was deeply disturbing. - Why?,Neutral,0,0,0,0,0,0,0,0
+89,441,Because I stared into the face of my mortal enemy...,anger,1,1,1,1,1,0,0,1
+90,443,and the face staring back was my own.,anticipation,0,1,0,0,1,0,0,1
+91,445,"Maybe if you were more attractive,",Neutral,0,0,0,0,0,0,0,0
+92,446,then it would be less disturbing.,Neutral,0,0,0,0,0,0,0,0
+93,448,"You think you're funny, but I'm not laughing.",joy,0,0,0,0,1,0,1,0
+94,450,You never laugh.,joy,0,0,0,0,1,0,1,0
+95,451,I laugh on the inside.,joy,0,0,0,0,1,0,1,0
+96,455,I'm not doing that now.,Neutral,0,0,0,0,0,0,0,0
+97,456,"It's funny 'cause, objectively speaking,",Neutral,0,0,0,0,0,0,0,0
+98,457,you're quite handsome.,Neutral,0,0,0,0,0,0,0,0
+99,458,"Well, thank you.",Neutral,0,0,0,0,0,0,0,0
+100,459,"Listen up, team. Knock it off.",trust,0,0,0,0,0,0,0,1
+101,462,All right.,Neutral,0,0,0,0,0,0,0,0
+102,464,Prepare for...,anticipation,0,1,0,0,0,0,0,0
+103,467,"a search and rescue of our spy, Soh-Larr.",anticipation,0,1,0,0,1,0,1,1
+104,470,The Skrulls have invaded yet another border planet.,anger,1,0,0,1,0,1,1,0
+105,473,"<i>This time, Torfa.</i>",anticipation,0,1,0,0,0,0,0,0
+106,475,Soh-Larr sent us a warning.,anticipation,0,1,0,1,0,0,1,1
+107,476,"The signal was intercepted, and his cover's blown.",trust,0,0,0,0,0,0,0,1
+108,481,"The Skrull general, Talos,",trust,0,0,0,0,0,0,0,1
+109,483,has sent kill units to find him.,fear,0,0,0,1,0,1,0,0
+110,485,Should they reach him before we do...,Neutral,0,0,0,0,0,0,0,0
+111,487,the intelligence he's acquired,fear,0,0,0,1,1,0,0,1
+112,488,over three years is as good as theirs.,anticipation,0,1,0,0,1,0,1,1
+113,491,The Accusers will bomb,anger,1,0,0,1,0,1,1,0
+114,492,a Skrull stronghold here in the south.,Neutral,0,0,0,0,0,0,0,0
+115,495,"We slip in, we locate Soh-Larr...",surprise,0,0,0,0,0,0,1,0
+116,498,"and we get out, leaving them none the wiser.",sadness,0,0,0,0,0,1,1,0
+117,501,The Tor-fan populace.,Neutral,0,0,0,0,0,0,0,0
+118,503,"We are not to interfere with them,",Neutral,0,0,0,0,0,0,0,0
+119,505,nor them with us.,Neutral,0,0,0,0,0,0,0,0
+120,506,Nothing compromises the security of our mission.,Neutral,0,0,0,0,0,0,0,0
+121,510,Proceed with caution.,anger,1,1,0,1,0,0,0,0
+122,512,Follow protocol before extracting him.,Neutral,0,0,0,0,0,0,0,0
+123,515,This is a dangerous mission.,fear,0,0,0,1,0,0,0,0
+124,517,We must all be ready to join the Collective,anticipation,0,1,0,0,0,0,0,0
+125,520,if that is our fate today.,anticipation,0,1,0,0,0,0,0,0
+126,522,For the good of all Kree.,anticipation,0,1,0,0,1,0,1,1
+127,523,For the good of all Kree!,anticipation,0,1,0,0,1,0,1,1
+128,594,"Vers, track Soh-Larr's beacon.",anticipation,0,1,0,0,0,0,0,0
+129,597,"Art-Lass, Minn-Erva, find elevation.",anticipation,0,1,0,1,1,0,0,1
+130,618,Locals on the periphery.,Neutral,0,0,0,0,0,0,0,0
+131,620,Maybe a dozen.,Neutral,0,0,0,0,0,0,0,0
+132,622,Minn-Erva?,Neutral,0,0,0,0,0,0,0,0
+133,625,Do you read me? Does anybody copy?,Neutral,0,0,0,0,0,0,0,0
+134,628,Repeat.,Neutral,0,0,0,0,0,0,0,0
+135,643,His bee-man's coming from that temple. Let's move.,Neutral,0,0,0,0,0,0,0,0
+136,646,No. This is a perfect spot for an ambush',anger,1,1,0,1,1,0,1,1
+137,648,"Only one way in, only one way out.",Neutral,0,0,0,0,0,0,0,0
+138,650,We can get past the locals.,Neutral,0,0,0,0,0,0,0,0
+139,651,We don't know if they are locals. Too risky.,anticipation,0,1,0,1,0,0,0,0
+140,654,You don't have to go with me. I'll go alone.,anger,1,0,1,1,0,1,0,0
+141,655,"No, you won't.",anticipation,0,1,0,0,0,0,0,0
+142,661,Right. We keep a close radius.,Neutral,0,0,0,0,0,0,0,0
+143,663,"We lose comms, we meet back at the Helion.",anger,1,0,1,1,0,1,1,0
+144,667,Come on.,Neutral,0,0,0,0,0,0,0,0
+145,680,"Art-Lass, you getting this?",Neutral,0,0,0,0,0,0,0,0
+146,681,Copy. I see them.,Neutral,0,0,0,0,0,0,0,0
+147,693,Get back!,Neutral,0,0,0,0,0,0,0,0
+148,695,Commander'?,Neutral,0,0,0,0,0,0,0,0
+149,703,Get back! Back!,Neutral,0,0,0,0,0,0,0,0
+150,706,Minn-Erva? Do you have eyes on this?,Neutral,0,0,0,0,0,0,0,0
+151,710,Keep them back. Minn-Erva?,Neutral,0,0,0,0,0,0,0,0
+152,712,Does anybody copy?,Neutral,0,0,0,0,0,0,0,0
+153,718,I don't wanna hurt you.,fear,1,0,0,2,0,2,0,0
+154,722,Keep back!,Neutral,0,0,0,0,0,0,0,0
+155,727,Stay back!,Neutral,0,0,0,0,0,0,0,0
+156,732,They're locals. I found two dead. No green.,joy,0,0,0,0,1,0,0,1
+157,735,They're just starving.,Neutral,0,0,0,0,0,0,0,0
+158,762,HGX-78.,Neutral,0,0,0,0,0,0,0,0
+159,763,<i>TRT79-WX6.</i>,Neutral,0,0,0,0,0,0,0,0
+160,769,Get back.,Neutral,0,0,0,0,0,0,0,0
+161,779,Skrulls!,Neutral,0,0,0,0,0,0,0,0
+162,798,VETS!,Neutral,0,0,0,0,0,0,0,0
+163,799,Vers? Skrulls.,Neutral,0,0,0,0,0,0,0,0
+164,801,<i>It's an ambush.</i>,Neutral,0,0,0,0,0,0,0,0
+165,822,Incoming!,Neutral,0,0,0,0,0,0,0,0
+166,828,<i>Back to me Helion.</i>,Neutral,0,0,0,0,0,0,0,0
+167,830,Vers. Do you copy?,Neutral,0,0,0,0,0,0,0,0
+168,832,<i>Back to the Helion.</i>,Neutral,0,0,0,0,0,0,0,0
+169,834,<i>Come in. Vers.</i>,Neutral,0,0,0,0,0,0,0,0
+170,835,How did you know the code?,Neutral,0,0,0,0,0,0,0,0
+171,838,How about I tell you my secret...,trust,0,0,0,0,0,0,0,1
+172,842,when you've told me yours?,Neutral,0,0,0,0,0,0,0,0
+173,848,<i>Let's open her up.</i>,Neutral,0,0,0,0,0,0,0,0
+174,861,Where are we?,Neutral,0,0,0,0,0,0,0,0
+175,863,Stand by.,Neutral,0,0,0,0,0,0,0,0
+176,867,Where's your head at?,Neutral,0,0,0,0,0,0,0,0
+177,869,In the clouds. Where's yours?,Neutral,0,0,0,0,0,0,0,0
+178,871,On my shoulders.,trust,0,0,0,0,0,0,0,1
+179,873,About to show these boys how we do it.,trust,0,0,0,0,0,0,0,1
+180,875,You ready?,anticipation,0,1,0,0,0,0,0,0
+181,876,"Higher, further, faster, baby.",joy,0,0,0,0,1,0,0,0
+182,877,That's right.,Neutral,0,0,0,0,0,0,0,0
+183,888,<i>This can't be right.</i>,Neutral,0,0,0,0,0,0,0,0
+184,891,<i>Go back even further.</i>,Neutral,0,0,0,0,0,0,0,0
+185,897,You're going too fast! You need to go slow!,Neutral,0,0,0,0,0,0,0,0
+186,913,<i>Who is this person? Are we in the right...?</i>,Neutral,0,0,0,0,0,0,0,0
+187,916,What the hell are you thinking?,anger,1,0,1,1,0,1,0,0
+188,917,You don't belong out here!,Neutral,0,0,0,0,0,0,0,0
+189,918,<i>I think we went back too far.</i>,Neutral,0,0,0,0,0,0,0,0
+190,920,You let him drive.,Neutral,0,0,0,0,0,0,0,0
+191,921,<i>Let me try something.</i>,Neutral,0,0,0,0,0,0,0,0
+192,925,Give up already!,Neutral,0,0,0,0,0,0,0,0
+193,926,You don't belong out here!,Neutral,0,0,0,0,0,0,0,0
+194,930,You're not strong enough.,Neutral,0,0,0,0,0,0,0,0
+195,933,You'll kill yourself.,fear,0,0,0,1,0,1,0,0
+196,940,They'll never let you fly.,Neutral,0,0,0,0,0,0,0,0
+197,941,<i>Am I the only one that's confused here?</i>,Neutral,0,0,0,0,0,0,0,0
+198,944,You're a decent pilot.,trust,0,0,0,0,0,0,0,1
+199,946,But you're too emotional.,Neutral,0,0,0,0,0,0,0,0
+200,947,"You do know why they call it a cockpit, don't you?",Neutral,0,0,0,0,0,0,0,0
+201,958,A huge rumble throughout the cosmos shook the moon...,Neutral,0,0,0,0,0,0,0,0
+202,961,and the sun and the stars in the sky.,anticipation,0,2,0,0,2,0,1,2
+203,964,"And so,",Neutral,0,0,0,0,0,0,0,0
+204,965,little Alouette flew up throughout the night.,Neutral,0,0,0,0,0,0,0,0
+205,968,Did you see her? It's Alouette.,Neutral,0,0,0,0,0,0,0,0
+206,971,"Get your butts inside, it's time to eat.",anticipation,0,1,0,0,0,0,0,0
+207,974,"Prepare for takeoff, Lieutenant Trouble.",anticipation,0,1,0,0,0,0,0,1
+208,976,<i>Charming memory.</i>,Neutral,0,0,0,0,0,0,0,0
+209,977,<i>Hang on.</i>,Neutral,0,0,0,0,0,0,0,0
+210,978,<i>1 think I've got it.</i>,Neutral,0,0,0,0,0,0,0,0
+211,984,Goose likes you.,Neutral,0,0,0,0,0,0,0,0
+212,986,She doesn't typically take to people.,Neutral,0,0,0,0,0,0,0,0
+213,988,Early start to your morning.,anticipation,0,1,0,0,0,0,0,0
+214,989,"Uh, late night, actually.",sadness,0,0,0,0,0,1,0,0
+215,990,I can't sleep when there's work to do.,Neutral,0,0,0,0,0,0,0,0
+216,992,Sound familiar'?,trust,0,0,0,0,0,0,0,1
+217,994,Flying your planes never feels like work.,anticipation,0,1,0,0,0,0,0,0
+218,997,"Wonderful view, isn't it'?",joy,0,0,0,0,1,0,1,1
+219,998,I prefer the view from up there.,trust,0,0,0,0,0,0,0,1
+220,1000,"You'll get there soon enough, Ace.",Neutral,0,0,0,0,0,0,0,0
+221,1002,"<i>Wait! Wait, wait! That's her. Get her back.</i>",anticipation,0,2,0,0,0,0,0,0
+222,1004,Stand by.,Neutral,0,0,0,0,0,0,0,0
+223,1009,Sound familiar'?,trust,0,0,0,0,0,0,0,1
+224,1011,"Wonderful view, isn't it?",joy,0,0,0,0,1,0,1,1
+225,1014,I prefer the view from up there.,trust,0,0,0,0,0,0,0,1
+226,1016,"You'll get there soon enough, Ace.",Neutral,0,0,0,0,0,0,0,0
+227,1017,<i>What's that on her shirt?</i>,Neutral,0,0,0,0,0,0,0,0
+228,1018,<i>I couldn't read it.</i>,Neutral,0,0,0,0,0,0,0,0
+229,1021,"Wonderful view, isn't it'?",joy,0,0,0,0,1,0,1,1
+230,1026,I prefer the view from up there.,trust,0,0,0,0,0,0,0,1
+231,1028,- Focus. - Excuse me?,Neutral,0,0,0,0,0,0,0,0
+232,1031,<i>Look down.</i>,Neutral,0,0,0,0,0,0,0,0
+233,1032,<i>Focus.</i>,Neutral,0,0,0,0,0,0,0,0
+234,1034,"<i>""Pegasus. Dr. Wendy Lawson."" That's her.</i>",Neutral,0,0,0,0,0,0,0,0
+235,1037,"Do you hear that, too?",Neutral,0,0,0,0,0,0,0,0
+236,1038,<i>Do we have her location?</i>,Neutral,0,0,0,0,0,0,0,0
+237,1042,<i>Got it.</i>,Neutral,0,0,0,0,0,0,0,0
+238,1043,<i>Now track Lawson until we find the energy signature.</i>,anticipation,0,1,0,0,0,0,0,0
+239,1050,<i>Interesting.</i>,Neutral,0,0,0,0,0,0,0,0
+240,1053,<i>Huh. Hold on.</i>,Neutral,0,0,0,0,0,0,0,0
+241,1056,<i>Go back right before this. Go back.</i>,Neutral,0,0,0,0,0,0,0,0
+242,1061,"That's no MiG, Lawson.",Neutral,0,0,0,0,0,0,0,0
+243,1062,<i>This is it. Now let me see where you're headed.</i>,Neutral,0,0,0,0,0,0,0,0
+244,1065,<i>That's right. Look at the coordinates.</i>,Neutral,0,0,0,0,0,0,0,0
+245,1068,<i>Focus.</i>,Neutral,0,0,0,0,0,0,0,0
+246,1071,"<i>Open, please.</i>",Neutral,0,0,0,0,0,0,0,0
+247,1073,<i>That's it. That's it.</i>,Neutral,0,0,0,0,0,0,0,0
+248,1074,<i>You're almost there.</i>,Neutral,0,0,0,0,0,0,0,0
+249,1076,<i>You're almost there. Don't fight it.</i>,anger,1,0,0,1,0,0,0,0
+250,1079,<i>Focus!</i>,Neutral,0,0,0,0,0,0,0,0
+251,1082,<i>Get her back! Get her back now!</i>,Neutral,0,0,0,0,0,0,0,0
+252,1088,This doesn't make any sense.,Neutral,0,0,0,0,0,0,0,0
+253,1105,Do we have any information we can act on?,Neutral,0,0,0,0,0,0,0,0
+254,1109,Just that Lawson was somewhere on planet 0-53.,Neutral,0,0,0,0,0,0,0,0
+255,1112,We're on our way.,Neutral,0,0,0,0,0,0,0,0
+256,1113,"Then dig, dig, dig deeper.",Neutral,0,0,0,0,0,0,0,0
+257,1116,Lawson is our link to that light-speed engine!,Neutral,0,0,0,0,0,0,0,0
+258,1120,And everything we're after.,Neutral,0,0,0,0,0,0,0,0
+259,1129,Oh!,Neutral,0,0,0,0,0,0,0,0
+260,1131,That did something.,Neutral,0,0,0,0,0,0,0,0
+261,1132,Try that again.,Neutral,0,0,0,0,0,0,0,0
+262,1145,Not yet!,Neutral,0,0,0,0,0,0,0,0
+263,1156,What did you do to me?,Neutral,0,0,0,0,0,0,0,0
+264,1158,Now we're just after a little information.,Neutral,0,0,0,0,0,0,0,0
+265,1160,What did you put in my head?,Neutral,0,0,0,0,0,0,0,0
+266,1162,Nothing that wasn't already there.,Neutral,0,0,0,0,0,0,0,0
+267,1165,But those aren't my memories.,Neutral,0,0,0,0,0,0,0,0
+268,1167,"Yeah, it's like a bad trip, isn't it?",anger,1,0,1,1,0,1,1,0
+269,1169,I'm not surprised you can't keep it straight.,fear,0,0,0,1,1,0,1,0
+270,1172,They really did a number on you.,Neutral,0,0,0,0,0,0,0,0
+271,1174,Enough of your mind games.,Neutral,0,0,0,0,0,0,0,0
+272,1175,What do you want?,Neutral,0,0,0,0,0,0,0,0
+273,1179,We're looking for the location of a Dr. Lawson...,Neutral,0,0,0,0,0,0,0,0
+274,1181,and her light-speed engine.,Neutral,0,0,0,0,0,0,0,0
+275,1183,I don't know any Dr. Lawson.,Neutral,0,0,0,0,0,0,0,0
+276,1185,Really? Then why is she in your head?,Neutral,0,0,0,0,0,0,0,0
+277,1219,You guys wouldn't happen to know,anticipation,0,1,0,0,0,0,0,0
+278,1221,"how these things come off, would ya?",Neutral,0,0,0,0,0,0,0,0
+279,1222,No?,Neutral,0,0,0,0,0,0,0,0
+280,1223,Fine.,Neutral,0,0,0,0,0,0,0,0
+281,1247,Hmm.,Neutral,0,0,0,0,0,0,0,0
+282,1316,Hey.,Neutral,0,0,0,0,0,0,0,0
+283,1323,You do know why they call it a...,Neutral,0,0,0,0,0,0,0,0
+284,1342,You leaving so soon?,sadness,0,0,0,0,0,1,1,0
+285,1344,We're just getting to know each other.,Neutral,0,0,0,0,0,0,0,0
+286,1429,"Vers to Starforce command, do you read me?",Neutral,0,0,0,0,0,0,0,0
+287,1435,Hello? Do you copy?,Neutral,0,0,0,0,0,0,0,0
+288,1467,Hi. I'm Vers. Kree Starforce.,Neutral,0,0,0,0,0,0,0,0
+289,1469,Is this C-53?,Neutral,0,0,0,0,0,0,0,0
+290,1472,Do you understand me? Ls my universal translator working?,Neutral,0,0,0,0,0,0,0,0
+291,1475,Yeah. I understand you.,Neutral,0,0,0,0,0,0,0,0
+292,1477,"Oh, good.",anticipation,0,1,0,0,1,0,1,1
+293,1479,Are you in charge of security for this district?,Neutral,0,0,0,0,0,0,0,0
+294,1482,"Sort of. Uh, the movie theater has its own guy.",Neutral,0,0,0,0,0,0,0,0
+295,1487,Where can I find communications equipment?,Neutral,0,0,0,0,0,0,0,0
+296,1496,Thank you.,Neutral,0,0,0,0,0,0,0,0
+297,1530,Track the pod. Find the girl.,anticipation,0,1,0,0,0,0,0,0
+298,1533,She knows more than she knows.,Neutral,0,0,0,0,0,0,0,0
+299,1538,Hey.,Neutral,0,0,0,0,0,0,0,0
+300,1540,This one's taken.,Neutral,0,0,0,0,0,0,0,0
+301,1552,Come on.,Neutral,0,0,0,0,0,0,0,0
+302,1554,Vers?,Neutral,0,0,0,0,0,0,0,0
+303,1555,<i>Vers?</i>,Neutral,0,0,0,0,0,0,0,0
+304,1557,Verify. CTC-39.,Neutral,0,0,0,0,0,0,0,0
+305,1559,<i>GRXV-1600.</i>,Neutral,0,0,0,0,0,0,0,0
+306,1560,"<i>And I'm fine, thank you for asking.</i>",Neutral,0,0,0,0,0,0,0,0
+307,1562,<i>Is everyone okay? What happened?</i>,Neutral,0,0,0,0,0,0,0,0
+308,1564,Skrull ambush.,anger,1,0,0,1,0,0,1,0
+309,1566,I thought we'd lost you.,anger,1,0,1,1,0,1,1,0
+310,1568,<i>Did you find Soh-Larr?</i>,Neutral,0,0,0,0,0,0,0,0
+311,1569,<i>It wasn't Soh-Larr.</i>,Neutral,0,0,0,0,0,0,0,0
+312,1570,<i>Talos simmed him. Even knew his code.</i>,Neutral,0,0,0,0,0,0,0,0
+313,1572,That's impossible.,sadness,0,0,0,0,0,1,0,0
+314,1575,That code was buried in his unconscious.,sadness,0,0,0,0,0,1,0,0
+315,1577,The Skrulls messed with my mind.,disgust,0,0,1,0,0,0,0,0
+316,1578,The machine that they used...,trust,0,0,0,0,0,0,0,1
+317,1579,I think it's how they extracted Soh-Larr's code.,Neutral,0,0,0,0,0,0,0,0
+318,1582,"Vers, where are you?",Neutral,0,0,0,0,0,0,0,0
+319,1583,I'm on planet C-53.,Neutral,0,0,0,0,0,0,0,0
+320,1585,The Skrulls are looking for someone named Lawson.,Neutral,0,0,0,0,0,0,0,0
+321,1588,<i>Who?</i>,Neutral,0,0,0,0,0,0,0,0
+322,1589,She's who I see.,Neutral,0,0,0,0,0,0,0,0
+323,1592,<i>She's what?</i>,Neutral,0,0,0,0,0,0,0,0
+324,1595,<i>Vers?</i>,Neutral,0,0,0,0,0,0,0,0
+325,1597,"<i>Vers, what?</i>",Neutral,0,0,0,0,0,0,0,0
+326,1600,She's a scientist.,anticipation,0,1,0,0,0,0,0,1
+327,1601,They think that she's cracked the code on light-speed tech.,Neutral,0,0,0,0,0,0,0,0
+328,1603,I have to get to her before they do...,Neutral,0,0,0,0,0,0,0,0
+329,1605,<i>or else they'll be able to invade new galaxies.</i>,anger,1,0,0,1,0,1,1,0
+330,1606,No. You've been caught once already.,surprise,0,0,0,0,0,0,1,0
+331,1609,How far is C-53?,Neutral,0,0,0,0,0,0,0,0
+332,1612,Closest jump point is 22 hours.,joy,0,0,0,0,1,0,0,0
+333,1614,"<i>Vers, hold your position until we get there.</i>",Neutral,0,0,0,0,0,0,0,0
+334,1616,<i>Keep your comms online so we can contact you.</i>,Neutral,0,0,0,0,0,0,0,0
+335,1618,No! What if they get a hold of it before...,Neutral,0,0,0,0,0,0,0,0
+336,1620,W979 sorry.,Neutral,0,0,0,0,0,0,0,0
+337,1621,<i>A long-distance company access code</i>,Neutral,0,0,0,0,0,0,0,0
+338,1623,<i>is required for me number you have dialed.</i>,Neutral,0,0,0,0,0,0,0,0
+339,1624,<i>- Yon-Rogg? - Vers?</i>,Neutral,0,0,0,0,0,0,0,0
+340,1627,<i>Vets'?</i>,Neutral,0,0,0,0,0,0,0,0
+341,1628,<i>Please dial your can with the access code.</i>,Neutral,0,0,0,0,0,0,0,0
+342,1629,<i>Vers?</i>,Neutral,0,0,0,0,0,0,0,0
+343,1631,"If the Skrulls got to her, she's compromised.",Neutral,0,0,0,0,0,0,0,0
+344,1634,She's stronger than you think.,Neutral,0,0,0,0,0,0,0,0
+345,1637,Ever been to C-53?,Neutral,0,0,0,0,0,0,0,0
+346,1640,Once.,Neutral,0,0,0,0,0,0,0,0
+347,1642,It's a real shithole.,trust,0,0,0,0,0,0,0,1
+348,1654,"Hey, rookie! Go talk to the rent-a-cop.",Neutral,0,0,0,0,0,0,0,0
+349,1664,Did you call this in?,Neutral,0,0,0,0,0,0,0,0
+350,1680,Beacon activated.,Neutral,0,0,0,0,0,0,0,0
+351,1685,"Excuse me, miss.",Neutral,0,0,0,0,0,0,0,0
+352,1686,You know anything about a lady blowing a hole...,Neutral,0,0,0,0,0,0,0,0
+353,1689,through the roof of that Blockbuster over there?,Neutral,0,0,0,0,0,0,0,0
+354,1692,Witness says she was dressed for laser tag.,trust,0,0,0,0,0,0,0,2
+355,1696,Oh.,Neutral,0,0,0,0,0,0,0,0
+356,1698,"Yeah, I think she went that way.",Neutral,0,0,0,0,0,0,0,0
+357,1700,"Uh, I'd like to ask you some questions.",Neutral,0,0,0,0,0,0,0,0
+358,1704,Maybe give you the 411 on the late-night drop box.,Neutral,0,0,0,0,0,0,0,0
+359,1708,"Could I see some identification, please?",Neutral,0,0,0,0,0,0,0,0
+360,1710,<i>Vers. Kree Starforce.</i>,Neutral,0,0,0,0,0,0,0,0
+361,1712,We don't carry our identification,Neutral,0,0,0,0,0,0,0,0
+362,1713,on little cards.,Neutral,0,0,0,0,0,0,0,0
+363,1714,<i>Vers?</i>,Neutral,0,0,0,0,0,0,0,0
+364,1716,<i>Starforce?</i>,Neutral,0,0,0,0,0,0,0,0
+365,1719,How long you plan to be in town?,anticipation,0,2,0,0,0,0,0,0
+366,1721,"Oh, I'll be out of your hair...",anger,1,0,1,1,0,1,0,0
+367,1722,as soon as I track down the Skrulls,anticipation,0,1,0,0,0,0,0,0
+368,1723,that are infiltrating your planet.,Neutral,0,0,0,0,0,0,0,0
+369,1726,Skrulls?,Neutral,0,0,0,0,0,0,0,0
+370,1728,Shapeshifters?,Neutral,0,0,0,0,0,0,0,0
+371,1729,They can transform into any life-form down to the DNA.,Neutral,0,0,0,0,0,0,0,0
+372,1733,"Oh, boy. You guys don't have any clue, do you'?",anticipation,0,1,1,0,0,0,0,0
+373,1735,"Whoa, whoa, whoa. Hold on.",Neutral,0,0,0,0,0,0,0,0
+374,1738,How do we know you're not one of those shapeshifters?,Neutral,0,0,0,0,0,0,0,0
+375,1744,"Congratulations, Agent Fury.",anger,1,0,0,1,0,1,0,0
+376,1746,You have finally asked a relevant question.,trust,0,1,1,0,1,0,1,2
+377,1748,"No! Congratulations to you, Star-force lady.",Neutral,0,0,0,0,0,0,0,0
+378,1751,You're under arrest.,Neutral,0,0,0,0,0,0,0,0
+379,1761,Rook!,anger,1,0,1,0,0,0,0,0
+380,1763,"Rook, let's roll!",anger,1,0,1,0,0,0,0,0
+381,1774,Did you see her weapon?,Neutral,0,0,0,0,0,0,0,0
+382,1775,I did not.,Neutral,0,0,0,0,0,0,0,0
+383,1786,Watch ii!,anticipation,0,1,0,1,0,0,0,0
+384,1820,Suspect on northbound train. In pursuit.,fear,0,0,0,1,0,0,0,0
+385,1844,"""Trust me, true believer."" ""Trust me.""",trust,0,0,0,0,0,0,0,3
+386,1851,"""Trust me, true believer.""",trust,0,0,0,0,0,0,0,2
+387,1900,Get off!,Neutral,0,0,0,0,0,0,0,0
+388,1956,Train's heading for a tunnel up ahead.,Neutral,0,0,0,0,0,0,0,0
+389,1961,Let's greet them at the station.,Neutral,0,0,0,0,0,0,0,0
+390,1975,"Mr. Fury, this is Agent Coulson.",anger,1,0,0,1,0,1,0,0
+391,1978,"Uh, I'm still here at the Blockbuster.",Neutral,0,0,0,0,0,0,0,0
+392,1982,"And, uh, where'd everybody go?",Neutral,0,0,0,0,0,0,0,0
+393,1983,<i>I finished collecting evidence...</i>,Neutral,0,0,0,0,0,0,0,0
+394,2074,We need an ambulance!,fear,0,0,0,1,0,0,0,1
+395,2075,Someone call 911!,Neutral,0,0,0,0,0,0,0,0
+396,2077,Hey! You all right?,Neutral,0,0,0,0,0,0,0,0
+397,2078,"Oh, my gosh! Is everyone okay?",Neutral,0,0,0,0,0,0,0,0
+398,2080,Anyone else see that?,Neutral,0,0,0,0,0,0,0,0
+399,2081,Official S.H.I.E.L.D. activity. Stay back.,trust,0,0,0,0,0,0,0,1
+400,2133,Nice scuba suit.,Neutral,0,0,0,0,0,0,0,0
+401,2140,"Lighten up, honey, huh?",Neutral,0,0,0,0,0,0,0,0
+402,2142,Got a smile for me?,joy,0,0,0,0,1,0,1,1
+403,2148,Freak.,Neutral,0,0,0,0,0,0,0,0
+404,2169,All life on Earth is carbon-based. Not this guy.,Neutral,0,0,0,0,0,0,0,0
+405,2173,"Whatever he runs on,",Neutral,0,0,0,0,0,0,0,0
+406,2175,it's not on the periodic table.,Neutral,0,0,0,0,0,0,0,0
+407,2177,You're saying he's not from around here?,Neutral,0,0,0,0,0,0,0,0
+408,2180,"Hey, how's your eye?",Neutral,0,0,0,0,0,0,0,0
+409,2182,"Well, I'd say fine...",Neutral,0,0,0,0,0,0,0,0
+410,2185,but it can't believe what it's seeing.,Neutral,0,0,0,0,0,0,0,0
+411,2190,You say this thing looked like Coulson?,Neutral,0,0,0,0,0,0,0,0
+412,2195,"Mmm. Talked like him, too.",Neutral,0,0,0,0,0,0,0,0
+413,2197,And the woman said that there were more?,Neutral,0,0,0,0,0,0,0,0
+414,2200,"The word she used was ""infiltration.""",trust,0,0,0,0,0,0,0,1
+415,2202,You believe her?,Neutral,0,0,0,0,0,0,0,0
+416,2203,Not till I saw this.,Neutral,0,0,0,0,0,0,0,0
+417,2205,What's your plan?,anticipation,0,1,0,0,0,0,0,0
+418,2208,I'll find Blockbuster girl.,anger,1,0,1,1,0,1,0,0
+419,2210,I got word on a motorcycle thief,anger,1,0,1,1,0,1,1,1
+420,2213,that fits her description.,Neutral,0,0,0,0,0,0,0,0
+421,2215,If she can tell us why these lizards are here...,Neutral,0,0,0,0,0,0,0,0
+422,2217,maybe she can tell us how to kick 'em to the curb.,anger,1,0,0,0,0,0,0,0
+423,2220,Good.,anticipation,0,1,0,0,1,0,1,1
+424,2222,"Do it alone, though. We can't trust anyone.",trust,0,0,0,0,0,0,0,1
+425,2226,Not even our own men.,Neutral,0,0,0,0,0,0,0,0
+426,2228,"YES, sir.",trust,0,0,0,0,0,0,0,1
+427,2244,"Wow. They're ugly bastards, aren't they?",disgust,0,0,1,0,0,0,0,0
+428,2247,"Yeah, well, he's no Brad Pitt, sir.",trust,0,0,0,0,0,0,0,1
+429,2255,"Safe journey to the beyond, my friend.",joy,0,1,0,1,3,0,0,2
+430,2260,I will finish what we started.,anticipation,0,1,0,0,0,0,0,0
+431,2271,"I wouldn't get too close there, boss.",Neutral,0,0,0,0,0,0,0,0
+432,2275,No one in or out.,Neutral,0,0,0,0,0,0,0,0
+433,2312,Boom!,Neutral,0,0,0,0,0,0,0,0
+434,2339,What can I get ya?,Neutral,0,0,0,0,0,0,0,0
+435,2340,Where was this photograph taken?,Neutral,0,0,0,0,0,0,0,0
+436,2343,An airport.,anticipation,0,1,0,0,0,0,0,0
+437,2344,Where's Pegasus?,Neutral,0,0,0,0,0,0,0,0
+438,2346,That's classified.,Neutral,0,0,0,0,0,0,0,0
+439,2348,Not unlike the file I started on you.,anticipation,0,1,0,0,0,0,0,0
+440,2353,But I see you've changed it up a bit since then.,fear,0,0,0,1,0,0,0,0
+441,2355,Grunge is a good look for you.,anticipation,0,1,0,0,1,0,1,1
+442,2357,"Did you have a rough day, Agent Fury?",anger,1,0,0,1,0,1,0,0
+443,2359,"It was cool, you know?",Neutral,0,0,0,0,0,0,0,0
+444,2360,"Had a space invasion, big car chase.",anger,1,0,0,0,0,0,0,0
+445,2363,Got to watch an alien autopsy.,fear,0,1,2,3,0,1,0,0
+446,2367,Typical nine-to-five.,Neutral,0,0,0,0,0,0,0,0
+447,2369,So you saw one?,Neutral,0,0,0,0,0,0,0,0
+448,2370,I was never one to believe in aliens...,disgust,0,0,1,1,0,0,0,0
+449,2374,but I can't unsee that.,Neutral,0,0,0,0,0,0,0,0
+450,2376,"This is gonna get a little awkward, but I got to ask.",Neutral,0,0,0,0,0,0,0,0
+451,2379,You think I'm one of those green things.,joy,0,0,0,0,1,0,0,1
+452,2381,Can't be too careful.,Neutral,0,0,0,0,0,0,0,0
+453,2383,You are looking at 100% red-blooded Earth man.,Neutral,0,0,0,0,0,0,0,0
+454,2388,I'm afraid I'm gonna need proof.,fear,0,0,0,1,0,0,0,1
+455,2389,We talking cheek swab or urine sample?,Neutral,0,0,0,0,0,0,0,0
+456,2391,No. The DNA would match.,Neutral,0,0,0,0,0,0,0,0
+457,2393,Want my AOL password?,Neutral,0,0,0,0,0,0,0,0
+458,2394,Skrulls can only sim recent memories,Neutral,0,0,0,0,0,0,0,0
+459,2396,"- of their host bodies. - Oh, oh.",Neutral,0,0,0,0,0,0,0,0
+460,2400,You wanna get personal.,fear,0,0,0,1,0,1,0,1
+461,2402,"- Where were you born? - Huntsville, Alabama.",anger,1,0,0,1,0,0,0,0
+462,2403,"But technically, I don't remember that part.",Neutral,0,0,0,0,0,0,0,0
+463,2405,- Name of your first pet? - Mr. Snoofers.,Neutral,0,0,0,0,0,0,0,0
+464,2407,- Mr. Snoofers? - That's what I said.,Neutral,0,0,0,0,0,0,0,0
+465,2408,Do I pass?,Neutral,0,0,0,0,0,0,0,0
+466,2409,Not yet. First job?,Neutral,0,0,0,0,0,0,0,0
+467,2410,Soldier. Straight out of high school.,anger,1,0,0,0,0,1,0,1
+468,2412,Left the ranks a full bird colonel.,sadness,0,0,0,0,0,1,1,1
+469,2414,- Then? - Spy.,Neutral,0,0,0,0,0,0,0,0
+470,2415,- Where? - It was the Cold War.,fear,0,0,0,1,0,0,0,0
+471,2416,We were everywhere.,Neutral,0,0,0,0,0,0,0,0
+472,2417,"Uh, Belfast. Bucharest. Belgrade. Budapest.",Neutral,0,0,0,0,0,0,0,0
+473,2420,I like the B's. I can make them rhyme.,Neutral,0,0,0,0,0,0,0,0
+474,2422,- Now? - Been riding a desk,Neutral,0,0,0,0,0,0,0,0
+475,2423,for the past six years...,Neutral,0,0,0,0,0,0,0,0
+476,2424,trying to figure out where our,Neutral,0,0,0,0,0,0,0,0
+477,2425,future enemies are coming from.,Neutral,0,0,0,0,0,0,0,0
+478,2426,Never occurred to me,Neutral,0,0,0,0,0,0,0,0
+479,2428,they would be coming from above.,Neutral,0,0,0,0,0,0,0,0
+480,2430,Name a detail so bizarre,surprise,0,0,0,0,0,0,1,0
+481,2431,a Skrull could never fabricate it.,Neutral,0,0,0,0,0,0,0,0
+482,2435,"If toast is cut diagonally, I can't eat it.",joy,0,0,0,0,1,0,0,0
+483,2441,"You didn't need that, did you?",Neutral,0,0,0,0,0,0,0,0
+484,2442,"No. No, I didn't. But I enjoyed it.",anticipation,0,1,0,0,1,0,0,1
+485,2445,Okay. Your turn.,Neutral,0,0,0,0,0,0,0,0
+486,2446,Prove you're not a Skrull.,Neutral,0,0,0,0,0,0,0,0
+487,2457,And how is that supposed to prove to me,Neutral,0,0,0,0,0,0,0,0
+488,2459,you're not a Skrull?,Neutral,0,0,0,0,0,0,0,0
+489,2461,That's a photon blast.,anger,1,0,0,1,0,0,1,0
+490,2462,And?,Neutral,0,0,0,0,0,0,0,0
+491,2463,A Skrull can't do that.,Neutral,0,0,0,0,0,0,0,0
+492,2466,"So, a full bird colonel",trust,0,0,0,0,0,0,0,1
+493,2467,turned spy turned S.H.I.E.L.D. agent...,Neutral,0,0,0,0,0,0,0,0
+494,2468,must have pretty high security clearance.,trust,0,1,0,0,1,0,0,2
+495,2471,Where's Pegasus?,Neutral,0,0,0,0,0,0,0,0
+496,2478,Okay. The Skrulls sim alien races,disgust,0,0,1,1,0,0,0,0
+497,2481,to infiltrate and take over planets.,Neutral,0,0,0,0,0,0,0,0
+498,2483,And you're a Kree? A race of noble warriors?,trust,0,0,0,0,0,0,0,1
+499,2487,Heroes. Noble warrior heroes.,anger,1,0,0,1,0,0,0,1
+500,2490,"So, um, what do Skrulls want with Dr. Lawson?",Neutral,0,0,0,0,0,0,0,0
+501,2495,They believe that she developed,anticipation,0,1,0,0,0,0,0,0
+502,2497,a light-speed engine at Pegasus.,Neutral,0,0,0,0,0,0,0,0
+503,2499,Light-speed engine?,Neutral,0,0,0,0,0,0,0,0
+504,2501,"Gotta admit, that's not",Neutral,0,0,0,0,0,0,0,0
+505,2503,the craziest thing I've heard today.,Neutral,0,0,0,0,0,0,0,0
+506,2504,"Well, it's still early.",Neutral,0,0,0,0,0,0,0,0
+507,2506,"And you, what do you want?",Neutral,0,0,0,0,0,0,0,0
+508,2508,To stop the Skrulls before they become unstoppable.,Neutral,0,0,0,0,0,0,0,0
+509,2510,And?,Neutral,0,0,0,0,0,0,0,0
+510,2515,"Look, war is a universal language.",fear,0,0,0,1,0,0,0,0
+511,2519,I know a rogue soldier when I see one.,anger,1,0,1,0,0,1,0,0
+512,2522,You got a personal stake in this.,trust,0,0,0,0,0,0,0,1
+513,2534,This <i>is</i> government property.,fear,0,0,0,1,0,0,0,0
+514,2536,<i>Turn your vehicle around.</i>,Neutral,0,0,0,0,0,0,0,0
+515,2538,Nicholas Joseph Fury. Agent of S.H.I.E.L.D.,anger,1,0,0,1,0,1,0,0
+516,2541,<i>Place your thumb on the pad.</i>,Neutral,0,0,0,0,0,0,0,0
+517,2544,<i>One moment.</i>,Neutral,0,0,0,0,0,0,0,0
+518,2546,Nicholas Joseph Fury. You have three names?,anger,1,0,0,1,0,1,0,0
+519,2550,Everybody calls me Fury.,anger,1,0,0,1,0,1,0,0
+520,2552,Not Nicholas. Not Joseph. Not Nick. Just Fury.,anger,1,0,0,1,0,1,0,0
+521,2556,- What does your mom call you? - Fury.,anger,1,0,0,1,0,1,0,0
+522,2558,- What do you call her'? - Fury.,anger,1,0,0,1,0,1,0,0
+523,2559,What about your kids?,Neutral,0,0,0,0,0,0,0,0
+524,2561,"If I have them, they'll call me Fury.",anger,1,0,0,1,0,1,0,0
+525,2562,<i>You are cleared for access.</i>,Neutral,0,0,0,0,0,0,0,0
+526,2564,Thank you.,Neutral,0,0,0,0,0,0,0,0
+527,2595,"Oh, hold up.",Neutral,0,0,0,0,0,0,0,0
+528,2597,You look like somebody's disaffected niece.,Neutral,0,0,0,0,0,0,0,0
+529,2601,Put that on.,Neutral,0,0,0,0,0,0,0,0
+530,2604,- What is it? - It's the S.H.I.E.L.D. logo.,Neutral,0,0,0,0,0,0,0,0
+531,2606,"Does, uh, announcing your identity on clothing",Neutral,0,0,0,0,0,0,0,0
+532,2609,help with the covert pan of your job?,Neutral,0,0,0,0,0,0,0,0
+533,2610,Said the space soldier who was wearing a rubber suit.,anger,1,0,0,0,0,1,0,1
+534,2614,Lose the flannel.,anger,1,0,1,1,0,1,1,0
+535,2626,How can I help you?,Neutral,0,0,0,0,0,0,0,0
+536,2628,We're agents of S.H.I.E.L.D.,Neutral,0,0,0,0,0,0,0,0
+537,2632,We're looking for a woman named Lawson.,Neutral,0,0,0,0,0,0,0,0
+538,2634,A Dr. Wendy Lawson.,Neutral,0,0,0,0,0,0,0,0
+539,2638,Do you know her?,Neutral,0,0,0,0,0,0,0,0
+540,2644,Follow me.,Neutral,0,0,0,0,0,0,0,0
+541,2646,<i>Hmm.</i>,Neutral,0,0,0,0,0,0,0,0
+542,2650,"You familiar with the phrase ""welcome wagon""?",trust,0,0,0,0,0,0,0,1
+543,2654,No.,Neutral,0,0,0,0,0,0,0,0
+544,2656,"Well, this ain't it.",Neutral,0,0,0,0,0,0,0,0
+545,2666,Is that a communicator?,Neutral,0,0,0,0,0,0,0,0
+546,2667,Yeah. State-of-the-an two-way pager.,Neutral,0,0,0,0,0,0,0,0
+547,2671,Who are you paging?,Neutral,0,0,0,0,0,0,0,0
+548,2672,My mom. Don't worry. I didn't mention you.,anticipation,0,1,0,1,0,1,0,0
+549,2714,After you.,Neutral,0,0,0,0,0,0,0,0
+550,2715,Impressive.,Neutral,0,0,0,0,0,0,0,0
+551,2717,"Oh, you should see what I can do with a paperclip.",Neutral,0,0,0,0,0,0,0,0
+552,2730,"Hey, there. How are you?",Neutral,0,0,0,0,0,0,0,0
+553,2735,"Oh, my goodness. Look at you. Just look at you.",anticipation,0,1,0,0,1,0,1,1
+554,2738,Aren't you the cutest little thing?,Neutral,0,0,0,0,0,0,0,0
+555,2740,"Aren't you cute? And what's your name, huh?",Neutral,0,0,0,0,0,0,0,0
+556,2742,What's your name?,Neutral,0,0,0,0,0,0,0,0
+557,2744,"""Goose."" Cool name for a cool cat.",Neutral,0,0,0,0,0,0,0,0
+558,2746,Fury?,anger,1,0,0,1,0,1,0,0
+559,2748,Hmm?,Neutral,0,0,0,0,0,0,0,0
+560,2751,I'll be back.,anger,1,0,1,1,0,1,0,0
+561,2756,Oh! Let me get my fingerprint out.,Neutral,0,0,0,0,0,0,0,0
+562,2758,Just let me unravel this puppy.,anticipation,0,1,0,0,0,0,0,1
+563,2764,You sat there and watched me play with tape?,anticipation,0,1,0,1,0,0,0,0
+564,2766,When all you had to do was...,Neutral,0,0,0,0,0,0,0,0
+565,2767,I didn't wanna steal your thunder.,fear,1,0,0,2,0,2,0,0
+566,2786,Huh. Lawson.,Neutral,0,0,0,0,0,0,0,0
+567,2798,Lawson's plan for the light-speed engine.,anticipation,0,1,0,0,0,0,0,0
+568,2802,I wonder why they terminated the project.,sadness,0,0,0,0,0,1,0,0
+569,2805,"Um, maybe because she's cuckoo.",Neutral,0,0,0,0,0,0,0,0
+570,2812,Kree glyphs?,Neutral,0,0,0,0,0,0,0,0
+571,2813,Hmm?,Neutral,0,0,0,0,0,0,0,0
+572,2816,Lawson is not cuckoo.,Neutral,0,0,0,0,0,0,0,0
+573,2820,She's Kree.,Neutral,0,0,0,0,0,0,0,0
+574,2821,"Well, she's dead.",Neutral,0,0,0,0,0,0,0,0
+575,2824,What?,Neutral,0,0,0,0,0,0,0,0
+576,2826,<i>She crashed the Asis aircraft</i>,fear,0,0,0,1,0,1,1,0
+577,2827,doing an unauthorized test flight.,Neutral,0,0,0,0,0,0,0,0
+578,2829,Took a pilot down with her.,trust,0,0,0,0,0,0,0,1
+579,2832,That's why security here is so unfriendly.,anger,1,0,1,1,0,1,0,0
+580,2834,They're covering up a billion-dollar mistake.,sadness,0,0,0,0,0,1,0,1
+581,2839,"Oh, and your light-speed engine is toast.",joy,0,0,0,0,1,0,0,0
+582,2845,When did this crash happen?,anticipation,0,1,0,1,0,1,1,0
+583,2847,Six years ago. 1989.,Neutral,0,0,0,0,0,0,0,0
+584,2851,Who was the pilot?,trust,0,0,0,0,0,0,0,1
+585,2854,"Um, most of this thing's redacted...",Neutral,0,0,0,0,0,0,0,0
+586,2857,but there is a testimonial here from a Maria Rambeau.,Neutral,0,0,0,0,0,0,0,0
+587,2861,Last person to see them alive.,anticipation,0,1,0,0,1,0,0,1
+588,2869,You okay?,Neutral,0,0,0,0,0,0,0,0
+589,2872,Mm-hmm.,Neutral,0,0,0,0,0,0,0,0
+590,2874,Back in a minute.,Neutral,0,0,0,0,0,0,0,0
+591,2906,This isn't about fighting wars.,fear,1,0,0,2,0,0,0,0
+592,2908,It's about ending them.,Neutral,0,0,0,0,0,0,0,0
+593,2916,<i>I know Lawson was Kree.</i>,Neutral,0,0,0,0,0,0,0,0
+594,2917,She was here on C-53 and died in a plane crash.,fear,0,0,0,2,0,2,1,0
+595,2920,<i>Do you know anything about this?</i>,Neutral,0,0,0,0,0,0,0,0
+596,2923,I just discovered a mission report,Neutral,0,0,0,0,0,0,0,0
+597,2925,sent from C-53.,Neutral,0,0,0,0,0,0,0,0
+598,2927,There's only so much,Neutral,0,0,0,0,0,0,0,0
+599,2928,"I'm cleared to tell you, Vers, but...",Neutral,0,0,0,0,0,0,0,0
+600,2934,<i>Lawson was an undercover Kree operative named Mar-Vell.</i>,Neutral,0,0,0,0,0,0,0,0
+601,2938,She was working on a unique energy core.,surprise,0,0,0,0,0,0,1,0
+602,2942,Experimenting with tech,anticipation,0,1,0,0,0,0,1,0
+603,2944,that apparently could help us win the war.,fear,0,0,0,1,0,0,0,0
+604,2953,She still here?,Neutral,0,0,0,0,0,0,0,0
+605,2955,She's cooperating with the investigation' sir.,anticipation,0,1,0,0,0,0,0,1
+606,2957,"- You men stay here. - Yes, sir.",trust,0,0,0,0,0,0,0,1
+607,2959,I want to question her alone.,Neutral,0,0,0,0,0,0,0,0
+608,2963,"Excellent work, Nicholas.",joy,0,0,0,0,1,0,0,1
+609,2969,Does it say anything about me?,Neutral,0,0,0,0,0,0,0,0
+610,2971,"Anything about you? No, of course not.",Neutral,0,0,0,0,0,0,0,0
+611,2973,<i>Why would it'!?</i>,Neutral,0,0,0,0,0,0,0,0
+612,2974,I found evidence that I had a life here.,Neutral,0,0,0,0,0,0,0,0
+613,2977,<i>On C-53?</i>,Neutral,0,0,0,0,0,0,0,0
+614,2981,Mar-Veil is who I see,Neutral,0,0,0,0,0,0,0,0
+615,2983,when I visit the Supreme Intelligence.,fear,0,0,0,1,1,0,0,1
+616,2984,I knew her. And I knew her as Lawson.,Neutral,0,0,0,0,0,0,0,0
+617,2988,"This sounds like Skrull simulation, Vers.",Neutral,0,0,0,0,0,0,0,0
+618,2990,No' it's not. Because I remember. I was here.,Neutral,0,0,0,0,0,0,0,0
+619,2992,<i>Stop. Remember your training.</i>,Neutral,0,0,0,0,0,0,0,0
+620,2994,Know your enemy. It would be you.,anger,1,0,1,1,0,0,0,0
+621,2996,<i>Do not let your emotions override your judgment.</i>,Neutral,0,0,0,0,0,0,0,0
+622,3001,She's on sublevel six.,Neutral,0,0,0,0,0,0,0,0
+623,3003,I'll get off on five...,anger,1,0,1,1,0,1,0,0
+624,3004,and take the stairs in case she makes a run for it.,fear,0,0,0,1,0,1,0,0
+625,3008,Do a pincer move like we did in Havana.,Neutral,0,0,0,0,0,0,0,0
+626,3011,Right. Like we did in Havana.,Neutral,0,0,0,0,0,0,0,0
+627,3025,"<i>We're nearing the jump point,.</i>",joy,0,0,0,0,1,0,0,0
+628,3026,<i>Leave your beacon on so I can find you.</i>,Neutral,0,0,0,0,0,0,0,0
+629,3028,"We'll get to the bottom of this, Vers.",sadness,0,0,0,0,0,1,0,0
+630,3031,Together.,Neutral,0,0,0,0,0,0,0,0
+631,3035,<i>Okay.</i>,Neutral,0,0,0,0,0,0,0,0
+632,3054,VERS!,Neutral,0,0,0,0,0,0,0,0
+633,3057,VERS!,Neutral,0,0,0,0,0,0,0,0
+634,3075,Fury's colluding with the target.,Neutral,0,0,0,0,0,0,0,0
+635,3077,Then why would he call us in?,Neutral,0,0,0,0,0,0,0,0
+636,3078,"All I know is we take him in, too. Dead or alive.",anticipation,0,1,0,0,1,0,0,1
+637,3081,Dead or alive?,anticipation,0,1,0,0,1,0,0,1
+638,3097,"Go. Go, go!",Neutral,0,0,0,0,0,0,0,0
+639,3111,Was it something I said?,Neutral,0,0,0,0,0,0,0,0
+640,3131,Mmm-mmm.,Neutral,0,0,0,0,0,0,0,0
+641,3152,"Now, you know, I don't really need these to see...",Neutral,0,0,0,0,0,0,0,0
+642,3156,but they do kinda complete the look.,Neutral,0,0,0,0,0,0,0,0
+643,3161,Don't you think?,Neutral,0,0,0,0,0,0,0,0
+644,3180,You called them in?,Neutral,0,0,0,0,0,0,0,0
+645,3181,My bad.,anger,1,0,1,1,0,1,0,0
+646,3197,"Coulson, do you have eyes on them?",Neutral,0,0,0,0,0,0,0,0
+647,3198,They're not down here.,Neutral,0,0,0,0,0,0,0,0
+648,3202,Let's try up there.,Neutral,0,0,0,0,0,0,0,0
+649,3212,- What? - Your communicator.,Neutral,0,0,0,0,0,0,0,0
+650,3213,You obviously can't be trusted with it.,trust,0,0,0,0,0,0,0,1
+651,3246,Do you know how to fly this thing?,Neutral,0,0,0,0,0,0,0,0
+652,3248,"Uh, we'll see.",Neutral,0,0,0,0,0,0,0,0
+653,3249,That's a yes or no question.,Neutral,0,0,0,0,0,0,0,0
+654,3254,Yes.,Neutral,0,0,0,0,0,0,0,0
+655,3259,That's what I'm talking about!,Neutral,0,0,0,0,0,0,0,0
+656,3288,We got a stowaway.,Neutral,0,0,0,0,0,0,0,0
+657,3293,"Hang on, Goose.",Neutral,0,0,0,0,0,0,0,0
+658,3300,Goose.,Neutral,0,0,0,0,0,0,0,0
+659,3304,"No, Goose.",Neutral,0,0,0,0,0,0,0,0
+660,3306,"Who's a good kitty, huh? Huh, Goose?",anticipation,0,1,0,0,1,0,1,1
+661,3310,"Yes, that's right.",Neutral,0,0,0,0,0,0,0,0
+662,3312,"Who's a good kitty, Goose?",anticipation,0,1,0,0,1,0,1,1
+663,3314,"You the good kitty, that's right.",anticipation,0,1,0,0,1,0,1,1
+664,3315,See anyone you know'?,Neutral,0,0,0,0,0,0,0,0
+665,3318,Funny story.,Neutral,0,0,0,0,0,0,0,0
+666,3320,I arrived on Hala near dead. No memory.,anticipation,0,1,0,0,0,0,0,0
+667,3324,That was six years ago.,Neutral,0,0,0,0,0,0,0,0
+668,3326,"So, you think you're the pilot",trust,0,0,0,0,0,0,0,1
+669,3328,that went down with Dr. Lawson?,Neutral,0,0,0,0,0,0,0,0
+670,3329,I'm saying the last person to see them alive,anticipation,0,1,0,0,1,0,0,1
+671,3332,could probably tell us.,Neutral,0,0,0,0,0,0,0,0
+672,3333,- Maria Rambeau? - Mm-hmm.,Neutral,0,0,0,0,0,0,0,0
+673,3335,"So, how do we get to Louisiana?",Neutral,0,0,0,0,0,0,0,0
+674,3337,Due east. Hang a right at Memphis.,Neutral,0,0,0,0,0,0,0,0
+675,3341,That agent...,Neutral,0,0,0,0,0,0,0,0
+676,3343,that stopped the Skrulls from finding us?,Neutral,0,0,0,0,0,0,0,0
+677,3345,Coulson. The new guy.,Neutral,0,0,0,0,0,0,0,0
+678,3348,I guess he doesn't hate me yet.,anger,1,0,1,1,0,1,1,0
+679,3349,"Yeah, well, give him time.",anticipation,0,1,0,0,0,0,0,0
+680,3353,"I guess he had a feeling, you know?",surprise,0,0,0,0,0,0,1,0
+681,3355,Went with his gut against orders.,disgust,0,0,1,0,0,0,0,0
+682,3357,That's a really hard thing to do.,Neutral,0,0,0,0,0,0,0,0
+683,3358,But it's what keeps us human.,Neutral,0,0,0,0,0,0,0,0
+684,3360,I get in trouble for that. A lot.,Neutral,0,0,0,0,0,0,0,0
+685,3363,"Oh, I can see that about you.",Neutral,0,0,0,0,0,0,0,0
+686,3365,Rescuing the guy who sold you out to the Skrulls?,anticipation,0,1,0,0,1,0,1,1
+687,3370,I'm guessing that's not,surprise,0,0,0,0,0,0,1,0
+688,3371,standard Kree operating procedure.,fear,0,0,0,1,0,0,0,0
+689,3373,"Well, I won't tell your boss if you don't tell mine.",anticipation,0,1,0,0,0,0,0,0
+690,3383,Ronan.,Neutral,0,0,0,0,0,0,0,0
+691,3384,<i>The Accusers completed their operation...</i>,Neutral,0,0,0,0,0,0,0,0
+692,3386,"<i>but the greater mission was a failure,</i>",Neutral,0,0,0,0,0,0,0,0
+693,3388,<i>thanks to your team.</i>,Neutral,0,0,0,0,0,0,0,0
+694,3389,It was a trap,Neutral,0,0,0,0,0,0,0,0
+695,3391,to lure our operative Vers to Torfa and kidnap her.,anger,1,0,0,1,0,1,1,0
+696,3393,<i>Give us their location.</i>,Neutral,0,0,0,0,0,0,0,0
+697,3395,<i>We'll take care of the terrorist threat.</i>,anger,1,0,1,1,0,1,1,0
+698,3396,By bombing them out of the galaxy?,anger,1,0,0,1,0,1,1,0
+699,3399,"No, we'll handle this.",Neutral,0,0,0,0,0,0,0,0
+700,3401,<i>A cell of Skrulls anywhere</i>,Neutral,0,0,0,0,0,0,0,0
+701,3404,<i>is a threat to Kree everywhere.</i>,anger,1,0,0,1,0,0,0,0
+702,3406,<i>Where are they?</i>,Neutral,0,0,0,0,0,0,0,0
+703,3407,- They are... - Lost,anger,1,0,1,1,0,1,1,0
+704,3410,They are lost for now.,anger,1,0,1,1,0,1,1,0
+705,3412,But we will find them.,Neutral,0,0,0,0,0,0,0,0
+706,3414,"<i>Do so, or we will.</i>",Neutral,0,0,0,0,0,0,0,0
+707,3422,Maintain the course for C-53.,Neutral,0,0,0,0,0,0,0,0
+708,3443,"Excuse me, I'm looking for Maria Rambeau.",Neutral,0,0,0,0,0,0,0,0
+709,3448,Auntie Carol?,joy,0,0,0,0,1,0,0,1
+710,3449,"Mom, it's Auntie Carol!",joy,0,0,0,0,1,0,0,1
+711,3452,I knew it! Everyone said you were dead!,Neutral,0,0,0,0,0,0,0,0
+712,3455,But we knew they were lying.,anger,1,0,1,0,0,1,0,0
+713,3459,I'm not really who you think I am.,Neutral,0,0,0,0,0,0,0,0
+714,3470,That is the craziest shit I ever heard.,anger,1,0,1,0,0,0,0,0
+715,3473,Green transforming aliens? There's no such thing.,disgust,0,0,1,1,1,0,0,1
+716,3476,"You are absolutely right, young lady.",anticipation,0,1,0,0,1,0,1,0
+717,3477,There is no such thing.,Neutral,0,0,0,0,0,0,0,0
+718,3479,"'Cause if there were,",Neutral,0,0,0,0,0,0,0,0
+719,3481,we would want to keep that to ourselves',Neutral,0,0,0,0,0,0,0,0
+720,3483,You don't believe me?,Neutral,0,0,0,0,0,0,0,0
+721,3492,No way!,Neutral,0,0,0,0,0,0,0,0
+722,3494,That's so cool!,Neutral,0,0,0,0,0,0,0,0
+723,3496,"Oh, she can do a lot more than make tea",Neutral,0,0,0,0,0,0,0,0
+724,3498,with those hands.,Neutral,0,0,0,0,0,0,0,0
+725,3499,Like what? Show us.,trust,0,0,0,0,0,0,0,1
+726,3500,Maybe later.,Neutral,0,0,0,0,0,0,0,0
+727,3503,I kept all your stuff.,Neutral,0,0,0,0,0,0,0,0
+728,3504,I'll go get it.,anger,1,0,1,1,0,1,0,0
+729,3506,You want to give her a hand with that?,Neutral,0,0,0,0,0,0,0,0
+730,3508,Hmm?,Neutral,0,0,0,0,0,0,0,0
+731,3524,You don't remember anything?,Neutral,0,0,0,0,0,0,0,0
+732,3528,I see flashes.,Neutral,0,0,0,0,0,0,0,0
+733,3532,Little moments.,Neutral,0,0,0,0,0,0,0,0
+734,3534,But I can't tell what's real.,trust,0,0,0,0,0,0,0,1
+735,3538,If I could just piece together what happened that morning...,anticipation,0,1,0,0,0,0,0,0
+736,3542,maybe it'll all make sense.,Neutral,0,0,0,0,0,0,0,0
+737,3547,You woke me up banging on my door at dawn.,surprise,1,1,1,1,1,1,2,1
+738,3551,Your usual move.,trust,0,0,0,0,0,0,0,1
+739,3553,"Back then, we had to get up so early.",Neutral,0,0,0,0,0,0,0,0
+740,3556,The Air Force still wasn't letting women fly combat...,anger,2,0,0,2,0,0,0,0
+741,3559,so testing Lawson's planes was our only shot,anger,1,1,0,1,0,0,0,0
+742,3561,at doing something that mattered.,Neutral,0,0,0,0,0,0,0,0
+743,3563,You wanted to race to base in your old Mustang...,trust,0,0,0,0,0,0,0,1
+744,3566,"and I wasn't about to argue,",anger,1,0,0,0,0,0,0,0
+745,3567,'cause I knew my Camaro would dominate.,anger,1,0,0,1,0,0,0,0
+746,3569,"But you cheated, took a shortcut.",anger,1,0,1,0,0,0,0,0
+747,3571,Since when is a shortcut cheating?,anger,1,0,1,0,0,0,0,0
+748,3573,Since it violates the predetermined,Neutral,0,0,0,0,0,0,0,0
+749,3574,rules of engagement.,fear,0,0,0,1,0,0,0,1
+750,3575,I definitely don't remember those.,Neutral,0,0,0,0,0,0,0,0
+751,3576,Hmm. Of course you don't.,Neutral,0,0,0,0,0,0,0,0
+752,3583,"When I got to the hangar, Lawson was agitated.",Neutral,0,0,0,0,0,0,0,0
+753,3588,She said she had lives to save.,joy,0,0,0,0,1,0,0,1
+754,3592,"She was trying to take the Asis up herself,",Neutral,0,0,0,0,0,0,0,0
+755,3594,but you said that...,Neutral,0,0,0,0,0,0,0,0
+756,3595,"If there were lives at stake, I would fly the plane.",Neutral,0,0,0,0,0,0,0,0
+757,3599,Yeah. Yep. Big hero moment.,anticipation,0,1,0,0,1,0,1,1
+758,3603,The kind of moment we'd both been waiting for.,anticipation,0,1,0,0,1,0,0,1
+759,3607,The doc was always unique. That's why we liked her.,surprise,0,0,0,0,0,0,1,0
+760,3611,But now you're saying she's from another planet.,Neutral,0,0,0,0,0,0,0,0
+761,3618,Know this must be hard for you.,Neutral,0,0,0,0,0,0,0,0
+762,3619,"Oh, what? This part right here?",Neutral,0,0,0,0,0,0,0,0
+763,3622,No. No. Mmm-mmm.,Neutral,0,0,0,0,0,0,0,0
+764,3627,"Oh, what's hard is losing my best friend...",anger,1,0,1,1,1,1,1,1
+765,3632,in a mission so secret,trust,0,0,0,0,0,0,0,1
+766,3633,they act like it never even happened.,anticipation,0,1,0,0,0,0,0,0
+767,3637,Hard is knowing you were out there somewhere,Neutral,0,0,0,0,0,0,0,0
+768,3641,too damn stubborn to die.,anger,1,0,1,1,0,1,0,0
+769,3644,And now you come up in here after six years...,Neutral,0,0,0,0,0,0,0,0
+770,3647,with your supercharged fire hands...,fear,0,0,0,1,0,0,0,0
+771,3649,and you expect me to call you...,anticipation,0,1,0,0,0,0,1,1
+772,3651,I don't even know what. Vers?,Neutral,0,0,0,0,0,0,0,0
+773,3655,Is that really who you are now?,Neutral,0,0,0,0,0,0,0,0
+774,3659,I don't know.,Neutral,0,0,0,0,0,0,0,0
+775,3666,Come look!,Neutral,0,0,0,0,0,0,0,0
+776,3674,This is me and you on Halloween.,Neutral,0,0,0,0,0,0,0,0
+777,3675,I'm Amelia Earhart and you're Janis Joplin.,Neutral,0,0,0,0,0,0,0,0
+778,3679,"Oh, this is you when you were little.",Neutral,0,0,0,0,0,0,0,0
+779,3680,You didn't get along with your parents...,Neutral,0,0,0,0,0,0,0,0
+780,3682,so Mom said we became your real family.,trust,0,0,0,0,0,0,0,1
+781,3684,This is us on Christmas.,Neutral,0,0,0,0,0,0,0,0
+782,3686,I got my favorite bunny slippers.,joy,0,0,0,0,1,0,0,1
+783,3687,This is another picture of you when you were little.,Neutral,0,0,0,0,0,0,0,0
+784,3689,You've always wanted to be a pilot.,trust,0,0,0,0,0,0,0,1
+785,3690,And this is right after you graduated.,Neutral,0,0,0,0,0,0,0,0
+786,3691,This was your dog that you got for Christmas...,Neutral,0,0,0,0,0,0,0,0
+787,3693,This is a picture of everybody from your Air Force team.,anger,1,0,0,1,0,0,0,1
+788,3695,And this is you with Mom,Neutral,0,0,0,0,0,0,0,0
+789,3696,right after a good day of training.,anticipation,0,1,0,0,1,0,1,1
+790,3697,These were your three favorite guys.,joy,0,0,0,0,1,0,0,1
+791,3701,"Oh, wait. I forgot.",anticipation,0,1,0,0,0,0,0,0
+792,3702,Your jacket.,Neutral,0,0,0,0,0,0,0,0
+793,3704,Mom doesn't let me wear it anymore,trust,0,0,0,0,0,0,0,1
+794,3705,after I spilled ketchup on it.,Neutral,0,0,0,0,0,0,0,0
+795,3721,That was all that survived the crash.,fear,0,0,0,1,0,1,1,0
+796,3724,Or so we thought.,Neutral,0,0,0,0,0,0,0,0
+797,3730,Don't answer that.,Neutral,0,0,0,0,0,0,0,0
+798,3732,It's just my neighbor.,anticipation,0,1,0,0,0,0,0,1
+799,3734,They can change into anyone.,fear,0,0,0,1,0,0,0,0
+800,3741,Hi there.,Neutral,0,0,0,0,0,0,0,0
+801,3742,What do you want?,Neutral,0,0,0,0,0,0,0,0
+802,3745,"<i>- Uh... - Hey, Tom.</i>",Neutral,0,0,0,0,0,0,0,0
+803,3747,"This is my friend, Carol.",joy,0,0,0,0,2,0,0,2
+804,3748,Oh. Pleased to meet you.,Neutral,0,0,0,0,0,0,0,0
+805,3752,Yowzers.,Neutral,0,0,0,0,0,0,0,0
+806,3753,Static electricity out here's no joke.,Neutral,0,0,0,0,0,0,0,0
+807,3756,I noticed that peculiar bird you got parked by the road...,Neutral,0,0,0,0,0,0,0,0
+808,3759,and I was just wondering...,Neutral,0,0,0,0,0,0,0,0
+809,3760,if you mind if I bring the boys over,Neutral,0,0,0,0,0,0,0,0
+810,3761,to get a closer look-see?,Neutral,0,0,0,0,0,0,0,0
+811,3763,- A closer look-see? - Yeah.,Neutral,0,0,0,0,0,0,0,0
+812,3765,"To see the ""bird"" parked out by the road?",Neutral,0,0,0,0,0,0,0,0
+813,3768,<i>Mmm.</i>,Neutral,0,0,0,0,0,0,0,0
+814,3770,You're really working overtime,Neutral,0,0,0,0,0,0,0,0
+815,3771,"to sell this one, aren't you, Talos?",Neutral,0,0,0,0,0,0,0,0
+816,3775,"I'm sorry, Tom. This really isn't a good time.",anticipation,0,2,0,0,1,0,1,1
+817,3777,"I'll come by tomorrow, okay?",anger,1,1,1,1,0,1,0,0
+818,3779,- Uh... - Okay.,Neutral,0,0,0,0,0,0,0,0
+819,3783,You know' you really should be kinder to your neighbors.,anticipation,0,1,0,0,0,0,0,1
+820,3787,You never know when you're gonna need,Neutral,0,0,0,0,0,0,0,0
+821,3788,to borrow some sugar.,Neutral,0,0,0,0,0,0,0,0
+822,3793,"Now, hang on a second.",Neutral,0,0,0,0,0,0,0,0
+823,3795,Before you go swinging those jazz hands around...,Neutral,0,0,0,0,0,0,0,0
+824,3799,making a mess of your friend's house...,disgust,0,0,1,0,0,0,0,0
+825,3802,"It's a lovely home, miss.",anticipation,0,1,0,0,1,1,1,1
+826,3804,Oh. My God!,anticipation,0,1,0,1,1,0,0,1
+827,3806,What the hell?,anger,1,0,1,1,0,1,0,0
+828,3811,No one's gonna hurl the girl.,Neutral,0,0,0,0,0,0,0,0
+829,3813,Just don't kill me.,fear,0,0,0,1,0,1,0,0
+830,3816,That would really complicate the situation.,anger,1,0,0,0,0,0,0,0
+831,3818,I'm about five seconds from complicating that wall,anger,1,0,0,0,0,0,0,0
+832,3820,with some ugly-ass Skrull brains.,Neutral,0,0,0,0,0,0,0,0
+833,3822,I'm sorry I simmed your boss.,Neutral,0,0,0,0,0,0,0,0
+834,3823,But now I stand before you as my true self.,Neutral,0,0,0,0,0,0,0,0
+835,3827,Without deception.,Neutral,0,0,0,0,0,0,0,0
+836,3828,And who is that out there?,Neutral,0,0,0,0,0,0,0,0
+837,3831,"Okay, that's a fair point...",Neutral,0,0,0,0,0,0,0,0
+838,3833,but I'm sure that you understand,Neutral,0,0,0,0,0,0,0,0
+839,3835,I had to take some precautions.,Neutral,0,0,0,0,0,0,0,0
+840,3837,I saw you crush 20 of my best men,Neutral,0,0,0,0,0,0,0,0
+841,3840,with your hands bound.,Neutral,0,0,0,0,0,0,0,0
+842,3842,I just wanna talk.,fear,0,0,0,1,0,1,0,0
+843,3843,"Last time we talked,",anticipation,0,1,0,0,0,0,0,0
+844,3844,I ended up hanging from my ankles.,Neutral,0,0,0,0,0,0,0,0
+845,3845,That was before I knew who you were.,Neutral,0,0,0,0,0,0,0,0
+846,3848,Before I knew what made you different from the others.,Neutral,0,0,0,0,0,0,0,0
+847,3852,I have an audio recording from Pegasus...,Neutral,0,0,0,0,0,0,0,0
+848,3854,of your voice from a plane crash,fear,0,0,0,1,0,1,1,0
+849,3857,six years ago...,Neutral,0,0,0,0,0,0,0,0
+850,3859,"on a device I believe you call a ""black box.""",sadness,0,0,0,0,0,1,0,0
+851,3864,They told me it was destroyed in the crash.,fear,0,0,0,1,0,1,1,0
+852,3866,How'd you get it?,Neutral,0,0,0,0,0,0,0,0
+853,3868,She don't understand.,Neutral,0,0,0,0,0,0,0,0
+854,3869,"Young lady, I have a special skill...",joy,0,1,0,0,2,0,1,0
+855,3870,that kind of allows me,joy,0,0,0,0,1,0,0,1
+856,3872,to get into places I'm not supposed to be.,Neutral,0,0,0,0,0,0,0,0
+857,3874,"Call me ""young lady' again...",anticipation,0,1,0,0,1,0,1,0
+858,3875,I'm gonna put my foot in a place,Neutral,0,0,0,0,0,0,0,0
+859,3877,it's not supposed to be.,Neutral,0,0,0,0,0,0,0,0
+860,3880,Am I supposed to guess where that is?,surprise,0,0,0,0,0,0,1,0
+861,3883,Your ass.,Neutral,0,0,0,0,0,0,0,0
+862,3884,"Okay, I get it. We're all a little on edge here.",Neutral,0,0,0,0,0,0,0,0
+863,3887,"But, look, I just need your help",Neutral,0,0,0,0,0,0,0,0
+864,3889,decoding some coordinates.,Neutral,0,0,0,0,0,0,0,0
+865,3890,If you'll sit down and you'll listen to this...,Neutral,0,0,0,0,0,0,0,0
+866,3892,"I assure you, it'll be worth your while.",trust,0,0,0,0,0,0,0,1
+867,3898,Cali your buddy back inside and I'll listen.,anger,1,1,1,1,1,1,0,1
+868,3901,Deal.,anticipation,0,1,0,0,1,0,1,1
+869,3903,"Oh, my God! Get that thing away.",anticipation,0,1,0,1,1,0,0,1
+870,3905,How'd that get in here?,Neutral,0,0,0,0,0,0,0,0
+871,3907,Hmm?,Neutral,0,0,0,0,0,0,0,0
+872,3909,The cat?,Neutral,0,0,0,0,0,0,0,0
+873,3910,"This isn't what you're afraid of, is it?",fear,0,0,0,1,0,0,0,0
+874,3912,That's not a cat.,Neutral,0,0,0,0,0,0,0,0
+875,3914,- That's a Flerken. - A Flerken?,Neutral,0,0,0,0,0,0,0,0
+876,3916,Mom?,Neutral,0,0,0,0,0,0,0,0
+877,3926,Monica.,Neutral,0,0,0,0,0,0,0,0
+878,3927,"- Why can't I listen, too? - Shh!",Neutral,0,0,0,0,0,0,0,0
+879,3956,What's happening?,anticipation,0,1,0,0,0,0,0,0
+880,3958,It's loading.,Neutral,0,0,0,0,0,0,0,0
+881,3963,Punch in the coordinates,anger,1,0,0,1,0,1,1,0
+882,3964,"<i>5-2-2-9, negative 4-7, 8.7-6-8, 0.2.</i>",sadness,0,0,0,0,0,1,0,0
+883,3969,"<i>Copy that. Where are we going, Doc?</i>",Neutral,0,0,0,0,0,0,0,0
+884,3971,<i>My laboratory.</i>,Neutral,0,0,0,0,0,0,0,0
+885,3973,<i>Your laboratory? What do you mean?</i>,Neutral,0,0,0,0,0,0,0,0
+886,3975,"Oh, no.",Neutral,0,0,0,0,0,0,0,0
+887,3976,"Is that... Wait, what is that?",anticipation,0,1,0,0,0,0,0,0
+888,3978,<i>It's not showing up on my radar.</i>,trust,0,0,0,0,0,0,0,1
+889,3980,"Go, Carol. <i>Fly!</i>",joy,0,0,0,0,1,0,0,1
+890,3982,"That's no MiG, Lawson. Who the hell are they?",anger,1,0,1,1,0,1,0,0
+891,3984,Those are the bad guys. Fly faster now!,anger,1,0,1,1,0,1,0,0
+892,3986,"Yes, ma'am.",Neutral,0,0,0,0,0,0,0,0
+893,3994,- What do they want? - Me. My work.,Neutral,0,0,0,0,0,0,0,0
+894,3996,I never should have brought you along.,Neutral,0,0,0,0,0,0,0,0
+895,4003,Here come some G's.,Neutral,0,0,0,0,0,0,0,0
+896,4023,They're firing backwards. Hold on!,disgust,0,0,1,1,0,0,0,0
+897,4036,Bail out! Bail out! Bail out!,Neutral,0,0,0,0,0,0,0,0
+898,4041,"Stay with me, Lawson!",Neutral,0,0,0,0,0,0,0,0
+899,4061,"Carol, come in. <i>Do</i> you <i>copy?</i>",joy,0,0,0,0,1,0,0,1
+900,4062,"Yeah, I copy. We hit ground.",anger,1,0,0,0,0,0,0,0
+901,4065,"<i>Carol, are you okay? Do you copy?</i>",Neutral,0,0,0,0,0,0,0,0
+902,4067,Yeah! I copy.,Neutral,0,0,0,0,0,0,0,0
+903,4072,Doc?,Neutral,0,0,0,0,0,0,0,0
+904,4074,Your blood.,Neutral,0,0,0,0,0,0,0,0
+905,4076,It's blue.,sadness,0,0,0,0,0,1,0,0
+906,4078,"Yeah, but, uh, how's my hair?",Neutral,0,0,0,0,0,0,0,0
+907,4082,"Help me out, will ya?",Neutral,0,0,0,0,0,0,0,0
+908,4088,I got to destroy it before they get here.,Neutral,0,0,0,0,0,0,0,0
+909,4091,Lawson?,Neutral,0,0,0,0,0,0,0,0
+910,4092,You remember what I said about our work here? What it's for?,Neutral,0,0,0,0,0,0,0,0
+911,4097,To end wars?,fear,0,0,0,1,0,0,0,0
+912,4099,Yeah. But the wars are bigger than you know.,fear,0,0,0,1,0,0,0,0
+913,4103,Damn it!,anger,1,0,1,0,0,0,0,0
+914,4106,My name is not Lawson.,Neutral,0,0,0,0,0,0,0,0
+915,4108,"My real name is Mar-Vell,",trust,0,0,0,0,0,0,0,1
+916,4111,and I come from a planet called Hala.,Neutral,0,0,0,0,0,0,0,0
+917,4115,I would say that you're delusional...,anger,1,0,0,1,0,0,0,0
+918,4117,but we just got shot down by a spaceship,anger,1,0,0,1,0,0,0,0
+919,4119,and your blood is blue.,sadness,0,0,0,0,0,1,0,0
+920,4122,"Listen, I spent half my life fighting a shameful war.",fear,1,0,0,2,0,1,0,0
+921,4126,"Now, skedaddle before you give me",Neutral,0,0,0,0,0,0,0,0
+922,4127,any more regrets.,sadness,0,0,0,0,0,1,0,0
+923,4129,"Just remember the coordinates, okay?",Neutral,0,0,0,0,0,0,0,0
+924,4131,You got to save 'em without me.,joy,0,0,0,0,1,0,0,1
+925,4133,Save who? How'?,joy,0,0,0,0,1,0,0,1
+926,4134,Now I got to blow this engine before they find it.,Neutral,0,0,0,0,0,0,0,0
+927,4138,What are you doing?,Neutral,0,0,0,0,0,0,0,0
+928,4159,We have no interest in hurting you.,anger,1,0,0,1,0,1,0,0
+929,4161,No?,Neutral,0,0,0,0,0,0,0,0
+930,4163,'Cause all the shooting kinda gave me the wrong impression!,anger,1,0,0,1,0,0,0,0
+931,4167,The energy core.,Neutral,0,0,0,0,0,0,0,0
+932,4169,Where is it?,Neutral,0,0,0,0,0,0,0,0
+933,4171,Pararescue's on the way.,Neutral,0,0,0,0,0,0,0,0
+934,4173,You have two minutes until you're surrounded.,anticipation,0,1,0,0,0,0,0,0
+935,4175,Then I see no reason to prolong this conversation.,disgust,0,0,1,0,0,0,0,0
+936,4178,"No, wait!",anticipation,0,1,0,0,0,0,0,0
+937,4186,You mean that energy core?,Neutral,0,0,0,0,0,0,0,0
+938,4192,No!,Neutral,0,0,0,0,0,0,0,0
+939,4236,Commander'? She's still moving. Permission to fire.,fear,0,0,0,1,0,0,0,0
+940,4240,Hold your fire.,fear,0,0,0,1,0,0,0,0
+941,4251,There's nothing left.,sadness,0,0,0,0,0,1,1,0
+942,4253,The core has been destroyed.,Neutral,0,0,0,0,0,0,0,0
+943,4264,She absorbed its power.,Neutral,0,0,0,0,0,0,0,0
+944,4268,She's coming with us.,Neutral,0,0,0,0,0,0,0,0
+945,4291,He lied to me.,anger,1,0,1,0,0,1,0,0
+946,4295,Everything that I knew was a lie.,anger,1,0,1,0,0,1,0,0
+947,4297,"Now, you understand.",Neutral,0,0,0,0,0,0,0,0
+948,4300,What? What do I understand now?,Neutral,0,0,0,0,0,0,0,0
+949,4303,Yon-Rogg killed Mar-Vell.,fear,0,0,0,1,0,1,0,0
+950,4305,He killed her...,fear,0,0,0,1,0,1,0,0
+951,4307,'cause she found out that she was,Neutral,0,0,0,0,0,0,0,0
+952,4308,on the wrong side of an unjust war.,anger,1,0,0,1,0,0,0,0
+953,4312,No.,Neutral,0,0,0,0,0,0,0,0
+954,4313,Your people are terrorists.,Neutral,0,0,0,0,0,0,0,0
+955,4316,They kill innocents.,fear,0,0,0,1,0,1,0,0
+956,4317,I saw the ruins on Torfa.,fear,0,0,0,1,0,1,0,0
+957,4319,Ruins that the Accusers are responsible for.,fear,0,0,0,1,0,1,0,1
+958,4323,My people lived as refugees on Torfa.,Neutral,0,0,0,0,0,0,0,0
+959,4327,"Homeless, ever since we resisted Kree rule...",fear,1,1,1,2,0,1,0,1
+960,4330,and they destroyed our planet.,Neutral,0,0,0,0,0,0,0,0
+961,4332,And the handful of us that are left,sadness,0,0,0,0,0,1,1,0
+962,4336,will be slaughtered next...,anger,1,0,1,1,0,1,1,0
+963,4338,unless you help me finish what Mar-Veil started.,anticipation,0,1,0,0,0,0,0,0
+964,4343,The core that she found,Neutral,0,0,0,0,0,0,0,0
+965,4345,would have powered a light-speed ship...,anticipation,0,1,0,0,0,0,0,0
+966,4347,capable of carrying us to safety.,Neutral,0,0,0,0,0,0,0,0
+967,4349,A new home where the Kree can't reach us.,Neutral,0,0,0,0,0,0,0,0
+968,4354,Lawson always told us that our work at Pegasus,Neutral,0,0,0,0,0,0,0,0
+969,4357,wasn't to fight wars...,fear,1,0,0,2,0,0,0,0
+970,4358,but to end them.,Neutral,0,0,0,0,0,0,0,0
+971,4360,She wanted you to help us find the core.,Neutral,0,0,0,0,0,0,0,0
+972,4366,"Well, I already destroyed it.",Neutral,0,0,0,0,0,0,0,0
+973,4367,"No, you destroyed the engine.",Neutral,0,0,0,0,0,0,0,0
+974,4369,The core that powered it is in a remote location.,Neutral,0,0,0,0,0,0,0,0
+975,4372,If you help us decode those coordinates...,Neutral,0,0,0,0,0,0,0,0
+976,4377,we can find it.,Neutral,0,0,0,0,0,0,0,0
+977,4380,You'll use it to destroy us.,Neutral,0,0,0,0,0,0,0,0
+978,4384,We just want a home.,Neutral,0,0,0,0,0,0,0,0
+979,4391,You and I lost everything at the hands of the Kree.,anger,1,0,1,1,0,1,1,0
+980,4397,Can't you see it now'?,Neutral,0,0,0,0,0,0,0,0
+981,4399,You're not one of them.,Neutral,0,0,0,0,0,0,0,0
+982,4403,You don't know me.,Neutral,0,0,0,0,0,0,0,0
+983,4406,You have no idea who I am.,Neutral,0,0,0,0,0,0,0,0
+984,4410,I don't even know who I am!,Neutral,0,0,0,0,0,0,0,0
+985,4414,You are Carol Danvers.,joy,0,0,0,0,1,0,0,1
+986,4418,You are the woman on that black box,sadness,0,0,0,0,0,1,0,0
+987,4420,risking her life to do the right thing.,anticipation,0,1,0,1,0,0,0,0
+988,4424,My best friend...,joy,0,0,0,0,1,0,0,1
+989,4426,who supported me as a mother and a pilot,trust,0,1,0,0,1,1,0,2
+990,4429,when no one else did.,Neutral,0,0,0,0,0,0,0,0
+991,4431,"You are smart, and funny, and a huge pain in the ass...",fear,0,0,0,1,0,1,0,0
+992,4436,and you were the most powerful person I knew...,anger,1,1,1,1,1,0,0,1
+993,4440,way before you could shoot fire from your fists.,fear,1,0,0,2,0,0,0,0
+994,4444,You hear me?,Neutral,0,0,0,0,0,0,0,0
+995,4446,Do you hear me?,Neutral,0,0,0,0,0,0,0,0
+996,4455,"Come here. Come here, girl.",Neutral,0,0,0,0,0,0,0,0
+997,4458,I got you.,Neutral,0,0,0,0,0,0,0,0
+998,4464,<i>I know I don't deserve your trust...</i>,anger,1,1,0,0,0,0,0,1
+999,4467,but you were our only lead.,Neutral,0,0,0,0,0,0,0,0
+1000,4469,We discovered that your energy signature,trust,0,0,0,0,0,0,0,1
+1001,4472,matched Mar-Vell's core.,Neutral,0,0,0,0,0,0,0,0
+1002,4475,Now we know why.,Neutral,0,0,0,0,0,0,0,0
+1003,4479,If only you knew the importance of it to me.,anticipation,0,1,0,0,0,0,0,0
+1004,4484,I just need your help,Neutral,0,0,0,0,0,0,0,0
+1005,4486,decoding the coordinates to Mar-VelPs lab.,Neutral,0,0,0,0,0,0,0,0
+1006,4490,Those weren't coordinates. They're state vectors.,Neutral,0,0,0,0,0,0,0,0
+1007,4493,For orbital position and velocity.,Neutral,0,0,0,0,0,0,0,0
+1008,4495,"You didn't find her lab on Earth,",Neutral,0,0,0,0,0,0,0,0
+1009,4497,'cause it's not on Earth.,Neutral,0,0,0,0,0,0,0,0
+1010,4499,That was the location,Neutral,0,0,0,0,0,0,0,0
+1011,4500,on the date of the crash six years ago.,fear,0,0,0,1,0,1,1,0
+1012,4501,"If we track its course,",anticipation,0,1,0,0,0,0,0,0
+1013,4502,we'll find it in orbit right now.,Neutral,0,0,0,0,0,0,0,0
+1014,4505,It's just basic physics.,Neutral,0,0,0,0,0,0,0,0
+1015,4509,In orbit?,Neutral,0,0,0,0,0,0,0,0
+1016,4512,Was that so difficult to figure out'?,fear,0,0,0,1,0,0,0,0
+1017,4514,"I mean' you're my science guy, right?",Neutral,0,0,0,0,0,0,0,0
+1018,4517,Yon-Rogg will catch up to me soon.,surprise,0,0,0,0,0,0,1,0
+1019,4519,We've got to get to the core before he does.,Neutral,0,0,0,0,0,0,0,0
+1020,4522,Mmm. We're going to space?,Neutral,0,0,0,0,0,0,0,0
+1021,4524,In what?,Neutral,0,0,0,0,0,0,0,0
+1022,4525,A few tweaks to your vessel should do it.,Neutral,0,0,0,0,0,0,0,0
+1023,4527,I can handle the modifications.,Neutral,0,0,0,0,0,0,0,0
+1024,4529,Mmm. Your science guy.,Neutral,0,0,0,0,0,0,0,0
+1025,4538,"Well, I could use a copilot.",Neutral,0,0,0,0,0,0,0,0
+1026,4541,"No. No, I can't.",Neutral,0,0,0,0,0,0,0,0
+1027,4543,I can! Leave Monica.,sadness,0,0,0,0,0,1,1,0
+1028,4545,"Mom, it's okay. I can stay with Gramma and Paw-paw.",Neutral,0,0,0,0,0,0,0,0
+1029,4549,"There's no way I'm going, baby. It's too dangerous.",fear,0,0,0,1,1,0,0,0
+1030,4551,Testing brand-new aerospace tech is dangerous...,fear,0,0,0,1,0,0,0,0
+1031,4553,and you used to do that.,Neutral,0,0,0,0,0,0,0,0
+1032,4556,Your plan is to leave the atmosphere,anticipation,0,1,0,0,0,1,1,0
+1033,4558,in a craft not designed for the journey...,anticipation,0,1,0,1,1,0,0,0
+1034,4559,and you anticipate hostile encounters...,anger,1,0,1,1,0,0,0,0
+1035,4561,with a technologically-superior,Neutral,0,0,0,0,0,0,0,0
+1036,4562,foreign enemy.,anger,1,0,1,1,0,0,0,0
+1037,4564,Correct?,Neutral,0,0,0,0,0,0,0,0
+1038,4565,That's what I'm saying.,Neutral,0,0,0,0,0,0,0,0
+1039,4566,- You have to go! Monica!,Neutral,0,0,0,0,0,0,0,0
+1040,4568,You have a chance to fly the coolest mission,surprise,0,0,0,0,0,0,1,0
+1041,4569,in the history of missions...,Neutral,0,0,0,0,0,0,0,0
+1042,4570,and you're gonna give it up to sit on the couch,sadness,0,0,0,0,0,1,0,0
+1043,4572,and watch <i>Fresh Prince</i> with me?,anticipation,0,1,0,1,0,0,0,0
+1044,4574,What?,Neutral,0,0,0,0,0,0,0,0
+1045,4575,I just think you should consider...,Neutral,0,0,0,0,0,0,0,0
+1046,4577,what kind of example you're setting for your daughter.,joy,0,0,0,0,2,0,0,1
+1047,4587,What's going on around here?,Neutral,0,0,0,0,0,0,0,0
+1048,4589,"I know, I know.",Neutral,0,0,0,0,0,0,0,0
+1049,4590,I'll explain inside. Thank you.,anger,1,0,1,1,0,1,0,1
+1050,4596,Your mom's lucky.,joy,0,0,0,0,1,0,1,0
+1051,4599,"When they were handing out kids,",Neutral,0,0,0,0,0,0,0,0
+1052,4600,they gave her the toughest one.,Neutral,0,0,0,0,0,0,0,0
+1053,4603,Lieutenant Trouble.,trust,0,0,0,0,0,0,0,1
+1054,4605,You remembered.,Neutral,0,0,0,0,0,0,0,0
+1055,4608,Is that mine?,Neutral,0,0,0,0,0,0,0,0
+1056,4610,"No, no.",Neutral,0,0,0,0,0,0,0,0
+1057,4612,You hang on to it until I come back.,Neutral,0,0,0,0,0,0,0,0
+1058,4615,But there is something that I need your help with.,Neutral,0,0,0,0,0,0,0,0
+1059,4617,I can't wear these Kree colors anymore.,trust,0,0,0,0,0,0,0,1
+1060,4620,And since you are obviously the only person around here,Neutral,0,0,0,0,0,0,0,0
+1061,4623,with any sense of style...,Neutral,0,0,0,0,0,0,0,0
+1062,4626,Hmm?,Neutral,0,0,0,0,0,0,0,0
+1063,4630,Whoa.,Neutral,0,0,0,0,0,0,0,0
+1064,4633,No.,Neutral,0,0,0,0,0,0,0,0
+1065,4637,Uh-uh.,Neutral,0,0,0,0,0,0,0,0
+1066,4639,Definitely not.,Neutral,0,0,0,0,0,0,0,0
+1067,4644,"Well, since we're on the same team",trust,0,0,0,0,0,0,0,1
+1068,4657,Hmm.,Neutral,0,0,0,0,0,0,0,0
+1069,4660,How do I look?,Neutral,0,0,0,0,0,0,0,0
+1070,4665,Fresh.,Neutral,0,0,0,0,0,0,0,0
+1071,4686,What took you so long?,anticipation,0,1,0,0,0,0,0,0
+1072,4688,I'm fine. Thanks for asking.,Neutral,0,0,0,0,0,0,0,0
+1073,4691,"- PRY46-B... - No, no codes.",Neutral,0,0,0,0,0,0,0,0
+1074,4694,"That system is fallible, as we've learned.",trust,0,0,0,0,0,0,0,1
+1075,4696,"Okay, then let's do this.",Neutral,0,0,0,0,0,0,0,0
+1076,4699,Who do I see when I commune with the Supreme Intelligence?,fear,0,0,0,1,1,0,0,1
+1077,4702,The person you most admire and respect' I'd guess.,trust,0,1,0,0,1,0,1,2
+1078,4705,But you would never tell me who.,Neutral,0,0,0,0,0,0,0,0
+1079,4708,And what is your earliest memory of Hale?,Neutral,0,0,0,0,0,0,0,0
+1080,4711,The transfusion.,Neutral,0,0,0,0,0,0,0,0
+1081,4713,Blue blood running through my veins.,sadness,0,0,0,0,0,1,0,0
+1082,4715,Whose blood?,Neutral,0,0,0,0,0,0,0,0
+1083,4719,Hmm.,Neutral,0,0,0,0,0,0,0,0
+1084,4727,That's my blood that's coursing through her veins.,Neutral,0,0,0,0,0,0,0,0
+1085,4736,What have you done with her?,Neutral,0,0,0,0,0,0,0,0
+1086,4737,You're too late.,sadness,0,0,0,0,0,1,0,0
+1087,4756,She knows?,Neutral,0,0,0,0,0,0,0,0
+1088,4772,"Ronan, Skrulls have infiltrated C-53.",Neutral,0,0,0,0,0,0,0,0
+1089,4775,Come at once.,Neutral,0,0,0,0,0,0,0,0
+1090,4776,"<i>For the good of all Kree, Commander...</i>",anticipation,0,1,0,0,1,0,1,1
+1091,4779,<i>the infestation will he eradicated.</i>,disgust,0,0,1,1,0,0,0,0
+1092,4784,Passing 500 and climbing.,Neutral,0,0,0,0,0,0,0,0
+1093,4788,"You know, you really shouldn't have that thing on your lap.",Neutral,0,0,0,0,0,0,0,0
+1094,4792,Our little alliance with you is tenuous at best.,trust,0,0,0,0,0,0,0,1
+1095,4795,And as long as he continues to freak you out...,anticipation,0,2,0,0,0,0,0,1
+1096,4798,like that...,Neutral,0,0,0,0,0,0,0,0
+1097,4799,"yeah, I'm gonna keep giving him",Neutral,0,0,0,0,0,0,0,0
+1098,4802,"all the loves and hugs that he needs, right?",joy,0,0,0,0,2,0,0,1
+1099,4805,Can I ask you something?,Neutral,0,0,0,0,0,0,0,0
+1100,4807,Do you just turn into anything you want?,Neutral,0,0,0,0,0,0,0,0
+1101,4809,"Ah, well, I have to see it first.",Neutral,0,0,0,0,0,0,0,0
+1102,4811,Can you all do it?,Neutral,0,0,0,0,0,0,0,0
+1103,4812,Physiologically? Yeah.,Neutral,0,0,0,0,0,0,0,0
+1104,4814,"But, uh, it takes practice...",Neutral,0,0,0,0,0,0,0,0
+1105,4817,"and, um, dare I say it, talent to do it well.",anticipation,0,1,0,0,0,0,0,1
+1106,4821,- Can you turn into a cat? - What's a cat?,Neutral,0,0,0,0,0,0,0,0
+1107,4823,What about a filing cabinet?,trust,0,0,0,0,0,0,0,1
+1108,4825,Why would I turn into a filing cabinet?,trust,0,0,0,0,0,0,0,1
+1109,4828,A Venus flytrap?,Neutral,0,0,0,0,0,0,0,0
+1110,4829,I'll give you 50 bucks right now,fear,1,0,1,2,0,1,1,0
+1111,4830,if you turn into a Venus flytrap.,Neutral,0,0,0,0,0,0,0,0
+1112,4832,Switching engines,Neutral,0,0,0,0,0,0,0,0
+1113,4833,"from Scramjet to Fusion. Buckle up, folks.",Neutral,0,0,0,0,0,0,0,0
+1114,4845,Hey.,Neutral,0,0,0,0,0,0,0,0
+1115,4846,"Is this normal, like, space turbulence?",anger,1,0,0,1,0,0,0,0
+1116,4849,Pretty much.,anticipation,0,1,0,0,1,0,0,1
+1117,4883,Locking in on coordinate grid.,Neutral,0,0,0,0,0,0,0,0
+1118,4886,Where is it?,Neutral,0,0,0,0,0,0,0,0
+1119,4891,It's here. It's got to be here.,Neutral,0,0,0,0,0,0,0,0
+1120,4893,"Well, is it in front of all that nothing, or behind it?",Neutral,0,0,0,0,0,0,0,0
+1121,4904,Decloaking activated.,Neutral,0,0,0,0,0,0,0,0
+1122,4969,Is that it? The core?,Neutral,0,0,0,0,0,0,0,0
+1123,4971,In her notes she called it the Tesseract.,Neutral,0,0,0,0,0,0,0,0
+1124,4980,Whoa.,Neutral,0,0,0,0,0,0,0,0
+1125,4982,What was Lawson doing with all this kid stuff?,Neutral,0,0,0,0,0,0,0,0
+1126,4998,We're not alone.,Neutral,0,0,0,0,0,0,0,0
+1127,5023,Talus!,Neutral,0,0,0,0,0,0,0,0
+1128,5034,He didn't come here for the Tesseract.,Neutral,0,0,0,0,0,0,0,0
+1129,5059,It's okay.,Neutral,0,0,0,0,0,0,0,0
+1130,5066,We didn't know what to do.,Neutral,0,0,0,0,0,0,0,0
+1131,5067,Mar-Veil warned us not to send a signal for any reason...,anticipation,0,1,0,1,0,0,1,1
+1132,5071,or the Kree would find us.,Neutral,0,0,0,0,0,0,0,0
+1133,5073,You did the right thing.,Neutral,0,0,0,0,0,0,0,0
+1134,5084,"It's okay, it's okay.",Neutral,0,0,0,0,0,0,0,0
+1135,5086,She's all right. She's a friend.,joy,0,0,0,0,1,0,0,1
+1136,5090,I am not gonna hurt you.,anger,1,0,0,1,0,1,0,0
+1137,5092,She led me to you.,Neutral,0,0,0,0,0,0,0,0
+1138,5095,I'm so sorry.,Neutral,0,0,0,0,0,0,0,0
+1139,5098,I didn't know.,Neutral,0,0,0,0,0,0,0,0
+1140,5099,Carol.,joy,0,0,0,0,1,0,0,1
+1141,5101,This is war.,fear,0,0,0,1,0,0,0,0
+1142,5104,"My hands are filthy from it, too.",disgust,0,0,1,0,0,0,0,0
+1143,5108,But we're here now.,Neutral,0,0,0,0,0,0,0,0
+1144,5110,You found my family.,Neutral,0,0,0,0,0,0,0,0
+1145,5116,This is just the beginning.,Neutral,0,0,0,0,0,0,0,0
+1146,5118,There are thousands of us separated from each other...,Neutral,0,0,0,0,0,0,0,0
+1147,5122,scattered throughout the galaxy.,Neutral,0,0,0,0,0,0,0,0
+1148,5143,If I played the same pinball machine for six years...,trust,0,0,0,0,0,0,0,1
+1149,5145,"I'd have some high scores, too.",anticipation,0,1,0,0,1,0,1,0
+1150,5150,Fraternizing with the enemy?,anger,1,0,1,1,0,0,0,0
+1151,5152,Uh-uh.,Neutral,0,0,0,0,0,0,0,0
+1152,5165,What did you do to your uniform?,Neutral,0,0,0,0,0,0,0,0
+1153,5167,They got in her head. Just like we thought.,Neutral,0,0,0,0,0,0,0,0
+1154,5170,The Supreme Intelligence will set her straight.,fear,0,0,0,1,1,0,0,1
+1155,5172,You can see they're not soldiers.,anger,1,0,0,0,0,1,0,0
+1156,5173,Let 'em go. You can have me.,Neutral,0,0,0,0,0,0,0,0
+1157,5176,And the core?,Neutral,0,0,0,0,0,0,0,0
+1158,5177,You lied to me.,anger,1,0,1,0,0,1,0,0
+1159,5179,I made you the best version of yourself.,Neutral,0,0,0,0,0,0,0,0
+1160,5186,What's given can be taken away.,Neutral,0,0,0,0,0,0,0,0
+1161,5203,"Back here! Move, move!",Neutral,0,0,0,0,0,0,0,0
+1162,5204,Get over here. Get down!,Neutral,0,0,0,0,0,0,0,0
+1163,5207,"Let's go! Go, move!",Neutral,0,0,0,0,0,0,0,0
+1164,5249,There she is.,Neutral,0,0,0,0,0,0,0,0
+1165,5251,Seems like your time on 0-53 jogged the old memory.,anticipation,0,1,0,0,0,0,0,0
+1166,5255,This jacket.,Neutral,0,0,0,0,0,0,0,0
+1167,5257,"It's killer, by the way.",Neutral,0,0,0,0,0,0,0,0
+1168,5261,Oh.,Neutral,0,0,0,0,0,0,0,0
+1169,5262,The music. It's a nice touch.,joy,0,0,0,0,1,1,0,0
+1170,5264,Let me out.,Neutral,0,0,0,0,0,0,0,0
+1171,5266,No can do.,Neutral,0,0,0,0,0,0,0,0
+1172,5268,"If you hurt them, I will burn you to the ground.",anger,1,0,0,1,0,1,0,0
+1173,5272,With what exactly?,Neutral,0,0,0,0,0,0,0,0
+1174,5274,Your power comes from us.,Neutral,0,0,0,0,0,0,0,0
+1175,5275,You didn't give me these powers.,Neutral,0,0,0,0,0,0,0,0
+1176,5277,The blast did.,anger,1,0,0,1,0,0,1,0
+1177,5278,"And yet, you've never had the strength",trust,0,0,0,0,0,0,0,1
+1178,5280,to control them on your own.,Neutral,0,0,0,0,0,0,0,0
+1179,5292,Species: Flerken.,Neutral,0,0,0,0,0,0,0,0
+1180,5294,<i>Threat: high.</i>,Neutral,0,0,0,0,0,0,0,0
+1181,5301,It's a cat' not Hannibal Lecter.,Neutral,0,0,0,0,0,0,0,0
+1182,5307,Species: <i>human</i> male.,Neutral,0,0,0,0,0,0,0,0
+1183,5308,<i>Threat: low to none.</i>,Neutral,0,0,0,0,0,0,0,0
+1184,5312,That thing's clearly busted.,Neutral,0,0,0,0,0,0,0,0
+1185,5313,Load the Flerken onto the Helion.,Neutral,0,0,0,0,0,0,0,0
+1186,5316,Eject the others into space.,Neutral,0,0,0,0,0,0,0,0
+1187,5321,"You did good, Ace.",anticipation,0,1,0,0,1,0,1,1
+1188,5324,Thanks to you...,Neutral,0,0,0,0,0,0,0,0
+1189,5326,those insidious shapeshifters,anger,1,0,1,1,0,0,0,0
+1190,5328,will threaten our borders no more.,anger,1,1,0,1,0,0,0,0
+1191,5329,I used to believe your lies...,anger,1,0,1,0,0,1,0,0
+1192,5332,but the Skrulls are just fighting for a home.,anger,1,0,0,1,0,0,0,0
+1193,5335,You're talking about destroying them,Neutral,0,0,0,0,0,0,0,0
+1194,5336,because they won't submit to your rule.,anticipation,0,2,0,1,0,0,0,1
+1195,5338,And neither will I.,Neutral,0,0,0,0,0,0,0,0
+1196,5339,We found you. We embraced you as our own.,anticipation,0,1,0,0,1,0,1,1
+1197,5343,You stole me.,anger,1,0,0,1,0,1,0,0
+1198,5344,"From my home, my family, my friends.",Neutral,0,0,0,0,0,0,0,0
+1199,5355,It's cute how hard you try.,Neutral,0,0,0,0,0,0,0,0
+1200,5359,But remember...,Neutral,0,0,0,0,0,0,0,0
+1201,5362,without us...,Neutral,0,0,0,0,0,0,0,0
+1202,5363,"Give it up, Carol.",joy,0,0,0,0,1,0,0,1
+1203,5366,<i>Stay down!</i>,Neutral,0,0,0,0,0,0,0,0
+1204,5368,...you're weak.,Neutral,0,0,0,0,0,0,0,0
+1205,5369,<i>You're going too fast! You need to go slow!</i>,Neutral,0,0,0,0,0,0,0,0
+1206,5371,You're flawed.,sadness,0,0,0,0,0,1,0,0
+1207,5373,<i>Are you trying to kill yourself?</i>,fear,0,0,0,1,0,1,0,0
+1208,5375,Helpless.,fear,0,0,0,1,0,1,0,0
+1209,5376,<i>You're too emotional and so weak.</i>,Neutral,0,0,0,0,0,0,0,0
+1210,5377,<i>You don't belong out here!</i>,Neutral,0,0,0,0,0,0,0,0
+1211,5379,We saved you.,joy,0,0,0,0,1,0,0,1
+1212,5381,"- Control it. <i>- I</i> told you,",Neutral,0,0,0,0,0,0,0,0
+1213,5383,- Carol. - They'll never,joy,0,0,0,0,1,0,0,1
+1214,5384,<i>- let you fly. - This ain't</i>,Neutral,0,0,0,0,0,0,0,0
+1215,5385,<i>- a game for little girls. - You kiss like a horse.</i>,anticipation,0,1,0,0,1,0,1,0
+1216,5386,"<i>You won't last a week, Danvers'</i>",anticipation,0,1,0,0,0,0,0,0
+1217,5390,"Without us, you're only human.",Neutral,0,0,0,0,0,0,0,0
+1218,5395,You're right.,Neutral,0,0,0,0,0,0,0,0
+1219,5397,I'm only human.,Neutral,0,0,0,0,0,0,0,0
+1220,5433,"<i>On Have, you were reborn...</i>",Neutral,0,0,0,0,0,0,0,0
+1221,5437,<i>Vers.</i>,Neutral,0,0,0,0,0,0,0,0
+1222,5443,My name is Carol.,joy,0,0,0,0,1,0,0,1
+1223,5461,She's trying to break out.,surprise,0,0,0,0,0,0,1,0
+1224,5507,I've been fighting with one arm tied behind my back.,anger,1,0,0,1,0,0,0,0
+1225,5511,But what happens when...,anticipation,0,1,0,0,0,0,0,0
+1226,5516,I'm finally set free?,anticipation,0,1,1,0,1,0,1,1
+1227,5558,"You know you're glowing, right?",anticipation,0,1,0,0,1,0,0,1
+1228,5561,I'll explain it later.,anger,1,0,1,1,0,1,0,1
+1229,5565,Take the Tesseract.,Neutral,0,0,0,0,0,0,0,0
+1230,5566,Leave the lunchbox.,sadness,0,0,0,0,0,1,1,0
+1231,5567,- Yes.,Neutral,0,0,0,0,0,0,0,0
+1232,5569,I'm not touching that thing.,Neutral,0,0,0,0,0,0,0,0
+1233,5571,You want me to get you an oven mitt?,Neutral,0,0,0,0,0,0,0,0
+1234,5577,Whoa!,Neutral,0,0,0,0,0,0,0,0
+1235,5585,Get the Skrulls on the Quadjet and go.,Neutral,0,0,0,0,0,0,0,0
+1236,5588,Take the Flerken with you.,Neutral,0,0,0,0,0,0,0,0
+1237,5591,- What about you? <i>- I'll</i> buy you some time!,anticipation,0,1,0,0,0,0,0,0
+1238,5594,I'm picking you up now.,Neutral,0,0,0,0,0,0,0,0
+1239,5599,I'm trusting you not to eat me.,trust,0,0,0,0,0,0,0,1
+1240,5607,"0h, hey, guys.",Neutral,0,0,0,0,0,0,0,0
+1241,5612,Arm wrestle for the Tesseract?,Neutral,0,0,0,0,0,0,0,0
+1242,5617,I used to find you amusing.,joy,0,0,0,0,1,0,0,0
+1243,5619,Let's put an end to this.,Neutral,0,0,0,0,0,0,0,0
+1244,5656,<i>Okay.</i>,Neutral,0,0,0,0,0,0,0,0
+1245,5657,Good kitty.,anticipation,0,1,0,0,1,0,1,1
+1246,5705,You knew all along.,Neutral,0,0,0,0,0,0,0,0
+1247,5708,Is that why we never hung out?,Neutral,0,0,0,0,0,0,0,0
+1248,5709,"No, I just never liked you.",Neutral,0,0,0,0,0,0,0,0
+1249,5718,Incoming!,Neutral,0,0,0,0,0,0,0,0
+1250,5727,"Hey, in a hurry?",anticipation,0,1,0,0,0,0,0,0
+1251,5730,Don't make me do this.,Neutral,0,0,0,0,0,0,0,0
+1252,5732,<i>Okay.</i>,Neutral,0,0,0,0,0,0,0,0
+1253,5749,"Come on, do your thing!",Neutral,0,0,0,0,0,0,0,0
+1254,5751,Come on!,Neutral,0,0,0,0,0,0,0,0
+1255,5755,Come on!,Neutral,0,0,0,0,0,0,0,0
+1256,5759,"Damn it, Goose.",anger,1,0,1,0,0,0,0,0
+1257,5761,Pick a side.,Neutral,0,0,0,0,0,0,0,0
+1258,5766,"Take them to the hangar, too.",Neutral,0,0,0,0,0,0,0,0
+1259,5768,We'll blast them all into space.,anger,1,0,0,1,0,0,1,0
+1260,5772,Play it cool.,Neutral,0,0,0,0,0,0,0,0
+1261,5775,Just like Havana.,Neutral,0,0,0,0,0,0,0,0
+1262,5778,Do you have the thing?,Neutral,0,0,0,0,0,0,0,0
+1263,5780,Flerken kitty ate it.,Neutral,0,0,0,0,0,0,0,0
+1264,5795,"Come on, move!",Neutral,0,0,0,0,0,0,0,0
+1265,5796,Move!,Neutral,0,0,0,0,0,0,0,0
+1266,5798,Follow my lead.,Neutral,0,0,0,0,0,0,0,0
+1267,5803,Cover her eyes.,trust,0,0,0,0,0,0,0,1
+1268,5813,Onto the ship!,anticipation,0,1,0,0,0,0,0,0
+1269,5815,Let's go! Let's go!,Neutral,0,0,0,0,0,0,0,0
+1270,5839,Nice diversion.,surprise,0,0,0,0,0,0,1,0
+1271,5842,I could have swore I put it in there.,trust,0,0,0,0,0,0,0,1
+1272,5900,"Minn-Erva, take them down in the drop ship.",anticipation,0,1,0,0,0,0,0,0
+1273,5903,On it.,Neutral,0,0,0,0,0,0,0,0
+1274,5908,"You all right, friend?",joy,0,0,0,0,1,0,0,1
+1275,5911,Never better.,Neutral,0,0,0,0,0,0,0,0
+1276,5917,We got a bogey coming in hot.,anger,1,0,0,0,0,0,0,0
+1277,6019,Yes! Boom!,Neutral,0,0,0,0,0,0,0,0
+1278,6037,<i>Whom!</i>,Neutral,0,0,0,0,0,0,0,0
+1279,6041,What the hell was that?,anger,1,0,1,1,0,1,0,0
+1280,6066,Deploy ballistic warheads.,Neutral,0,0,0,0,0,0,0,0
+1281,6120,That's impossible.,sadness,0,0,0,0,0,1,0,0
+1282,6122,C-53 doesn't have a defense system,anger,1,1,0,1,0,0,0,1
+1283,6124,advanced enough to destroy our warheads.,anticipation,0,1,0,1,1,0,1,0
+1284,6128,"That's not their defense system, Ronan.",anger,1,1,0,1,0,0,0,1
+1285,6135,Take her down.,Neutral,0,0,0,0,0,0,0,0
+1286,6157,<i>Whom!</i>,Neutral,0,0,0,0,0,0,0,0
+1287,6207,Return to the jump point.,joy,0,0,0,0,1,0,0,0
+1288,6210,We'll be back for the weapon.,Neutral,0,0,0,0,0,0,0,0
+1289,6214,The core?,Neutral,0,0,0,0,0,0,0,0
+1290,6217,The woman.,Neutral,0,0,0,0,0,0,0,0
+1291,6266,I'm so proud of you.,anticipation,0,1,0,0,1,0,0,1
+1292,6270,You've come a long way,anticipation,0,1,0,0,0,0,0,0
+1293,6271,since I found you that day by the lake.,Neutral,0,0,0,0,0,0,0,0
+1294,6274,But can you keep your emotions in check,Neutral,0,0,0,0,0,0,0,0
+1295,6276,long enough to take me on?,anticipation,0,1,0,0,0,0,0,0
+1296,6278,Or will they get the better of you as always?,Neutral,0,0,0,0,0,0,0,0
+1297,6282,I always told you...,Neutral,0,0,0,0,0,0,0,0
+1298,6284,you'll be ready,anticipation,0,1,0,0,0,0,0,0
+1299,6286,the day you can knock me down as yourself.,Neutral,0,0,0,0,0,0,0,0
+1300,6288,This is that moment.,Neutral,0,0,0,0,0,0,0,0
+1301,6290,"This is that moment, Vers!",Neutral,0,0,0,0,0,0,0,0
+1302,6292,Turn off the light show...,trust,0,0,0,0,0,0,0,1
+1303,6294,and prove to me you can beat me without...,Neutral,0,0,0,0,0,0,0,0
+1304,6313,I have nothing to prove to you.,Neutral,0,0,0,0,0,0,0,0
+1305,6330,Destination: Hala.,anticipation,0,1,0,1,1,1,1,0
+1306,6333,I can't go back empty-handed.,Neutral,0,0,0,0,0,0,0,0
+1307,6334,You won't be empty-handed.,anticipation,0,1,0,0,0,0,0,0
+1308,6336,I'm sending you with a message.,Neutral,0,0,0,0,0,0,0,0
+1309,6339,Tell the Supreme Intelligence that I'm coming to end it.,fear,0,0,0,1,1,0,0,1
+1310,6342,The war. The lies. All of it.,anger,1,0,1,1,0,1,0,0
+1311,6347,You can't do this.,Neutral,0,0,0,0,0,0,0,0
+1312,6367,"That was a close call, huh, Goosey? Huh?",Neutral,0,0,0,0,0,0,0,0
+1313,6372,Those bad guys still in there somewhere?,anger,1,0,1,1,0,1,0,0
+1314,6373,Ow!,Neutral,0,0,0,0,0,0,0,0
+1315,6374,Mother Flerken!,anticipation,0,1,0,0,1,1,0,1
+1316,6376,- You okay? - Yeah.,Neutral,0,0,0,0,0,0,0,0
+1317,6377,It's just a scratch.,Neutral,0,0,0,0,0,0,0,0
+1318,6379,No.,Neutral,0,0,0,0,0,0,0,0
+1319,6388,I can't believe,Neutral,0,0,0,0,0,0,0,0
+1320,6390,you got in the raddest dogfight ever...,Neutral,0,0,0,0,0,0,0,0
+1321,6392,and I missed it.,Neutral,0,0,0,0,0,0,0,0
+1322,6393,I'd say you arrived just in time.,anticipation,0,2,0,0,0,0,0,0
+1323,6395,Some nifty flying you did out there.,Neutral,0,0,0,0,0,0,0,0
+1324,6397,S.H.I.E.L.D. could always use a good pilot like you.,trust,0,1,0,0,1,0,1,2
+1325,6399,I'll consider it...,anger,1,0,1,1,0,1,0,0
+1326,6401,"as long as you never call my flying ""nifty"" again.",anticipation,0,1,0,0,0,0,0,0
+1327,6404,How's your eye?,Neutral,0,0,0,0,0,0,0,0
+1328,6406,Hmm. Getting better every second.,Neutral,0,0,0,0,0,0,0,0
+1329,6408,Just so I'm clear...,Neutral,0,0,0,0,0,0,0,0
+1330,6409,<i>you were Soh-Larr...</i>,Neutral,0,0,0,0,0,0,0,0
+1331,6411,- and the S.H.I.E.L.D. agent? - Keller.,Neutral,0,0,0,0,0,0,0,0
+1332,6413,"He tied my boss up, stole his identity.",anger,1,0,0,1,0,1,0,0
+1333,6416,I borrowed his likeness. I'm no thief.,anger,1,0,1,1,0,1,1,0
+1334,6419,It is a little like stealing.,anger,1,0,0,1,0,1,0,0
+1335,6420,Whose side are you on here?,Neutral,0,0,0,0,0,0,0,0
+1336,6422,You're good to go here until you recover...,anticipation,0,1,0,0,1,0,1,1
+1337,6424,but you and your family are gonna need a new look.,Neutral,0,0,0,0,0,0,0,0
+1338,6427,I could go back to being your boss.,Neutral,0,0,0,0,0,0,0,0
+1339,6429,"Uh, please don't.",Neutral,0,0,0,0,0,0,0,0
+1340,6430,Come on. I loved sporting his beautiful blue eyes.,joy,0,0,0,0,2,1,0,0
+1341,6433,No way. You guys have the best eyes.,Neutral,0,0,0,0,0,0,0,0
+1342,6435,Don't ever change your eyes.,fear,0,0,0,1,0,0,0,0
+1343,6437,She has beautiful eyes. That's very sweet of you.,joy,0,1,0,0,2,0,1,1
+1344,6439,I was trying not to panic...,fear,0,0,0,1,0,0,0,0
+1345,6441,I'll help you find a home.,anger,1,0,1,1,0,1,0,0
+1346,6443,Finish what Mar-Veil started.,anticipation,0,1,0,0,0,0,0,0
+1347,6446,They can stay here with us.,Neutral,0,0,0,0,0,0,0,0
+1348,6449,"Can't they, Mom?",Neutral,0,0,0,0,0,0,0,0
+1349,6450,"They won't be safe here, baby.",joy,0,1,0,0,2,0,0,1
+1350,6453,Auntie Carol's right.,joy,0,0,0,0,1,0,0,1
+1351,6455,They need their own home.,Neutral,0,0,0,0,0,0,0,0
+1352,6457,I'll be back before you know it.,anger,1,0,1,1,0,1,0,0
+1353,6459,Or maybe I could fly up and meet you halfway?,Neutral,0,0,0,0,0,0,0,0
+1354,6463,"Ah, only if you learn to glow like your Auntie Carol.",joy,0,1,0,0,2,0,0,2
+1355,6466,Or maybe I'll build a spaceship.,anger,1,0,1,1,0,1,0,0
+1356,6467,- You don't know. - He doesn't.,Neutral,0,0,0,0,0,0,0,0
+1357,6479,Keep the Tesseract on Earth.,Neutral,0,0,0,0,0,0,0,0
+1358,6482,Hidden.,fear,0,0,0,1,0,0,0,0
+1359,6483,You sure that's what Marvel would want?,surprise,0,0,0,0,0,0,1,0
+1360,6486,Mar-Vell.,Neutral,0,0,0,0,0,0,0,0
+1361,6487,That's what I said.,Neutral,0,0,0,0,0,0,0,0
+1362,6488,It's two words. Mar. Vell.,trust,0,0,0,0,0,0,0,1
+1363,6491,Mar-Vell.,Neutral,0,0,0,0,0,0,0,0
+1364,6492,"""Marvel"" sounds a lot better.",surprise,0,0,0,0,0,0,1,0
+1365,6493,"You know, like the Marvelettes.",Neutral,0,0,0,0,0,0,0,0
+1366,6509,Not ringing any bells?,Neutral,0,0,0,0,0,0,0,0
+1367,6510,Keep singing. Maybe it'll come back to me.,anticipation,0,1,0,0,1,1,0,1
+1368,6527,I upgraded it.,Neutral,0,0,0,0,0,0,0,0
+1369,6529,"Range should be a couple galaxies, at least.",Neutral,0,0,0,0,0,0,0,0
+1370,6534,What? You think I'm gonna crank call you?,Neutral,0,0,0,0,0,0,0,0
+1371,6537,"For emergencies only, okay?",Neutral,0,0,0,0,0,0,0,0
+1372,6545,Well...,Neutral,0,0,0,0,0,0,0,0
+1373,6548,if you're ever passing back through this galaxy...,Neutral,0,0,0,0,0,0,0,0
+1374,6550,be sure to give a brother a shout.,anger,1,0,0,0,0,0,1,1
+1375,6554,Om,Neutral,0,0,0,0,0,0,0,0
+1376,6569,We got the ketchup stain off.,disgust,0,0,1,0,0,0,0,0
+1377,6576,"Thanks, Lieutenant Trouble.",trust,0,0,0,0,0,0,0,1
+1378,6580,Hmm.,Neutral,0,0,0,0,0,0,0,0
+1379,6587,"It's hard for me to say goodbye, too.",Neutral,0,0,0,0,0,0,0,0
+1380,6604,Go on.,Neutral,0,0,0,0,0,0,0,0
+1381,6672,"Glad to have you back, sir. This came for you.",anticipation,0,1,0,0,1,0,0,1
+1382,6680,"So, is it true?",Neutral,0,0,0,0,0,0,0,0
+1383,6682,That the Kree burned your eye out...,Neutral,0,0,0,0,0,0,0,0
+1384,6683,because you refused to give them the Tesseract?,Neutral,0,0,0,0,0,0,0,0
+1385,6687,I will neither confirm nor deny the facts of that story.,anger,1,0,0,0,0,0,0,1
+1386,6691,Understood.,Neutral,0,0,0,0,0,0,0,0
+1387,6693,I'm sorry to report,Neutral,0,0,0,0,0,0,0,0
+1388,6694,that we still haven't found the Tesseract.,Neutral,0,0,0,0,0,0,0,0
+1389,6695,I'm sure it'll turn up somewhere.,Neutral,0,0,0,0,0,0,0,0
+1390,6699,I'll let you know when it does.,anger,1,0,1,1,0,1,0,0
+1391,6701,Then what?,Neutral,0,0,0,0,0,0,0,0
+1392,6703,Sir?,trust,0,0,0,0,0,0,0,1
+1393,6704,We have no idea,Neutral,0,0,0,0,0,0,0,0
+1394,6706,what other intergalactic threats are out there.,Neutral,0,0,0,0,0,0,0,0
+1395,6709,And our one-woman security force,anger,1,0,0,1,0,0,0,0
+1396,6711,had a prior commitment...,Neutral,0,0,0,0,0,0,0,0
+1397,6712,on the other side of the universe.,Neutral,0,0,0,0,0,0,0,0
+1398,6717,S.H.l.E.I.D. alone can't protect us.,Neutral,0,0,0,0,0,0,0,0
+1399,6721,We need to find more.,Neutral,0,0,0,0,0,0,0,0
+1400,6723,More weapons?,Neutral,0,0,0,0,0,0,0,0
+1401,6724,More heroes.,Neutral,0,0,0,0,0,0,0,0
+1402,6726,You think you can find others like her?,Neutral,0,0,0,0,0,0,0,0
+1403,6727,"Hmm, we found her, and we weren't even looking.",Neutral,0,0,0,0,0,0,0,0
+1404,6731,"Get some rest, sir.",trust,0,0,0,0,0,0,0,1
+1405,6734,You got a big decision to make.,Neutral,0,0,0,0,0,0,0,0
+1406,6915,This is a nightmare.,fear,0,0,0,1,0,0,0,0
+1407,6918,I've had better nightmares.,Neutral,0,0,0,0,0,0,0,0
+1408,6923,Hey.,Neutral,0,0,0,0,0,0,0,0
+1409,6925,"So, that thing just stopped",Neutral,0,0,0,0,0,0,0,0
+1410,6927,doing whatever the hell it was doing.,anger,1,0,1,1,0,1,0,0
+1411,6930,What do we got?,Neutral,0,0,0,0,0,0,0,0
+1412,6933,Whatever signal it was sending finally crapped out.,disgust,0,1,2,0,1,0,1,1
+1413,6936,I thought we bypassed the battery.,anger,1,0,0,0,0,0,0,0
+1414,6937,We did.,Neutral,0,0,0,0,0,0,0,0
+1415,6938,It's still plugged in. It just stopped.,Neutral,0,0,0,0,0,0,0,0
+1416,6942,Reboot it. Send the signal again.,Neutral,0,0,0,0,0,0,0,0
+1417,6944,We don't even know what this is.,Neutral,0,0,0,0,0,0,0,0
+1418,6945,"Fury did. Just do it, please.",anger,1,0,0,1,0,1,0,0
+1419,6948,You tell me the second you get a signal.,Neutral,0,0,0,0,0,0,0,0
+1420,6951,I wanna know who's on the other end of that thing.,fear,0,0,0,1,0,1,0,0
+1421,6956,Where's Fury?,anger,1,0,0,1,0,1,0,0
