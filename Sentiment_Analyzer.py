@@ -7,10 +7,16 @@ import re, string
 import nltk 
 import lbsa
 
+dir_path = "data/out_json/" 
+csv_dir_path = "data/out_csv/"
 Input_filename = 'all_srt.json'
 Output_JSON_filename = 'sentiment.json'
 
-def Sentiment_Analyzer(Input_filename,Output_JSON_filename):
+input_filepath = dir_path + Input_filename
+output_filepath = dir_path + Output_JSON_filename
+
+
+def Sentiment_json_creator(Input_filename,Output_JSON_filename,csv_dir_path):
 	raw_json_data =  open(Input_filename)
 	json_data = json.load(raw_json_data)
 	all_srt_SA_dict = {}
@@ -18,11 +24,21 @@ def Sentiment_Analyzer(Input_filename,Output_JSON_filename):
 		movie_dict = json.loads(json_data[key])
 		movie_dataframe = pd.DataFrame.from_dict(movie_dict)
 		value, value_dataframe = sentiment_analysis_func(movie_dataframe)
-		value_dataframe.to_csv((str(key)[:-4]+".csv"), index = False)
+		filename = str(key).split("/")[-1]
+		csv_name = (csv_dir_path+ filename[:-4] +".csv") 
+		value_dataframe.to_csv(csv_name, index = False)
 		all_srt_SA_dict[key] = value
+		print(csv_name, "created!")
 	
-	return(all_srt_SA_dict)
-# Text Preprocessing functions
+	
+	with open(Output_JSON_filename, 'w') as f:
+		json.dump(all_srt_SA_dict, f, sort_keys=True, indent=4)
+	
+	print("Just created your new JSON file with SentiAnalysis results......:D")
+
+	return
+
+#Text Preprocessing functions
 
 
 #remove_punctuation function
@@ -30,11 +46,11 @@ def remove_punctuation(text):
     translator = str.maketrans('', '', string.punctuation) 
     return text.translate(translator) 
 
-# remove whitespace from text function
+#remove whitespace from text function
 def remove_whitespace(text): 
 	return " ".join(text.split()) 
 
-# remove stopwords function 
+#remove stopwords function 
 def lemmatization_and_stopwords(text): 
 	stop_words = set(stopwords.words("english")) 
 	word_tokens = word_tokenize(text) 
@@ -43,7 +59,7 @@ def lemmatization_and_stopwords(text):
 	lemmas = [lemmatizer.lemmatize(word, pos ='v') for word in word_tokens] 
 	return lemmas 
 
-
+#returns two outputs a json and a dataframe
 def sentiment_analysis_func(movie_dataframe):
 	#load the lexicon
 	sa_lexicon = lbsa.get_lexicon('sa', language='english', source='nrc')
@@ -62,8 +78,5 @@ def sentiment_analysis_func(movie_dataframe):
 	return(json_data_SA,movie_dataframe) 
 
 
-all_srt_SA_dict = Sentiment_Analyzer(Input_filename,Output_JSON_filename)
 
-with open(Output_JSON_filename, 'w') as f:
-    json.dump(all_srt_SA_dict, f, sort_keys=True, indent=4)
-    print("Just created your new JSON file with SentiAnalysis results......:D")
+Sentiment_json_creator(input_filepath,output_filepath,csv_dir_path)
